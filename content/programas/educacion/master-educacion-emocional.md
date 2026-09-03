@@ -7,8 +7,8 @@ nombre_oficial_titulo: "Máster Universitario Online en Educación Emocional"
 universidad: "Universidad Alfonso X el Sabio (UAX)"
 ciudad: Madrid
 modalidad: Online
-ects_total: "Pendiente de confirmar total (se confirmaron 6 ECTS de prácticas dentro del programa)"
-duracion: "Pendiente de confirmar"
+ects_total: 60
+duracion: "1 curso académico (aprox. 12 meses)"
 fecha_inicio: "Pendiente de confirmar"
 ultima_actualizacion: "2026-09-03"
 schema_type: Course
@@ -43,9 +43,9 @@ prácticas)**.
 |---|---|
 | **Universidad** | Universidad Alfonso X el Sabio (UAX) |
 | **Modalidad** | Online |
-| **Duración** | Pendiente de confirmar |
-| **Créditos totales** | Pendiente de confirmar |
-| **Prácticas** | 6 ECTS (150 horas, 105 presenciales en el centro de prácticas) |
+| **Duración** | 1 curso académico (aprox. 12 meses) |
+| **Créditos totales** | 60 ECTS |
+| **Prácticas** | 6 ECTS (150 horas, 105 presenciales), en el segundo cuatrimestre |
 | **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior |
 
 ## Plan de estudios / contenidos principales
@@ -102,6 +102,8 @@ interno. No se llegó a confirmar el snippet específico de
 estudiaenmadrid.com para este programa (la búsqueda site:estudiaenmadrid.com
 no devolvió una página dedicada) antes de agotarse la cuota de WebSearch
 en esta sesión — pendiente de revisar si existe una página del sitio para
-este programa y si está afectada por el bug de "Energías Renovables".
-ECTS totales, duración exacta, precio y plan de estudios detallado por
-asignatura: pendientes de confirmar con la universidad o el cliente.*
+este programa y si está afectada por el bug de "Energías Renovables". ECTS totales (60) y
+duración (1 curso académico, con prácticas de 6 ECTS en el segundo
+cuatrimestre) confirmados en búsqueda posterior. Precio y plan de estudios
+detallado por asignatura: pendientes de confirmar con la universidad o el
+cliente.*

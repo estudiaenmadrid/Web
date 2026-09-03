@@ -114,15 +114,17 @@ esta sesión; queda pendiente de verificar.)*
 
 ---
 *Nota interna (no publicar): En esta sesión, WebFetch y curl a dominios
-externos están bloqueados (solo WebSearch disponible), y además se agotó la
-cuota de WebSearch antes de poder profundizar en el plan de estudios
-detallado y el precio confirmado. Universidad identificada con confianza
-alta: UAX ("Grado Online en Maestro de Educación Primaria"), 240 ECTS, 4
-años — coincide con el patrón de otros grados online de la UAX en este
-mismo catálogo (Pedagogía, Musicología). No se pudo verificar si el
-contenido actualmente indexado en estudiaenmadrid.com para este programa es
-real o está afectado por el bug de "Energías Renovables" (no se llegó a
-buscar el snippet específico site:estudiaenmadrid.com antes del corte de
-cuota) — revisar esto como pendiente. Precio, fecha de inicio exacta y
-desglose de plan de estudios: pendientes de confirmar con la universidad o
-el cliente.*
+externos están bloqueados (solo WebSearch disponible). Universidad
+identificada con confianza alta: UAX ("Grado Online en Maestro de
+Educación Primaria"), 240 ECTS, 4 años — coincide con el patrón de otros
+grados online de la UAX en este mismo catálogo (Pedagogía, Musicología).
+Se confirmó con `site:estudiaenmadrid.com` que el sitio **no tiene
+actualmente una página dedicada indexada para este grado** — solo aparece
+mencionado dentro de la página general de categoría `/educacion/` junto a
+Infantil, Pedagogía y Educación Social. Es decir, no se trata del bug de
+contenido cruzado de "Energías Renovables" (no hay página propia que
+pueda estar afectada por ese bug), sino de una posible ausencia de ficha
+individual en el sitio actual — a confirmar con el cliente si la página
+existe pero no está indexada, o si nunca se llegó a publicar. Precio,
+fecha de inicio exacta y desglose de plan de estudios: pendientes de
+confirmar con la universidad o el cliente.*

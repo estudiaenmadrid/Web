@@ -59,6 +59,20 @@ con la UAX para este programa en particular.
 | **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior, y reconocimiento en los sistemas educativos de Latinoamérica (según fuente de la universidad) |
 | **Precio** | Pendiente de confirmar |
 
+## Menciones / especialización
+
+Según fuentes de la propia UAX, el grado permite especializarse en una de
+dos menciones:
+
+- **Orientación Pedagógica.**
+- **Pedagogía para los Nuevos Retos Educativos y Sociales.**
+
+Además, incluye asignaturas optativas para profundizar en áreas como
+diseño curricular de materias específicas (Pedagogía de las Ciencias, de
+la Lengua o de las Matemáticas, Pedagogía de la Expresión Plástica y
+Musical, o de la Educación Física), atención a la diversidad, nuevas
+tecnologías o intervención social.
+
 ## Plan de estudios / contenidos principales
 
 Con la información disponible en esta sesión (snippets de búsqueda, sin
@@ -72,7 +86,9 @@ Pedagogía cubre:
 - Educación no formal, formación de adultos y formación en el ámbito
   laboral.
 - Tecnología educativa y metodologías de innovación docente.
-- Prácticas externas y Trabajo Fin de Grado.
+- Prácticas externas y Trabajo Fin de Grado: trabajo de investigación o
+  intervención original y riguroso, en el que se debe demostrar la
+  integración de todas las competencias adquiridas.
 
 *(Pendiente reconstruir el desglose completo por curso/asignatura con la
 universidad; los snippets no alcanzan para armar la tabla completa.)*
@@ -119,9 +135,17 @@ universidad; los snippets no alcanzan para armar la tabla completa.)*
 también ofrecen el grado UNIR, Universidad Europea, UDIMA y UNIE). Se
 asume UAX por consistencia con el resto del catálogo de Educación de este
 lote (Primaria y Musicología online son también UAX, y hay varios másteres
-de Educación de la UAX en este mismo catálogo) — **confirmar con el cliente
-cuál es la universidad realmente convenida para este programa concreto**,
-porque a diferencia de Primaria y Musicología no se encontró un snippet de
-estudiaenmadrid.com que lo confirme directamente antes de agotarse la
-cuota de WebSearch en esta sesión. Precio, fecha de inicio y plan de
-estudios detallado: pendientes de confirmar.*
+de Educación de la UAX en este mismo catálogo) — **confirmar con el
+cliente cuál es la universidad realmente convenida para este programa
+concreto**. Se intentó `"Grado en Pedagogía" site:estudiaenmadrid.com` y
+variantes en dos oportunidades: el sitio no devolvió ninguna página
+dedicada a este grado (solo la categoría general `/educacion/`, que lo
+menciona como una de las opciones de la sección, sin ficha propia
+indexada). Esto podría significar que la página específica no existe
+todavía en el sitio, no está indexada, o no se pudo encontrar por
+limitaciones de la búsqueda — no se puede confirmar cuál de las tres. Las
+menciones de especialización (Orientación Pedagógica / Pedagogía para los
+Nuevos Retos Educativos y Sociales) y el detalle de optativas sí se
+confirmaron directamente en fuente de la UAX (blog uax.com). Precio,
+fecha de inicio y plan de estudios detallado por curso: pendientes de
+confirmar.*

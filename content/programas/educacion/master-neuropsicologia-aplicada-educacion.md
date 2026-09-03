@@ -7,8 +7,8 @@ nombre_oficial_titulo: "Máster Universitario Online en Neuropsicología Educati
 universidad: "Universidad Alfonso X el Sabio (UAX)"
 ciudad: Madrid
 modalidad: Online
-ects_total: "Pendiente de confirmar (el estándar de la UAX en másteres de Educación de este catálogo es 60 ECTS / 9 meses, pero no se confirmó para este programa específico)"
-duracion: "Pendiente de confirmar"
+ects_total: 60
+duracion: "9 meses"
 fecha_inicio: "Pendiente de confirmar"
 ultima_actualizacion: "2026-09-03"
 schema_type: Course
@@ -47,8 +47,8 @@ cognitivo en el aula.
 |---|---|
 | **Universidad** | Universidad Alfonso X el Sabio (UAX) |
 | **Modalidad** | Online |
-| **Duración** | Pendiente de confirmar |
-| **Créditos** | Pendiente de confirmar |
+| **Duración** | 9 meses |
+| **Créditos** | 60 ECTS |
 | **Título** | Oficial (a confirmar el detalle exacto de verificación) |
 
 ## Plan de estudios / contenidos principales
@@ -109,5 +109,7 @@ UAX localizada en esta sesión — pero no se llegó a confirmar el snippet
 completo de estudiaenmadrid.com (solo el título en el resultado de
 búsqueda) antes de agotarse la cuota de WebSearch, así que no se pudo
 verificar si el cuerpo de esa página está afectado por el bug de
-"Energías Renovables". ECTS, duración, precio y plan de estudios
-detallado: pendientes de confirmar con la universidad o el cliente.*
+"Energías Renovables". ECTS (60) y duración (9 meses) confirmados en
+búsqueda posterior (educaweb.com, uax.com, tumaster.com, mundoposgrado.com,
+todas consistentes entre sí). Precio y plan de estudios detallado:
+pendientes de confirmar con la universidad o el cliente.*
