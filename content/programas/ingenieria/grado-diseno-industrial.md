@@ -107,12 +107,13 @@ nombre exacto de los itinerarios oficiales.
 Industrial" en estudiaenmadrid.com (ni contenido real ni el bug de
 "Energías Renovables"), lo que sugiere que esta ficha sería contenido nuevo
 para el sitio. El título oficial de la UAX combina "Diseño Industrial" y
-"Desarrollo de Producto" en un solo grado — **ver también la nota interna de
-`grado-diseno-producto.md` (U-tad)**: hay que confirmar con el cliente si
-el catálogo original quería dos programas distintos (como se redactó acá) o
-si en realidad ambas entradas del listado ("Diseño de Producto" y "Diseño
-Industrial") apuntaban al mismo título de la UAX, en cuyo caso sobraría una
-ficha. Pendiente también: (1) precio del programa por convenio, (2) plan de
+"Desarrollo de Producto" en un solo grado — **fusionada con la entrada
+"Grado en Diseño de Producto" del catálogo original**, que se había
+redactado por error como programa de U-tad (Estudia en Madrid ya no
+trabaja con U-tad, según indicación del cliente). Ambas entradas del
+listado original apuntaban al mismo título de la UAX; se eliminó el
+archivo `grado-diseno-producto.md` para no duplicar la URL. Pendiente
+también: (1) precio del programa por convenio, (2) plan de
 estudios completo curso por curso, (3) confirmación del número y nombre
 exacto de las especialidades/itinerarios (un resultado de búsqueda decía
 "tres itinerarios" pero luego nombraba cuatro focos: automoción,

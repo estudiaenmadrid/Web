@@ -1,10 +1,10 @@
 ---
-title_seo: "Grado en Diseño Multimedia y Gráfico en Madrid | UDIT - Estudia en Madrid"
-meta_description: "Grado oficial en Diseño Multimedia y Gráfico en UDIT (Madrid). 240 ECTS, 4 años, presencial. Branding, diseño web, UX/UI y animación 2D/3D. Infórmate con Estudia en Madrid."
+title_seo: "Grado en Diseño Multimedia y Gráfico en Madrid | Estudia en Madrid"
+meta_description: "Grado oficial en Diseño Multimedia y Gráfico en Madrid. 240 ECTS, 4 años, presencial. Branding, diseño web, UX/UI y animación 2D/3D. Infórmate con Estudia en Madrid."
 slug: /programas/tecnologia/grado-diseno-multimedia-grafico/
 categoria: Tecnología
 nombre_oficial_titulo: "Grado en Diseño Multimedia y Gráfico"
-universidad: "UDIT - Universidad de Diseño, Innovación y Tecnología"
+universidad: "Pendiente de confirmar — candidata más probable: Universidad Nebrija (\"Grado en Diseño Digital y Multimedia\"), también posible Universidad Europea (\"Grado en Diseño Gráfico\"). NO es UDIT ni U-tad."
 ciudad: Madrid
 modalidad: Presencial
 ects_total: 240
@@ -15,12 +15,18 @@ schema_type: Course
 fuente: "WebSearch: sitio oficial UDIT (udit.es), educaweb.com, gradopedia.es, esferacreativa.com. No se encontró snippet válido en estudiaenmadrid.com para este programa."
 ---
 
-# Grado en Diseño Multimedia y Gráfico en Madrid (UDIT)
+# Grado en Diseño Multimedia y Gráfico en Madrid
 
 ## Qué es este programa
 
-El **Grado en Diseño Multimedia y Gráfico** de **UDIT — Universidad de
-Diseño, Innovación y Tecnología** (Madrid) forma diseñadores capaces de
+⚠️ **Universidad pendiente de confirmar** — esta ficha se redactó tomando
+como referencia el plan de estudios de UDIT (única fuente completa
+encontrada), pero Estudia en Madrid ya no trabaja con UDIT ni con U-tad.
+No publicar hasta confirmar con el cliente la universidad real (candidata
+más probable: **Universidad Nebrija**, que ofrece "Grado en Diseño Digital
+y Multimedia" — ver nota interna).
+
+El **Grado en Diseño Multimedia y Gráfico** forma diseñadores capaces de
 moverse entre lo gráfico y lo digital: identidad corporativa, diseño
 editorial, packaging, publicidad, diseño web y de apps, y animación 2D/3D.
 Es un grado oficial de **240 ECTS repartidos en 4 años**, con un fuerte
@@ -40,7 +46,7 @@ y departamentos creativos.
 
 | | |
 |---|---|
-| **Universidad** | UDIT — Universidad de Diseño, Innovación y Tecnología |
+| **Universidad** | Pendiente de confirmar (no UDIT ni U-tad) |
 | **Ciudad** | Madrid |
 | **Modalidad** | Presencial |
 | **Duración** | 4 años (240 ECTS) |
@@ -99,11 +105,15 @@ diseño de primer nivel, y **Trabajo Fin de Grado**.
 > financiación.
 
 ---
-*Nota interna (no publicar): fuente principal udit.es (página oficial del
-grado y "Bachelor in Multimedia and Graphic Design"), complementada con
-educaweb.com, gradopedia.es y esferacreativa.com. No se encontró snippet
-válido del programa en estudiaenmadrid.com. Pendiente de confirmar con el
-cliente: fecha exacta de inicio, proceso/prueba de admisión específica, y si
-existe precio de convenio gestionado por Estudia en Madrid distinto al
-precio público de UDIT (12.050 €/año primer curso, citado por fuentes de
-terceros).*
+*Nota interna (no publicar): **CORRECCIÓN 2026-09-03 — el cliente confirmó
+que Estudia en Madrid ya no trabaja ni con UDIT ni con U-tad.** El
+contenido de esta ficha se redactó originalmente sobre el plan de estudios
+de UDIT, así que el plan de estudios, salidas profesionales y precio de más
+arriba deben tratarse como **orientativos de mercado, no confirmados para
+el programa real**. No se encontró snippet válido del programa en
+estudiaenmadrid.com. Candidata más probable con la que sí trabaja Estudia
+en Madrid: **Universidad Nebrija** ("Grado en Diseño Digital y
+Multimedia"); alternativa: **Universidad Europea** ("Grado en Diseño
+Gráfico", Creative Campus). **No publicar sin que el cliente confirme cuál
+es la real** y sin reescribir plan de estudios/precio con la fuente
+correcta.*

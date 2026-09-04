@@ -110,14 +110,9 @@ modificado según BOE-A-2023-10040.
 *Nota interna (no publicar): universidad confirmada (UAX) según
 instrucción del cliente y verificada de forma independiente vía WebSearch.
 El snippet indexado de estudiaenmadrid.com para esta URL es coherente con
-el título (no se detectó el bug de Energías Renovables). **Posible
-duplicado de catálogo:** esta ficha y `grado-ade.md` (Grado en ADE) podrían
-representar el mismo programa nombrado de forma distinta en el catálogo
-original del sitio — no se encontró en las búsquedas una página separada
-de "Grado en ADE" en estudiaenmadrid.com con contenido propio distinto de
-esta URL. El equipo debe confirmar con el cliente si ambas fichas deben
-fusionarse en una sola URL/programa o si de verdad son ofertas distintas
-(por ejemplo, un programa con más o menos horas de inglés, modalidad
-distinta, etc.). Pendiente de confirmar: precio, fecha exacta de inicio y
-desglose curricular completo (no localizado en los snippets de búsqueda
-disponibles).*
+el título (no se detectó el bug de Energías Renovables). **Fusionada con
+"Grado en ADE"**: el cliente confirmó que son el mismo programa —
+se eliminó el archivo `grado-ade.md` (que duplicaba esta ficha con otro
+nombre) para no tener dos URLs para el mismo grado. Pendiente de
+confirmar: precio, fecha exacta de inicio y desglose curricular completo
+(no localizado en los snippets de búsqueda disponibles).*

@@ -1,10 +1,10 @@
 ---
-title_seo: "Grado en Diseño de Interiores en Madrid | UDIT - Estudia en Madrid"
-meta_description: "Grado oficial en Diseño de Interiores en UDIT (Madrid). 240 ECTS, 4 años, presencial. Participación en Casa Decor y Madrid Design Festival. Infórmate con Estudia en Madrid."
+title_seo: "Grado en Diseño de Interiores en Madrid | Estudia en Madrid"
+meta_description: "Grado oficial en Diseño de Interiores en Madrid. 240 ECTS, 4 años, presencial. Infórmate con Estudia en Madrid."
 slug: /programas/tecnologia/grado-diseno-interiores/
 categoria: Tecnología
 nombre_oficial_titulo: "Grado en Diseño de Interiores"
-universidad: "UDIT - Universidad de Diseño, Innovación y Tecnología"
+universidad: "Pendiente de confirmar — candidatas con las que Estudia en Madrid sí trabaja: Universidad Nebrija, Universidad Europea o CEU San Pablo (las tres ofrecen este grado). NO es UDIT ni U-tad."
 ciudad: Madrid
 modalidad: Presencial
 ects_total: 240
@@ -15,30 +15,27 @@ schema_type: Course
 fuente: "WebSearch: sitio oficial UDIT (udit.es), educaweb.com, diariodesign.com. No se encontró snippet válido en estudiaenmadrid.com para este programa."
 ---
 
-# Grado en Diseño de Interiores en Madrid (UDIT)
+# Grado en Diseño de Interiores en Madrid
 
 ## Qué es este programa
 
-El **Grado en Diseño de Interiores** de **UDIT — Universidad de Diseño,
-Innovación y Tecnología** (Madrid) es un título oficial de 240 ECTS
-repartidos en 4 años. UDIT lleva más de 15 años formando interioristas y es
-pionera en España en ofrecer este grado universitario oficial en
-interiorismo, con un enfoque marcadamente práctico y muy conectado con la
-industria del diseño de espacios.
+⚠️ **Universidad pendiente de confirmar** — esta ficha (incluida la mención
+a Casa Decor y el Madrid Design Festival, más abajo) se redactó tomando
+como referencia el programa de UDIT, pero Estudia en Madrid ya no trabaja
+con UDIT ni con U-tad. **Los diferenciales de esta sección son
+específicos de UDIT y probablemente NO apliquen** a la universidad real;
+no publicar sin reescribir con la fuente correcta (candidatas: Universidad
+Nebrija, Universidad Europea o CEU San Pablo — ver nota interna).
 
-Una de las señas de identidad del programa es la **participación de los
-estudiantes en ferias y festivales de referencia del sector**: Madrid
-Design Festival, Roca One Day Design Challenge y, especialmente, **Casa
-Decor**, donde los alumnos de UDIT llevan más de 9 ediciones exponiendo
-proyectos reales — una oportunidad poco habitual para un estudiante de
-grado de mostrar trabajo propio junto a profesionales consagrados y
-construir su propia red de contactos desde la carrera.
+El **Grado en Diseño de Interiores** es un título oficial de 240 ECTS
+repartidos en 4 años, con un enfoque marcadamente práctico y conectado con
+la industria del diseño de espacios.
 
 ## Datos generales
 
 | | |
 |---|---|
-| **Universidad** | UDIT — Universidad de Diseño, Innovación y Tecnología |
+| **Universidad** | Pendiente de confirmar (no UDIT ni U-tad) |
 | **Ciudad** | Madrid |
 | **Modalidad** | Presencial |
 | **Duración** | 4 años (240 ECTS) |
@@ -90,16 +87,20 @@ interiorismo, entre ellas:
 
 ## Llamada a la acción
 
-> ¿Te interesa el diseño de espacios y querés formarte en una universidad
-> con presencia real en Casa Decor y los principales eventos de diseño de
-> Madrid? Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos con
-> toda la gestión: admisión en UDIT, visado de estudiante y financiación.
+> ¿Te interesa el diseño de espacios? Escribinos por WhatsApp al
+> **+34 677 055 769** y te ayudamos con toda la gestión: admisión, visado
+> de estudiante y financiación.
 
 ---
-*Nota interna (no publicar): fuente principal udit.es (página oficial del
-grado y "Salidas profesionales de Diseño de Interiores"), complementada con
-diariodesign.com y educaweb.com. No se encontró snippet válido del programa
-en estudiaenmadrid.com. Pendiente de confirmar con el cliente: precio del
-programa (UDIT no publica una cifra fija consultable por WebSearch, remite
-a su página de tasas), plan de estudios detallado por asignatura/curso, y
-proceso/prueba de admisión específica.*
+*Nota interna (no publicar): **CORRECCIÓN 2026-09-03 — el cliente confirmó
+que Estudia en Madrid ya no trabaja ni con UDIT ni con U-tad.** Todo el
+contenido de esta ficha (incluida la mención a Casa Decor, que es un
+diferencial específico de UDIT) se redactó sobre el programa de UDIT y
+debe tratarse como **orientativo de mercado, no confirmado para el
+programa real**. No se encontró snippet válido del programa en
+estudiaenmadrid.com. Tres universidades con las que sí trabaja Estudia en
+Madrid ofrecen este grado: **Universidad Nebrija** (con apoyo del CODDIM,
+Colegio de Decoradores de Madrid), **Universidad Europea** (Creative
+Campus) y **CEU San Pablo**. **No publicar sin que el cliente confirme
+cuál es la real** y sin reescribir plan de estudios/diferenciales/precio
+con la fuente correcta.*

@@ -1,10 +1,10 @@
 ---
-title_seo: "Grado en Diseño Audiovisual e Ilustración en Madrid | UDIT - Estudia en Madrid"
-meta_description: "Grado oficial en Diseño Audiovisual e Ilustración en UDIT (Madrid). 240 ECTS, 4 años, presencial. Ilustración, cómic, motion graphics y narrativa audiovisual. Infórmate con Estudia en Madrid."
+title_seo: "Grado en Diseño Audiovisual e Ilustración en Madrid | Estudia en Madrid"
+meta_description: "Grado oficial en Diseño Audiovisual e Ilustración en Madrid. 240 ECTS, 4 años, presencial. Ilustración, cómic, motion graphics y narrativa audiovisual. Infórmate con Estudia en Madrid."
 slug: /programas/tecnologia/grado-diseno-audiovisual-ilustracion/
 categoria: Tecnología
 nombre_oficial_titulo: "Grado en Diseño Audiovisual e Ilustración"
-universidad: "UDIT - Universidad de Diseño, Innovación y Tecnología"
+universidad: "Pendiente de confirmar — candidatas con las que Estudia en Madrid sí trabaja: Universidad Europea (Creative Campus) o UCJC (ver nota interna). NO es UDIT ni U-tad."
 ciudad: Madrid
 modalidad: Presencial
 ects_total: 240
@@ -15,13 +15,19 @@ schema_type: Course
 fuente: "WebSearch: sitio oficial UDIT (udit.es), educaweb.com, gradopedia.es, BOE (plan de estudios UDIT). No se encontró snippet válido en estudiaenmadrid.com para este programa (búsqueda site:estudiaenmadrid.com no devolvió una página propia del programa)."
 ---
 
-# Grado en Diseño Audiovisual e Ilustración en Madrid (UDIT)
+# Grado en Diseño Audiovisual e Ilustración en Madrid
 
 ## Qué es este programa
 
-El **Grado en Diseño Audiovisual e Ilustración** es un título oficial de
-**UDIT — Universidad de Diseño, Innovación y Tecnología**, en Madrid. Es un
-grado pionero en España: combina la **ilustración** (tradicional y digital)
+⚠️ **Universidad pendiente de confirmar** — el contenido de esta ficha se
+redactó tomando como referencia el plan de estudios de UDIT (por ser la
+fuente más completa encontrada), pero Estudia en Madrid ya no trabaja con
+UDIT ni con U-tad. No publicar hasta confirmar con el cliente cuál es la
+universidad real (candidatas: Universidad Europea / Creative Campus, o
+UCJC — ver nota interna).
+
+El **Grado en Diseño Audiovisual e Ilustración** es un título oficial que,
+en Madrid, combina la **ilustración** (tradicional y digital)
 con la **creación gráfica, publicitaria y audiovisual**, formando
 profesionales con capacidad autoral y narrativa para generar propiedad
 intelectual propia — desde libros ilustrados y cómics hasta motion graphics
@@ -43,7 +49,7 @@ comunicación).
 
 | | |
 |---|---|
-| **Universidad** | UDIT — Universidad de Diseño, Innovación y Tecnología |
+| **Universidad** | Pendiente de confirmar (no UDIT ni U-tad) |
 | **Ciudad** | Madrid |
 | **Modalidad** | Presencial |
 | **Duración** | 4 años (240 ECTS) |
@@ -100,14 +106,16 @@ audiovisuales, fotografía, diseño, arte, ilustración y medios digitales:
 > financiación.
 
 ---
-*Nota interna (no publicar): fuente principal udit.es (página oficial del
-grado), complementada con educaweb.com, gradopedia.es y el BOE (resolución
-de planes de estudio de UDIT). No se encontró snippet válido del programa en
-estudiaenmadrid.com — el sitio actual no parece tener una página propia
-indexada para este título (no se detectó el bug de "Energías Renovables" en
-este caso, simplemente no apareció contenido). Pendiente de confirmar con el
-cliente: fecha exacta de inicio de curso, proceso/prueba de admisión
-específica (portafolio), y si existe convenio de precio especial gestionado
-por Estudia en Madrid distinto al precio público de UDIT (11.960 €/año
-citado por fuentes de terceros, no confirmado en fuente primaria con acceso
-directo).*
+*Nota interna (no publicar): **CORRECCIÓN 2026-09-03 — el cliente confirmó
+que Estudia en Madrid ya no trabaja ni con UDIT ni con U-tad.** El
+contenido de esta ficha se redactó originalmente sobre el plan de estudios
+de UDIT (única fuente completa encontrada), así que el plan de estudios,
+salidas profesionales y datos de precio de más arriba deben tratarse como
+**orientativos de mercado, no confirmados para el programa real**. No se
+encontró snippet válido del programa en estudiaenmadrid.com. Candidatas que
+sí ofrecen un grado equivalente y con las que Estudia en Madrid trabaja en
+otras categorías: **Universidad Europea** (Creative Campus tiene
+"Grado en Ilustración y Diseño Audiovisual", presencial y online) y
+**UCJC** (también ofrece "Diseño Audiovisual e Ilustración"). **No
+publicar sin que el cliente confirme cuál de las dos es la real** y sin
+reescribir el plan de estudios/precio con la fuente correcta.*
