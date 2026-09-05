@@ -46,6 +46,8 @@ export interface Program {
   titleSeo?: string;
   metaDescription?: string;
   level: ProgramLevel;
+  /** Searchable/browsable labels: category, level, modality, university — for the search index and tag chips on listings. */
+  tags: string[];
   bodyHtml: string;
   bodyMarkdown: string;
 }
@@ -85,10 +87,29 @@ function loadProgram(categoryDir: string, file: string): Program {
   const categoryName: string = data.categoria ?? categoryDir;
   const categorySlug = CATEGORY_TO_SLUG[categoryName] ?? (categoryDir as AreaSlug);
   const programSlug = file.replace(/\.md$/, "");
-  const title = firstH1(content) ?? data.nombre_oficial_titulo ?? programSlug;
+  const overrideKey = `${categoryDir}/${programSlug}`;
+  let title = firstH1(content) ?? data.nombre_oficial_titulo ?? programSlug;
+  const university: string =
+    UNCONFIRMED_UNIVERSITY_OVERRIDES[overrideKey] ?? data.universidad ?? "Pendiente de confirmar";
+  if (UNCONFIRMED_UNIVERSITY_OVERRIDES[overrideKey]) {
+    // Title still carries the disavowed university's abbreviation, e.g.
+    // "Grado en Animación en Madrid (UDIT)" — strip it so it doesn't
+    // contradict the corrected "Universidad pendiente de confirmar" shown
+    // alongside it.
+    title = title.replace(/\s*\([^)]*\)\s*$/, "").trim();
+  }
   const bodyMarkdown = stripInternalNote(stripFirstH1(content));
   const bodyHtml = marked.parse(bodyMarkdown, { async: false }) as string;
-  const overrideKey = `${categoryDir}/${programSlug}`;
+  const modality: string = data.modalidad ?? "Pendiente de confirmar";
+  const level = deriveLevel(title);
+
+  const tags = Array.from(
+    new Set(
+      [categoryName, level, ...getModalityTags(modality), normalizeUniversityName(university)].filter(
+        (t) => t && !/pendiente/i.test(t)
+      )
+    )
+  );
 
   return {
     categorySlug,
@@ -96,16 +117,16 @@ function loadProgram(categoryDir: string, file: string): Program {
     programSlug,
     title,
     officialTitle: data.nombre_oficial_titulo,
-    university:
-      UNCONFIRMED_UNIVERSITY_OVERRIDES[overrideKey] ?? data.universidad ?? "Pendiente de confirmar",
+    university,
     city: data.ciudad,
-    modality: data.modalidad ?? "Pendiente de confirmar",
+    modality,
     ectsTotal: data.ects_total ?? data.ects,
     duration: data.duracion,
     startDate: data.fecha_inicio,
     titleSeo: data.title_seo,
     metaDescription: data.meta_description,
-    level: deriveLevel(title),
+    level,
+    tags,
     bodyHtml,
     bodyMarkdown,
   };
@@ -195,18 +216,12 @@ export function groupPrograms(programs: Program[]): ProgramGroup[] {
   })).filter((g) => g.items.length > 0);
 }
 
-export function getModalityTags(modality: string): string[] {
-  const tags: string[] = [];
-  if (/presencial/i.test(modality) && !/semipresencial/i.test(modality)) tags.push("PRESENCIAL");
-  if (/semipresencial/i.test(modality)) tags.push("SEMIPRESENCIAL");
-  if (/online/i.test(modality)) tags.push("ONLINE");
-  if (tags.length === 0) tags.push(modality.split("(")[0].trim().toUpperCase() || "PENDIENTE");
-  return tags;
-}
-
-export function normalizeUniversityName(university: string): string {
-  return university.split("—")[0].trim();
-}
+// Pure formatting helpers live in lib/programFormat.ts (no `fs` import) so
+// client components can import them without pulling this file's Node-only
+// disk reads into the browser bundle. Re-exported here for server callers
+// that already import everything from "@/lib/content".
+export { normalizeUniversityName, displayUniversity, getModalityTags } from "./programFormat";
+import { normalizeUniversityName, displayUniversity, getModalityTags } from "./programFormat";
 
 export function getPartnerUniversities(): string[] {
   const names = new Set<string>();
@@ -219,4 +234,27 @@ export function getPartnerUniversities(): string[] {
 
 export function countProgramsForUniversity(name: string): number {
   return getAllPrograms().filter((p) => normalizeUniversityName(p.university) === name).length;
+}
+
+export interface SearchEntry {
+  programSlug: string;
+  categorySlug: AreaSlug;
+  title: string;
+  university: string;
+  level: ProgramLevel;
+  tags: string[];
+  /** Precomputed lowercase haystack (title + university + tags) for fast client-side filtering. */
+  haystack: string;
+}
+
+export function getSearchIndex(): SearchEntry[] {
+  return getAllPrograms().map((p) => ({
+    programSlug: p.programSlug,
+    categorySlug: p.categorySlug,
+    title: p.title,
+    university: displayUniversity(p.university),
+    level: p.level,
+    tags: p.tags,
+    haystack: [p.title, p.university, ...p.tags].join(" ").toLowerCase(),
+  }));
 }

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { usePixelTrail } from "@/hooks/usePixelTrail";
 import PlaceholderImage from "@/components/PlaceholderImage";
 import type { Program } from "@/lib/content";
+import { displayUniversity } from "@/lib/programFormat";
 
 interface FeaturedProgramsProps {
   programs: Program[];
@@ -38,7 +39,7 @@ export default function FeaturedPrograms({ programs }: FeaturedProgramsProps) {
                 {p.title}
               </span>
               <span className="font-display font-extrabold text-[13px] tracking-[.08em] uppercase text-ink-soft">
-                {p.university}
+                {displayUniversity(p.university)}
               </span>
             </span>
             <span className="flex flex-wrap gap-1.5 justify-end">
@@ -58,7 +59,7 @@ export default function FeaturedPrograms({ programs }: FeaturedProgramsProps) {
               className="absolute inset-0 transition-opacity duration-300"
               style={{ opacity: active === i ? 1 : 0, filter: "grayscale(1) contrast(1.06)" }}
             >
-              <PlaceholderImage label={`Campus ${p.university.split("(")[0].trim()}`} className="w-full h-full" />
+              <PlaceholderImage label={`Campus ${displayUniversity(p.university)}`} className="w-full h-full" />
             </div>
           ))}
           <div className="absolute -right-3.5 -top-3.5 rounded-full bg-red-signal" style={{ width: "clamp(56px,7vw,104px)", height: "clamp(56px,7vw,104px)" }} />

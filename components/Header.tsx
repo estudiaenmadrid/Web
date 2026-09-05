@@ -7,6 +7,8 @@ import { usePathname } from "next/navigation";
 import { AREAS } from "@/data/areas";
 import { usePixelTrail } from "@/hooks/usePixelTrail";
 import { useScrambleGroup } from "@/hooks/useScramble";
+import Search from "@/components/Search";
+import type { SearchEntry } from "@/lib/content";
 
 const NAV_LINKS = [
   { href: "/", label: "Inicio" },
@@ -16,7 +18,7 @@ const NAV_LINKS = [
   { href: "/nosotros", label: "Nosotros" },
 ];
 
-export default function Header() {
+export default function Header({ searchIndex }: { searchIndex: SearchEntry[] }) {
   const [submenu, setSubmenu] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const { onMouseMove } = usePixelTrail();
@@ -83,6 +85,8 @@ export default function Header() {
             );
           })}
         </nav>
+
+        <Search index={searchIndex} />
 
         <a
           href="https://wa.me/34677055769"
@@ -155,6 +159,9 @@ export default function Header() {
               </Link>
             ))}
           </nav>
+          <div className="px-5 border-b border-hair">
+            <Search index={searchIndex} variant="menu" />
+          </div>
           <div className="px-5 py-3 border-b border-hair">
             <div className="text-[11px] font-mono tracking-[.14em] text-red-signal mb-2">ÁREAS</div>
             <div className="flex flex-col gap-1">

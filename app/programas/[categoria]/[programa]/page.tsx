@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getArea } from "@/data/areas";
-import { getAllPrograms, getModalityTags, getProgram } from "@/lib/content";
+import { displayUniversity, getAllPrograms, getModalityTags, getProgram } from "@/lib/content";
 import PlaceholderImage from "@/components/PlaceholderImage";
 
 export function generateStaticParams() {
@@ -65,7 +65,7 @@ export default async function FichaPage({
           {program.title}
         </h1>
         <p className="font-serif italic mt-4" style={{ fontSize: "clamp(20px,2.4vw,32px)" }}>
-          {program.university}
+          {displayUniversity(program.university)}
         </p>
         <div className="flex flex-wrap gap-2 mt-5.5">
           {getModalityTags(program.modality).map((t) => (
@@ -76,7 +76,7 @@ export default async function FichaPage({
         </div>
 
         <div className="relative mt-5.5 md:mt-11" style={{ height: "clamp(220px,38vh,440px)", filter: "grayscale(1) contrast(1.06)" }}>
-          <PlaceholderImage label={`${program.university.split("(")[0].trim()} — imagen pendiente`} className="w-full h-full" />
+          <PlaceholderImage label={`${displayUniversity(program.university)} — imagen pendiente`} className="w-full h-full" />
         </div>
       </section>
 

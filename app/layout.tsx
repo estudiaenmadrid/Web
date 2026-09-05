@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Archivo, DM_Sans, DM_Mono, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import SiteChrome from "@/components/SiteChrome";
+import { getSearchIndex } from "@/lib/content";
 
 const archivo = Archivo({
   variable: "--font-archivo",
@@ -39,13 +40,14 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const searchIndex = getSearchIndex();
   return (
     <html
       lang="es"
       className={`${archivo.variable} ${dmSans.variable} ${dmMono.variable} ${instrumentSerif.variable}`}
     >
       <body>
-        <SiteChrome>{children}</SiteChrome>
+        <SiteChrome searchIndex={searchIndex}>{children}</SiteChrome>
       </body>
     </html>
   );

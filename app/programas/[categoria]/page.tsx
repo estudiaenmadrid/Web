@@ -2,7 +2,13 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { AREAS, getArea, type AreaSlug } from "@/data/areas";
-import { getFeaturedForArea, getModalityTags, getProgramsByCategory, groupPrograms } from "@/lib/content";
+import {
+  getFeaturedForArea,
+  getModalityTags,
+  getProgramsByCategory,
+  groupPrograms,
+  displayUniversity,
+} from "@/lib/content";
 import Reveal from "@/components/Reveal";
 
 export function generateStaticParams() {
@@ -82,11 +88,16 @@ export default async function AreaPage({ params }: { params: Promise<{ categoria
                     <span className="font-mono text-[10px] tracking-[.16em] text-ink-soft">{p.level}</span>
                   </span>
                   <span className="flex flex-col gap-3.5">
-                    <span
-                      className="font-display font-black uppercase"
-                      style={{ fontSize: "clamp(22px,2.6vw,40px)", lineHeight: 0.98, letterSpacing: "-.035em" }}
-                    >
-                      {p.title}
+                    <span>
+                      <span
+                        className="font-display font-black uppercase block"
+                        style={{ fontSize: "clamp(22px,2.6vw,40px)", lineHeight: 0.98, letterSpacing: "-.035em" }}
+                      >
+                        {p.title}
+                      </span>
+                      <span className="font-display font-extrabold text-[12px] tracking-[.06em] uppercase text-ink-soft">
+                        {displayUniversity(p.university)}
+                      </span>
                     </span>
                     <span className="flex flex-wrap gap-1.5 items-center">
                       {getModalityTags(p.modality).map((t) => (
@@ -125,8 +136,14 @@ export default async function AreaPage({ params }: { params: Promise<{ categoria
                   style={{ gridTemplateColumns: "104px minmax(0,1fr) auto" }}
                 >
                   <span className="font-mono text-[10px] tracking-[.14em] text-red-signal">{p.level}</span>
-                  <span className="font-display font-extrabold" style={{ fontSize: "clamp(15px,1.5vw,21px)", lineHeight: 1.2, letterSpacing: "-.015em" }}>
-                    {p.title}
+                  <span>
+                    <span
+                      className="font-display font-extrabold block"
+                      style={{ fontSize: "clamp(15px,1.5vw,21px)", lineHeight: 1.2, letterSpacing: "-.015em" }}
+                    >
+                      {p.title}
+                    </span>
+                    <span className="text-[12px] text-ink-soft">{displayUniversity(p.university)}</span>
                   </span>
                   <span className="flex flex-wrap gap-1.5 justify-end items-center">
                     {getModalityTags(p.modality).map((t) => (
