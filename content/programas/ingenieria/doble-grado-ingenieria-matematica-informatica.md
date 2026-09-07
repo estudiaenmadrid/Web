@@ -54,7 +54,8 @@ El modelo educativo, según describe la propia UAX, pone el foco en:
   competencias de última generación.
 
 La universidad destaca acuerdos con empresas tecnológicas como **Google,
-IBM y Deloitte** dentro de la formación del programa.
+IBM y Deloitte** dentro de la formación del programa, tanto para prácticas
+como para proyectos conjuntos durante los últimos cursos.
 
 No se encontró en las búsquedas el desglose curso por curso completo — para
 eso recomendamos remitir al estudiante a la ficha oficial de uax.com.

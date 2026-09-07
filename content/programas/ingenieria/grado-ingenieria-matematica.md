@@ -68,6 +68,14 @@ Según la propia UAX, las principales salidas profesionales son:
 - Banca y finanzas.
 - Estudios de mercado, encuestas y sondeos.
 
+Perfiles concretos que menciona la universidad: analista de datos, Chief
+Data Officer, DataOps y desarrollador Fullstack, además de participación en
+proyectos de investigación de mercado, análisis y gestión de riesgo, u
+optimización de procesos de negocio y diseño de modelos predictivos. El
+sector financiero es uno de los que más demanda este perfil, por su
+capacidad de analizar grandes volúmenes de datos y gestionar la
+incertidumbre.
+
 ## Requisitos de acceso
 
 - Título de Bachillerato (o equivalente) y prueba de acceso a la
@@ -124,4 +132,12 @@ de "Energías Renovables". Pendiente de confirmar con el cliente: (1) precio
 del programa por convenio, (2) plan de estudios completo de 2º a 4º curso,
 (3) cifra exacta de sueldo/salario que menciona el blog de la UAX (no se
 tomó porque no apareció el valor concreto en el snippet, solo el título del
-artículo).*
+artículo). Actualización 2026-09: el mismo blog post de la UAX
+("Ingeniería Matemática: salidas y sueldo") también menciona una cifra de
+empleabilidad del 98%, distinta al 91% ya publicado en esta ficha — no se
+sabe si son la misma métrica en momentos distintos o métricas distintas
+(p. ej. "empleado a un año" vs. "empleado alguna vez"). Se usó solo el
+listado de salidas profesionales concretas de esa fuente (analista de
+datos, Chief Data Officer, DataOps, Fullstack) y se dejó el 91% como única
+cifra de empleabilidad publicada, para no mostrar dos números
+contradictorios — el cliente debería confirmar cuál es la vigente.*

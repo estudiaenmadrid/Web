@@ -51,6 +51,10 @@ se encuentran:
 - Mecánica Cuántica.
 - Termodinámica.
 - Electromagnetismo.
+- Técnicas Experimentales Básicas y Laboratorio Experimental.
+- Mecánica y Ondas.
+- Óptica.
+- Métodos Numéricos.
 
 El plan combina asignaturas obligatorias y optativas, con prácticas de
 laboratorio y proyectos de investigación. No se encontró en las búsquedas
@@ -65,6 +69,9 @@ el desglose curso por curso completo.
   mecánica, electrónica, medicina y energía.
 - Especializaciones tecnológicas en robótica, mecatrónica, biotecnología,
   Big Data, ciberseguridad y desarrollo de aplicaciones móviles.
+- Perfiles demandados en sectores como energía, aeroespacial, salud y
+  finanzas, además de la industria tecnológica propiamente dicha, según
+  comunicación pública de la UAX.
 
 ## Requisitos de acceso
 

@@ -60,12 +60,26 @@ ensayo. Es un título oficial de **4 años (240 ECTS)**.
   formativas a organizaciones como Airbus o el Instituto Nacional de
   Técnica Aeroespacial (INTA), según fuentes consultadas.
 
+## Instalaciones y prácticas
+
+La UAX dispone de más de 25.000 m² de laboratorios y talleres dedicados a
+ingeniería, entre los que destacan un **túnel de viento propio**, un
+**banco de ensayo de turborreactores**, zonas de co-working y un
+**FABLAB** para fabricación digital (impresión 3D, corte láser,
+prototipado). Además de las prácticas en empresas del sector, el plan de
+estudios incluye visitas formativas a organizaciones como Airbus o el
+Instituto Nacional de Técnica Aeroespacial (INTA).
+
 ## Salidas profesionales
 
-- Diseño y desarrollo de aeronaves y vehículos espaciales.
-- Mantenimiento y operaciones aeronáuticas.
-- Aviónica y sistemas de navegación.
-- Estructuras y materiales aeroespaciales.
+- Diseño, fabricación y certificación de aeronaves, satélites,
+  helicópteros, turborreactores y lanzaderas aeroespaciales.
+- Proyección, construcción, inspección, certificación y mantenimiento de
+  aeronaves y vehículos espaciales.
+- Dirección técnica de proyectos de I+D+i en empresas y centros
+  tecnológicos aeronáuticos y espaciales.
+- Acceso a la profesión regulada de **Ingeniero Técnico Aeronáutico** en
+  España.
 - Entornos técnicos altamente especializados, tanto en España como a nivel
   internacional (según comunicación pública de la UAX).
 
@@ -117,8 +131,11 @@ Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una mat
 ---
 *Nota interna (no publicar): fuente principal, snippets de
 `estudiaenmadrid.com/programas/ingenieria/grado-ingenieria-aeroespacial-espana/`,
-contrastados con snippets de uax.com y educaweb.com. No se detectó el bug de
-"Energías Renovables" en estos snippets. Pendiente de confirmar con el
-cliente: (1) precio del programa por convenio, (2) confirmación oficial de
-las visitas a Airbus/INTA (aparecen en snippets de terceros, no en fuente
-primaria de la universidad), (3) plan de estudios curso por curso completo.*
+contrastados con snippets de uax.com y educaweb.com. Actualización
+2026-09: se localizó el folleto informativo oficial de la UAX
+(uax.com/content/download/868/informative_pdf/GRADO%20ING_AEROESPACIAL.pdf),
+que confirma directamente los 25.000 m² de laboratorios, túnel de viento,
+banco de turborreactores, FABLAB y el acceso a la profesión regulada de
+Ingeniero Técnico Aeronáutico — ya no depende de snippets de terceros para
+estos datos. Pendiente de confirmar con el cliente: (1) precio del
+programa por convenio, (2) plan de estudios curso por curso completo.*

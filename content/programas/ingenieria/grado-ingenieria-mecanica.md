@@ -59,6 +59,11 @@ asignaturas de cálculo avanzado y diseño de máquinas, gestión de proyectos
 complejos y tecnologías de vanguardia, culminando en el Trabajo Fin de
 Grado.
 
+Como herramientas de trabajo, los estudiantes aprenden diseño asistido por
+ordenador (DAO) y cálculo mediante el método de los elementos finitos
+(F.E.M.), y realizan sus prácticas en el Parque Tecnológico propio de la
+universidad.
+
 ## Salidas profesionales
 
 - Diseño de sistemas y máquinas.
@@ -66,6 +71,8 @@ Grado.
 - Mantenimiento de sistemas mecánicos.
 - Gestión de proyectos de ingeniería.
 - Sectores destacados: automoción, robótica, energía y aeronáutica.
+- El 94% de los titulados encuentra trabajo durante el primer año tras
+  finalizar sus estudios, según datos publicados por la UAX.
 
 ## Requisitos de acceso
 
@@ -119,6 +126,8 @@ Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una mat
 `estudiaenmadrid.com/programas/ingenieria/grado-ingenieria-mecanica-espana/`,
 contrastados con snippets de uax.com (blog "Grado en Ingeniería Mecánica:
 Asignaturas y Plan de Estudios") y educaweb.com. No se detectó el bug de
-"Energías Renovables". Pendiente de confirmar con el cliente: (1) precio del
-programa por convenio, (2) plan de estudios completo de 2º a 4º curso,
-(3) posibles itinerarios de especialización.*
+"Energías Renovables". Actualización 2026-09: se sumó la cifra de
+empleabilidad (94% a un año) y las herramientas de trabajo (DAO, F.E.M.,
+Parque Tecnológico) desde yaq.es. Pendiente de confirmar con el cliente:
+(1) precio del programa por convenio, (2) plan de estudios completo de 2º
+a 4º curso, (3) posibles itinerarios de especialización.*
