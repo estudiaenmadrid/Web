@@ -1,5 +1,5 @@
 ---
-title_seo: "Máster en Dirección y Gestión de Servicios de Enfermería Online | UAX - Estudia en Madrid"
+title_seo: "Máster en Dirección y Gestión de Enfermería Online | UAX - Estudia en Madrid"
 meta_description: "Máster Universitario en Dirección y Gestión de Servicios de Enfermería, online, de la UAX. 60 ECTS, 9 meses, liderazgo y gestión de unidades sanitarias. Infórmate con Estudia en Madrid."
 slug: /programas/salud/master-direccion-gestion-servicios-enfermeria/
 categoria: Salud
@@ -84,6 +84,9 @@ Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte
 
 **¿Cuánto dura Máster en Dirección y Gestión de Servicios de Enfermería Online — UAX?**
 Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster en Dirección y Gestión de Servicios de Enfermería Online — UAX?**
+La fecha exacta de la próxima convocatoria está pendiente de confirmar, aunque las convocatorias de este máster suelen abrir en octubre. Escribinos por WhatsApp y te confirmamos la fecha vigente antes de que te matricules.
 
 **¿Estudia en Madrid me ayuda con la matrícula y el visado?**
 Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.

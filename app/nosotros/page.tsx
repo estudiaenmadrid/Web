@@ -92,6 +92,12 @@ export default function NosotrosPage() {
             Todo esto lo hacemos por WhatsApp, en tu horario, sin formularios eternos ni esperar semanas por una
             respuesta.
           </p>
+          <p className="m-0 text-[15px] leading-[1.6] text-ink-soft">
+            El catálogo cubre grados, dobles grados y másteres en cinco áreas — Derecho, Administración, Ingeniería,
+            Salud y Educación —, todos en universidades privadas con convenio directo. Antes de recomendarte uno
+            comparamos duración, modalidad (presencial u online) y salidas profesionales con tu objetivo real, no con
+            la comisión que nos pueda tocar por matricularte.
+          </p>
         </div>
 
         <div className="flex flex-col gap-4">

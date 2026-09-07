@@ -1,5 +1,5 @@
 ---
-title_seo: "Máster en Tecnología Educativa y Competencias Digitales para Docentes en Madrid | UAX - Estudia en Madrid"
+title_seo: "Máster en Tecnología Educativa para Docentes en Madrid | UAX - Estudia en Madrid"
 meta_description: "Máster Oficial Universitario en Tecnología Educativa y Competencias Digitales para Docentes de la UAX (Madrid). 60 ECTS, 9 meses, puntúa en oposiciones. Infórmate con Estudia en Madrid."
 slug: /programas/educacion/master-tecnologia-educativa-competencias-digitales-docentes/
 categoria: Educación

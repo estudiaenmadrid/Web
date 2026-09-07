@@ -20,7 +20,10 @@ export function trimTitle(title: string, max = 60): string {
   // noun (e.g. "Universidad Nebrija" -> "Nebrija") — still identifies the
   // school, just shorter.
   const withoutUniversityWord = withoutBrandTail.replace(/\bUniversidad\s+/i, "");
-  return withoutUniversityWord;
+  if (withoutUniversityWord.length <= max) return withoutUniversityWord;
+  // Still long: "en Madrid" is redundant once SITE_NAME, OG tags and
+  // breadcrumbs already establish the city — safe to drop as a last resort.
+  return withoutUniversityWord.replace(/\s+en Madrid\b/i, "");
 }
 
 interface PageMetaOptions {

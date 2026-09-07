@@ -211,6 +211,12 @@ export default function Home() {
                 nada — si no te conviene, te lo decimos.
               </p>
             </Reveal>
+            <Reveal delay={0.08}>
+              <p className="m-0 text-ink-soft" style={{ fontSize: "clamp(16px,1.3vw,20px)", lineHeight: 1.6 }}>
+                El catálogo cubre grados, dobles grados y másteres en cinco áreas — Derecho, Administración,
+                Ingeniería, Salud y Educación —, todos con convenio directo en universidades privadas.
+              </p>
+            </Reveal>
             <div className="grid gap-3.5 mt-2" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(230px,1fr))" }}>
               {testimonials.map((t) => (
                 <Reveal key={t.name}>

@@ -93,6 +93,12 @@ export default function UniversidadesPage() {
           por caso qué universidad y qué modalidad se ajustan mejor a tu expediente y a tu presupuesto antes de
           recomendarte una en particular.
         </p>
+        <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+          La carta de admisión que emite cada universidad es también el documento que vas a necesitar para tramitar
+          el visado de estudiante en el consulado español de tu país, así que coordinamos ambos procesos en paralelo
+          en vez de esperar a que termine uno para empezar el otro — así ganás semanas cuando el calendario de
+          matrícula está ajustado.
+        </p>
       </section>
     </>
   );

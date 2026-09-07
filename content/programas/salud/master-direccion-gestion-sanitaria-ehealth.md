@@ -1,5 +1,5 @@
 ---
-title_seo: "Máster en Dirección y Gestión Sanitaria: e-Health Online | UAX - Estudia en Madrid"
+title_seo: "Máster en Dirección y Gestión Sanitaria: e-Health | UAX - Estudia en Madrid"
 meta_description: "Máster Universitario en Dirección y Gestión Sanitaria: e-Health, online, de la UAX. 60 ECTS, 9 meses, transformación digital en salud, IA y telemedicina. Infórmate con Estudia en Madrid."
 slug: /programas/salud/master-direccion-gestion-sanitaria-ehealth/
 categoria: Salud

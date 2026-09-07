@@ -76,6 +76,13 @@ export default function ProgramasPage() {
           revisamos y te decimos, programa por programa, qué créditos podrían reconocerte antes de que te
           matricules en cualquiera de las áreas de arriba.
         </p>
+        <p className="mt-5 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+          Dentro de cada área vas a encontrar tanto grados (para quien empieza desde cero o convalida créditos) como
+          másteres (para quien ya tiene un título y busca especializarse), en modalidad presencial u online según el
+          programa. Cada ficha trae además una sección de preguntas frecuentes con la información puntual que más
+          preguntan los estudiantes latinoamericanos antes de decidirse: si es presencial u online, cuánto dura, en
+          qué mes empieza la próxima convocatoria y si ayudamos con la matrícula y el visado.
+        </p>
       </section>
     </>
   );

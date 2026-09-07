@@ -1,5 +1,5 @@
 ---
-title_seo: "Máster en Trastornos del Comportamiento Alimentario Online | UAX - Estudia en Madrid"
+title_seo: "Máster en Trastornos del Comportamiento Alimentario | UAX - Estudia en Madrid"
 meta_description: "Máster Universitario en Trastornos del Comportamiento Alimentario, online, de la UAX. 60 ECTS, 9 meses, prácticas presenciales. Dirigido por la Clínica López Ibor. Infórmate con Estudia en Madrid."
 slug: /programas/salud/master-trastornos-comportamiento-alimentario/
 categoria: Salud
