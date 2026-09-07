@@ -105,6 +105,29 @@ como:
   programa (UAX Skill School).
 - Enfoque en sostenibilidad y nuevas tecnologías aplicadas a la industria.
 
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Ingeniería Industrial?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Ingeniería Industrial es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Máster en Ingeniería Industrial?**
+Dura 18 meses (aprox. 1,5 cursos académicos) y son 90 créditos ECTS.
+
+**¿Cuándo empieza Máster en Ingeniería Industrial?**
+La próxima convocatoria empieza en Octubre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
 ## Llamada a la acción
 
 > ¿Querés convertirte en Ingeniero Industrial habilitado para ejercer en

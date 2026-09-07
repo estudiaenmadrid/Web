@@ -88,6 +88,29 @@ eso recomendamos remitir al estudiante a la ficha oficial de ucjc.edu.
 - Programa reciente, con planes de estudio actualizados a las tecnologías
   más demandadas hoy.
 
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Robótica?**
+Lo imparte Universidad Camilo José Cela (UCJC). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Robótica es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Grado en Robótica?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Cuándo empieza Grado en Robótica?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
 ## Llamada a la acción
 
 > ¿Te interesa la robótica y la inteligencia artificial? Escribinos por

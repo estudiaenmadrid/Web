@@ -1,20 +1,25 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { AREAS } from "@/data/areas";
-import { getAllPrograms, getProgramsByCategory } from "@/lib/content";
+import { getAllPrograms, getPartnerUniversities, getProgramsByCategory } from "@/lib/content";
 import Reveal from "@/components/Reveal";
+import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Programas",
+export const metadata: Metadata = pageMetadata({
+  title: "Programas en universidades privadas de Madrid",
   description:
     "Grados, másteres y convalidaciones en universidades privadas de Madrid, agrupados por área: Derecho, Administración, Ingeniería, Salud y Educación.",
-};
+  path: "/programas",
+});
 
 export default function ProgramasPage() {
   const total = getAllPrograms().length;
+  const universities = getPartnerUniversities();
 
   return (
     <>
+      <BreadcrumbSchema items={[{ name: "Inicio", path: "/" }, { name: "Programas", path: "/programas" }]} />
       <section className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16">
         <div className="font-mono text-[11px] tracking-[.16em] text-red-signal">CATÁLOGO</div>
         <h1
@@ -25,6 +30,13 @@ export default function ProgramasPage() {
         </h1>
         <p className="font-serif italic mt-4" style={{ maxWidth: "44ch", fontSize: "clamp(20px,2.4vw,34px)", lineHeight: 1.15 }}>
           {total} programas entre grados, másteres y convalidaciones, en cinco áreas.
+        </p>
+        <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+          Todos los programas del catálogo se cursan con convenio directo en {universities.length} universidades
+          privadas españolas ({universities.join(", ")}), lo que se traduce en una tarifa distinta a la pública y en
+          un asesor que gestiona la admisión por vos. Cada ficha de programa incluye universidad, modalidad,
+          duración y créditos ECTS cuando están confirmados, y si un dato todavía no lo está, lo vas a ver marcado
+          como &ldquo;a confirmar&rdquo; en vez de un número inventado.
         </p>
       </section>
 
@@ -57,6 +69,13 @@ export default function ProgramasPage() {
             );
           })}
         </div>
+        <p className="mt-9 sm:mt-12 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+          Si ya cursaste parte de una carrera en tu país, casi siempre conviene revisar primero si te conviene
+          convalidar en vez de empezar un grado desde cero — normalmente significa menos años y menos dinero. Si
+          todavía no sabés en qué área encaja tu perfil, escribinos por WhatsApp con tu expediente y título: lo
+          revisamos y te decimos, programa por programa, qué créditos podrían reconocerte antes de que te
+          matricules en cualquiera de las áreas de arriba.
+        </p>
       </section>
     </>
   );

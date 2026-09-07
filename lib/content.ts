@@ -45,6 +45,7 @@ export interface Program {
   startDate?: string;
   titleSeo?: string;
   metaDescription?: string;
+  lastUpdated?: string;
   level: ProgramLevel;
   /** Searchable/browsable labels: category, level, modality, university — for the search index and tag chips on listings. */
   tags: string[];
@@ -125,6 +126,7 @@ function loadProgram(categoryDir: string, file: string): Program {
     startDate: data.fecha_inicio,
     titleSeo: data.title_seo,
     metaDescription: data.meta_description,
+    lastUpdated: data.ultima_actualizacion,
     level,
     tags,
     bodyHtml,
@@ -165,6 +167,13 @@ export function getProgram(
   return getAllPrograms().find(
     (p) => p.categorySlug === categorySlug && p.programSlug === programSlug
   );
+}
+
+export function getRelatedPrograms(program: Program, limit = 3): Program[] {
+  return getAllPrograms()
+    .filter((p) => p.categorySlug === program.categorySlug && p.programSlug !== program.programSlug)
+    .sort((a, b) => (a.level === program.level ? -1 : 0) - (b.level === program.level ? -1 : 0))
+    .slice(0, limit);
 }
 
 // Editorial picks per area, adapted from the design brief's featured

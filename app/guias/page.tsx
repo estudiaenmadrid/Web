@@ -1,9 +1,16 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Guías",
+// Genuinely empty section (no articles published yet — see README/task notes).
+// Better SEO practice than padding filler text to clear a word-count floor:
+// keep it crawlable and linked from nav, but noindex until it has real
+// guides, so it doesn't compete in search as thin/unhelpful content.
+export const metadata: Metadata = pageMetadata({
+  title: "Guías para estudiar en Madrid",
   description: "Guías sobre visados, convalidaciones, universidades y vida en Madrid para estudiantes latinoamericanos.",
-};
+  path: "/guias",
+  index: false,
+});
 
 const CATEGORIES = ["VISADOS", "CONVALIDACIONES", "UNIVERSIDADES", "VIVIR EN MADRID"];
 

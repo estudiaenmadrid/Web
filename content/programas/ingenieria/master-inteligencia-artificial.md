@@ -95,6 +95,20 @@ de qué programa se trata — ver nota interna. Publicar contenido genérico
 aquí arriesgaría prometer características (modalidad, ECTS, prácticas) que
 podrían no corresponder al programa real.
 
+## Preguntas frecuentes
+
+**¿Con qué universidad se cursa Máster en Inteligencia Artificial?**
+La universidad todavía está pendiente de confirmar para esta ficha. Escribinos por WhatsApp y te damos la información actualizada antes de que decidas.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
 ## Llamada a la acción
 
 > ¿Te interesa un Máster en Inteligencia Artificial en Madrid? Escribinos

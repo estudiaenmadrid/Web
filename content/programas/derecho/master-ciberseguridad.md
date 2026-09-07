@@ -66,6 +66,26 @@ La información disponible en fuentes indexadas no incluye el desglose completo 
 - **Orientación a certificaciones del sector**, que suman valor al currículum más allá del título académico.
 - **Colaboración directa con empresas** para prácticas y proyectos reales.
 
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Ciberseguridad?**
+Lo imparte Universidad Nebrija. Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Ciberseguridad es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Máster en Ciberseguridad?**
+Dura 1 año académico y son 60 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
 ## Llamada a la acción
 
 > ¿Querés especializarte en Ciberseguridad en Madrid con un programa orientado al mercado laboral? Escribinos por WhatsApp al **+34 677 055 769** y te acompañamos con la admisión, el visado de estudiante y la gestión de la matrícula.

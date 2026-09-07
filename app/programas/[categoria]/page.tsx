@@ -10,6 +10,8 @@ import {
   displayUniversity,
 } from "@/lib/content";
 import Reveal from "@/components/Reveal";
+import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
   return AREAS.map((a) => ({ categoria: a.slug }));
@@ -23,10 +25,12 @@ export async function generateMetadata({
   const { categoria } = await params;
   const area = getArea(categoria);
   if (!area) return {};
-  return {
-    title: `Programas de ${area.name}`,
-    description: area.intro,
-  };
+  const count = getProgramsByCategory(area.slug).length;
+  return pageMetadata({
+    title: `Programas de ${area.name} en Madrid (${count})`,
+    description: `${area.intro} Grados, másteres y convalidaciones de ${area.name.toLowerCase()} en universidades privadas de Madrid con convenio directo.`,
+    path: `/programas/${area.slug}`,
+  });
 }
 
 export default async function AreaPage({ params }: { params: Promise<{ categoria: string }> }) {
@@ -42,6 +46,13 @@ export default async function AreaPage({ params }: { params: Promise<{ categoria
 
   return (
     <>
+      <BreadcrumbSchema
+        items={[
+          { name: "Inicio", path: "/" },
+          { name: "Programas", path: "/programas" },
+          { name: area.name, path: `/programas/${area.slug}` },
+        ]}
+      />
       <section className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16">
         <div className="font-mono text-[11px] tracking-[.16em] text-red-signal">ÁREA {area.num} — PROGRAMAS</div>
         <h1
@@ -52,6 +63,9 @@ export default async function AreaPage({ params }: { params: Promise<{ categoria
         </h1>
         <p className="font-serif italic mt-4.5" style={{ maxWidth: "44ch", fontSize: "clamp(20px,2.4vw,34px)", lineHeight: 1.15 }}>
           {area.intro}
+        </p>
+        <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+          {area.extended}
         </p>
 
         <div className="flex flex-wrap mt-6 sm:mt-9 md:mt-11 border-y border-hair">

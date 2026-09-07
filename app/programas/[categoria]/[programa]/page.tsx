@@ -2,8 +2,17 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getArea } from "@/data/areas";
-import { displayUniversity, getAllPrograms, getModalityTags, getProgram } from "@/lib/content";
+import {
+  displayUniversity,
+  getAllPrograms,
+  getModalityTags,
+  getProgram,
+  getRelatedPrograms,
+} from "@/lib/content";
 import PlaceholderImage from "@/components/PlaceholderImage";
+import CourseSchema from "@/components/schema/CourseSchema";
+import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
   return getAllPrograms().map((p) => ({ categoria: p.categorySlug, programa: p.programSlug }));
@@ -19,10 +28,11 @@ export async function generateMetadata({
   if (!area) return {};
   const program = getProgram(area.slug, programa);
   if (!program) return {};
-  return {
+  return pageMetadata({
     title: program.titleSeo ?? program.title,
-    description: program.metaDescription,
-  };
+    description: program.metaDescription ?? program.title,
+    path: `/programas/${area.slug}/${program.programSlug}`,
+  });
 }
 
 export default async function FichaPage({
@@ -45,8 +55,26 @@ export default async function FichaPage({
   if (program.duration) facts.push(["Duración", program.duration]);
   if (program.startDate) facts.push(["Próximo inicio", program.startDate]);
 
+  const related = getRelatedPrograms(program);
+  const lastUpdatedLabel = program.lastUpdated
+    ? new Date(program.lastUpdated + "T00:00:00").toLocaleDateString("es-ES", {
+        day: "numeric",
+        month: "long",
+        year: "numeric",
+      })
+    : null;
+
   return (
     <>
+      <CourseSchema program={program} />
+      <BreadcrumbSchema
+        items={[
+          { name: "Inicio", path: "/" },
+          { name: "Programas", path: "/programas" },
+          { name: area.name, path: `/programas/${area.slug}` },
+          { name: program.title, path: `/programas/${area.slug}/${program.programSlug}` },
+        ]}
+      />
       <section className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16">
         <div className="flex flex-wrap gap-2 font-mono text-[11px] tracking-[.16em] text-ink-soft uppercase">
           <Link href="/programas">Programas</Link> /{" "}
@@ -74,6 +102,11 @@ export default async function FichaPage({
             </em>
           ))}
         </div>
+        {lastUpdatedLabel && (
+          <p className="font-mono text-[11px] tracking-[.08em] text-ink-soft mt-4">
+            Última actualización: {lastUpdatedLabel}
+          </p>
+        )}
 
         <div className="relative mt-5.5 md:mt-11" style={{ height: "clamp(220px,38vh,440px)", filter: "grayscale(1) contrast(1.06)" }}>
           <PlaceholderImage label={`${displayUniversity(program.university)} — imagen pendiente`} className="w-full h-full" />
@@ -114,6 +147,32 @@ export default async function FichaPage({
           </p>
         </aside>
       </section>
+
+      {related.length > 0 && (
+        <section className="px-5 sm:px-8 md:px-11 pb-14 sm:pb-20 md:pb-[120px] border-t border-hair pt-9 sm:pt-12">
+          <h2
+            className="font-display font-black uppercase m-0"
+            style={{ fontSize: "clamp(20px,2.6vw,32px)", letterSpacing: "-.03em" }}
+          >
+            Programas relacionados en {area.name}
+          </h2>
+          <div className="grid gap-px bg-hair border border-hair mt-5" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(240px,1fr))" }}>
+            {related.map((p) => (
+              <Link
+                key={p.programSlug}
+                href={`/programas/${p.categorySlug}/${p.programSlug}`}
+                className="flex flex-col gap-2 bg-white p-5 text-ink hover:bg-off-white"
+              >
+                <span className="font-mono text-[10px] tracking-[.14em] text-red-signal">{p.level}</span>
+                <span className="font-display font-extrabold" style={{ fontSize: "16px", lineHeight: 1.25 }}>
+                  {p.title}
+                </span>
+                <span className="text-[12px] text-ink-soft">{displayUniversity(p.university)}</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </>
   );
 }

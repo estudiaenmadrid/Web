@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Archivo, DM_Sans, DM_Mono, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import SiteChrome from "@/components/SiteChrome";
+import OrganizationSchema from "@/components/schema/OrganizationSchema";
 import { getSearchIndex } from "@/lib/content";
 
 const archivo = Archivo({
@@ -47,6 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       className={`${archivo.variable} ${dmSans.variable} ${dmMono.variable} ${instrumentSerif.variable}`}
     >
       <body>
+        <OrganizationSchema />
         <SiteChrome searchIndex={searchIndex}>{children}</SiteChrome>
       </body>
     </html>

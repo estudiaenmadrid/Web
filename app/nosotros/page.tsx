@@ -5,12 +5,15 @@ import PlaceholderImage from "@/components/PlaceholderImage";
 import Reveal from "@/components/Reveal";
 import Ticket from "@/components/Ticket";
 import Stat from "@/components/Stat";
+import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Quiénes somos",
+export const metadata: Metadata = pageMetadata({
+  title: "Quiénes somos — Estudia en Madrid",
   description:
-    "Estudia en Madrid: agencia con convenio directo con universidades privadas españolas. Acompañamiento personalizado en admisión, visado y becas.",
-};
+    "Agencia con convenio directo con universidades privadas españolas. Acompañamiento personalizado en elección de programa, admisión, visado de estudiante y becas.",
+  path: "/nosotros",
+});
 
 const VALUES = [
   {
@@ -33,6 +36,7 @@ export default function NosotrosPage() {
 
   return (
     <>
+      <BreadcrumbSchema items={[{ name: "Inicio", path: "/" }, { name: "Quiénes somos", path: "/nosotros" }]} />
       <section className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16">
         <div className="font-mono text-[11px] tracking-[.16em] text-red-signal">QUIÉNES SOMOS</div>
         <h1
@@ -64,6 +68,12 @@ export default function NosotrosPage() {
             Revisamos tu título, tus créditos y tu presupuesto antes de recomendarte nada. Si un programa no te
             conviene, te lo decimos — preferimos perder una matrícula que meterte en algo que no vas a terminar.
           </p>
+          <p className="m-0 text-[17px] leading-[1.6] text-ink-soft">
+            Wilson Pabón es quien atiende la mayoría de las consultas por WhatsApp — nuestros propios estudiantes lo
+            nombran directamente en la mayoría de las reseñas que dejan en Trustpilot. La idea es esa: que hables
+            siempre con la misma persona, que conozca tu caso desde el primer mensaje hasta que llegues a Madrid, y
+            no con un call center que te repite un guion.
+          </p>
           <div className="flex flex-col gap-px bg-hair border border-hair mt-2.5">
             {VALUES.map((v) => (
               <div key={v.title} className="bg-off-white p-5">
@@ -72,6 +82,16 @@ export default function NosotrosPage() {
               </div>
             ))}
           </div>
+          <p className="m-0 text-[15px] leading-[1.6] text-ink-soft">
+            En la práctica esto se ve en cuatro pasos: orientación honesta sobre qué opciones tenés según tu
+            expediente, la postulación con apostillas y reconocimiento de créditos, el trámite del visado y las becas
+            a las que sí calificás si tu modalidad requiere mudarte, y por último la llegada a Madrid — alojamiento,
+            TIE, empadronamiento y una red de estudiantes que ya pasó por lo mismo.
+          </p>
+          <p className="m-0 text-[15px] leading-[1.6] text-ink-soft">
+            Todo esto lo hacemos por WhatsApp, en tu horario, sin formularios eternos ni esperar semanas por una
+            respuesta.
+          </p>
         </div>
 
         <div className="flex flex-col gap-4">

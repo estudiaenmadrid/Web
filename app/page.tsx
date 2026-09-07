@@ -1,4 +1,5 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { getAllPrograms, getPartnerUniversities, getProgram } from "@/lib/content";
 import { getTestimonials } from "@/lib/testimonials";
 import { AREAS } from "@/data/areas";
@@ -8,6 +9,14 @@ import Ticket from "@/components/Ticket";
 import PlaceholderImage from "@/components/PlaceholderImage";
 import SplitHeadline from "@/components/SplitHeadline";
 import FeaturedPrograms from "@/components/home/FeaturedPrograms";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata: Metadata = pageMetadata({
+  title: "Estudia en Madrid — Tu carrera sigue en Madrid",
+  description:
+    "Acompañamiento completo para estudiar en universidades privadas de Madrid: elección de programa, convalidaciones, visado de estudiante y becas para estudiantes latinoamericanos.",
+  path: "/",
+});
 
 const FEATURED_SLUGS: [string, string][] = [
   ["salud", "grado-psicologia"],
