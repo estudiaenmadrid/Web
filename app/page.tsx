@@ -9,6 +9,7 @@ import Ticket from "@/components/Ticket";
 import PlaceholderImage from "@/components/PlaceholderImage";
 import SplitHeadline from "@/components/SplitHeadline";
 import FeaturedPrograms from "@/components/home/FeaturedPrograms";
+import WaveLine from "@/components/home/WaveLine";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
@@ -173,10 +174,7 @@ export default function Home() {
           ))}
         </div>
 
-        <svg viewBox="0 0 1200 60" preserveAspectRatio="none" className="w-full mt-6 block" style={{ height: "clamp(30px,5vw,60px)" }} aria-hidden="true">
-          <path d="M0 40 C 100 8, 200 8, 300 40 S 500 72, 600 40 S 800 8, 900 40 S 1100 72, 1200 40" fill="none" stroke="#FD0100" strokeWidth="2" />
-          <path d="M0 52 H1200" fill="none" stroke="rgba(248,244,235,.35)" strokeWidth="1" strokeDasharray="6 8" />
-        </svg>
+        <WaveLine />
       </section>
 
       {/* Quiénes somos */}
