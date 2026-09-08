@@ -152,8 +152,8 @@ export default function Home() {
           {PROCESS_STEPS.map((step) => (
             <Reveal key={step.num}>
               <div
-                className={`border p-5.5 flex flex-col justify-between ${
-                  step.red ? "bg-red-signal text-white border-white/18" : "border-white/18"
+                className={`relative border p-5.5 flex flex-col justify-between ${
+                  step.red ? "bg-red-signal text-white border-white/18" : "bg-ink border-white/18"
                 }`}
                 style={{ height: step.h }}
               >
