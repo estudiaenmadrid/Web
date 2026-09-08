@@ -174,40 +174,46 @@ export default async function AreaPage({ params }: { params: Promise<{ categoria
         ))}
 
         <div className="grid gap-3.5 sm:gap-5 md:gap-6.5 mt-8 sm:mt-12 md:mt-20" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(260px,1fr))" }}>
-          <div className="bg-white border border-hair rounded-md p-6">
-            <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">CÓMO ELEGIR</div>
-            <p className="font-display font-extrabold mt-3 mb-0 text-[21px]" style={{ letterSpacing: "-.02em" }}>
-              Convalidar o empezar
-            </p>
-            <p className="text-[14px] leading-[1.5] text-ink-soft mt-2 mb-0">
-              Si tienes créditos cursados, casi siempre conviene convalidar: menos años y menos dinero.
-            </p>
-          </div>
-          <div className="bg-white border border-hair rounded-md p-6">
-            <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">MODALIDAD</div>
-            <p className="font-display font-extrabold mt-3 mb-0 text-[21px]" style={{ letterSpacing: "-.02em" }}>
-              ¿Te mudas o no?
-            </p>
-            <p className="text-[14px] leading-[1.5] text-ink-soft mt-2 mb-0">
-              Online no requiere visado. Presencial sí, y lo gestionamos contigo.
-            </p>
-          </div>
-          <div className="bg-ink text-off-white rounded-md p-6 flex flex-col justify-between gap-4.5">
-            <div>
-              <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">SIGUIENTE PASO</div>
+          <Reveal>
+            <div className="bg-white border border-hair rounded-md p-6">
+              <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">CÓMO ELEGIR</div>
               <p className="font-display font-extrabold mt-3 mb-0 text-[21px]" style={{ letterSpacing: "-.02em" }}>
-                Te decimos qué te convalidan
+                Convalidar o empezar
+              </p>
+              <p className="text-[14px] leading-[1.5] text-ink-soft mt-2 mb-0">
+                Si tienes créditos cursados, casi siempre conviene convalidar: menos años y menos dinero.
               </p>
             </div>
-            <a
-              href="https://wa.me/34677055769"
-              target="_blank"
-              rel="noopener"
-              className="text-off-white font-display font-extrabold text-[13px] uppercase tracking-[.04em] border-b-2 border-red-signal pb-[3px] self-start"
-            >
-              Enviar mi expediente ↗
-            </a>
-          </div>
+          </Reveal>
+          <Reveal delay={0.05}>
+            <div className="bg-white border border-hair rounded-md p-6">
+              <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">MODALIDAD</div>
+              <p className="font-display font-extrabold mt-3 mb-0 text-[21px]" style={{ letterSpacing: "-.02em" }}>
+                ¿Te mudas o no?
+              </p>
+              <p className="text-[14px] leading-[1.5] text-ink-soft mt-2 mb-0">
+                Online no requiere visado. Presencial sí, y lo gestionamos contigo.
+              </p>
+            </div>
+          </Reveal>
+          <Reveal delay={0.1}>
+            <div className="bg-ink text-off-white rounded-md p-6 flex flex-col justify-between gap-4.5">
+              <div>
+                <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">SIGUIENTE PASO</div>
+                <p className="font-display font-extrabold mt-3 mb-0 text-[21px]" style={{ letterSpacing: "-.02em" }}>
+                  Te decimos qué te convalidan
+                </p>
+              </div>
+              <a
+                href="https://wa.me/34677055769"
+                target="_blank"
+                rel="noopener"
+                className="text-off-white font-display font-extrabold text-[13px] uppercase tracking-[.04em] border-b-2 border-red-signal pb-[3px] self-start"
+              >
+                Enviar mi expediente ↗
+              </a>
+            </div>
+          </Reveal>
         </div>
       </section>
     </>

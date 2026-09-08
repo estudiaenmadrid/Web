@@ -19,22 +19,20 @@ fuente: "WebSearch general sobre Máster en Psicopedagogía presencial en Madrid
 
 ## Qué es este programa
 
-Esta ficha corresponde a la entrada del catálogo original de Estudia en
-Madrid para un **Máster en Psicopedagogía en modalidad presencial**. A
-diferencia de la ficha hermana (`master-psicopedagogia-online.md`), en
-esta sesión **no fue posible confirmar con certeza qué universidad dicta
-este programa en formato presencial**, ni localizar un snippet específico
-de estudiaenmadrid.com para esta versión (ver nota interna al final: hay
-una sospecha fundada de que se trate de un duplicado o error de
-catalogación del máster online de la UAX).
+Este **Máster en Psicopedagogía en modalidad presencial** está en proceso
+de confirmación: todavía no podemos precisar con certeza qué universidad
+lo dicta en formato presencial. Preferimos marcarlo como pendiente antes
+que inventar un dato.
 
-Existen varias universidades privadas en Madrid que sí ofrecen un Máster
+Existen varias universidades privadas en Madrid que ofrecen un Máster
 Universitario en Psicopedagogía en formato presencial —por ejemplo,
 Universidad Villanueva, Universidad Pontificia Comillas, Universidad
 Nebrija o la Universidad Complutense de Madrid (pública)— con estructuras
-típicas de 60 ECTS y 1 curso académico. Pero **ninguna de ellas pudo
-confirmarse en esta sesión como la universidad efectivamente convenida con
-Estudia en Madrid** para este programa concreto.
+típicas de 60 ECTS y 1 curso académico. Si te interesa este máster,
+escribinos por WhatsApp: te confirmamos la oferta vigente, o si te
+conviene más, te derivamos al [Máster en Psicopedagogía en modalidad
+online](/programas/educacion/master-psicopedagogia-online) de la UAX, que
+sí tenemos completamente confirmado.
 
 ## Para quién es (perfil típico de este tipo de máster)
 
@@ -69,8 +67,8 @@ educativos.
 - Especialista en atención a la diversidad.
 - Consultor/a psicopedagógico en proyectos educativos y sociales.
 
-*(Salidas profesionales genéricas del área, no verificadas para un
-programa específico — ver nota interna.)*
+*(Salidas profesionales genéricas del área — se confirman una vez esté
+identificada la universidad que dicta este programa.)*
 
 ## Requisitos de acceso
 
@@ -80,9 +78,10 @@ programa específico — ver nota interna.)*
 
 ## Por qué elegir este programa
 
-No se completa esta sección con diferenciales específicos para no inventar
-contenido: sin confirmar la universidad real, cualquier diferencial que se
-liste sería especulativo.
+Preferimos no listar diferenciales específicos hasta confirmar qué
+universidad dicta este programa — publicar características que después no
+correspondan al programa real no te haría ningún favor. En cuanto lo
+confirmemos, actualizamos esta ficha.
 
 ## Preguntas frecuentes
 

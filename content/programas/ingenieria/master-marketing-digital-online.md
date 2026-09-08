@@ -29,13 +29,6 @@ tendencias actuales del marketing digital, certificaciones en habilidades
 blandas, metodologías ágiles y herramientas y software especializado del
 sector.
 
-> **Nota:** este programa aparece dentro de la categoría "Ingeniería" en el
-> catálogo del cliente, aunque por su contenido corresponde al área de
-> marketing/negocio. Se mantiene en la ruta indicada por el cliente
-> (`content/programas/ingenieria/`), pero conviene confirmar si la
-> clasificación por categoría del sitio debería moverlo a
-> "Administración" — ver nota interna.
-
 ## Datos generales
 
 | | |

@@ -77,28 +77,36 @@ export default function UniversidadesPage() {
       </section>
 
       <section className="px-5 sm:px-8 md:px-11 pb-14 sm:pb-20 md:pb-[120px]">
-        <h2 className="font-display font-black uppercase m-0" style={{ fontSize: "clamp(22px,3vw,36px)", letterSpacing: "-.03em" }}>
-          Cómo funciona el convenio
-        </h2>
-        <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
-          Un convenio directo significa que Estudia en Madrid negoció con cada universidad una tarifa y un proceso
-          de admisión específico para estudiantes latinoamericanos, en vez de que cada estudiante negocie por su
-          cuenta. En la práctica esto se traduce en tres cosas: una tarifa de matrícula distinta a la pública, un
-          canal de admisión más rápido porque la universidad ya conoce el perfil de estudiante que le enviamos, y
-          un criterio compartido sobre qué documentación piden (apostillas, traducciones juradas, equivalencia de
-          notas) para no perder tiempo con trámites que la universidad va a rechazar.
-        </p>
-        <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
-          Esto no significa que cualquier programa te convenga solo porque hay convenio. Seguimos revisando caso
-          por caso qué universidad y qué modalidad se ajustan mejor a tu expediente y a tu presupuesto antes de
-          recomendarte una en particular.
-        </p>
-        <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
-          La carta de admisión que emite cada universidad es también el documento que vas a necesitar para tramitar
-          el visado de estudiante en el consulado español de tu país, así que coordinamos ambos procesos en paralelo
-          en vez de esperar a que termine uno para empezar el otro — así ganás semanas cuando el calendario de
-          matrícula está ajustado.
-        </p>
+        <Reveal>
+          <h2 className="font-display font-black uppercase m-0" style={{ fontSize: "clamp(22px,3vw,36px)", letterSpacing: "-.03em" }}>
+            Cómo funciona el convenio
+          </h2>
+        </Reveal>
+        <Reveal delay={0.04}>
+          <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+            Un convenio directo significa que Estudia en Madrid negoció con cada universidad una tarifa y un proceso
+            de admisión específico para estudiantes latinoamericanos, en vez de que cada estudiante negocie por su
+            cuenta. En la práctica esto se traduce en tres cosas: una tarifa de matrícula distinta a la pública, un
+            canal de admisión más rápido porque la universidad ya conoce el perfil de estudiante que le enviamos, y
+            un criterio compartido sobre qué documentación piden (apostillas, traducciones juradas, equivalencia de
+            notas) para no perder tiempo con trámites que la universidad va a rechazar.
+          </p>
+        </Reveal>
+        <Reveal delay={0.08}>
+          <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+            Esto no significa que cualquier programa te convenga solo porque hay convenio. Seguimos revisando caso
+            por caso qué universidad y qué modalidad se ajustan mejor a tu expediente y a tu presupuesto antes de
+            recomendarte una en particular.
+          </p>
+        </Reveal>
+        <Reveal delay={0.12}>
+          <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+            La carta de admisión que emite cada universidad es también el documento que vas a necesitar para tramitar
+            el visado de estudiante en el consulado español de tu país, así que coordinamos ambos procesos en paralelo
+            en vez de esperar a que termine uno para empezar el otro — así ganás semanas cuando el calendario de
+            matrícula está ajustado.
+          </p>
+        </Reveal>
       </section>
     </>
   );

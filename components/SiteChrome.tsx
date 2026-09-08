@@ -14,7 +14,7 @@ export default function SiteChrome({
   searchIndex: SearchEntry[];
 }) {
   return (
-    <div className="relative bg-off-white overflow-x-hidden font-body flex flex-col min-h-screen">
+    <div className="relative bg-off-white font-body flex flex-col min-h-screen">
       <div className="eem-grain" aria-hidden="true" />
       <Loader />
       <PageTransition />

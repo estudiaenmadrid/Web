@@ -5,8 +5,8 @@ slug: /programas/ingenieria/master-ciberseguridad-malaga/
 categoria: Ingeniería
 nombre_oficial_titulo: "Máster Universitario en Ciberseguridad"
 universidad: "Universidad Alfonso X el Sabio (UAX) — campus UAX Mare Nostrum"
-ciudad: "Málaga (fuera de Madrid — ver aviso)"
-modalidad: "Pendiente de confirmar (UAX Mare Nostrum ofrece este máster tanto en versión online como con exámenes también disponibles de forma presencial en Málaga — ver nota interna)"
+ciudad: Málaga
+modalidad: "Semipresencial (online, con examen presencial opcional en Málaga)"
 ects_total: 60
 duracion: "9 meses"
 fecha_inicio: "Octubre"
@@ -37,9 +37,9 @@ tecnológicas de referencia como **IBM, Microsoft, Hispasat y Telefónica**.
 Los alumnos tienen acceso completo al campus de UAX Mare Nostrum en
 Málaga para gestiones administrativas y uso de instalaciones. Según la
 información disponible, en cada convocatoria de exámenes es posible elegir
-entre rendirlos online o en las sedes habilitadas en Málaga — lo que
-sugiere que la universidad opera versiones con distinto grado de
-presencialidad de este mismo máster (ver nota interna).
+entre rendirlos online o en las sedes habilitadas en Málaga, así que podés
+cursarlo íntegramente en modalidad online y viajar a Málaga solo si
+preferís rendir los exámenes de forma presencial.
 
 ## Datos generales
 

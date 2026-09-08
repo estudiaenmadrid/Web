@@ -19,14 +19,6 @@ fuente: "estudiaenmadrid.com/programas/master-oficial-en-tecnologia-educativa-y-
 
 ## Qué es este máster
 
-**Nota sobre esta ficha:** en el catálogo original de Estudia en Madrid,
-este programa vivía **sin categoría asignada** (fuera de la sección
-Educación), a diferencia del resto de programas de este lote. Se incorpora
-aquí, dentro de Educación, por pedido explícito del cliente. Además, hay
-evidencia fuerte de que este programa es el **mismo** que
-`postgrado-tecnologia-educativa.md` — ver la nota interna al final de este
-archivo y de esa otra ficha para el detalle completo.
-
 El **Máster Universitario Online en Tecnología Educativa y Competencias
 Digitales Docentes** de la **Universidad Alfonso X el Sabio (UAX)** es un
 título oficial de 60 ECTS y 9 meses de duración, que prepara a los

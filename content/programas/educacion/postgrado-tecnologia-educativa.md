@@ -19,17 +19,10 @@ fuente: "WebSearch (uax.com/en/studies/postgraduate-course-in-online-educational
 
 ## Qué es este programa
 
-**Importante (leer también la nota interna al final):** en el catálogo
-original del sitio, "Postgrado en Tecnología Educativa" es el nombre corto
-con el que aparece este programa, distinto del nombre largo "Máster
-Oficial en Tecnología Educativa y Competencias Digitales para Docentes"
-que también figura en el catálogo (ficha aparte,
-`master-tecnologia-educativa-competencias-digitales-docentes.md`). Con la
-investigación de esta sesión, **todo indica que se trata del mismo
-programa de la UAX, nombrado de dos formas distintas** — de hecho, la
-propia UAX titula la versión en inglés de la página de este máster como
-"Postgraduate Course in Online Educational Technology", que traducido es
-literalmente "Postgrado en Tecnología Educativa Online".
+"Postgrado en Tecnología Educativa" es el nombre con el que este programa
+figura en nuestro catálogo — es el mismo título que la UAX también
+promociona como **Máster Universitario Online en Tecnología Educativa y
+Competencias Digitales Docentes**.
 
 El programa es el **Máster Universitario Online en Tecnología Educativa y
 Competencias Digitales Docentes** de la **Universidad Alfonso X el Sabio

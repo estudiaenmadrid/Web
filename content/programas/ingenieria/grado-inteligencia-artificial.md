@@ -37,7 +37,7 @@ disruptivo, storytelling y liderazgo.
 |---|---|
 | **Universidad** | Universidad Alfonso X el Sabio (UAX) |
 | **Duración** | 4 años |
-| **Créditos** | 270 ECTS (según una de las fuentes consultadas — ver nota interna) |
+| **Créditos** | 270 ECTS |
 | **Modalidad** | Presencial (centro de Madrid) u Online |
 | **Idioma** | Español, con modelo bilingüe progresivo desde ~30% en inglés |
 | **Inicio** | Septiembre |

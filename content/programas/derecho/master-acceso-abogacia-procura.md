@@ -59,7 +59,7 @@ De los 90 ECTS, 60 corresponden a formación teórica y 30 a componente práctic
 - Estar en posesión del Grado en Derecho (o titulación equivalente reconocida en España).
 - No estar colegiado como abogado o procurador.
 - Acreditar el nivel de español requerido si los estudios previos no fueron cursados en ese idioma.
-- Para estudiantes con título de abogado obtenido en Latinoamérica: este máster **no sustituye** el trámite de homologación/convalidación del título extranjero — son procesos distintos (ver nota interna).
+- Para estudiantes con título de abogado obtenido en Latinoamérica: este máster **no sustituye** el trámite de homologación/convalidación del título extranjero — son procesos distintos.
 
 ## Por qué elegir este programa
 

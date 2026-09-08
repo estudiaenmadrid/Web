@@ -1,7 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-import { marked } from "marked";
 import type { AreaSlug } from "@/data/areas";
 
 const PROGRAMS_DIR = path.join(process.cwd(), "content", "programas");
@@ -49,7 +48,6 @@ export interface Program {
   level: ProgramLevel;
   /** Searchable/browsable labels: category, level, modality, university — for the search index and tag chips on listings. */
   tags: string[];
-  bodyHtml: string;
   bodyMarkdown: string;
 }
 
@@ -100,7 +98,6 @@ function loadProgram(categoryDir: string, file: string): Program {
     title = title.replace(/\s*\([^)]*\)\s*$/, "").trim();
   }
   const bodyMarkdown = stripInternalNote(stripFirstH1(content));
-  const bodyHtml = marked.parse(bodyMarkdown, { async: false }) as string;
   const modality: string = data.modalidad ?? "Pendiente de confirmar";
   const level = deriveLevel(title);
 
@@ -129,7 +126,6 @@ function loadProgram(categoryDir: string, file: string): Program {
     lastUpdated: data.ultima_actualizacion,
     level,
     tags,
-    bodyHtml,
     bodyMarkdown,
   };
 }

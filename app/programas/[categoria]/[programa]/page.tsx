@@ -10,8 +10,10 @@ import {
   getRelatedPrograms,
 } from "@/lib/content";
 import PlaceholderImage from "@/components/PlaceholderImage";
+import Reveal from "@/components/Reveal";
 import CourseSchema from "@/components/schema/CourseSchema";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import ProgramSections from "@/components/ficha/ProgramSections";
 import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -47,7 +49,7 @@ export default async function FichaPage({
   if (!program) notFound();
 
   const facts: [string, string][] = [
-    ["Universidad", program.university],
+    ["Universidad", displayUniversity(program.university)],
     ["Titulación", program.officialTitle ?? program.title],
     ["Modalidad", program.modality],
   ];
@@ -114,34 +116,36 @@ export default async function FichaPage({
       </section>
 
       <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px] grid gap-6 sm:gap-9 md:gap-[72px]" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(280px,1fr))" }}>
-        <div className="eem-prose" style={{ maxWidth: "62ch" }} dangerouslySetInnerHTML={{ __html: program.bodyHtml }} />
+        <ProgramSections bodyMarkdown={program.bodyMarkdown} />
 
         <aside className="flex flex-col gap-3.5 md:sticky md:top-24 self-start">
-          <div className="bg-white border border-hair rounded-md p-5.5">
-            <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">DATOS CLAVE</div>
-            <div className="flex flex-col gap-3 mt-4">
-              {facts.map(([label, value]) => (
-                <div key={label} className="flex justify-between gap-3 text-[14px]">
-                  <span className="text-ink-soft">{label}</span>
-                  <strong
-                    className="text-right"
-                    style={{ color: /pendiente/i.test(value) ? "var(--red-signal)" : undefined }}
-                  >
-                    {/pendiente de confirmar/i.test(value) ? "[ a confirmar ]" : value}
-                  </strong>
-                </div>
-              ))}
+          <Reveal delay={0.1}>
+            <div className="bg-white border border-hair rounded-md p-5.5">
+              <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">DATOS CLAVE</div>
+              <div className="flex flex-col gap-3 mt-4">
+                {facts.map(([label, value]) => (
+                  <div key={label} className="flex justify-between gap-3 text-[14px]">
+                    <span className="text-ink-soft">{label}</span>
+                    <strong
+                      className="text-right"
+                      style={{ color: /pendiente/i.test(value) ? "var(--red-signal)" : undefined }}
+                    >
+                      {/pendiente de confirmar/i.test(value) ? "[ a confirmar ]" : value}
+                    </strong>
+                  </div>
+                ))}
+              </div>
+              <div className="border-t border-dashed border-hair mt-5 mb-0 -mx-5.5" />
+              <a
+                href="https://wa.me/34677055769"
+                target="_blank"
+                rel="noopener"
+                className="flex justify-between items-center mt-4.5 bg-red-signal text-white px-4 py-3.5 font-display font-extrabold text-[13px] uppercase tracking-[.04em] hover:bg-red-dark"
+              >
+                Valorar mi expediente <span>↗</span>
+              </a>
             </div>
-            <div className="border-t border-dashed border-hair mt-5 mb-0 -mx-5.5" />
-            <a
-              href="https://wa.me/34677055769"
-              target="_blank"
-              rel="noopener"
-              className="flex justify-between items-center mt-4.5 bg-red-signal text-white px-4 py-3.5 font-display font-extrabold text-[13px] uppercase tracking-[.04em] hover:bg-red-dark"
-            >
-              Valorar mi expediente <span>↗</span>
-            </a>
-          </div>
+          </Reveal>
           <p className="text-[13px] text-ink-soft m-0">
             Te respondemos por WhatsApp en horario de Madrid. Sin formularios eternos.
           </p>
@@ -157,18 +161,19 @@ export default async function FichaPage({
             Programas relacionados en {area.name}
           </h2>
           <div className="grid gap-px bg-hair border border-hair mt-5" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(240px,1fr))" }}>
-            {related.map((p) => (
-              <Link
-                key={p.programSlug}
-                href={`/programas/${p.categorySlug}/${p.programSlug}`}
-                className="flex flex-col gap-2 bg-white p-5 text-ink hover:bg-off-white"
-              >
-                <span className="font-mono text-[10px] tracking-[.14em] text-red-signal">{p.level}</span>
-                <span className="font-display font-extrabold" style={{ fontSize: "16px", lineHeight: 1.25 }}>
-                  {p.title}
-                </span>
-                <span className="text-[12px] text-ink-soft">{displayUniversity(p.university)}</span>
-              </Link>
+            {related.map((p, i) => (
+              <Reveal key={p.programSlug} delay={Math.min(i * 0.05, 0.15)} className="bg-white">
+                <Link
+                  href={`/programas/${p.categorySlug}/${p.programSlug}`}
+                  className="flex flex-col gap-2 bg-white p-5 text-ink hover:bg-off-white h-full"
+                >
+                  <span className="font-mono text-[10px] tracking-[.14em] text-red-signal">{p.level}</span>
+                  <span className="font-display font-extrabold" style={{ fontSize: "16px", lineHeight: 1.25 }}>
+                    {p.title}
+                  </span>
+                  <span className="text-[12px] text-ink-soft">{displayUniversity(p.university)}</span>
+                </Link>
+              </Reveal>
             ))}
           </div>
         </section>

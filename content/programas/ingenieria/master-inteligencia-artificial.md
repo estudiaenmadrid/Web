@@ -19,45 +19,24 @@ fuente: "WebSearch — no se localizó una página propia y diferenciada de este
 
 ## Qué es este programa
 
-Este ítem del catálogo del cliente aparece listado como **"Máster en
-Inteligencia Artificial"**, sin la etiqueta "Online" que sí lleva el
-**Máster Universitario Online en Inteligencia Artificial de la UAX** (ver
-ficha `master-inteligencia-artificial-online.md`). La investigación
-realizada en esta sesión **no permitió confirmar la existencia de un
-programa de Inteligencia Artificial presencial, distinto y propio de la
-universidad que trabaja habitualmente con Estudia en Madrid (UAX)**.
+Este **Máster en Inteligencia Artificial** está en proceso de confirmación:
+todavía no podemos publicar con certeza qué universidad lo imparte, ni si
+es presencial u online. Preferimos marcarlo como pendiente antes que
+inventar un dato o copiar el de otro programa.
 
-Lo que sí se confirmó por búsqueda:
-
-- UAX solo tiene, según la evidencia disponible, un **Máster Universitario
-  en Inteligencia Artificial en modalidad online** (60 ECTS, 9 meses). No
-  se encontró una versión presencial equivalente de UAX.
-- Existen másteres de IA presenciales en Madrid dictados por **otras**
-  universidades privadas (Comillas ICAI, Universidad Europea, UDIT, UCM,
-  entre otras), pero ninguno apareció vinculado a estudiaenmadrid.com en
-  las búsquedas realizadas.
-- La página `estudiaenmadrid.com/programas/ingenieria/master-inteligencia-artificial-espana/`
-  existe y está indexada con ese título, pero no se pudo extraer contenido
-  propio suficiente (ni confirmar universidad) más allá de que trata sobre
-  el tema en general — podría tratarse de una página informativa "genérica
-  de país" y no de la ficha de un programa concreto.
-
-**Por eso esta ficha se redacta con los datos generales de IA que sí están
-confirmados (a nivel de contenidos típicos de un máster de este tipo en
-Madrid), pero marcando universidad, modalidad, ECTS y duración como
-pendientes de confirmar** hasta que el cliente aclare si este ítem es:
-
-1. El mismo Máster Online de UAX, listado dos veces en el catálogo (posible
-   error de carga), o
-2. Un programa presencial real, de UAX o de otra universidad, que debe
-   documentarse por separado.
+Si te interesa formarte en inteligencia artificial en Madrid, escribinos
+por WhatsApp — te confirmamos los detalles actualizados de este máster, o
+si corresponde, te derivamos directamente al [Máster Universitario Online
+en Inteligencia Artificial de la UAX](/programas/ingenieria/master-inteligencia-artificial-online),
+que sí tenemos completamente confirmado (universidad, modalidad, ECTS y
+duración).
 
 ## Datos generales
 
 | | |
 |---|---|
 | **Universidad** | Pendiente de confirmar |
-| **Modalidad** | Pendiente de confirmar (¿presencial distinto del online de UAX, o el mismo programa duplicado?) |
+| **Modalidad** | Pendiente de confirmar |
 | **Créditos** | Pendiente de confirmar |
 | **Duración** | Pendiente de confirmar |
 | **Idioma** | Español (asumido, sin confirmar) |
@@ -90,10 +69,11 @@ titulación en Ingeniería Informática, Matemáticas, Física o afines.
 
 ## Por qué elegir este programa
 
-No se completa esta sección con diferenciales específicos hasta confirmar
-de qué programa se trata — ver nota interna. Publicar contenido genérico
-aquí arriesgaría prometer características (modalidad, ECTS, prácticas) que
-podrían no corresponder al programa real.
+Preferimos no listar diferenciales específicos hasta confirmar la
+universidad y la modalidad exactas de este programa — publicar
+características (prácticas, profesorado, instalaciones) que después no
+correspondan al programa real no te haría ningún favor. En cuanto lo
+confirmemos, actualizamos esta ficha.
 
 ## Preguntas frecuentes
 

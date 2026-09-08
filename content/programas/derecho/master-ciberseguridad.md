@@ -23,7 +23,7 @@ El **Máster en Ciberseguridad. Ingeniería y Gestión** de la **Universidad Neb
 
 El claustro está formado por líderes de ciberseguridad de grandes multinacionales, con un enfoque de actualización constante frente a las amenazas y tecnologías del sector. El programa combina proyectos aplicados, trabajo fin de máster y prácticas en empresas, y prepara además para obtener certificaciones reconocidas del sector, lo que suma competitividad al perfil del egresado en el mercado laboral.
 
-**Importante:** este es el Máster en Ciberseguridad que la **Universidad Nebrija** dicta en **Madrid**. Es un programa distinto del "Máster en Ciberseguridad" que se imparte en **Málaga** en otras universidades (Universidad de Málaga, Universidad Europea, UAX) — no son el mismo título ni la misma universidad (ver nota interna).
+**Importante:** este es el Máster en Ciberseguridad que la **Universidad Nebrija** dicta en **Madrid**. Es un programa distinto del "Máster en Ciberseguridad" que se imparte en **Málaga** en otras universidades (Universidad de Málaga, Universidad Europea, UAX) — no son el mismo título ni la misma universidad.
 
 ## Datos generales
 

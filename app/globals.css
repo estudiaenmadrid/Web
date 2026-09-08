@@ -185,6 +185,122 @@
   background: var(--off-white);
 }
 
+/* Ficha (program detail) page — per-section visual treatments layered on
+   top of .eem-prose, applied to raw markdown->HTML per `lib/programSections.ts`.
+   Content and markup come straight from `marked`; these rules only restyle
+   the existing ul/li/table/blockquote elements, never touch the text. */
+
+.eem-sec-datos table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.eem-sec-datos thead {
+  display: none;
+}
+.eem-sec-datos tr {
+  border-bottom: 1px solid var(--hair);
+}
+.eem-sec-datos tr:last-child {
+  border-bottom: none;
+}
+.eem-sec-datos th,
+.eem-sec-datos td {
+  border: none;
+  padding: 13px 16px;
+}
+.eem-sec-datos td:first-child,
+.eem-sec-datos th:first-child {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  width: 42%;
+}
+.eem-sec-datos td:last-child {
+  font-weight: 700;
+}
+
+.eem-sec-checklist ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border-top: 1px solid var(--hair);
+}
+.eem-sec-checklist li {
+  position: relative;
+  padding: 14px 0 14px 26px;
+  border-bottom: 1px solid var(--hair);
+}
+.eem-sec-checklist li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 20px;
+  width: 8px;
+  height: 8px;
+  background: var(--red-signal);
+}
+
+.eem-sec-porque ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1px;
+  background: var(--hair);
+  border: 1px solid var(--hair);
+  counter-reset: eem-why;
+}
+.eem-sec-porque li {
+  counter-increment: eem-why;
+  background: var(--white);
+  padding: 20px 20px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.eem-sec-porque li::before {
+  content: counter(eem-why, decimal-leading-zero);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  color: var(--red-signal);
+}
+
+.eem-sec-intro p:first-of-type {
+  font-size: 1.05em;
+}
+
+.eem-sec-cta,
+.eem-sec-cta p,
+.eem-sec-cta blockquote {
+  color: inherit;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  border-left: none;
+  padding-left: 0;
+  margin: 0;
+}
+.eem-sec-cta strong {
+  color: var(--off-white);
+}
+
+.eem-faq-item summary::-webkit-details-marker {
+  display: none;
+}
+.eem-faq-item[open] .eem-faq-icon {
+  transform: rotate(45deg);
+}
+.eem-faq-icon {
+  transition: transform 0.25s ease;
+  display: inline-block;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
