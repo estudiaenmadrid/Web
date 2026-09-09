@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { AREAS } from "@/data/areas";
+import { UNIVERSITIES } from "@/data/universities";
 import { getAllPrograms } from "@/lib/content";
 import { SITE_URL } from "@/lib/seo";
 
@@ -27,5 +28,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticRoutes, ...areaRoutes, ...programRoutes];
+  const universityRoutes: MetadataRoute.Sitemap = UNIVERSITIES.map((u) => ({
+    url: `${SITE_URL}/universidades/${u.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly",
+    priority: 0.6,
+  }));
+
+  return [...staticRoutes, ...areaRoutes, ...programRoutes, ...universityRoutes];
 }
