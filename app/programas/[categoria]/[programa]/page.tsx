@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getArea } from "@/data/areas";
@@ -9,6 +10,7 @@ import {
   getProgram,
   getRelatedPrograms,
 } from "@/lib/content";
+import { CAMPUS_BY_UNIVERSITY } from "@/lib/photos";
 import PlaceholderImage from "@/components/PlaceholderImage";
 import Reveal from "@/components/Reveal";
 import CourseSchema from "@/components/schema/CourseSchema";
@@ -48,8 +50,11 @@ export default async function FichaPage({
   const program = getProgram(area.slug, programa);
   if (!program) notFound();
 
+  const universityLabel = displayUniversity(program.university);
+  const campusPhoto = CAMPUS_BY_UNIVERSITY[universityLabel];
+
   const facts: [string, string][] = [
-    ["Universidad", displayUniversity(program.university)],
+    ["Universidad", universityLabel],
     ["Titulación", program.officialTitle ?? program.title],
     ["Modalidad", program.modality],
   ];
@@ -95,7 +100,7 @@ export default async function FichaPage({
           {program.title}
         </h1>
         <p className="font-serif italic mt-4" style={{ fontSize: "clamp(20px,2.4vw,32px)" }}>
-          {displayUniversity(program.university)}
+          {universityLabel}
         </p>
         <div className="flex flex-wrap gap-2 mt-5.5">
           {getModalityTags(program.modality).map((t) => (
@@ -110,8 +115,19 @@ export default async function FichaPage({
           </p>
         )}
 
-        <div className="relative mt-5.5 md:mt-11" style={{ height: "clamp(220px,38vh,440px)", filter: "grayscale(1) contrast(1.06)" }}>
-          <PlaceholderImage label={`${displayUniversity(program.university)} — imagen pendiente`} className="w-full h-full" />
+        <div className="relative mt-5.5 md:mt-11 overflow-hidden" style={{ height: "clamp(220px,38vh,440px)", filter: "grayscale(1) contrast(1.06)" }}>
+          {campusPhoto ? (
+            <Image
+              src={campusPhoto}
+              alt={`Ambiente de campus universitario — ${universityLabel}`}
+              fill
+              unoptimized
+              sizes="100vw"
+              style={{ objectFit: "cover" }}
+            />
+          ) : (
+            <PlaceholderImage label={`${universityLabel} — imagen pendiente`} className="w-full h-full" />
+          )}
         </div>
       </section>
 

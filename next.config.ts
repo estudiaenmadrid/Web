@@ -1,6 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  images: {
+    // AI-generated placeholder photography (see lib/photos.ts) is hosted on
+    // Higgsfield's asset CDN pending real, client-approved photography.
+    remotePatterns: [{ protocol: "https", hostname: "d8j0ntlcm91z4.cloudfront.net" }],
+  },
+
   async headers() {
     return [
       {

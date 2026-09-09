@@ -1,12 +1,13 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
 import { getAllPrograms, getPartnerUniversities, getProgram } from "@/lib/content";
 import { getTestimonials } from "@/lib/testimonials";
 import { AREAS } from "@/data/areas";
+import { HERO_STUDENTS, MADRID_SKYLINE } from "@/lib/photos";
 import Reveal from "@/components/Reveal";
 import Stat from "@/components/Stat";
 import Ticket from "@/components/Ticket";
-import PlaceholderImage from "@/components/PlaceholderImage";
 import SplitHeadline from "@/components/SplitHeadline";
 import FeaturedPrograms from "@/components/home/FeaturedPrograms";
 import WaveLine from "@/components/home/WaveLine";
@@ -15,7 +16,7 @@ import { pageMetadata } from "@/lib/seo";
 export const metadata: Metadata = pageMetadata({
   title: "Estudia en Madrid — Tu carrera sigue en Madrid",
   description:
-    "Acompañamiento completo para estudiar en universidades privadas de Madrid: elección de programa, convalidaciones, visado de estudiante y becas para estudiantes latinoamericanos.",
+    "8 años y más de 500 estudiantes latinoamericanos acompañados para estudiar en universidades privadas de Madrid: elección de programa, convalidaciones, visado y becas.",
   path: "/",
 });
 
@@ -86,8 +87,8 @@ export default function Home() {
         </p>
 
         <div className="grid gap-px bg-hair border-y border-hair mt-7 sm:mt-9 md:mt-16" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(240px,1fr))" }}>
-          <Stat confirm label="años acompañando estudiantes" className="bg-off-white py-5 pr-5 pl-0" />
-          <Stat confirm label="estudiantes ya matriculados" className="bg-off-white p-5" />
+          <Stat value="8" label="años acompañando estudiantes" className="bg-off-white py-5 pr-5 pl-0" />
+          <Stat value="500+" label="estudiantes ya matriculados" className="bg-off-white p-5" />
           <Stat value={String(universities.length).padStart(2, "0")} label="universidades con convenio directo" className="bg-off-white p-5" />
           <div className="bg-off-white p-5 flex items-center">
             <a
@@ -101,8 +102,16 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="relative mt-6 md:mt-10" style={{ height: "clamp(300px,52vh,620px)", filter: "grayscale(1) contrast(1.06)" }}>
-          <PlaceholderImage label="Foto de portada: estudiantes o skyline de Madrid (B/N)" className="w-full h-full" />
+        <div className="relative mt-6 md:mt-10 overflow-hidden" style={{ height: "clamp(300px,52vh,620px)", filter: "grayscale(1) contrast(1.06)" }}>
+          <Image
+            src={HERO_STUDENTS}
+            alt="Estudiante caminando por un campus universitario en Madrid"
+            fill
+            priority
+            unoptimized
+            sizes="100vw"
+            style={{ objectFit: "cover" }}
+          />
         </div>
       </section>
 
@@ -252,7 +261,7 @@ export default function Home() {
           className="absolute inset-0"
           style={{ filter: "grayscale(1) blur(9px) contrast(1.1)", opacity: 0.5 }}
         >
-          <PlaceholderImage label="Madrid desenfocada (fondo)" className="w-full h-full" />
+          <Image src={MADRID_SKYLINE} alt="" fill unoptimized sizes="100vw" style={{ objectFit: "cover" }} />
         </div>
         <div
           aria-hidden="true"

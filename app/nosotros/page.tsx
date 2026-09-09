@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { getPartnerUniversities } from "@/lib/content";
 import { getTestimonials } from "@/lib/testimonials";
-import PlaceholderImage from "@/components/PlaceholderImage";
+import { ADVISOR_STUDENT } from "@/lib/photos";
 import Reveal from "@/components/Reveal";
 import Ticket from "@/components/Ticket";
 import Stat from "@/components/Stat";
@@ -11,7 +12,7 @@ import { pageMetadata } from "@/lib/seo";
 export const metadata: Metadata = pageMetadata({
   title: "Quiénes somos — Estudia en Madrid",
   description:
-    "Agencia con convenio directo con universidades privadas españolas. Acompañamiento personalizado en elección de programa, admisión, visado de estudiante y becas.",
+    "8 años acompañando a más de 500 estudiantes latinoamericanos con convenio directo en universidades privadas españolas. Elección de programa, admisión, visado y becas.",
   path: "/nosotros",
 });
 
@@ -49,8 +50,15 @@ export default function NosotrosPage() {
           <br />
           <span className="text-red-signal">Abrimos puertas.</span>
         </h1>
-        <div className="relative mt-5.5 md:mt-11" style={{ height: "clamp(260px,46vh,500px)", filter: "grayscale(1) contrast(1.06)" }}>
-          <PlaceholderImage label="Equipo EEM atendiendo a un estudiante" className="w-full h-full" />
+        <div className="relative mt-5.5 md:mt-11 overflow-hidden" style={{ height: "clamp(260px,46vh,500px)", filter: "grayscale(1) contrast(1.06)" }}>
+          <Image
+            src={ADVISOR_STUDENT}
+            alt="Asesor académico conversando con un estudiante"
+            fill
+            unoptimized
+            sizes="100vw"
+            style={{ objectFit: "cover" }}
+          />
         </div>
       </section>
 
@@ -63,9 +71,11 @@ export default function NosotrosPage() {
           </Reveal>
           <Reveal delay={0.04}>
             <p className="m-0 text-[17px] leading-[1.6]">
-              Tenemos convenio directo con universidades privadas españolas. Eso se traduce en dos cosas concretas:
-              pagas menos que yendo por tu cuenta y tienes a alguien en Madrid resolviendo el papeleo contigo, en tu
-              horario y en tu idioma.
+              Llevamos 8 años acompañando a estudiantes latinoamericanos a estudiar en Madrid, y ya son más de 500 los
+              que confiaron en nosotros para dar ese paso. Tenemos convenio directo con universidades privadas
+              españolas y trabajamos con estudiantes de todos los países de Latinoamérica. Eso se traduce en dos
+              cosas concretas: pagas menos que yendo por tu cuenta y tienes a alguien en Madrid resolviendo el
+              papeleo contigo, en tu horario y en tu idioma.
             </p>
           </Reveal>
           <Reveal delay={0.08}>
@@ -119,10 +129,10 @@ export default function NosotrosPage() {
         <div className="flex flex-col gap-4">
           <Reveal>
             <div className="grid grid-cols-2 gap-px bg-hair border border-hair">
-              <Stat confirm label="años acompañando" className="bg-off-white p-5" />
-              <Stat confirm label="estudiantes matriculados" className="bg-off-white p-5" />
+              <Stat value="8" label="años acompañando" className="bg-off-white p-5" />
+              <Stat value="500+" label="estudiantes matriculados" className="bg-off-white p-5" />
               <Stat value={String(universities.length).padStart(2, "0")} label="universidades con convenio" className="bg-off-white p-5" />
-              <Stat confirm label="países de operación" className="bg-off-white p-5" />
+              <Stat value="Todos" label="los países de Latinoamérica con convenio" className="bg-off-white p-5" />
             </div>
           </Reveal>
           {testimonial && (

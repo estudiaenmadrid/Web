@@ -15,7 +15,7 @@ export default function OrganizationSchema() {
     url: SITE_URL,
     logo: `${SITE_URL}/assets/eem-horizontal-black.png`,
     description:
-      "Agencia de acompañamiento académico que conecta a estudiantes latinoamericanos con universidades privadas de Madrid: elección de programa, convalidaciones, visado y becas.",
+      "Agencia de acompañamiento académico con 8 años de experiencia y más de 500 estudiantes latinoamericanos acompañados. Conecta a estudiantes de toda Latinoamérica con universidades privadas de Madrid: elección de programa, convalidaciones, visado y becas.",
     areaServed: ["ES", "Latinoamérica"],
     contactPoint: {
       "@type": "ContactPoint",

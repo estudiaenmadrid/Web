@@ -2,10 +2,12 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePixelTrail } from "@/hooks/usePixelTrail";
 import PlaceholderImage from "@/components/PlaceholderImage";
 import type { Program } from "@/lib/content";
 import { displayUniversity } from "@/lib/programFormat";
+import { CAMPUS_BY_UNIVERSITY } from "@/lib/photos";
 
 interface FeaturedProgramsProps {
   programs: Program[];
@@ -53,15 +55,30 @@ export default function FeaturedPrograms({ programs }: FeaturedProgramsProps) {
 
       <div className="md:sticky md:top-24">
         <div className="relative aspect-[4/5] bg-hair">
-          {programs.map((p, i) => (
-            <div
-              key={p.programSlug}
-              className="absolute inset-0 transition-opacity duration-300"
-              style={{ opacity: active === i ? 1 : 0, filter: "grayscale(1) contrast(1.06)" }}
-            >
-              <PlaceholderImage label={`Campus ${displayUniversity(p.university)}`} className="w-full h-full" />
-            </div>
-          ))}
+          {programs.map((p, i) => {
+            const universityLabel = displayUniversity(p.university);
+            const campusPhoto = CAMPUS_BY_UNIVERSITY[universityLabel];
+            return (
+              <div
+                key={p.programSlug}
+                className="absolute inset-0 transition-opacity duration-300"
+                style={{ opacity: active === i ? 1 : 0, filter: "grayscale(1) contrast(1.06)" }}
+              >
+                {campusPhoto ? (
+                  <Image
+                    src={campusPhoto}
+                    alt={`Ambiente de campus universitario — ${universityLabel}`}
+                    fill
+                    unoptimized
+                    sizes="(min-width: 768px) 40vw, 100vw"
+                    style={{ objectFit: "cover" }}
+                  />
+                ) : (
+                  <PlaceholderImage label={`Campus ${universityLabel}`} className="w-full h-full" />
+                )}
+              </div>
+            );
+          })}
           <div className="absolute -right-3.5 -top-3.5 rounded-full bg-red-signal" style={{ width: "clamp(56px,7vw,104px)", height: "clamp(56px,7vw,104px)" }} />
         </div>
         <p className="text-[13px] text-ink-soft mt-3.5">
