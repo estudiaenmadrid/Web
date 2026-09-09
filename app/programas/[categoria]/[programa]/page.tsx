@@ -15,7 +15,7 @@ import PlaceholderImage from "@/components/PlaceholderImage";
 import Reveal from "@/components/Reveal";
 import CourseSchema from "@/components/schema/CourseSchema";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
-import ProgramSections from "@/components/ficha/ProgramSections";
+import MarkdownSections from "@/components/shared/MarkdownSections";
 import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -132,7 +132,7 @@ export default async function FichaPage({
       </section>
 
       <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px] grid gap-6 sm:gap-9 md:gap-[72px]" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(280px,1fr))" }}>
-        <ProgramSections bodyMarkdown={program.bodyMarkdown} />
+        <MarkdownSections bodyMarkdown={program.bodyMarkdown} />
 
         <aside className="flex flex-col gap-3.5 md:sticky md:top-24 self-start">
           <Reveal delay={0.1}>

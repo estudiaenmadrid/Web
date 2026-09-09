@@ -147,7 +147,8 @@ function CtaSection({ section, index }: { section: ProgramSection; index: number
   );
 }
 
-export default function ProgramSections({ bodyMarkdown }: { bodyMarkdown: string }) {
+/** Renders a program ficha's or guide post's markdown body as visually distinct, Reveal-animated sections, styled by heading (see sectionKind in lib/programSections.ts). */
+export default function MarkdownSections({ bodyMarkdown }: { bodyMarkdown: string }) {
   const sections = splitProgramSections(bodyMarkdown);
 
   return (

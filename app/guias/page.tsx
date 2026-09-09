@@ -1,68 +1,46 @@
 import type { Metadata } from "next";
+import { getAllGuides, getGuideCategories } from "@/lib/guides";
+import GuideFilter from "@/components/guias/GuideFilter";
+import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
 import { pageMetadata } from "@/lib/seo";
 
-// Genuinely empty section (no articles published yet — see README/task notes).
-// Better SEO practice than padding filler text to clear a word-count floor:
-// keep it crawlable and linked from nav, but noindex until it has real
-// guides, so it doesn't compete in search as thin/unhelpful content.
 export const metadata: Metadata = pageMetadata({
   title: "Guías para estudiar en Madrid",
-  description: "Guías sobre visados, convalidaciones, universidades y vida en Madrid para estudiantes latinoamericanos.",
+  description: "Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos.",
   path: "/guias",
-  index: false,
 });
 
-const CATEGORIES = ["VISADOS", "CONVALIDACIONES", "UNIVERSIDADES", "VIVIR EN MADRID"];
-
 export default function GuiasPage() {
+  const guides = getAllGuides();
+  const categories = getGuideCategories();
+
   return (
-    <main className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16 pb-14 sm:pb-20 md:pb-[120px]">
-      <div className="flex flex-wrap justify-between items-end gap-5">
-        <h1
-          className="font-display font-black uppercase m-0"
-          style={{ fontSize: "clamp(38px,8vw,132px)", lineHeight: 0.9, letterSpacing: "-.045em" }}
-        >
-          Guías
-        </h1>
-        <p className="m-0 text-[15px] leading-[1.55] text-ink-soft" style={{ maxWidth: "34ch" }}>
-          Todo lo que resolvemos a diario, escrito para que puedas leerlo antes de escribirnos.
-        </p>
-      </div>
-
-      <div className="flex flex-wrap gap-0 mt-6 sm:mt-9 md:mt-12 border-y border-hair">
-        <span className="flex items-center gap-2 px-5 py-4 border-r border-hair font-display font-extrabold text-[12px] tracking-[.1em] uppercase">
-          TODAS <span className="font-mono text-[10px] text-red-signal">[0]</span>
-        </span>
-        {CATEGORIES.map((cat) => (
-          <span
-            key={cat}
-            className="flex items-center gap-2 px-5 py-4 border-r border-hair font-display font-extrabold text-[12px] tracking-[.1em] uppercase text-ink-soft"
+    <>
+      <BreadcrumbSchema items={[{ name: "Inicio", path: "/" }, { name: "Guías", path: "/guias" }]} />
+      <main className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16 pb-14 sm:pb-20 md:pb-[120px]">
+        <div className="flex flex-wrap justify-between items-end gap-5">
+          <h1
+            className="font-display font-black uppercase m-0"
+            style={{ fontSize: "clamp(38px,8vw,132px)", lineHeight: 0.9, letterSpacing: "-.045em" }}
           >
-            {cat} <span className="font-mono text-[10px] text-red-signal">[0]</span>
-          </span>
-        ))}
-      </div>
-
-      <div className="mt-9 sm:mt-12 md:mt-16 border border-dashed border-hair rounded-md p-8 sm:p-12 text-center max-w-[60ch] mx-auto">
-        <div className="font-mono text-[10px] tracking-[.14em] text-red-signal border border-dashed border-red-signal inline-block px-2 py-1 mb-4">
-          EN PREPARACIÓN
+            Guías
+          </h1>
+          <p className="m-0 text-[15px] leading-[1.55] text-ink-soft" style={{ maxWidth: "34ch" }}>
+            Todo lo que resolvemos a diario, escrito para que puedas leerlo antes de escribirnos.
+          </p>
         </div>
-        <p className="font-serif italic m-0" style={{ fontSize: "clamp(20px,2.4vw,30px)", lineHeight: 1.25 }}>
-          Todavía no publicamos guías escritas — esta sección está lista para recibirlas.
+
+        <p className="mt-6 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "70ch" }}>
+          Estas guías cubren los temas que más nos consultan estudiantes latinoamericanos antes de decidirse:
+          cómo funciona el visado de estudiante, la diferencia entre homologar y convalidar un título, cómo elegir
+          entre nuestras universidades convenidas según la carrera que te interesa, y qué esperar del costo de vida
+          y los primeros trámites al instalarte en Madrid. Están escritas con información verificada contra fuentes
+          oficiales cuando existen — no reemplazan una consulta puntual sobre tu caso, pero te dan el panorama
+          completo antes de escribirnos por WhatsApp.
         </p>
-        <p className="mt-4 text-[15px] leading-[1.6] text-ink-soft">
-          Mientras tanto, escríbenos directo por WhatsApp y te resolvemos lo mismo que resolvería un artículo:
-          visado, convalidaciones, elegir universidad o instalarte en Madrid.
-        </p>
-        <a
-          href="https://wa.me/34677055769"
-          target="_blank"
-          rel="noopener"
-          className="inline-flex items-center gap-2.5 mt-5 font-display font-extrabold text-[14px] uppercase tracking-[.04em] border-b-2 border-red-signal pb-[3px]"
-        >
-          Escribir por WhatsApp <span>↗</span>
-        </a>
-      </div>
-    </main>
+
+        <GuideFilter guides={guides} categories={categories} />
+      </main>
+    </>
   );
 }
