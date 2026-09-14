@@ -1,0 +1,76 @@
+# Apache equivalent of what next.config.ts's headers()/redirects() used to
+# do server-side — required because this is a static export (see
+# next.config.ts) served by Apache on Hostinger shared hosting, which has
+# no Node.js process to run that logic. Keep the two in sync by hand if
+# either changes.
+
+# --- Security headers (was next.config.ts headers()) ---
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# --- Legacy WordPress URL redirects (was next.config.ts redirects()) ---
+# Preserves search ranking / inbound links from the old site's flat URLs.
+# Scope limited to the 14 URLs the original SEO audit's content-swap-bug
+# finding enumerated — see next.config.ts's former comment for context.
+<IfModule mod_alias.c>
+  Redirect 301 /estudiar-mba-en-espana /programas/administracion/mba
+  Redirect 301 /estudiar-master-marketing-madrid /programas/ingenieria/master-marketing-digital-online
+  Redirect 301 /grado-marketing-espana /programas/ingenieria/master-marketing-digital-online
+  Redirect 301 /grado-administracion-empresas-espana /programas/administracion/grado-administracion-empresas-uax
+  Redirect 301 /grado-ingenieria-biomedica-espana /programas/ingenieria/grado-ingenieria-biomedica
+  Redirect 301 /la-universidad-alfonso-x-el-sabio /universidades
+  Redirect 301 /universidad-nebrija /universidades
+  Redirect 301 /experiencia-universitaria /nosotros
+  Redirect 301 /visa-de-estudiante-espana /programas
+  Redirect 301 /rechazo-visa-de-estudiante-espana /programas
+  Redirect 301 /puedo-trabajar-con-visa-de-estudiante-en-espana /programas
+  Redirect 301 /que-master-permite-quedarse-a-trabajar-en-espana /programas
+  Redirect 301 /estudiar-un-master-en-espana /programas
+  Redirect 301 /formacion-profesional-en-espana /programas
+</IfModule>
+
+# --- Static export routing ---
+# Next.js's static export writes each route as a flat file — e.g.
+# /programas/derecho -> programas/derecho.html — while ALSO writing a
+# same-named directory next to it (programas/derecho/) that holds either
+# that area's nested ficha pages, or (for a leaf route with no children,
+# e.g. privacidad/) just Next's internal RSC-cache segment files, never
+# meant to be served directly. Without DirectorySlash Off, Apache's mod_dir
+# sees the directory match for a bare "/programas/derecho" request and
+# 301-redirects to add a trailing slash before our rewrite rules below
+# ever run — which then 403s or 404s, since that directory has no
+# index.html. Turning it off lets the RewriteRule below handle routing
+# instead, consistently, for both shapes.
+<IfModule mod_dir.c>
+  DirectorySlash Off
+</IfModule>
+<IfModule mod_negotiation.c>
+  Options -MultiViews -Indexes
+</IfModule>
+
+DirectoryIndex index.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Existing files (assets, _next/*, already-.html paths) are served as-is.
+  RewriteCond %{REQUEST_FILENAME} -f
+  RewriteRule ^ - [L]
+
+  # /foo/ (trailing slash) -> /foo.html, when foo.html exists
+  RewriteCond %{REQUEST_URI} ^(.+)/$
+  RewriteCond %{DOCUMENT_ROOT}%1.html -f
+  RewriteRule ^ %1.html [L]
+
+  # /foo -> /foo.html
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.*[^/])$ $1.html [L]
+</IfModule>
+
+# Custom 404
+ErrorDocument 404 /404.html

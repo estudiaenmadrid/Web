@@ -5,6 +5,10 @@ import { getAllPrograms } from "@/lib/content";
 import { getAllGuides } from "@/lib/guides";
 import { SITE_URL } from "@/lib/seo";
 
+// Required for output:"export" (see next.config.ts) — pre-render once at
+// build time; the `now` timestamp below just becomes "whenever we built".
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
   const staticRoutes: MetadataRoute.Sitemap = [
