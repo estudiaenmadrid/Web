@@ -96,6 +96,9 @@ export default function Footer() {
 
       <div className="flex flex-wrap justify-between gap-3 font-mono text-[11px] tracking-[.1em] opacity-80 mt-3.5">
         <span>© 2026 ESTUDIA EN MADRID</span>
+        <Link href="/privacidad" className="text-white underline">
+          PRIVACIDAD Y COOKIES
+        </Link>
         <span>MADRID, ESPAÑA · LATAM</span>
       </div>
     </footer>
