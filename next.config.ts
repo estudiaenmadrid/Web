@@ -5,6 +5,11 @@ const nextConfig: NextConfig = {
     // AI-generated placeholder photography (see lib/photos.ts) is hosted on
     // Higgsfield's asset CDN pending real, client-approved photography.
     remotePatterns: [{ protocol: "https", hostname: "d8j0ntlcm91z4.cloudfront.net" }],
+    // Serve AVIF when the browser supports it (smaller than WebP), falling
+    // back to WebP — applies to locally-optimized images (logos, favicons);
+    // the Higgsfield photos are unoptimized (see lib/photos.ts) so this
+    // doesn't touch them.
+    formats: ["image/avif", "image/webp"],
   },
 
   async headers() {

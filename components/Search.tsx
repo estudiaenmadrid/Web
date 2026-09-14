@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import Link from "next/link";
 import type { SearchEntry } from "@/lib/content";
+import { useDebouncedValue } from "@/hooks/useDebouncedValue";
 
 interface SearchProps {
   index: SearchEntry[];
@@ -46,11 +47,13 @@ export default function Search({ index, variant = "nav" }: SearchProps) {
     };
   }, [open]);
 
+  const debouncedQuery = useDebouncedValue(query, 150);
+
   const results = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const q = debouncedQuery.trim().toLowerCase();
     if (!q) return [];
     return index.filter((e) => e.haystack.includes(q)).slice(0, 40);
-  }, [query, index]);
+  }, [debouncedQuery, index]);
 
   const close = () => {
     setOpen(false);
