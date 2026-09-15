@@ -14,8 +14,16 @@
 
 # --- Legacy WordPress URL redirects (was next.config.ts redirects()) ---
 # Preserves search ranking / inbound links from the old site's flat URLs.
-# Scope limited to the 14 URLs the original SEO audit's content-swap-bug
+# The first 14 are the ones the original SEO audit's content-swap-bug
 # finding enumerated — see next.config.ts's former comment for context.
+# The rest (below the blank line) were found still indexed in Google via
+# "site:estudiaenmadrid.com" searches in Sept 2026 — the old WordPress site
+# used inconsistent URL shapes (nested paths with a "-espana"/"-en-espana"
+# suffix, some missing the /programas/ or category segment entirely), so
+# each one is mapped explicitly here rather than guessed at with a pattern.
+# Google only drops a URL from its index once it re-crawls and sees the
+# redirect/404 — that can take days to a few weeks after this goes live;
+# it isn't instant just because the mapping exists.
 <IfModule mod_alias.c>
   Redirect 301 /estudiar-mba-en-espana /programas/administracion/mba
   Redirect 301 /estudiar-master-marketing-madrid /programas/ingenieria/master-marketing-digital-online
@@ -31,6 +39,45 @@
   Redirect 301 /que-master-permite-quedarse-a-trabajar-en-espana /programas
   Redirect 301 /estudiar-un-master-en-espana /programas
   Redirect 301 /formacion-profesional-en-espana /programas
+
+  # More specific /educacion/... paths must come before the bare /educacion
+  # redirect below — mod_alias Redirect matches by path prefix in the order
+  # directives appear, so a shorter prefix declared first would otherwise
+  # swallow these and only replace the /educacion part, leaving the rest of
+  # the old slug dangling in the target URL.
+  Redirect 301 /educacion/master-en-educacion-bilingue-en-espana /programas/educacion/master-educacion-bilingue
+  Redirect 301 /educacion/master-psicopedagogia-espana /programas/educacion/master-psicopedagogia-online
+  Redirect 301 /educacion /programas/educacion
+  Redirect 301 /programas/master-oficial-en-tecnologia-educativa-y-competencias-digitales-para-docentes /programas/educacion/master-tecnologia-educativa-competencias-digitales-docentes
+  Redirect 301 /programas/ingenieria/master-oficial-bioinformatica-online /programas/ingenieria/master-bioinformatica-online
+  Redirect 301 /programas/ingenieria/grado-ingenieria-mecanica-espana /programas/ingenieria/grado-ingenieria-mecanica
+  Redirect 301 /programas/ingenieria/grado-fisica-espana /programas/ingenieria/grado-fisica
+  Redirect 301 /programas/salud/grado-en-psicologia /programas/salud/grado-psicologia
+  Redirect 301 /programas/derecho/master-ciberseguridad-espana-nebrija /programas/derecho/master-ciberseguridad
+  Redirect 301 /programas/salud/doble-grado-deporte-nutricion-espana /programas/salud/doble-grado-deporte-nutricion
+  Redirect 301 /programas/ingenieria/grado-ingenieria-biomedica-espana /programas/ingenieria/grado-ingenieria-biomedica
+  Redirect 301 /programas/salud/grado-en-biomedicina /programas/salud/grado-biomedicina
+  Redirect 301 /programas/ingenieria/master-prevencion-riesgos-laborales-online /programas/ingenieria/master-prevencion-riesgos-laborales
+  Redirect 301 /programas/administracion/grado-en-administracion-de-empresas-y-relaciones-internacionales /programas/administracion/grado-ade-relaciones-internacionales
+  Redirect 301 /programas/ingenieria/master-ingenieria-industrial-espana /programas/ingenieria/master-ingenieria-industrial
+  Redirect 301 /programas/ingenieria/grado-ingenieria-matematica-espana /programas/ingenieria/grado-ingenieria-matematica
+  Redirect 301 /programas/ingenieria/grado-ingenieria-aeroespacial-espana /programas/ingenieria/grado-ingenieria-aeroespacial
+  Redirect 301 /programas/ingenieria/master-en-energias-renovables /programas/ingenieria/master-energias-renovables-online
+  Redirect 301 /programas/ingenieria/master-online-big-data-negocios-uax /programas/ingenieria/master-big-data-online
+  Redirect 301 /programas/administracion/master-business-analytics-nebrija /programas/administracion/master-business-analytics
+  Redirect 301 /programas/ingenieria/master-online-inteligencia-artificial-uax /programas/ingenieria/master-inteligencia-artificial-online
+  Redirect 301 /programas/salud/master-oficial-en-direccion-y-gestion-de-servicios-de-enfermeria /programas/salud/master-direccion-gestion-servicios-enfermeria
+
+  # Discontinued — not part of the current catalog (see PROGRAMS-INDEX.md) —
+  # sent to the nearest still-live page instead of a specific ficha.
+  Redirect 301 /programas/salud/tecnico-en-farmacia-y-parafarmacia /programas/salud
+  Redirect 301 /master-educacion-inclusiva-online /programas/educacion
+  Redirect 301 /grados-y-maestrias/estados-unidos/maestrias-en-estados-unidos/master-en-innovacion-digital-con-mencion-en-gobierno-electronico /
+
+  # Old WordPress utility pages with no equivalent on this site.
+  Redirect 301 /contacto /
+  Redirect 301 /author/cesar /
+  Redirect 301 /estudia-en-madrid /
 </IfModule>
 
 # --- Static export routing ---
