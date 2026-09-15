@@ -52,9 +52,6 @@ compatibilizar el estudio con el ejercicio profesional.
 - Herramientas digitales e innovación aplicadas a la gestión, orientadas a
   liderar la transformación digital en entornos complejos y cambiantes
 
-*Nota: no se pudo reconstruir el desglose completo de módulos y créditos
-por bloque a partir de los resultados de búsqueda disponibles.*
-
 ## Salidas profesionales
 
 - Director/a de Servicios de Enfermería

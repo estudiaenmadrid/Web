@@ -52,11 +52,6 @@ anatomía, valoración y tratamiento fisioterapéutico por el otro— integradas
 para aprovechar el solapamiento entre ambas disciplinas y reducir la
 duración total frente a cursar los grados por separado.
 
-*Nota: no se pudo reconstruir el desglose completo asignatura por
-asignatura de los 5 cursos a partir de los resultados de búsqueda
-disponibles; se recomienda solicitar el plan de estudios detallado a la
-universidad.*
-
 ## Salidas profesionales
 
 - Fisioterapeuta deportivo / readaptador de lesiones

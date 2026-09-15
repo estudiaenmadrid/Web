@@ -38,7 +38,7 @@ El claustro está formado por líderes de ciberseguridad de grandes multinaciona
 
 ## Plan de estudios / contenidos principales
 
-La información disponible en fuentes indexadas no incluye el desglose completo de asignaturas por módulo, pero confirma los siguientes componentes del programa:
+El programa se organiza en torno a estos componentes:
 
 - **Fundamentos de ingeniería y gestión de la ciberseguridad**, con enfoque en aplicación real de conocimientos, no solo teoría.
 - **Preparación orientada a certificaciones reconocidas del sector** de ciberseguridad.

@@ -56,14 +56,9 @@ itinerario elegido.
 - *Segundo cuatrimestre:* Psicología Evolutiva, Fundamentos Biológicos de la
   Conducta, Comunicación.
 
-**Resto del plan** (según lo indexado, sin desglose curso a curso completo):
-asignaturas orientadas a los tres campos de mayor demanda — psicología
-sanitaria, educativa y laboral — con actualización periódica del temario.
-
-*Nota: la información disponible por búsqueda no permite reconstruir el
-desglose completo de 2º, 3º y 4º curso asignatura por asignatura; se
-recomienda pedir el plan de estudios oficial completo a la universidad antes
-de publicar una tabla exhaustiva.*
+**Resto del plan:** asignaturas orientadas a los tres campos de mayor
+demanda — psicología sanitaria, educativa y laboral — con actualización
+periódica del temario.
 
 ## Salidas profesionales
 

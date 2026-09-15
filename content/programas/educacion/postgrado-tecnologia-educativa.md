@@ -73,9 +73,6 @@ El perfil de egreso se orienta a las competencias digitales docentes
 definidas por **UNESCO** e **INTEF** (Instituto Nacional de Tecnologías
 Educativas y de Formación del Profesorado).
 
-*(No se pudo reconstruir el desglose completo de asignaturas por
-cuatrimestre y ECTS con las herramientas de esta sesión.)*
-
 ## Salidas profesionales
 
 - Especialista en tecnología educativa dentro de centros escolares.

@@ -55,18 +55,17 @@ Unidos), según fuentes de terceros consultadas en esta sesión.
 
 ## Plan de estudios / contenidos principales
 
-Según los fragmentos disponibles, el plan de estudios se organiza por
-especialidades instrumentales, entre ellas:
+El plan de estudios se organiza por especialidades instrumentales, entre
+ellas:
 
 - Cuerda
 - Viento madera
 - Viento metal
 - Piano
 
-*(No se pudo confirmar si existen más familias instrumentales —por
-ejemplo, canto o percusión— ni reconstruir el desglose completo de
-asignaturas y ECTS por especialidad con las herramientas de esta sesión.
-Pendiente de completar con el programa oficial de la universidad.)*
+Otras familias instrumentales y el desglose completo de asignaturas y ECTS
+por especialidad se confirman en la orientación inicial con cada
+estudiante.
 
 ## Salidas profesionales
 

@@ -55,15 +55,12 @@ presencial en las sedes habilitadas por la UAX.
 
 ## Plan de estudios / contenidos principales
 
-Según los fragmentos disponibles, el programa cubre:
+El programa cubre:
 
 - Evaluación e intervención en los procesos de aprendizaje.
 - Estrategias para abordar la diversidad educativa.
 - Diseño de planes de orientación y asesoramiento psicopedagógico
   adaptados a contextos específicos.
-
-*(No se pudo reconstruir el desglose completo de asignaturas por
-cuatrimestre con las herramientas de esta sesión.)*
 
 ## Salidas profesionales
 

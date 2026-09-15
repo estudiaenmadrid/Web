@@ -70,10 +70,6 @@ la UAX, el plan de estudios incorpora asignaturas y metodologías como:
 El perfil de egreso se orienta a las competencias digitales docentes
 definidas por **UNESCO** e **INTEF**.
 
-*(No se pudo reconstruir el desglose completo de asignaturas por
-cuatrimestre y ECTS con las herramientas de esta sesión — el snippet
-indexado no incluye tabla de plan de estudios.)*
-
 ## Salidas profesionales
 
 - Especialista en tecnología educativa dentro de centros escolares.

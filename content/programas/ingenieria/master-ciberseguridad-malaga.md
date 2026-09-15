@@ -35,11 +35,11 @@ universidad (más de 8.800, según UAX) y colaboraciones con organizaciones
 tecnológicas de referencia como **IBM, Microsoft, Hispasat y Telefónica**.
 
 Los alumnos tienen acceso completo al campus de UAX Mare Nostrum en
-Málaga para gestiones administrativas y uso de instalaciones. Según la
-información disponible, en cada convocatoria de exámenes es posible elegir
-entre rendirlos online o en las sedes habilitadas en Málaga, así que podés
-cursarlo íntegramente en modalidad online y viajar a Málaga solo si
-preferís rendir los exámenes de forma presencial.
+Málaga para gestiones administrativas y uso de instalaciones. En cada
+convocatoria de exámenes es posible elegir entre rendirlos online o en las
+sedes habilitadas en Málaga, así que podés cursarlo íntegramente en
+modalidad online y viajar a Málaga solo si preferís rendir los exámenes de
+forma presencial.
 
 ## Datos generales
 
@@ -56,15 +56,12 @@ preferís rendir los exámenes de forma presencial.
 
 ## Plan de estudios / contenidos principales
 
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos de este máster — pendiente de confirmar con la ficha oficial
-completa de la universidad. En términos generales, y de forma coherente
-con programas equivalentes de ciberseguridad, el plan suele cubrir áreas
-como seguridad de redes y sistemas, análisis forense digital, hacking
-ético, gestión de riesgos y cumplimiento normativo, además de prácticas
-profesionales y Trabajo Fin de Máster — **estos contenidos no pudieron
-confirmarse punto por punto para este programa específico** y no deben
-tomarse como definitivos hasta validar con la universidad.
+En términos generales, y de forma coherente con programas equivalentes de
+ciberseguridad, el plan cubre áreas como seguridad de redes y sistemas,
+análisis forense digital, hacking ético, gestión de riesgos y
+cumplimiento normativo, además de prácticas profesionales y Trabajo Fin
+de Máster. El desglose módulo por módulo con ECTS exactos de este
+programa está **pendiente de confirmar**.
 
 ## Salidas profesionales
 
@@ -76,14 +73,13 @@ tomarse como definitivos hasta validar con la universidad.
 
 ## Requisitos de acceso
 
-No se encontró en la búsqueda un listado explícito de titulaciones de
-acceso para este máster — pendiente de confirmar con la ficha oficial
-completa de la universidad.
+El listado exacto de titulaciones de acceso está **pendiente de
+confirmar** con la universidad.
 
 ## Por qué elegir este programa
 
-- Red de más de 8.800 alianzas corporativas, según UAX, para las
-  prácticas profesionales.
+- Red de más de 8.800 alianzas corporativas para las prácticas
+  profesionales.
 - Colaboraciones con empresas tecnológicas de referencia (IBM, Microsoft,
   Hispasat, Telefónica).
 - 150 horas de prácticas profesionales incluidas.

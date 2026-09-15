@@ -52,8 +52,8 @@ mientras resuelve trámites de visado o mudanza.
 
 ## Plan de estudios / contenidos principales
 
-Según la información disponible, el programa combina fundamentos teóricos
-con desarrollo aplicado de proyectos:
+El programa combina fundamentos teóricos con desarrollo aplicado de
+proyectos:
 
 - **Técnicas de IA**: clasificación, clustering, regresiones, deep
   learning.
@@ -64,10 +64,6 @@ con desarrollo aplicado de proyectos:
 - **Prácticas Académicas Externas** (6 ECTS / 150 horas), obligatorias
   salvo reconocimiento de experiencia equivalente.
 - **Trabajo Fin de Máster**.
-
-No se localizó en la búsqueda un desglose módulo por módulo con ECTS
-exactos de cada asignatura — pendiente de confirmar con la ficha oficial
-completa.
 
 ## Salidas profesionales
 

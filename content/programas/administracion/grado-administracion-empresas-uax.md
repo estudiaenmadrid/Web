@@ -87,7 +87,7 @@ modificado según BOE-A-2023-10040.
   estudiar en España.
 - Para estudiantes internacionales: gestión de homologación de estudios y
   visado de estudiante (la UAX cuenta con equipo propio de apoyo para
-  estos trámites, según el sitio).
+  estos trámites).
 
 ## Por qué elegir este programa
 

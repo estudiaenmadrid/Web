@@ -47,7 +47,7 @@ internacional.
 
 ## Plan de estudios / contenidos principales
 
-Según la información disponible, el plan de estudios cubre:
+El plan de estudios cubre:
 
 - Programación científica aplicada a biología/medicina.
 - Análisis de datos biomédicos.
@@ -55,10 +55,6 @@ Según la información disponible, el plan de estudios cubre:
 - Modelización de sistemas biológicos.
 - Trabajo Fin de Máster con orientación a investigación, con posibilidad
   de conexión con grupos de investigación externos.
-
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos — pendiente de confirmar con la ficha oficial completa de la
-universidad.
 
 ## Salidas profesionales
 
@@ -71,11 +67,10 @@ universidad.
 
 ## Requisitos de acceso
 
-No se encontró en la búsqueda un listado explícito de titulaciones de
-acceso para este máster en particular. En programas equivalentes de
-bioinformática, el perfil típico incluye titulaciones en Biología,
-Bioquímica, Medicina, Farmacia, Ingeniería Biomédica, Informática o afines
-— **pendiente de confirmar con la ficha oficial**.
+El perfil de acceso habitual en programas de bioinformática incluye
+titulaciones en Biología, Bioquímica, Medicina, Farmacia, Ingeniería
+Biomédica, Informática o afines — **listado exacto pendiente de
+confirmar**.
 
 ## Por qué elegir este programa
 

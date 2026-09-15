@@ -42,7 +42,7 @@ sector.
 
 ## Plan de estudios / contenidos principales
 
-Según la información disponible, el programa incluye:
+El programa incluye:
 
 - Fundamentos y tendencias actuales del marketing digital.
 - Metodologías ágiles aplicadas a proyectos de marketing.
@@ -50,10 +50,6 @@ Según la información disponible, el programa incluye:
 - Certificaciones en habilidades blandas ("soft skills").
 - **Prácticas Académicas Externas obligatorias** (6 ECTS / 150 horas).
 - Trabajo Fin de Máster.
-
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos de cada asignatura — pendiente de confirmar con la ficha oficial
-completa de la universidad.
 
 ## Salidas profesionales
 

@@ -56,10 +56,6 @@ Además de estas materias, el programa incluye **prácticas académicas
 externas obligatorias** y la defensa del **Trabajo Fin de Máster (TFM)**
 como parte de los 60 ECTS totales.
 
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos de cada asignatura — pendiente de confirmar con la ficha oficial
-completa de la universidad.
-
 ## Salidas profesionales
 
 - Técnico Superior en Prevención de Riesgos Laborales (habilitado en las
@@ -70,9 +66,8 @@ completa de la universidad.
 
 ## Requisitos de acceso
 
-No se encontró en la búsqueda un listado explícito de titulaciones de
-acceso para este máster — pendiente de confirmar con la ficha oficial
-completa de la universidad.
+El listado exacto de titulaciones de acceso está **pendiente de
+confirmar** con la universidad.
 
 ## Por qué elegir este programa
 

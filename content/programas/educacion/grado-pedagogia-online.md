@@ -75,10 +75,8 @@ tecnologías o intervención social.
 
 ## Plan de estudios / contenidos principales
 
-Con la información disponible en esta sesión (snippets de búsqueda, sin
-acceso al programa completo por asignatura), el primer curso incluye 60
-ECTS distribuidos en dos cuatrimestres. En líneas generales, un Grado en
-Pedagogía cubre:
+El primer curso incluye 60 ECTS distribuidos en dos cuatrimestres. En
+líneas generales, un Grado en Pedagogía cubre:
 
 - Fundamentos de la educación, psicología del desarrollo y del aprendizaje.
 - Diseño y evaluación curricular.

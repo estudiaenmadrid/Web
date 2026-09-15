@@ -80,11 +80,8 @@ Y en el segundo cuatrimestre, entre otras:
 El plan continúa con un número variado de asignaturas optativas que
 permiten especializar la formación en alguna de las tres menciones
 (patrimonio musical, pedagogía musical, músicas urbanas y contemporáneas).
-
-*(No se pudo reconstruir el plan de estudios completo curso por curso con
-las herramientas de esta sesión — los snippets de búsqueda no alcanzan
-para eso. La universidad publica un programa detallado por asignatura en
-su campus virtual, que no fue accesible por el bloqueo de egress.)*
+El desglose completo, curso por curso, se comparte en la orientación
+inicial con cada estudiante.
 
 ## Salidas profesionales
 

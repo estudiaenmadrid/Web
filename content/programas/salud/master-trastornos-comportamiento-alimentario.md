@@ -55,9 +55,6 @@ presenciales obligatorias:
 - **Prácticas externas presenciales (6 ECTS)**, en el segundo semestre, con
   casos reales
 
-*Nota: no se pudo reconstruir el desglose completo de módulos y asignaturas
-a partir de los resultados de búsqueda disponibles.*
-
 ## Salidas profesionales
 
 - Especialista en trastornos de la conducta alimentaria dentro de equipos

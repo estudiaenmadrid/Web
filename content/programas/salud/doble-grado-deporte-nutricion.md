@@ -51,11 +51,6 @@ nutricional. El diseño busca que el egresado pueda planificar
 simultáneamente el entrenamiento físico y el asesoramiento nutricional de
 un mismo deportista o paciente.
 
-*Nota: no se pudo reconstruir el desglose completo asignatura por
-asignatura de los 5 cursos a partir de los resultados de búsqueda
-disponibles; se recomienda solicitar el plan de estudios detallado a la
-universidad.*
-
 ## Salidas profesionales
 
 - Entrenador personal y asesor nutricional (perfil combinado)

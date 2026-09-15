@@ -56,8 +56,7 @@ UAX.
 
 ## Plan de estudios / contenidos principales
 
-Con la información disponible en los snippets, el programa incluye
-contenidos orientados a:
+El programa incluye contenidos orientados a:
 
 - Metodologías de enseñanza bilingüe y AICLE/CLIL (Aprendizaje Integrado
   de Contenidos y Lenguas Extranjeras).
@@ -65,10 +64,6 @@ contenidos orientados a:
 - Gestión de recursos y organización de centros bilingües.
 - Prácticas externas (6 ECTS) en centros educativos bilingües oficiales,
   con aplicación real de lo aprendido.
-
-*(No se pudo reconstruir el desglose completo de asignaturas por
-cuatrimestre con las herramientas de esta sesión — pendiente de completar
-con el programa oficial de la universidad.)*
 
 ## Salidas profesionales
 

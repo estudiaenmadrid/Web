@@ -57,9 +57,6 @@ hacia las áreas de mayor demanda de la biomedicina actual:
 El último año funciona como puente hacia la vida profesional, aplicando lo
 aprendido en prácticas en empresas del sector biomédico.
 
-*Nota: no se pudo reconstruir el desglose curso a curso completo (2º y 3er
-año) a partir de los resultados de búsqueda disponibles.*
-
 ## Salidas profesionales
 
 - Investigación biomédica (universidades, centros de investigación, I+D

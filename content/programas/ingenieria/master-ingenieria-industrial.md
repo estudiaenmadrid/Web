@@ -52,9 +52,8 @@ Repsol, Endesa o Airbus, según describe la propia universidad.
 
 ## Plan de estudios / contenidos principales
 
-Según la información disponible de la universidad, el programa incluye
-formación técnica avanzada y manejo de software profesional del sector,
-entre otros:
+El programa incluye formación técnica avanzada y manejo de software
+profesional del sector, entre otros:
 
 - **CATIA** — diseño y fabricación asistidos por ordenador (CAD/CAM).
 - **ANSYS** — análisis de estructuras.
@@ -65,10 +64,6 @@ Además de la formación técnica, el máster incorpora certificaciones en
 habilidades transversales de alta demanda (a través de la UAX Skill
 School), como pensamiento analítico, storytelling, pensamiento disruptivo
 y liderazgo y ética.
-
-No se encontró en la búsqueda un desglose completo módulo por módulo con
-ECTS de cada asignatura — queda pendiente de confirmar con la ficha oficial
-completa de la universidad.
 
 ## Salidas profesionales
 

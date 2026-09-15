@@ -52,10 +52,6 @@ especialización:
 - **4º curso:** especialización a elegir entre **Fisioterapia Oncológica**,
   **Fisioterapia Cardiovascular** o **Fisioterapia Respiratoria**.
 
-*Nota: no se pudo reconstruir el desglose completo asignatura por asignatura
-de los 4 cursos a partir de los resultados de búsqueda disponibles; se
-recomienda solicitar el plan de estudios detallado a la universidad.*
-
 ## Salidas profesionales
 
 - Fisioterapeuta en centros sanitarios públicos y privados

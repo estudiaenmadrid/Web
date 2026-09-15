@@ -55,11 +55,6 @@ física— con masterclasses aplicadas sobre:
 - Planificación y gestión deportiva
 - Emprendimiento en el sector deportivo
 
-*Nota: no se pudo reconstruir el desglose completo asignatura por
-asignatura de los 4 cursos a partir de los resultados de búsqueda
-disponibles; se recomienda solicitar el plan de estudios detallado a la
-universidad.*
-
 ## Salidas profesionales
 
 - Preparador/a físico y entrenador/a deportivo

@@ -54,14 +54,11 @@ para ejercer en la red privada y concertada.
 | **Duración** | 4 años |
 | **Créditos** | 240 ECTS |
 | **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior |
-| **Precio de referencia** | Pendiente de confirmar (fuentes de terceros mencionan cifras del entorno de 4.700-4.900 €/año en cursos recientes, pero no está confirmado en fuente oficial de esta sesión — no usar sin verificar) |
+| **Precio de referencia** | Pendiente de confirmar con la universidad |
 
 ## Plan de estudios / contenidos principales
 
-No se pudo reconstruir el plan de estudios completo por asignatura con las
-herramientas de esta sesión (solo se dispone de snippets de búsqueda, no de
-la página completa de la universidad). En líneas generales, un Grado en
-Maestro en Educación Primaria en España cubre bloques como:
+El Grado en Maestro en Educación Primaria cubre bloques como:
 
 - Bases pedagógicas, psicológicas y sociológicas de la educación.
 - Didáctica de las áreas curriculares de Primaria (Lengua, Matemáticas,

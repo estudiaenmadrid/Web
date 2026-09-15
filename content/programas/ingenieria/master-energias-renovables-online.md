@@ -78,10 +78,8 @@ Madrid, e inicia en octubre.
 
 ## Requisitos de acceso
 
-No se encontró en la búsqueda un listado explícito de titulaciones de
-acceso para este máster — pendiente de confirmar con la ficha oficial
-completa de la universidad. En programas equivalentes, el perfil típico
-suele requerir una titulación previa en ingeniería o ciencias afines.
+El perfil de acceso habitual requiere una titulación previa en ingeniería
+o ciencias afines — **listado exacto pendiente de confirmar**.
 
 ## Por qué elegir este programa
 

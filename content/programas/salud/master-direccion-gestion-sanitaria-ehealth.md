@@ -53,9 +53,6 @@ casos y examen final.
 - Herramientas digitales aplicadas a la gestión: inteligencia artificial,
   machine learning y telemedicina
 
-*Nota: no se pudo reconstruir el desglose completo de módulos y créditos
-por bloque a partir de los resultados de búsqueda disponibles.*
-
 ## Salidas profesionales
 
 - Dirección y gerencia de centros y organizaciones sanitarias

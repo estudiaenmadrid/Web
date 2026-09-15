@@ -27,10 +27,9 @@ volúmenes de datos aplicando técnicas de inteligencia artificial,
 programación, visualización avanzada y entornos cloud, orientados a apoyar
 decisiones estratégicas dentro de las organizaciones.
 
-Según información de la propia universidad, el plan de estudios se
-desarrolló a partir de las necesidades de más de 50 empresas de referencia
-internacional, buscando mantener el contenido actualizado con lo que pide
-el mercado.
+El plan de estudios se desarrolló a partir de las necesidades de más de 50
+empresas de referencia internacional, buscando mantener el contenido
+actualizado con lo que pide el mercado.
 
 ## Datos generales
 
@@ -45,7 +44,7 @@ el mercado.
 
 ## Plan de estudios / contenidos principales
 
-Con la información disponible, el programa cubre:
+El programa cubre:
 
 - Fundamentos de gestión y análisis de grandes volúmenes de datos.
 - Aplicación de técnicas de inteligencia artificial al Big Data.
@@ -54,10 +53,6 @@ Con la información disponible, el programa cubre:
 - Entornos y arquitecturas cloud para Big Data.
 - Casos de aplicación orientados a la toma de decisiones estratégicas en
   empresa.
-
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos — pendiente de confirmar con la ficha oficial completa de la
-universidad.
 
 ## Salidas profesionales
 
