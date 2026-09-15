@@ -21,7 +21,7 @@ export const metadata: Metadata = pageMetadata({
 });
 
 const FEATURED_SLUGS: [string, string][] = [
-  ["salud", "grado-psicologia"],
+  ["salud", "master-odontologia-digital"],
   ["derecho", "master-criminalistica"],
   ["ingenieria", "grado-inteligencia-artificial"],
 ];
