@@ -10,7 +10,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/privacidad",
 });
 
-const LAST_UPDATED = "14 de septiembre de 2026";
+const LAST_UPDATED = "18 de septiembre de 2026";
 
 function Section({ num, title, children }: { num: string; title: string; children: React.ReactNode }) {
   return (
@@ -118,16 +118,56 @@ export default function PrivacidadPage() {
           </p>
         </Section>
 
-        <Section num="04" title="Cookies y almacenamiento local">
+        <Section num="04" title="Política de cookies">
           <p>
-            Este sitio no utiliza cookies de seguimiento, analítica ni publicidad de ningún tipo. El único dato que
-            se guarda en tu navegador es una marca técnica local (<code>sessionStorage</code>, no una cookie) que
-            recuerda si ya viste la animación de carga inicial durante tu visita — se borra automáticamente al
-            cerrar el navegador, no identifica quién sos y no se comparte con nadie.
+            Una cookie es un pequeño archivo que un sitio web guarda en tu navegador para recordar información
+            entre visitas — por ejemplo, tus preferencias, si iniciaste sesión, o para rastrear tu actividad con
+            fines analíticos o publicitarios.
           </p>
           <p>
-            Si en el futuro incorporamos herramientas de analítica o publicidad, vamos a actualizar esta página y a
-            pedir tu consentimiento explícito antes de activarlas, como exige la normativa.
+            <strong>Este sitio no utiliza ninguna cookie</strong> — ni propia ni de terceros, ni técnica, ni de
+            analítica, ni de publicidad. No hay Google Analytics, Meta Pixel, ni ninguna otra herramienta de
+            seguimiento instalada.
+          </p>
+          <p>
+            Lo único que se guarda en tu navegador es una marca técnica local, usando{" "}
+            <code>sessionStorage</code> (una tecnología distinta de las cookies, que el sitio web controla pero que
+            nunca se envía a ningún servidor):
+          </p>
+          <table>
+            <thead>
+              <tr>
+                <th>Nombre</th>
+                <th>Tipo</th>
+                <th>Finalidad</th>
+                <th>Duración</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <code>eem-loader-shown</code>
+                </td>
+                <td>sessionStorage (no es una cookie)</td>
+                <td>Recordar que ya viste la animación de carga inicial, para no repetirla en cada página durante la misma visita.</td>
+                <td>Se borra al cerrar la pestaña o el navegador.</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>
+            Esta marca no te identifica, no se comparte con nadie, y no tiene ningún propósito de seguimiento o
+            analítica — es puramente una preferencia visual de tu sesión actual. No necesita tu consentimiento
+            porque no es una cookie ni un dato personal.
+          </p>
+          <p>
+            Como no usamos cookies, no hay nada que necesites desactivar. Si igual querés borrar ese dato local,
+            podés hacerlo desde la configuración de tu navegador (Configuración → Privacidad → Borrar datos de
+            navegación) o simplemente cerrando la pestaña.
+          </p>
+          <p>
+            Si en el futuro incorporamos cookies o herramientas de analítica o publicidad, vamos a actualizar esta
+            página, detallar aquí cada una en la tabla de arriba, y pedir tu consentimiento explícito antes de
+            activarlas — como exige la normativa (LSSI-CE y RGPD).
           </p>
         </Section>
 
