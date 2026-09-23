@@ -1,0 +1,474 @@
+1:"$Sreact.fragment"
+2:I[40473,["/_next/static/chunks/1dtep77600pqt.js","/_next/static/chunks/1yttpzfn4-h45.js","/_next/static/chunks/11kv0a13k4c21.js"],"default"]
+3:T117d,## La confusión más común: selectividad no es lo mismo que "requisito de acceso"
+
+Muchos estudiantes que recién terminan el colegio en su país nos escriben preocupados por tener que rendir la selectividad española (hoy llamada EvAU) para poder estudiar en Madrid. La buena noticia: **las universidades privadas españolas, como las que trabajan con nosotros, no exigen la selectividad española**. Tienen sus propios procesos de admisión.
+
+Eso no significa que no haya ningún requisito — sí lo hay, solo que es distinto, y vale la pena entender las opciones reales.
+
+## Las vías que existen para estudiantes latinoamericanos
+
+### 1. Homologación del título de bachillerato
+
+Es el reconocimiento oficial, por parte del Ministerio de Educación español, de que tu título de secundaria de origen equivale al Bachillerato español. Una vez homologado, tenés acceso a la universidad en las mismas condiciones que un estudiante que cursó el bachillerato en España — aunque en la universidad pública normalmente igual necesitás una nota de acceso.
+
+### 2. Credencial UNEDasiss
+
+Es la vía más usada por estudiantes internacionales que **no** quieren homologar su título antes de acceder. La gestiona la UNED (Universidad Nacional de Educación a Distancia) y actúa como una nota de acceso equivalente a la española, calculada a partir de tu expediente de secundaria — en algunos casos incluye una fase de examen (la Prueba de Competencias Específicas, PCE, que funciona como una especie de "selectividad para extranjeros"). Esta vía está pensada sobre todo para acceder a **universidades públicas**.
+
+### 3. Admisión propia de la universidad privada
+
+Esto es lo que aplica a la gran mayoría de nuestros estudiantes: **las universidades privadas no piden selectividad ni, en muchos casos, la credencial UNED**. En su lugar, evalúan tu expediente académico de secundaria, y algunas piden una entrevista o una prueba propia de admisión — el proceso lo define cada universidad, no un examen nacional único.
+
+## Qué significa esto en la práctica
+
+Si venís de terminar el colegio en tu país y querés empezar un grado en alguna de nuestras universidades convenidas, en la mayoría de los casos el camino es:
+
+1. Reunir tu certificado de secundaria y notas.
+2. La universidad evalúa tu expediente (y, según el programa, puede pedir una entrevista o prueba interna).
+3. En paralelo, gestionás la homologación de tu título si la universidad la pide como requisito administrativo — esto puede tramitarse en paralelo a tu proceso de admisión, no necesariamente antes.
+
+No hay un examen único de "selectividad para latinoamericanos" que tengas que rendir para entrar a una privada — pero el detalle exacto (si piden homologación previa, entrevista, prueba propia) varía según la universidad y el programa específico.
+
+## Cómo te acompañamos nosotros
+
+Antes de asumir que necesitás rendir un examen que capaz no aplica a tu caso, escribinos con tu situación (país de origen, título de secundaria, programa que te interesa) — te decimos exactamente qué requisito de acceso te corresponde en la universidad y programa específicos, sin generalizaciones que después no se cumplen.
+
+## Preguntas frecuentes
+
+**¿Necesito rendir la EvAU (selectividad) para estudiar en una universidad privada de Madrid?**
+En general, no. Las universidades privadas tienen procesos de admisión propios, distintos a la selectividad pública.
+
+**¿Siempre tengo que homologar mi bachillerato antes de postular?**
+Depende de la universidad y el programa — algunas lo piden como requisito de matrícula final, no necesariamente antes de la admisión. Te lo confirmamos según tu caso.
+
+**¿La credencial UNED me sirve para una universidad privada?**
+Puede servir, pero la mayoría de las privadas no la exigen — tienen su propio criterio de evaluación de expediente.
+
+**¿Qué pasa si mi título de secundaria no es un bachillerato tradicional (por ejemplo, viene de un programa técnico)?**
+Se evalúa caso por caso — escribinos con el detalle de tu título y te decimos qué opciones tenés.
+
+## Llamada a la acción
+
+> ¿Estás por terminar el colegio y no sabés qué requisito de acceso te
+> corresponde para estudiar en Madrid? Escribinos por WhatsApp al
+> **+34 677 055 769** con tu país y tu título de secundaria — te confirmamos el
+> camino exacto antes de que asumas que necesitás rendir un examen que quizás
+> no te corresponde.4:T134d,## Dos tipos de becas que no hay que confundir
+
+Cuando alguien pregunta "¿hay becas para estudiar en España?", en realidad está preguntando por dos cosas distintas:
+
+1. **Becas externas** — programas de gobiernos, fundaciones o iniciativas europeas, independientes de qué universidad elijas. Son competitivas, tienen plazos fijos y no las gestionamos nosotros.
+2. **Becas y descuentos internos** de la propia universidad — parte de la tarifa por convenio que negociamos, o programas propios que cada universidad ofrece a estudiantes internacionales.
+
+Vale la pena conocer ambas, porque a veces se pueden combinar.
+
+## Becas externas: el panorama real
+
+- **Fundación Carolina**: becas de posgrado dirigidas a titulados de países de la Comunidad Iberoamericana de Naciones. La convocatoria general suele abrir a principios de año (referencia 2026: 12 de enero al 2 de marzo) — son altamente competitivas y no dependen de a qué universidad postules.
+- **AUIP** (Asociación Universitaria Iberoamericana de Postgrado): red de más de 268 instituciones en España, Portugal, Latinoamérica y el Caribe con becas de posgrado abiertas a estudiantes de toda la región. Vale aclarar: la mayoría de las universidades participantes que aparecen listadas son públicas (Rey Juan Carlos, Sevilla, Jaén, Carlos III, entre otras) — antes de aplicar, confirmá si tu universidad de destino participa ese año.
+- **Erasmus Mundus**: programas de máster conjunto entre varias universidades europeas (y a veces latinoamericanas), con aplicación habitualmente en enero-marzo. Es un programa exigente, pensado para másteres específicos, no para cualquier programa.
+- **MAEC-AECID**: becas del gobierno español para estudiantes de países con acuerdos de cooperación específicos — la lista de países y programas elegibles cambia por convocatoria.
+
+Ninguna de estas la tramitamos nosotros directamente — son programas externos con sus propios procesos de postulación, casi siempre muy competitivos y con cupos limitados. Si te interesa alguna, te recomendamos empezar el proceso con varios meses de anticipación.
+
+## Becas internas de nuestras universidades convenidas
+
+Esto es lo que sí conocemos de cerca porque trabajamos directo con las universidades:
+
+- **Universidad Nebrija** tiene un programa específico para estudiantes latinoamericanos, en alianza con la Fundación Beca: según su información pública, ofrece becas de hasta el 30% para programas de posgrado y hasta el 10% para el primer año de grado.
+- **UAX, CEU San Pablo y UCJC** también tienen programas de becas y ayudas internas, pero no encontramos cifras específicas y verificadas para estudiantes internacionales en esta investigación — varían por programa, convocatoria y perfil del estudiante, así que te las confirmamos caso por caso antes de que te matricules.
+
+Además de estas becas por mérito o nacionalidad, casi todas las universidades tienen descuentos por otros motivos (por ejemplo, UCJC ofrece un descuento del 10% para quienes se empadronan en el municipio de su campus principal) — no son exclusivos para estudiantes internacionales, pero pueden sumar si aplican a tu situación.
+
+## Cómo lo trabajamos nosotros
+
+Cuando te ayudamos con tu admisión, revisamos con la universidad qué becas o descuentos aplican a tu perfil concreto — no es información que esté siempre publicada de forma clara y actualizada, y a veces depende de la convocatoria del momento. Te decimos con honestidad qué es realista esperar, en vez de prometerte un porcentaje que después no se cumple.
+
+## Preguntas frecuentes
+
+**¿Puedo combinar una beca externa con el descuento por convenio de Estudia en Madrid?**
+Depende de la beca y de la universidad — algunos programas externos son compatibles con tarifas de convenio, otros no. Lo revisamos según tu caso antes de que apliques a ambos.
+
+**¿Las becas externas cubren la matrícula completa?**
+Rara vez cubren el 100%. La mayoría cubre una parte de la matrícula, o matrícula más manutención, con montos y porcentajes que varían mucho según el programa y el año.
+
+**¿Necesito buena media académica para acceder a las becas internas?**
+En general sí — la mayoría de las becas por mérito de las universidades piden un expediente académico mínimo, pero el umbral exacto varía por programa. Te lo confirmamos según el programa específico que te interesa.
+
+**¿Qué pasa si no califico para ninguna beca?**
+Seguís teniendo la tarifa de convenio directo, que ya es distinta (y generalmente menor) a la tarifa pública de la universidad — no depende de que califiques para una beca adicional.
+
+## Llamada a la acción
+
+> ¿Querés saber qué becas podrían aplicarte según tu perfil y el programa que te
+> interesa? Escribinos por WhatsApp al **+34 677 055 769** — lo revisamos con la
+> universidad antes de que te matricules, sin prometerte nada que después no se
+> cumpla.5:Tead,## Por qué esto importa antes de elegir programa
+
+Casi todas las fichas de programa de nuestro catálogo mencionan los créditos ECTS de cada grado o máster. Si tu país tiene un sistema de créditos distinto (o no usa créditos en absoluto), esa cifra no te dice nada por sí sola — y sin embargo es la unidad que define cuánto dura un programa y cuánta carga de trabajo real tiene.
+
+## Qué es un crédito ECTS
+
+ECTS significa "European Credit Transfer and Accumulation System" (Sistema Europeo de Transferencia y Acumulación de Créditos). Es la unidad de medida que usan las universidades de toda Europa — incluida España — para cuantificar la carga de trabajo de un estudiante: no solo horas de clase, sino también estudio personal, trabajos, prácticas y exámenes.
+
+**Cada crédito ECTS equivale, aproximadamente, a entre 25 y 30 horas de dedicación total.**
+
+## Cómo se traduce en años de estudio
+
+- **Un curso académico completo** equivale a 60 créditos ECTS.
+- **Un grado** en España tiene, en la gran mayoría de los casos, 240 créditos ECTS, distribuidos en 4 cursos académicos.
+- **Un máster oficial** tiene entre 60 y 120 créditos ECTS, según el programa — eso equivale a entre 9 meses y 2 años, e incluye el Trabajo Fin de Máster (TFM).
+
+Por eso en nuestras fichas de programa vas a ver másteres de "60 ECTS, 9 meses" junto a otros de "120 ECTS, 2 años": la diferencia de créditos explica directamente la diferencia de duración.
+
+## Para qué sirve este sistema, más allá de medir tiempo
+
+El ECTS no es solo una forma de contar horas — fue diseñado para que los créditos sean **transferibles y acumulables** entre universidades y países dentro del Espacio Europeo de Educación Superior. En la práctica, esto es justamente lo que hace posible que, si ya cursaste materias equivalentes en tu país, se puedan reconocer créditos al convalidar hacia un grado español, en vez de tener que empezar todo desde cero.
+
+## Cómo lo usamos en nuestras fichas de programa
+
+Cada ficha de programa en nuestro catálogo muestra los créditos ECTS totales y la duración en años o meses — así podés comparar programas de forma directa, incluso entre universidades distintas, porque el crédito ECTS significa lo mismo en cualquiera de ellas (a diferencia de un sistema de créditos propio de una sola universidad o país).
+
+## Preguntas frecuentes
+
+**¿Los créditos ECTS son iguales en toda Europa?**
+Sí, esa es justamente la idea del sistema: un crédito ECTS representa la misma carga de trabajo aproximada en cualquier universidad adherida al Espacio Europeo de Educación Superior, no solo en España.
+
+**¿Puedo convalidar créditos de mi país hacia un sistema ECTS?**
+En muchos casos sí, aunque no es una conversión automática — depende de cuánto se parezcan los contenidos y la carga horaria de las materias que ya cursaste. Lo revisamos caso por caso con tu plan de estudios de origen.
+
+**¿Por qué algunos másteres duran 9 meses y otros 2 años si ambos son "oficiales"?**
+Porque tienen distinta cantidad de créditos ECTS (60 frente a 120) — la duración depende directamente de esa cifra, no del prestigio o la exigencia del título.
+
+**¿Los créditos ECTS sirven para oposiciones o ejercicio profesional en mi país?**
+Depende de tu país y de si tu título necesita homologación o reconocimiento específico allá — es una pregunta distinta a la de los créditos ECTS en sí, que solo miden carga de trabajo dentro del sistema europeo.
+
+## Llamada a la acción
+
+> ¿Tenés dudas sobre cuántos créditos te reconocerían de tus estudios previos?
+> Escribinos por WhatsApp al **+34 677 055 769** con tu plan de estudios de
+> origen y lo revisamos juntos antes de que te matricules.6:Tf48,## Por qué conviene resolver esto temprano
+
+Vas a necesitar una cuenta española para casi todo: pagar el alquiler, domiciliar servicios, recibir transferencias familiares sin comisiones altas, y en algunos casos hasta para la propia matrícula universitaria. Cuanto antes la resuelvas, menos trámites se te amontonan en las primeras semanas.
+
+## Qué piden los bancos tradicionales
+
+La documentación varía según el banco, pero en general piden alguna combinación de:
+
+- **Pasaporte** vigente.
+- **NIE o TIE** (Número/Tarjeta de Identidad de Extranjero) — aunque, como se explica más abajo, no siempre es imprescindible desde el primer día.
+- **Comprobante de domicilio** en España (contrato de alquiler, o certificado de empadronamiento).
+- **Carta de admisión** de tu universidad, que sirve como justificante de por qué estás en España.
+- **Comprobante de ingresos o de solvencia económica**, según el tipo de cuenta.
+
+## La diferencia entre residente y no residente
+
+Los bancos suelen diferenciar entre dos tipos de cuenta:
+
+- **Cuenta de no residente**: pensada para quien todavía no tiene resuelta su situación migratoria. Algunos bancos la ofrecen, otros piden al menos el resguardo de haber solicitado el NIE.
+- **Cuenta de residente**: una vez que tenés tu NIE o TIE, la mayoría de los bancos te la abre sin mayor complicación — para extranjeros no comunitarios, el NIE suele ser suficiente.
+
+En la práctica, esto significa que **no tenés que esperar a tener el TIE completo en la mano** para empezar a operar — pero las condiciones exactas (qué piden, cuánto tardan) varían bastante de un banco a otro, así que conviene comparar antes de elegir.
+
+## La alternativa más rápida: neobancos
+
+Si necesitás una cuenta operativa antes de resolver tu situación migratoria, los neobancos digitales (como N26 y otros similares) suelen ser la vía más rápida: permiten abrir cuenta con tu pasaporte o documento de identidad de tu país de origen, sin pedir NIE. No reemplazan necesariamente a un banco tradicional para todo (algunos trámites, como ciertas domiciliaciones, prefieren una cuenta de un banco establecido), pero son útiles para tener una tarjeta operativa desde el primer día que llegás.
+
+## Cómo lo recomendamos nosotros
+
+Para la mayoría de nuestros estudiantes, el orden más práctico es: abrir una cuenta en un neobanco apenas llegás (para tener tarjeta y IBAN español de inmediato), y una vez que tenés tu NIE o TIE resuelto, evaluar si te conviene además una cuenta en un banco tradicional según tus necesidades (por ejemplo, si tu universidad o tu arrendador prefieren domiciliar pagos en un banco específico).
+
+## Preguntas frecuentes
+
+**¿Puedo abrir cuenta bancaria antes de llegar a España?**
+Algunos bancos y neobancos lo permiten de forma remota, pero es más común resolverlo una vez que ya estás en el país, con tu domicilio confirmado.
+
+**¿Necesito el TIE completo o alcanza con el NIE?**
+Para la mayoría de los bancos, el NIE (o al menos el resguardo de haberlo solicitado) suele ser suficiente — no siempre hace falta esperar la tarjeta física del TIE.
+
+**¿Hay comisiones por ser cuenta de no residente?**
+Depende del banco — algunas cuentas de no residente tienen más comisiones que las de residente. Conviene comparar antes de elegir, sobre todo si vas a mantenerla por poco tiempo.
+
+**¿Puedo recibir dinero de mi familia sin problema con estas cuentas?**
+Sí, tanto los bancos tradicionales como los neobancos permiten recibir transferencias internacionales, aunque las comisiones y tiempos varían según la entidad de origen y destino.
+
+## Llamada a la acción
+
+> ¿Ya tenés fecha de llegada a Madrid y querés organizar estos trámites con
+> anticipación? Escribinos por WhatsApp al **+34 677 055 769** — te contamos
+> qué orden de trámites le funcionó mejor a otros estudiantes que ya pasaron
+> por esto.7:T10d2,## El error más caro: comprar un seguro de viaje en vez de un seguro de estudiante
+
+Si buscás "seguro médico para viajar a España", te van a aparecer pólizas de viaje tipo Schengen, pensadas para turistas — cobertura de unos 30.000 €, válidas para estancias cortas. **Ese tipo de seguro no sirve para el visado de estudiante** si tu estancia va a superar los 90 días, que es el caso de prácticamente todos nuestros estudiantes. Comprarlo por error significa perder esa plata y tener que contratar el correcto de todas formas.
+
+## Qué exige realmente el consulado
+
+Según la documentación consular, el seguro médico para el visado de estudiante tiene que cumplir con condiciones específicas, no solo "tener cobertura médica" en general:
+
+- **Cobertura equivalente a la del sistema público de salud español** — no una cobertura básica de emergencias.
+- **Sin copagos**: no puede exigirte pagar una parte de cada consulta o tratamiento.
+- **Sin períodos de carencia**: la cobertura tiene que empezar a funcionar desde el primer día, no después de un plazo de espera.
+- **Sin límite de cobertura** (o con un límite muy alto): tiene que cubrir el 100% de gastos médicos, hospitalarios y extrahospitalarios.
+- **Repatriación incluida**: cobertura para el traslado a tu país de origen en caso de necesidad médica grave.
+- **Válido durante toda la duración de tu estancia**, no solo los primeros meses.
+
+Si tu póliza no cumple con todas estas condiciones a la vez, el consulado puede rechazarla — no basta con "tener seguro médico", tiene que ser específicamente uno diseñado para visado de estudiante.
+
+## Cuánto cuesta, en términos generales
+
+Los precios varían según la aseguradora, tu edad y la cobertura exacta, pero como referencia de mercado (fuentes de terceros, no verificado con cotización propia), los seguros de estudiante que cumplen estas condiciones suelen rondar entre los 400 € y 500 € anuales. No recomendamos ninguna aseguradora en particular — te sugerimos comparar al menos dos o tres opciones que cumplan explícitamente con los requisitos consulares antes de contratar.
+
+## Cómo confirmar que tu póliza sirve
+
+Antes de pagar, pedile a la aseguradora que te confirme por escrito (o revisá en las condiciones de la póliza) que cumple específicamente con los requisitos de "seguro médico para visado de estudiante en España, sin copago, sin carencia, con repatriación". Muchas aseguradoras internacionales ya tienen un producto etiquetado exactamente así, precisamente porque es un pedido frecuente.
+
+## Cómo te ayudamos nosotros
+
+No vendemos seguros ni recibimos comisión por ninguna aseguradora — te orientamos sobre qué condiciones tiene que cumplir tu póliza para que el consulado no te la rechace, y revisamos la documentación antes de que la presentes, para evitar que pierdas una cita por un seguro que no cumple los requisitos.
+
+## Preguntas frecuentes
+
+**¿Sirve mi seguro médico del país de origen si tiene cobertura internacional?**
+Depende de si cumple específicamente con las condiciones que pide el consulado (sin copago, sin carencia, con repatriación, válido en España). Muchos seguros "internacionales" genéricos no cumplen todos los puntos — hay que revisarlo con detalle antes de asumir que sirve.
+
+**¿El seguro médico de mi universidad reemplaza este requisito?**
+Generalmente no — el seguro médico exigido para el visado es un trámite consular independiente del seguro (si existe) que ofrezca la universidad. Confirmá los dos por separado.
+
+**¿Puedo cambiar de seguro una vez que estoy en España?**
+Sí, una vez que tenés tu visado y estás instalado podés evaluar otras opciones de seguro médico si te conviene, siempre que mantengas cobertura válida.
+
+**¿Qué pasa si mi seguro no cumple los requisitos y ya tengo la cita consular agendada?**
+Contratá o ajustá tu póliza antes de la cita — presentar un seguro que no cumple las condiciones es una de las causas más comunes de que se demore o se rechace la solicitud.
+
+## Llamada a la acción
+
+> ¿No estás seguro/a si tu seguro médico cumple lo que pide el consulado?
+> Escribinos por WhatsApp al **+34 677 055 769** y lo revisamos juntos antes
+> de tu cita, para que no pierdas tiempo con un seguro que no te van a aceptar.8:T130f,## El error más común: elegir por "fama" antes que por programa
+
+Muchos estudiantes nos escriben preguntando cuál universidad de Madrid es "mejor", como si hubiera un ranking único que aplicara a cualquier carrera. En la práctica, la pregunta correcta no es "¿cuál universidad es mejor?" sino "¿cuál universidad es mejor **para el programa específico que quiero estudiar**?" — porque ninguna de las universidades privadas de Madrid es igual de fuerte en todas las áreas.
+
+## Cuatro cosas que sí importan
+
+### 1. Acreditación oficial
+
+Todas las universidades privadas españolas necesitan aprobación del Ministerio de Educación y, según el caso, evaluación de la Agencia Nacional de Evaluación de la Calidad (ANECA) para sus títulos oficiales. Esto no es opcional ni algo que distinga a unas de otras — es el piso mínimo. Lo que sí conviene revisar es si el título específico que te interesa es un **título oficial** (con validez en todo el Espacio Europeo de Educación Superior) o un **título propio** de la universidad — ambos pueden ser una buena opción, pero para carreras reguladas (como Derecho o Medicina) el título oficial suele ser indispensable.
+
+### 2. Antigüedad y trayectoria, no solo marketing
+
+Las cuatro universidades con las que trabajamos fueron fundadas entre 1993 y 2000 — ninguna es un proyecto improvisado, aunque todas son relativamente jóvenes comparadas con la Complutense (fundada en el siglo XIII) o la Autónoma de Madrid. Eso no las hace peores: significa que compiten mostrando resultados concretos (empleabilidad, instalaciones, alianzas con empresas) en vez de apoyarse solo en la tradición. Cuando evalúes una universidad, buscá datos verificables — certificaciones como QS Stars, rankings de terceros, o cifras de empleabilidad publicadas por la propia universidad — más que el discurso de marketing.
+
+### 3. Especialidad real por área, no oferta genérica
+
+En nuestro catálogo, esto se ve clarísimo: la oferta de Derecho se concentra sobre todo en Nebrija, con CEU San Pablo aportando programas puntuales de especialización como Criminalística. Robótica, en cambio, solo la ofrece Camilo José Cela (UCJC), coherente con su apuesta declarada por tecnología e innovación. UAX es la más grande del catálogo, con oferta en Ingeniería, Salud, Administración y Educación, y un campus propio de más de un millón de metros cuadrados pensado para carreras con fuerte componente práctico. Esto significa que la "mejor" universidad cambia según qué quieras estudiar — no hay una respuesta única.
+
+### 4. Modalidad real, no la que asumís
+
+Presencial, semipresencial y online no son solo un detalle logístico — cambian por completo tu experiencia migratoria. Si el programa es 100% online, no necesitás visado de estudiante ni mudarte a España. Si es presencial, sí. Y hay programas híbridos (como algunos másteres de ciberseguridad) donde podés cursar todo el contenido online y viajar solo para un examen puntual — antes de decidirte, confirmá la modalidad exacta del programa específico, no la modalidad "típica" de la universidad en general.
+
+## Cómo lo evaluamos nosotros antes de recomendarte algo
+
+Cuando nos escribís, no te recomendamos la universidad con la que "nos conviene más" — te preguntamos qué carrera te interesa, si tenés créditos previos para convalidar, y qué modalidad te conviene según tu situación (¿podés mudarte o preferís seguir trabajando en tu país?). A partir de ahí, cruzamos eso con cuál de nuestras universidades convenidas tiene la oferta más fuerte en esa área específica.
+
+## Preguntas frecuentes
+
+**¿Las universidades privadas de Madrid son reconocidas internacionalmente?**
+Depende de la universidad y del título específico. Los títulos oficiales tienen validez en todo el Espacio Europeo de Educación Superior; para reconocimiento fuera de Europa, cada país aplica sus propias reglas de homologación.
+
+**¿Vale la pena pagar una universidad privada en vez de ir a una pública?**
+Depende de tu situación: las públicas españolas suelen tener cupos limitados y procesos de admisión distintos para estudiantes internacionales, mientras que las privadas con convenio directo como las nuestras agilizan bastante la admisión y la convalidación de créditos. No es una respuesta universal — te la damos según tu caso concreto.
+
+**¿Puedo cambiar de universidad si ya empecé un programa?**
+Es posible, pero implica evaluar de nuevo qué créditos te reconocerían en la nueva universidad. No es un trámite automático.
+
+## Llamada a la acción
+
+> ¿No sabés todavía qué universidad se ajusta mejor a tu carrera? Escribinos
+> por WhatsApp al **+34 677 055 769** con tu expediente y te decimos, programa
+> por programa, cuál te conviene más — sin venderte la que nos resulte más
+> cómoda a nosotros.9:T153d,## Por qué esto genera tanta confusión
+
+En el uso cotidiano, "homologar" y "convalidar" se usan como sinónimos. En el sistema español no lo son: son trámites distintos, con objetivos distintos, gestionados por vías distintas. Confundirlos es la razón más común por la que un estudiante pierde meses haciendo el trámite equivocado.
+
+## Las tres figuras que existen
+
+- **Homologación**: es el reconocimiento oficial que otorga el Ministerio de Educación español a un título universitario extranjero, para que tenga la misma validez que su equivalente español. Es el único de los tres que te habilita a **ejercer legalmente una profesión regulada** en España (por ejemplo, ejercer como abogado, médico o arquitecto).
+- **Convalidación**: es el reconocimiento **parcial** de estudios ya cursados en el extranjero, para poder continuar estudiando dentro del sistema español — típicamente para acceder a un grado o máster reconociendo materias ya aprobadas. Si tu título es de Formación Profesional o un técnico equivalente, este trámite lo gestiona el Ministerio de Educación y Formación Profesional (MEFP), con una tasa menor y plazos algo más cortos que la homologación universitaria.
+- **Equivalencia**: reconoce tu título a efectos académicos o de continuar estudios, sin ser una homologación plena para ejercicio profesional. Es la figura que menos aplica a la mayoría de nuestros estudiantes, pero existe y conviene saber que no es lo mismo que las otras dos.
+
+## Cómo saber cuál necesitás vos
+
+La pregunta que responde esto es simple: **¿querés ejercer tu profesión de origen en España, o querés seguir estudiando (un grado, un máster, una convalidación de materias)?**
+
+- Si vas a ejercer una profesión regulada (abogacía, medicina, y otras) → necesitás **homologación**.
+- Si vas a cursar un nuevo grado o máster y querés que te reconozcan materias ya aprobadas → necesitás **convalidación**.
+- Si simplemente necesitás que tu título tenga un reconocimiento académico general, sin ejercicio profesional de por medio → puede aplicarte la **equivalencia**.
+
+Un caso frecuente: si sos abogado/a recibido/a en Latinoamérica y venís a hacer un máster de especialización (no a convalidar el grado), el máster **no sustituye** el trámite de homologación — son procesos independientes. Podés cursar el máster sin haber homologado tu título, pero si tu objetivo final es ejercer como abogado/a en España, vas a necesitar la homologación aparte, tarde o temprano.
+
+## Costos y plazos de referencia (2026)
+
+Según fuentes de terceros consultadas, la tasa de homologación ronda los **166,50 €** y el trámite toma en promedio unos **4,5 meses** desde que se presenta la solicitud completa en el portal oficial (Valida-TE). La convalidación de estudios de Formación Profesional, gestionada por el MEFP, tiene una tasa menor (de referencia, en torno a 58 €) y plazos algo más cortos. Estas cifras cambian con cierta frecuencia — antes de pagar la tasa, confirmá el monto vigente directamente en el portal oficial.
+
+## Documentos que vas a necesitar
+
+- Título original y certificado de notas (o su equivalente) del país de origen.
+- **Legalización o apostilla** del título, según el convenio que tenga tu país con España (la mayoría de los países latinoamericanos están adheridos al Convenio de La Haya y aplican apostilla).
+- **Traducción jurada** al español, hecha por un traductor jurado autorizado en España, si tu documentación original no está en español.
+- Formulario de solicitud del trámite correspondiente (homologación, convalidación o equivalencia, según tu caso).
+
+## Cómo te ayudamos nosotros
+
+Antes de recomendarte un programa, revisamos tu plan de estudios de origen y te decimos con honestidad si te conviene más convalidar materias hacia un grado, homologar tu título para ejercicio profesional, o directamente hacer un máster de especialización sin pasar por ninguno de los dos trámites. No son decisiones que se tomen a la ligera — un trámite equivocado significa meses perdidos.
+
+## Preguntas frecuentes
+
+**¿Puedo estudiar en España mientras tramito la homologación?**
+Sí, son trámites independientes. Podés empezar un máster o un grado (con la convalidación de materias que corresponda) mientras tu homologación sigue en trámite en paralelo.
+
+**¿La convalidación me sirve para ejercer mi profesión?**
+No. La convalidación te permite continuar estudios dentro del sistema español, pero no habilita el ejercicio profesional — para eso es la homologación.
+
+**¿Todos los países latinoamericanos apostillan igual?**
+La mayoría están adheridos al Convenio de La Haya y usan apostilla, pero conviene confirmar el procedimiento exacto de tu país antes de iniciar el trámite, porque el circuito de legalización varía.
+
+**¿Cuánto tarda realmente el trámite?**
+Como referencia de fuentes de terceros, unos 4,5 meses en promedio para homologación universitaria, pero el tiempo real depende del volumen de solicitudes que tenga el ministerio en el momento en que la presentás.
+
+## Llamada a la acción
+
+> ¿No estás seguro/a si necesitás homologar o convalidar tu título? Escribinos
+> por WhatsApp al **+34 677 055 769** con tu plan de estudios de origen y tu
+> objetivo — lo revisamos juntos y te decimos con honestidad qué trámite te
+> corresponde antes de que pagues ninguna tasa.a:T13dd,## Antes de empezar: esto varía por consulado
+
+Cada consulado español en Latinoamérica gestiona el visado de estudiante con su propio sistema de citas, su propia lista exacta de documentos y sus propios plazos. Lo que sigue es la estructura general que se repite en todos — pero antes de armar tu carpeta de documentos, siempre conviene confirmar el detalle exacto en la web del consulado de tu país o directamente con nosotros, para no perder una cita por un papel que falta.
+
+## Qué universidades y programas necesitan visado
+
+Solo lo necesitás si tu programa dura más de 180 días y es presencial (o semipresencial con estancia física en España). Si el programa es 100% online, no tenés que tramitar visado de estudiante ni mudarte — podés cursarlo íntegramente desde tu país.
+
+## Documentos que vas a necesitar
+
+- **Formulario oficial de solicitud** completado y firmado.
+- **Pasaporte vigente**, con validez que cubra toda la duración prevista de tu estancia.
+- **Fotografías tipo pasaporte**, fondo blanco, según el formato que pida tu consulado.
+- **Carta de admisión o matrícula** de la universidad — esta te la conseguimos nosotros como parte de la gestión de tu admisión.
+- **Prueba de medios económicos suficientes**: para 2026, el criterio de referencia es el 100% del IPREM mensual (600 €/mes) multiplicado por los meses de tu estancia. Esto se acredita con extractos bancarios, una beca, o una carta de responsabilidad económica de quien te sostenga.
+- **Seguro médico privado internacional**, válido en España durante toda tu estancia.
+- **Certificado de antecedentes penales** de tu país (y de cualquier país donde hayas residido en los últimos años, según pida el consulado).
+- **Certificado médico** que confirme que no padecés ninguna enfermedad que pueda tener repercusiones de salud pública graves.
+
+## Cómo se tramita
+
+La solicitud siempre la hacés vos en persona, ante el consulado español de tu país de residencia, y siempre antes de viajar — no se puede tramitar el visado de estudiante ya estando en España como turista. El tiempo de respuesta varía según el consulado, pero como referencia general suele estar entre 15 y 45 días desde que presentás la documentación completa. Por eso conviene arrancar el trámite con margen, sobre todo si tu programa empieza en fechas ajustadas como septiembre u octubre.
+
+## Qué pasa cuando llegás a España
+
+El visado te permite entrar y empezar tus estudios, pero no termina ahí el papeleo. Dentro del primer mes de haber llegado tenés que:
+
+1. **Empadronarte** en el ayuntamiento de la ciudad donde vivís — es un trámite obligatorio para cualquier residente y es requisito previo para el siguiente paso.
+2. **Solicitar tu TIE** (Tarjeta de Identidad de Extranjero) en la Oficina de Extranjería o comisaría que te corresponda, presentando pasaporte, visado, certificado de empadronamiento (con una vigencia de no más de 3 meses), 3 fotos y el formulario EX-17. La resolución suele tardar entre 3 y 4 semanas, y la tarjeta se recoge en persona después de la toma de huellas.
+
+## Cómo te acompañamos nosotros
+
+Coordinamos el trámite de admisión y el de visado en paralelo — no esperamos a que termine uno para empezar el otro — para que no pierdas semanas del calendario de matrícula. Y una vez que estás en Madrid, te orientamos en el empadronamiento y la cita de TIE, con la lista exacta de documentos que te va a pedir tu oficina de extranjería.
+
+## Preguntas frecuentes
+
+**¿Necesito el visado si mi programa es online?**
+No. El visado de estudiante solo aplica a programas presenciales o con estancia física en España de más de 180 días.
+
+**¿Cuánta plata tengo que demostrar exactamente?**
+La referencia 2026 es 600 €/mes multiplicado por los meses de tu estancia, pero cada consulado puede pedir la documentación de formas distintas (extractos, aval, beca) — te confirmamos el detalle según tu caso.
+
+**¿Puedo trabajar en España con visado de estudiante?**
+Depende de tu situación y de la normativa vigente al momento de tu trámite — es un tema que cambia con cierta frecuencia, así que te conviene confirmarlo con nosotros o con el consulado antes de asumir que sí o que no.
+
+**¿Qué pasa si me rechazan el visado?**
+Depende del motivo del rechazo. Muchas veces es un tema de documentación incompleta o mal presentada, que se puede subsanar. Escribinos apenas recibas la notificación y revisamos juntos las opciones.
+
+## Fuentes oficiales
+
+- [Tarjeta de Identidad de Extranjero (TIE) — Ministerio de Asuntos Exteriores](https://www.exteriores.gob.es/Embajadas/ottawa/es/ServiciosConsulares/Paginas/Tarjeta-de-Identidad-de-Extranjero-(TIE).aspx)
+- [Trámite de TIE — Universidad Complutense de Madrid](https://www.ucm.es/tarjeta-de-identidad-como-extranjero-(tie))
+
+## Llamada a la acción
+
+> ¿Estás por arrancar el trámite de tu visado de estudiante? Escribinos por
+> WhatsApp al **+34 677 055 769** — coordinamos tu admisión y tu visado en
+> paralelo para que no pierdas tiempo del calendario académico.b:T123a,## Cuánto presupuestar por mes
+
+No hay una cifra única — depende del barrio, si compartís piso o no, y tu estilo de vida — pero esto es lo que indican fuentes especializadas para el curso 2026-2027:
+
+- **Alquiler de una habitación en piso compartido**: entre 450 € y 650 € al mes, con un promedio cercano a los 600 €. En barrios muy céntricos y demandados, podés superar esa cifra con facilidad.
+- **Estudio pequeño individual**: entre 900 € y 1.100 € al mes, en zonas no céntricas.
+- **Gastos fijos adicionales** (luz, agua, calefacción, wifi, teléfono): sumá unos 200 € más al mes.
+- **Presupuesto total mensual**, incluyendo alquiler, comida, transporte y ocio moderado: las estimaciones varían bastante según la fuente, desde unos 1.050 € en un esquema ajustado compartiendo piso, hasta 1.700-2.000 € en un esquema más holgado o viviendo solo/a.
+
+La opción más económica, con diferencia, es compartir piso — es lo que elige la gran mayoría de estudiantes internacionales en Madrid, tanto por costo como porque es una forma rápida de hacer red social.
+
+## Cómo buscar alojamiento sin caer en estafas
+
+Buscar piso a distancia, antes de viajar, es el momento de mayor riesgo de estafa (depósitos por propiedades que no existen, fotos robadas de otro anuncio). Algunas precauciones básicas:
+
+- Desconfiá de precios muy por debajo del promedio de la zona.
+- No transfieras el depósito completo sin haber visto la propiedad en persona o por videollamada en vivo (no solo fotos).
+- Priorizá plataformas y agencias con reseñas verificables, o alojamiento temporal (residencia, hostal, Airbnb de corto plazo) para tu primer mes, mientras buscás algo definitivo ya estando en la ciudad.
+
+## Qué hacer en tus primeras semanas
+
+1. **Alojamiento temporal para el aterrizaje**: si todavía no cerraste piso definitivo, reservá algo por 2-4 semanas para tener base mientras buscás con calma y en persona.
+2. **Empadronarte**: es el primer trámite administrativo, obligatorio, y requisito para pedir tu TIE después.
+3. **Abrir una cuenta bancaria española**: la vas a necesitar para el alquiler, la matrícula y el día a día — la mayoría de los bancos piden tu TIE o al menos tu NIE para abrirla, así que conviene resolver esto en las primeras semanas.
+4. **Sacar un número de teléfono español**: lo vas a necesitar para trámites, para el banco y para el día a día.
+5. **Conocer el transporte público**: el Abono Joven de la Comunidad de Madrid (para menores de cierta edad, a confirmar el límite vigente) suele ser mucho más económico que pagar viaje por viaje — vale la pena averiguarlo apenas llegás.
+
+## Lo que nadie te cuenta: el primer mes es el más caro
+
+Entre depósito de alquiler (habitualmente uno o dos meses de garantía, además del primer mes adelantado), gastos de instalación (menaje básico si no viene amueblado) y trámites, tu primer mes en Madrid probablemente cueste bastante más que los siguientes. Conviene presupuestarlo aparte y no calcular tu presupuesto mensual "de crucero" para ese primer mes.
+
+## Cómo te acompañamos nosotros
+
+No gestionamos alojamiento directamente, pero sí te orientamos con expectativas realistas de presupuesto según tu programa y tu universidad, y te ponemos en contacto con la red de estudiantes que ya pasó por esto — muchas veces la mejor información sobre qué barrio conviene o qué evitar viene de alguien que ya vivió la experiencia, no de un artículo.
+
+## Preguntas frecuentes
+
+**¿Es carero vivir en Madrid comparado con otras ciudades españolas?**
+Sí, Madrid es una de las ciudades más caras de España para alquilar, junto con Barcelona. Ciudades más pequeñas suelen ser más económicas, pero Madrid concentra la mayor oferta educativa y laboral.
+
+**¿Puedo trabajar mientras estudio para cubrir gastos?**
+Depende de tu tipo de autorización y de la normativa vigente en el momento de tu trámite — es un tema que conviene confirmar con nosotros o con el consulado antes de armar tu presupuesto asumiendo un ingreso que quizás no puedas generar legalmente.
+
+**¿Conviene vivir cerca de la universidad?**
+No siempre — depende del transporte disponible. Muchos estudiantes priorizan vivir en zonas bien conectadas por metro o cercanías, aunque no estén pegadas al campus, porque suele ser más barato y más práctico.
+
+## Llamada a la acción
+
+> ¿Ya tenés programa y universidad definidos y ahora te preocupa el
+> presupuesto para instalarte? Escribinos por WhatsApp al
+> **+34 677 055 769** — te damos una estimación realista según tu caso y te
+> conectamos con estudiantes que ya hicieron el mismo camino.f:X
+14:X
+14:C
+0:{"buildId":"DEdXRpZl0mL7ZXfY9F97A","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https://estudiaenmadrid.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guías\",\"item\":\"https://estudiaenmadrid.com/guias\"}]}"}}],["$","main",null,{"className":"px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16 pb-14 sm:pb-20 md:pb-[120px]","children":[["$","div",null,{"className":"flex flex-wrap justify-between items-end gap-5","children":[["$","h1",null,{"className":"font-display font-black uppercase m-0","style":{"fontSize":"clamp(38px,8vw,132px)","lineHeight":0.9,"letterSpacing":"-.045em"},"children":"Guías"}],["$","p",null,{"className":"m-0 text-[15px] leading-[1.55] text-ink-soft","style":{"maxWidth":"34ch"},"children":"Todo lo que resolvemos a diario, escrito para que puedas leerlo antes de escribirnos."}]]}],["$","p",null,{"className":"mt-6 text-[15px] leading-[1.6] text-ink-soft","style":{"maxWidth":"70ch"},"children":"Estas guías cubren los temas que más nos consultan estudiantes latinoamericanos antes de decidirse: cómo funciona el visado de estudiante, la diferencia entre homologar y convalidar un título, cómo elegir entre nuestras universidades convenidas según la carrera que te interesa, y qué esperar del costo de vida y los primeros trámites al instalarte en Madrid. Están escritas con información verificada contra fuentes oficiales cuando existen — no reemplazan una consulta puntual sobre tu caso, pero te dan el panorama completo antes de escribirnos por WhatsApp."}],["$","$L2",null,{"guides":[{"slug":"acceso-universidad-espana-sin-selectividad","title":"Acceso a la universidad en España sin selectividad","titleSeo":"Acceso a la Universidad en España sin Selectividad - Estudia en Madrid","metaDescription":"Cómo acceder a una universidad privada en España desde Latinoamérica sin rendir la selectividad española: homologación de bachillerato, credencial UNED y admisión propia.","category":"Convalidaciones","summary":"La selectividad española preocupa a muchos estudiantes que recién terminan el colegio — en universidades privadas, generalmente no hace falta rendirla.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$3"},{"slug":"becas-estudiantes-latinoamericanos-espana","title":"Becas para estudiantes latinoamericanos en España","titleSeo":"Becas para Estudiantes Latinoamericanos en España - Estudia en Madrid","metaDescription":"Becas y ayudas reales para estudiar en España siendo latinoamericano: Fundación Carolina, AUIP, Erasmus Mundus y becas internas de nuestras universidades convenidas.","category":"Becas","summary":"Qué becas existen de verdad, cuáles aplican a nuestras universidades convenidas y cuáles son externas — para que sepas a qué podés aspirar realmente.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$4"},{"slug":"creditos-ects-sistema-universitario-espanol","title":"Créditos ECTS: el sistema universitario español explicado","titleSeo":"Créditos ECTS: el Sistema Universitario Español Explicado - Estudia en Madrid","metaDescription":"Qué son los créditos ECTS, cuántas horas representan y cómo se distribuyen en grados y másteres españoles — explicado para estudiantes latinoamericanos.","category":"Universidades","summary":"Si tu país usa otro sistema de créditos, esto es lo primero que hay que entender antes de leer cualquier ficha de programa en España.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$5"},{"slug":"cuenta-bancaria-espana-estudiante-extranjero","title":"Cómo abrir una cuenta bancaria en España siendo estudiante extranjero","titleSeo":"Cómo Abrir una Cuenta Bancaria en España Siendo Extranjero - Estudia en Madrid","metaDescription":"Requisitos para abrir cuenta bancaria en España como estudiante extranjero: qué pedir con NIE, qué hacer antes de tenerlo y alternativas con neobancos.","category":"Vivir en Madrid","summary":"No hace falta esperar a tener el TIE en la mano para empezar a operar en España — pero sí conviene saber qué pedir en cada etapa.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$6"},{"slug":"seguro-medico-visado-estudiante-espana","title":"Seguro médico para el visado de estudiante en España","titleSeo":"Seguro Médico para el Visado de Estudiante en España - Estudia en Madrid","metaDescription":"Qué cobertura exige el consulado para el seguro médico del visado de estudiante en España: sin copagos, sin carencias, con repatriación. Errores comunes a evitar.","category":"Visados","summary":"No cualquier seguro de viaje sirve — el consulado pide condiciones específicas que conviene entender antes de comprar cualquier póliza.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$7"},{"slug":"como-elegir-universidad-privada-madrid","title":"Cómo elegir universidad privada en Madrid: qué mirar además del nombre","titleSeo":"Cómo Elegir Universidad Privada en Madrid - Estudia en Madrid","metaDescription":"Qué mirar antes de elegir universidad privada en Madrid además del nombre: acreditación, campus, modalidad y salidas profesionales. Guía con ejemplos reales.","category":"Universidades","summary":"El nombre de la universidad importa menos de lo que parece. Esto es lo que de verdad cambia tu experiencia y tus salidas profesionales.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$8"},{"slug":"homologacion-vs-convalidacion-titulo","title":"Homologación vs. convalidación de tu título: cuál necesitás","titleSeo":"Homologación vs. Convalidación de tu Título en España - Estudia en Madrid","metaDescription":"Diferencia entre homologar y convalidar un título latinoamericano en España: cuál necesitás según tu objetivo, costo, plazos y documentos que piden.","category":"Convalidaciones","summary":"No son lo mismo: una te permite ejercer una profesión en España, la otra te permite seguir estudiando. Cuál necesitás depende de tu objetivo.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$9"},{"slug":"visado-estudiante-espana-latinoamericanos","title":"Visado de estudiante en España: guía para latinoamericanos","titleSeo":"Visado de Estudiante en España: Guía para Latinoamericanos - Estudia en Madrid","metaDescription":"Requisitos, documentos y pasos para tramitar el visado de estudiante en España desde Latinoamérica: solvencia económica, seguro médico, plazos y qué hacer al llegar.","category":"Visados","summary":"Qué documentos pedir, cuánta solvencia económica demostrar y cuánto tarda el consulado en resolver tu visado de estudiante.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$a"},{"slug":"vivir-en-madrid-estudiante-latinoamericano","title":"Vivir en Madrid siendo estudiante latinoamericano","titleSeo":"Vivir en Madrid Siendo Estudiante Latinoamericano - Estudia en Madrid","metaDescription":"Costo de vida, alquiler y primeros pasos para estudiantes latinoamericanos en Madrid: cuánto presupuestar, cómo buscar alojamiento y qué hacer al llegar.","category":"Vivir en Madrid","summary":"Cuánto presupuestar por mes, cómo buscar alojamiento sin caer en estafas y qué hacer en tus primeras semanas en la ciudad.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$b"}],"categories":["Convalidaciones","Becas","Universidades","Vivir en Madrid","Visados"]}]]}]],["$Lc"],"$Ld"]}],"isPartial":"$@e","staleTime":"$f","varyParams":null},{"rsc":"$L10","isPartial":"$@11","staleTime":"$f","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$f","varyParams":"$14"}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+17:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1c:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+1d:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+1e:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+c:["$","script","script-0",{"src":"/_next/static/chunks/11kv0a13k4c21.js","async":true}]
+d:["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]
+10:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Guías para estudiar en Madrid"}],["$","meta","1",{"name":"description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","2",{"rel":"canonical","href":"https://estudiaenmadrid.com/guias"}],["$","meta","3",{"property":"og:title","content":"Guías para estudiar en Madrid"}],["$","meta","4",{"property":"og:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","meta","5",{"property":"og:url","content":"https://estudiaenmadrid.com/guias"}],["$","meta","6",{"property":"og:site_name","content":"Estudia en Madrid"}],["$","meta","7",{"property":"og:locale","content":"es_ES"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Guías para estudiar en Madrid"}],["$","meta","11",{"name":"twitter:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","12",{"rel":"icon","href":"/icon.png?icon.2ptuj5tv8i2an.png","sizes":"192x192","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.3zahz7vkregr2.png","sizes":"180x180","type":"image/png"}],["$","$L1c","14",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+12:["$","$1","c",{"children":[null,["$","$L1d",null,{"parallelRouterKey":"children","template":["$","$L1e",null,{}]}]]}]
+16:true
+19:null
+f:300
+f:C
+15:0
+11:"$undefined"
+13:"$undefined"
+e:"$undefined"

@@ -1,0 +1,492 @@
+1:"$Sreact.fragment"
+2:I[8245,["/_next/static/chunks/1dtep77600pqt.js","/_next/static/chunks/1yttpzfn4-h45.js","/_next/static/chunks/066t0ud47q33j.js"],"default"]
+3:I[5500,["/_next/static/chunks/1dtep77600pqt.js","/_next/static/chunks/1yttpzfn4-h45.js","/_next/static/chunks/066t0ud47q33j.js"],"Image"]
+4:I[22016,["/_next/static/chunks/1dtep77600pqt.js","/_next/static/chunks/1yttpzfn4-h45.js","/_next/static/chunks/066t0ud47q33j.js"],""]
+5:I[46985,["/_next/static/chunks/1dtep77600pqt.js","/_next/static/chunks/1yttpzfn4-h45.js","/_next/static/chunks/066t0ud47q33j.js"],"default"]
+6:T2380,## Qué es este máster
+
+El **Máster en Formación Permanente de Nuevas Tecnologías en Cirugía,
+Rehabilitación y Estética Dental** es el programa de referencia para el
+odontólogo que quiere especializarse en **odontología digital, implantología
+avanzada y cirugía guiada por ordenador**. Lo imparte la **Universidad
+Alfonso X el Sabio (UAX)** en su Centro Odontológico propio de Madrid (Calle
+Alcalá), con tecnología de última generación — **Nemotec, Straumann y, desde
+septiembre, un robot de cirugía guiada a disposición de los alumnos**.
+
+Es un máster **100% presencial**, de **60 ECTS**, con un enfoque
+eminentemente práctico: **más del 70% de las horas presenciales son
+prácticas clínicas con pacientes reales**, supervisadas por el claustro.
+
+A través del convenio con **Estudia en Madrid**, el acceso al programa tiene
+un precio gestionado aparte del precio público de la UAX.
+
+## Para quién es
+
+- Graduados en Odontología.
+- Médicos especialistas en Cirugía Oral y Maxilofacial.
+
+No se requiere título homologado para participar en las prácticas clínicas:
+al ser actividad académica tutelada, la universidad confirma que no existe
+impedimento legal para atender pacientes reales bajo supervisión docente.
+
+## Datos generales
+
+| | |
+|---|---|
+| **Créditos** | 60 ECTS (1 ECTS = 25–30 h de trabajo del estudiante) |
+| **Duración** | 1 curso académico |
+| **Modalidad** | 100% presencial (Madrid) |
+| **Inicio** | Finales de octubre (fecha oficial: 1 de octubre de 2026) |
+| **Finalización** | 15 de julio de 2027 |
+| **Días de clase** | Miércoles y jueves |
+| **Horario mañana** | 10:00–13:00 (3h teoría + 2h práctica) |
+| **Horario tarde** | 5h adicionales de prácticas clínicas y talleres |
+| **Vacaciones de Navidad** | 24 dic 2026 – 6 ene 2027 |
+
+## Plan de estudios
+
+### Primer cuatrimestre — Bases teóricas y planificación digital (30 ECTS)
+
+**Módulo I. Fundamentos de Odontología Digital y Tecnologías Emergentes (6 ECTS)**
+Transformación digital en odontología · flujo de trabajo digital integral ·
+infraestructura tecnológica en clínica · integración clínica-laboratorio ·
+aspectos éticos, legales y RGPD · introducción a la IA en odontología.
+
+**Módulo II. Diagnóstico Avanzado y Planificación Digital (8 ECTS)**
+CBCT y diagnóstico tridimensional · escáner intraoral y extraoral ·
+fotografía clínica y análisis facial digital · integración STL/DICOM ·
+planificación digital interdisciplinar · software de planificación
+quirúrgica y restauradora.
+
+**Módulo III. Cirugía e Implantología Digital – Bases (8 ECTS)**
+Cirugía guiada por ordenador · navegación dinámica · planificación
+implantológica virtual · diseño digital de férulas quirúrgicas ·
+regeneración ósea asistida por tecnología · prevención y resolución de
+complicaciones.
+
+**Módulo IV. Rehabilitación y Estética Dental Digital – Bases (8 ECTS)**
+Introducción al CAD/CAM · materiales digitales avanzados · rehabilitación
+sobre dientes e implantes · Diseño Digital de Sonrisa (DSD) · estética
+blanca y rosa desde la planificación digital.
+
+### Segundo cuatrimestre — Teoría avanzada, práctica clínica y TFM (30 ECTS)
+
+**Módulo V. Módulo Práctico Clínico y Tecnológico (12 ECTS)** — presencial
+obligatorio, exclusivo del 2º cuatrimestre:
+- *Bloque 1 — Diagnóstico y planificación digital aplicada (4 ECTS):*
+  escaneado intraoral, integración CBCT-escáner, análisis facial y estético
+  digital, planificación multidisciplinar de casos reales.
+- *Bloque 2 — Cirugía e implantología digital aplicada (4 ECTS):*
+  simulación quirúrgica 3D, diseño y fabricación de férulas quirúrgicas,
+  cirugía guiada en modelos/fantomas, control de precisión y análisis de
+  errores.
+- *Bloque 3 — Rehabilitación y estética digital aplicada (4 ECTS):*
+  diseño CAD/CAM, mock-up digital y físico, impresión 3D odontológica,
+  flujo rehabilitador digital completo.
+
+**Módulo VI. Teoría Avanzada en Tecnologías Digitales Odontológicas (8 ECTS)**
+IA avanzada aplicada al diagnóstico · sistemas predictivos en
+implantología y rehabilitación · validación clínica de tecnologías
+digitales · automatización de procesos clínicos · evaluación crítica de
+la evidencia científica.
+
+**Módulo VII. Trabajo Fin de Máster — TFM (6 ECTS)**
+Trabajo individual tutorizado orientado a la integración clínica y
+tecnológica, con orientación hacia publicación científica. Tutor académico
+asignado con seguimiento personalizado y defensa ante tribunal
+especializado. Si no se completa en el curso, se puede continuar el año
+siguiente.
+
+### Resumen de créditos
+
+| Componente | ECTS |
+|---|---|
+| Docencia teórico-aplicada | 42 |
+| Módulo práctico clínico | 12 |
+| Trabajo Fin de Máster | 6 |
+| **Total** | **60** |
+
+## Tecnología y colaboraciones
+
+- **Nemotec** — software de planificación digital en la nube, usado en
+  Implantología, Ortodoncia, Cirugía y Digital Smile Design.
+- **Straumann** — marca de referencia mundial en implantología, presente en
+  toda la formación práctica.
+- **Open Sure** — software específico del módulo de implantología avanzada.
+- **Navegación quirúrgica** — navegadores quirúrgicos y protocolos avanzados
+  de implantología guiada.
+- **Robot de cirugía guiada** — disponible para los alumnos del máster desde
+  septiembre.
+
+## Prácticas clínicas
+
+- Más del **70% de las horas presenciales** son prácticas clínicas con
+  pacientes reales.
+- Se realizan en el **Centro Odontológico propio de la UAX en Madrid**
+  (Calle Alcalá), con jornada semanal y ratio alumno-profesor reducido.
+- **No se necesita título homologado** para participar: al tratarse de
+  actividad académica tutelada y supervisada por el claustro, no hay
+  impedimento legal.
+
+## Congreso internacional incluido
+
+**Congreso de Odontología Digital – Valencia**, previsto para enero de 2027
+(jueves a sábado). El coste de asistencia va **incluido en el precio del
+programa**; la universidad gestiona que los gastos sean asumidos por la
+institución.
+
+## Estudiantes internacionales — apoyo si no llegás a tiempo al inicio
+
+Pensado para quienes gestionan visado o trámites migratorios desde
+Latinoamérica y no pueden incorporarse de forma presencial desde el primer
+día:
+
+- Acceso a **Campus Virtual Institucional**: grabaciones de las clases
+  presenciales, material académico y recursos complementarios.
+- Los talleres no cursados al inicio se sustituyen por actividad académica
+  equivalente.
+- Los talleres prácticos esenciales del 2º cuatrimestre pueden impartirse
+  después de forma específica si es necesario.
+
+## Calendario académico
+
+| Evento | Fecha |
+|---|---|
+| Inicio | 1 de octubre de 2026 |
+| Vacaciones de Navidad | 24 dic 2026 – 6 ene 2027 |
+| Congreso Valencia | Enero 2027 |
+| Examen final | 9 de julio de 2027 |
+| Defensa del TFM | 14 y 15 de julio de 2027 |
+| Acto de graduación | Estimado 11 o 18 de julio de 2027 (pendiente de confirmación) |
+| Finalización | 15 de julio de 2027 |
+
+## Precio y financiación
+
+- **Coste total del programa:** 12.000 €
+- **Matrícula:** 2.500 €
+- **Financiación:** 6, 10 o 12 cuotas
+- Precio gestionado por convenio entre la UAX y Estudia en Madrid (distinto
+  del precio público de la universidad).
+- [Folleto oficial (PDF)](https://drive.google.com/file/d/1GUwDofmEL3XrHviGJmwt5AT2xpQIMswN/view?usp=sharing)
+
+## Por qué elegir este máster
+
+- Robot de cirugía guiada disponible para los alumnos.
+- Tecnología Nemotec y Straumann integrada en la formación.
+- Congreso internacional en Valencia incluido en el coste.
+- Más del 70% de horas prácticas con pacientes reales.
+- No requiere título homologado para hacer prácticas.
+- Financiación flexible (6/10/12 cuotas).
+
+## Preguntas frecuentes
+
+**¿Necesito ser odontólogo para acceder?**
+Sí, se requiere el título de Graduado en Odontología, o ser médico
+especialista en Cirugía Oral y Maxilofacial.
+
+**¿Es presencial?**
+Sí, 100% presencial en Madrid.
+
+**¿Cuándo empieza?**
+A finales de octubre (oficialmente el 1 de octubre de 2026).
+
+**¿Tiene prácticas reales?**
+Sí, más del 70% de las horas presenciales son prácticas clínicas con
+pacientes reales.
+
+**¿Necesito el título homologado para las prácticas?**
+No. Es actividad académica tutelada y no existe impedimento legal.
+
+**¿Cuánto cuesta?**
+12.000 € más 2.500 € de matrícula, financiable en 6, 10 o 12 cuotas.
+
+**¿El congreso de Valencia tiene coste adicional?**
+No, va incluido dentro del coste del programa.
+
+**¿Qué pasa si no puedo llegar presencial desde el inicio?**
+Hay Campus Virtual con grabaciones y material, y los talleres se recuperan
+o se sustituyen por actividad equivalente.
+
+## Llamada a la acción
+
+> ¿Querés especializarte en odontología digital con tecnología de última
+> generación y prácticas reales desde el primer cuatrimestre? Escribinos por
+> WhatsApp al **+34 677 055 769** y te ayudamos con toda la gestión: admisión,
+> visado de estudiante y financiación.7:T1e51,## Qué es este máster
+
+Especializate en **Criminalística e Investigación Forense** con el
+**Máster Universitario en Criminalística** de la **Universidad CEU San
+Pablo**, en su Facultad de Derecho en Madrid. Es un programa de **9 meses,
+100% presencial y práctico**, con metodología multidisciplinar, que te
+capacita para ejercer como **Perito Judicial** en el ámbito judicial y
+privado.
+
+El claustro está formado por **expertos en Criminalística pertenecientes a
+las Fuerzas y Cuerpos de Seguridad del Estado**, destinados en unidades de
+Policía Científica/Criminalística, con amplia experiencia de campo y
+docente.
+
+## Por qué estudiar este máster
+
+- **Capacita como Perito Judicial** — habilita para ejercer como perito en
+  criminalística tanto en el ámbito judicial como privado.
+- **Completa la formación del abogado penalista en criminalística** — para
+  valorar pruebas presentadas en el proceso y ejercer con máxima eficiencia
+  y rigor.
+- **100% presencial y práctico** — la Criminalística se basa en el "saber
+  hacer": acceso a la escena, identificación de evidencias, sospechosos y
+  testigos, aseguramiento físico y recogida de vestigios con la técnica
+  específica para cada caso. Son habilidades que solo se aprenden haciendo,
+  bajo la dirección de un profesor-experto.
+- **Profesorado especialista** — claustro compuesto por expertos de las
+  Fuerzas y Cuerpos de Seguridad del Estado.
+- **Diseño curricular multidisciplinar** — integra genética, química,
+  biología, fotografía, psicología, medicina, física y derecho.
+
+## Datos generales
+
+| | |
+|---|---|
+| **Universidad** | CEU San Pablo |
+| **Dónde** | Facultad de Derecho (Madrid) |
+| **Duración** | 9 meses |
+| **Modalidad** | 100% presencial |
+| **Idioma** | Español |
+| **Inicio** | Septiembre |
+| **Créditos totales** | 63 ECTS |
+
+## Presentación
+
+El máster ofrece una formación general que permite a alumnos de diversa
+procedencia —con o sin conocimientos previos en la materia— alcanzar un
+conocimiento avanzado de la Criminalística en todos sus ámbitos, tanto
+teóricos como instrumentales.
+
+Partiendo del examen minucioso de la escena del crimen, el alumno aprende a
+aplicar método y conocimiento científico para averiguar el delito cometido
+e identificar a los responsables. Mediante la **simulación de escenas
+delictuales** en los laboratorios de la universidad, los alumnos practican
+identificar, asegurar, recoger, trasladar y analizar evidencias — siempre
+acompañados por profesores de las fuerzas y cuerpos de seguridad expertos
+en Criminalística/Policía Científica.
+
+En esencia: probar la verdad de lo sucedido en el crimen, aportarla con
+garantías al proceso penal y ayudar en la Justicia y reparación del daño a
+las víctimas del delito. La preparación pericial que ofrece este máster da
+a sus egresados un valor profesional singular en los estrados judiciales.
+
+## Objetivos
+
+Al finalizar el máster, el alumno estará preparado para:
+
+1. Realizar informes periciales, tanto en el ámbito jurisdiccional (en
+   tribunales) como en el ámbito privado (compañías de seguridad, etc.).
+2. Conocer y diferenciar las distintas ramas de la Criminalística — de
+   campo y de laboratorio.
+3. Usar la aparatología y el material fungible de un laboratorio de
+   criminalística.
+4. Identificar e interpretar evidencias en cualquiera de las ramas de
+   estudio.
+5. Estudiar evidencias y correlacionarlas entre sí para esclarecer el
+   hecho criminal e identificar a los responsables.
+6. Probar los hechos y construir la prueba indiciaria — la "prueba reina"
+   del proceso penal.
+
+## Para quién es (perfil de acceso)
+
+- Personas que quieran habilitarse como **perito en criminalística**,
+  ámbito judicial o privado.
+- **Abogados penalistas** que quieran completar su formación en
+  criminalística para valorar pruebas y ejercer con mayor rigor.
+- **Miembros de las Fuerzas y Cuerpos de Seguridad**, para impulsar su
+  carrera profesional (vertical u horizontal).
+- **Químicos o biólogos** que quieran especializarse en el campo de la
+  criminalística.
+- **Psicólogos** orientados a la Psicología Forense.
+- En general, cualquier persona con curiosidad y pasión por la
+  investigación del crimen y la búsqueda de la verdad.
+
+## Salidas profesionales
+
+Al finalizar el máster podrás trabajar como:
+
+- **Perito en Criminalística**, en el ámbito judicial o privado.
+- **Abogado penalista** especializado en criminalística, capacitado para
+  valorar pruebas y ejercer con máxima eficiencia y rigor.
+- **Miembro de las Fuerzas y Cuerpos de Seguridad**, ascendiendo en la
+  escala de su cuerpo.
+- **Químico o biólogo** especialista en criminalística.
+- **Psicólogo** especializado en Psicología Forense.
+
+## Plan de estudios (63 ECTS)
+
+| Módulo / materia | ECTS |
+|---|---|
+| **Complementos de formación** | **3** |
+| Fundamentos de Derecho | 3 |
+| **Investigación Criminalística** | **9** |
+| Investigación Criminal - Criminalística | 3 |
+| Probática y Cadena de Custodia | 3 |
+| Criminalística y Derecho Penal | 3 |
+| **Escena del Crimen** | **9** |
+| Escena del Crimen y Tratamiento de las Evidencias | 6 |
+| Fotografía Forense | 3 |
+| **Técnicas de Identificación** | **9** |
+| Lofoscopia, Dactiloscopia y Pelmatoscopia | 6 |
+| Vestigios Biológicos - ADN | 3 |
+| **Análisis Forense** | **15** |
+| Documentología: análisis de tintas, documentos y falsificación de firmas | 3 |
+| Balística Forense: interior, exterior y de efectos | 6 |
+| Análisis Forense: evidencias de ciberdelincuencia | 3 |
+| Química Forense: análisis de drogas, restos de explosivos y materiales | 3 |
+| **Medicina y Psicología Forense** | **6** |
+| Medicina Forense | 3 |
+| Psicología Forense | 3 |
+| **Trabajo Fin de Máster** | **12** |
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster Universitario en Criminalística?**
+Lo imparte Universidad CEU San Pablo. Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster Universitario en Criminalística es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Máster Universitario en Criminalística?**
+Dura 9 meses y son 63 créditos ECTS.
+
+**¿Cuándo empieza Máster Universitario en Criminalística?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
+## Llamada a la acción
+
+> ¿Querés especializarte como Perito Judicial en Criminalística e
+> Investigación Forense en Madrid? Escribinos por WhatsApp al
+> **+34 677 055 769** y te acompañamos en todo el proceso: admisión, visado
+> de estudiante y gestión de la matrícula.8:T11fc,## Qué es este programa
+
+El **Grado en Inteligencia Artificial y Computación** de la **Universidad
+Alfonso X el Sabio (UAX)** forma profesionales en los fundamentos y
+aplicaciones de la inteligencia artificial, el machine learning, la ciencia
+de datos y la computación avanzada.
+
+Se puede cursar en el campus de la UAX en el centro de Madrid o en
+modalidad online. El plan combina un modelo bilingüe progresivo (empezando
+en torno al 30% de contenidos en inglés) con formación estratégica para
+negocio digital (UX Design, Social Media Marketing, Business & Product
+Innovation) y habilidades blandas como pensamiento analítico, pensamiento
+disruptivo, storytelling y liderazgo.
+
+## Datos generales
+
+| | |
+|---|---|
+| **Universidad** | Universidad Alfonso X el Sabio (UAX) |
+| **Duración** | 4 años |
+| **Créditos** | 270 ECTS |
+| **Modalidad** | Presencial (centro de Madrid) u Online |
+| **Idioma** | Español, con modelo bilingüe progresivo desde ~30% en inglés |
+| **Inicio** | Septiembre |
+| **Profesorado** | Más del 70% combina docencia con actividad profesional (empresas como Accenture, Avanade o CaixaBank, según la UAX) |
+
+## Plan de estudios / contenidos principales
+
+- **Fundamentos de IA y computación:** programación, matemáticas,
+  visualización de datos, algoritmos e ingeniería web.
+- **Áreas centrales de IA:** machine learning, redes neuronales,
+  procesamiento de lenguaje natural, visión por computador y ética en
+  inteligencia artificial.
+- **Formación estratégica para negocio digital:** UX Design, Social Media
+  Marketing, Business & Product Innovation.
+- **Certificación profesional incluida:** el programa incorpora la
+  certificación "Google Data Analytics", según describe la propia
+  universidad.
+
+No se encontró en las búsquedas el desglose curso por curso completo.
+
+## Salidas profesionales
+
+Según la propia UAX, los perfiles profesionales más demandados incluyen:
+
+- Data & AI Manager.
+- Deep Learning Developer.
+- Machine Learning Engineer.
+
+## Requisitos de acceso
+
+- Título de Bachillerato (o equivalente) y prueba de acceso a la
+  universidad, u homologación de estudios para estudiantes internacionales.
+- Requisitos exactos de homologación para estudiantes latinoamericanos: a
+  confirmar caso por caso con la universidad o con Estudia en Madrid.
+
+## Por qué elegir este programa
+
+- Certificación de Google incluida en el plan de estudios.
+- Modelo bilingüe progresivo, útil para el mercado laboral internacional.
+- Modalidad online disponible además de la presencial en el centro de
+  Madrid.
+- Profesorado con actividad profesional activa en empresas tecnológicas de
+  referencia.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Inteligencia Artificial?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Inteligencia Artificial es online o tengo que mudarme a Madrid?**
+Tiene versión online y también presencial, según lo que te convenga, así que la necesidad de visado depende de qué modalidad elijas — te lo confirmamos según tu caso.
+
+**¿Cuánto dura Grado en Inteligencia Artificial?**
+Dura 4 años y son 270 créditos ECTS.
+
+**¿Cuándo empieza Grado en Inteligencia Artificial?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
+## Llamada a la acción
+
+> ¿Querés especializarte en Inteligencia Artificial desde el primer año?
+> Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos con la
+> admisión, el visado de estudiante y toda la gestión para estudiar en
+> Madrid.11:X
+0:{"buildId":"DEdXRpZl0mL7ZXfY9F97A","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-[72px]","children":[["$","div",null,{"className":"flex justify-between items-baseline gap-5 font-mono text-[11px] tracking-[.18em] uppercase text-ink-soft","children":[["$","span",null,{"children":"Agencia de acompañamiento académico"}],["$","span",null,{"className":"hidden sm:inline","children":"Latinoamérica → España"}]]}],["$","$L2",null,{"className":"mt-3.5 sm:mt-5 md:mt-6 font-display font-black uppercase text-ink","lines":[{"text":"Tu carrera"},{"text":"sigue en"},{"text":"Madrid","className":"text-red-signal"}]}],["$","p",null,{"className":"font-serif italic mt-4 md:mt-7 text-ink","style":{"maxWidth":"20ch","fontSize":"clamp(22px,2.6vw,40px)","lineHeight":1.14},"children":"sin empezar de cero, y sin pelear sola con el papeleo"}],["$","div",null,{"className":"grid gap-px bg-hair border-y border-hair mt-7 sm:mt-9 md:mt-16","style":{"gridTemplateColumns":"repeat(auto-fit, minmax(240px,1fr))"},"children":[["$","div",null,{"className":"bg-off-white py-5 pr-5 pl-0","children":[["$","div",null,{"className":"flex items-baseline gap-2","children":[["$","span",null,{"className":"font-display font-black text-red-signal","style":{"fontSize":"clamp(30px,4vw,54px)","letterSpacing":"-.03em"},"children":"8"}],"$undefined"]}],["$","div",null,{"className":"text-[14px] text-ink-soft mt-1.5","children":"años acompañando estudiantes"}]]}],["$","div",null,{"className":"bg-off-white p-5","children":[["$","div",null,{"className":"flex items-baseline gap-2","children":[["$","span",null,{"className":"font-display font-black text-red-signal","style":{"fontSize":"clamp(30px,4vw,54px)","letterSpacing":"-.03em"},"children":"500+"}],"$undefined"]}],["$","div",null,{"className":"text-[14px] text-ink-soft mt-1.5","children":"estudiantes ya matriculados"}]]}],["$","div",null,{"className":"bg-off-white p-5","children":[["$","div",null,{"className":"flex items-baseline gap-2","children":[["$","span",null,{"className":"font-display font-black text-red-signal","style":{"fontSize":"clamp(30px,4vw,54px)","letterSpacing":"-.03em"},"children":"04"}],"$undefined"]}],["$","div",null,{"className":"text-[14px] text-ink-soft mt-1.5","children":"universidades con convenio directo"}]]}],["$","div",null,{"className":"bg-off-white p-5 flex items-center","children":["$","a",null,{"href":"https://wa.me/34677055769","target":"_blank","rel":"noopener","className":"inline-flex items-center gap-2.5 font-display font-extrabold text-[14px] uppercase tracking-[.04em] border-b-2 border-red-signal pb-[3px]","children":["Valorar mi expediente ",["$","span",null,{"children":"↗"}]]}]}]]}],["$","div",null,{"className":"relative mt-6 md:mt-10 overflow-hidden","style":{"height":"clamp(300px,52vh,620px)","filter":"grayscale(1) contrast(1.06)"},"children":["$","$L3",null,{"src":"https://d8j0ntlcm91z4.cloudfront.net/user_34QWmygEkYOaE9WTVh75CuadBkH/hf_20260909_212821_19aaf1cb-15f7-40c7-9262-5d328f2a039d.png","alt":"Estudiante caminando por un campus universitario en Madrid","fill":true,"priority":true,"unoptimized":true,"sizes":"100vw","style":{"objectFit":"cover"}}]}]]}],["$","section",null,{"className":"px-5 sm:px-8 md:px-11 py-14 sm:py-20 md:py-[140px]","children":[["$","div",null,{"className":"flex flex-wrap justify-between items-end gap-5 border-b border-hair pb-4.5","children":[["$","h2",null,{"className":"font-display font-black uppercase m-0","style":{"fontSize":"clamp(28px,4.4vw,72px)","letterSpacing":"-.035em"},"children":"Programas destacados"}],["$","$L4",null,{"href":"/programas","className":"font-mono text-[11px] tracking-[.16em] text-red-signal py-1","children":["VER LAS ",5," ÁREAS ↗"]}]]}],["$","$L5",null,{"programs":[{"categorySlug":"salud","categoryName":"Salud","programSlug":"master-odontologia-digital","title":"Máster en Odontología Digital en Madrid (UAX)","officialTitle":"Máster en Formación Permanente de Nuevas Tecnologías en Cirugía, Rehabilitación y Estética Dental","university":"Universidad Alfonso X el Sabio (UAX)","city":"Madrid","modality":"Presencial","ectsTotal":60,"duration":"1 curso académico (octubre 2026 - julio 2027)","startDate":"2026-10-01","titleSeo":"Máster en Odontología Digital en Madrid | UAX - Estudia en Madrid","metaDescription":"Máster presencial en Cirugía, Rehabilitación y Estética Dental Digital en la UAX (Madrid). 60 ECTS, +70% prácticas clínicas reales, tecnología Nemotec y Straumann. Infórmate con Estudia en Madrid.","lastUpdated":"2026-08-17","level":"MÁSTER","tags":["Salud","MÁSTER","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"bodyMarkdown":"$6"},{"categorySlug":"derecho","categoryName":"Derecho","programSlug":"master-criminalistica","title":"Máster Universitario en Criminalística en Madrid (CEU San Pablo)","officialTitle":"Máster Universitario en Criminalística","university":"Universidad CEU San Pablo","city":"Madrid","modality":"Presencial","ectsTotal":63,"duration":"9 meses","startDate":"Septiembre","titleSeo":"Máster Universitario en Criminalística en Madrid | CEU San Pablo - Estudia en Madrid","metaDescription":"Máster Universitario en Criminalística en la Universidad CEU San Pablo (Madrid). 9 meses, 100% presencial y práctico, capacita como Perito Judicial. Infórmate con Estudia en Madrid.","lastUpdated":"2026-09-03","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad CEU San Pablo"],"bodyMarkdown":"$7"},{"categorySlug":"ingenieria","categoryName":"Ingeniería","programSlug":"grado-inteligencia-artificial","title":"Grado en Inteligencia Artificial en Madrid (UAX)","officialTitle":"Grado en Inteligencia Artificial y Computación","university":"Universidad Alfonso X el Sabio (UAX)","city":"Madrid","modality":"Presencial (también disponible Online)","ectsTotal":270,"duration":"4 años","startDate":"Septiembre","titleSeo":"Grado en Inteligencia Artificial en Madrid | UAX - Estudia en Madrid","metaDescription":"Grado en Inteligencia Artificial y Computación en la Universidad Alfonso X el Sabio (UAX), Madrid. 4 años, presencial u online, con certificación de Google incluida. Infórmate con Estudia en Madrid.","lastUpdated":"2026-09-03","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"bodyMarkdown":"$8"}]}]]}],"$L9","$La","$Lb","$Lc","$Ld"],["$Le"],"$Lf"]}],"isPartial":"$@10","staleTime":"$11","varyParams":null},{"rsc":"$L12","isPartial":"$@13","staleTime":"$11","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+16:I[59095,["/_next/static/chunks/1dtep77600pqt.js","/_next/static/chunks/1yttpzfn4-h45.js","/_next/static/chunks/066t0ud47q33j.js"],"default"]
+17:I[95184,["/_next/static/chunks/1dtep77600pqt.js","/_next/static/chunks/1yttpzfn4-h45.js","/_next/static/chunks/066t0ud47q33j.js"],"default"]
+19:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+1a:"$Sreact.suspense"
+1c:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+1d:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+1e:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+9:["$","section",null,{"className":"relative overflow-hidden bg-ink text-off-white px-5 sm:px-8 md:px-11 py-14 sm:py-20 md:py-[150px]","children":[["$","div",null,{"aria-hidden":"true","className":"absolute rounded-full pointer-events-none hidden md:block","style":{"right":"-6%","top":"12%","width":"min(46vw,560px)","height":"min(46vw,560px)","border":"1px solid rgba(248,244,235,.16)","animation":"eem-spin 40s linear infinite"},"children":["$","div",null,{"className":"absolute","style":{"inset":"14%","border":"1px solid rgba(248,244,235,.16)","transform":"rotate(45deg)"}}]}],["$","p",null,{"className":"font-serif italic m-0 relative","style":{"maxWidth":"26ch","fontSize":"clamp(24px,3.6vw,56px)","lineHeight":1.1},"children":["El camino puede ponerse ",["$","span",null,{"className":"text-red-signal","children":"cuesta arriba"}],". Te acompañamos paso a paso."]}],["$","div",null,{"className":"grid gap-3.5 sm:gap-5 md:gap-6 items-end mt-8 sm:mt-12 md:mt-[86px] relative","style":{"gridTemplateColumns":"repeat(auto-fit, minmax(210px,1fr))"},"children":[["$","$L16","01",{"children":["$","div",null,{"className":"relative border p-5.5 flex flex-col justify-between bg-ink border-white/18","style":{"height":"clamp(200px,26vh,260px)"},"children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"01"}],["$","div",null,{"children":[["$","h3",null,{"className":"font-display font-extrabold m-0 mb-2","style":{"fontSize":"clamp(19px,2vw,26px)","letterSpacing":"-.02em"},"children":"Orientación"}],["$","p",null,{"className":"m-0 text-[14px] leading-[1.5]","style":{"color":"rgba(248,244,235,.7)"},"children":"Analizamos tu expediente y te decimos con honestidad qué opciones tienes."}]]}]]}]}],["$","$L16","02",{"children":["$","div",null,{"className":"relative border p-5.5 flex flex-col justify-between bg-ink border-white/18","style":{"height":"clamp(240px,32vh,320px)"},"children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"02"}],["$","div",null,{"children":[["$","h3",null,{"className":"font-display font-extrabold m-0 mb-2","style":{"fontSize":"clamp(19px,2vw,26px)","letterSpacing":"-.02em"},"children":"Postulación"}],["$","p",null,{"className":"m-0 text-[14px] leading-[1.5]","style":{"color":"rgba(248,244,235,.7)"},"children":"Preparamos documentos, apostillas y solicitud de reconocimiento de créditos."}]]}]]}]}],["$","$L16","03",{"children":["$","div",null,{"className":"relative border p-5.5 flex flex-col justify-between bg-ink border-white/18","style":{"height":"clamp(280px,38vh,380px)"},"children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"03"}],["$","div",null,{"children":[["$","h3",null,{"className":"font-display font-extrabold m-0 mb-2","style":{"fontSize":"clamp(19px,2vw,26px)","letterSpacing":"-.02em"},"children":"Visado y becas"}],["$","p",null,{"className":"m-0 text-[14px] leading-[1.5]","style":{"color":"rgba(248,244,235,.7)"},"children":"Cita consular, seguro médico, solvencia y las becas a las que sí calificas."}]]}]]}]}],["$","$L16","04",{"children":["$","div",null,{"className":"relative border p-5.5 flex flex-col justify-between bg-red-signal text-white border-white/18","style":{"height":"clamp(320px,44vh,440px)"},"children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","style":{"color":"#fff"},"children":"04"}],["$","div",null,{"children":[["$","h3",null,{"className":"font-display font-extrabold m-0 mb-2","style":{"fontSize":"clamp(19px,2vw,26px)","letterSpacing":"-.02em"},"children":"Llegada a Madrid"}],["$","p",null,{"className":"m-0 text-[14px] leading-[1.5]","style":{"color":"rgba(255,255,255,.85)"},"children":"Alojamiento, TIE, empadronamiento y una red de estudiantes que ya pasó por esto."}]]}]]}]}]]}],["$","$L17",null,{}]]}]
+a:["$","section",null,{"id":"nosotros","className":"px-5 sm:px-8 md:px-11 py-14 sm:py-20 md:py-[140px]","children":["$","div",null,{"className":"grid gap-6 sm:gap-9 md:gap-[72px]","style":{"gridTemplateColumns":"repeat(auto-fit, minmax(280px,1fr))"},"children":[["$","div",null,{"children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"02 — QUIÉNES SOMOS"}],["$","$L16",null,{"children":["$","h2",null,{"className":"font-display font-black uppercase mt-3.5","style":{"fontSize":"clamp(30px,5vw,84px)","lineHeight":0.92,"letterSpacing":"-.04em"},"children":["No vendemos",["$","br",null,{}],"cupos.",["$","br",null,{}],["$","span",null,{"className":"text-red-signal","children":"Abrimos puertas."}]]}]}]]}],["$","div",null,{"className":"flex flex-col gap-5","style":{"maxWidth":"56ch"},"children":[["$","$L16",null,{"children":["$","p",null,{"className":"m-0","style":{"fontSize":"clamp(16px,1.3vw,20px)","lineHeight":1.6},"children":"Somos una agencia con convenio directo con universidades privadas españolas. Eso significa dos cosas concretas: pagas menos que yendo por tu cuenta y tienes a alguien del otro lado del Atlántico resolviendo el papeleo contigo."}]}],["$","$L16",null,{"delay":0.05,"children":["$","p",null,{"className":"m-0 text-ink-soft","style":{"fontSize":"clamp(16px,1.3vw,20px)","lineHeight":1.6},"children":"Trabajamos caso por caso. Revisamos tu título, tus créditos y tu presupuesto antes de recomendarte nada — si no te conviene, te lo decimos."}]}],["$","$L16",null,{"delay":0.08,"children":["$","p",null,{"className":"m-0 text-ink-soft","style":{"fontSize":"clamp(16px,1.3vw,20px)","lineHeight":1.6},"children":"El catálogo cubre grados, dobles grados y másteres en cinco áreas — Derecho, Administración, Ingeniería, Salud y Educación —, todos con convenio directo en universidades privadas."}]}],["$","div",null,{"className":"grid gap-3.5 mt-2","style":{"gridTemplateColumns":"repeat(auto-fit, minmax(230px,1fr))"},"children":[["$","$L16","Carlos Hernández",{"children":["$","div",null,{"className":"relative rounded-md border p-5 bg-white border-hair ","children":["$undefined",["$","p",null,{"className":"font-serif italic text-[20px] leading-[1.25] my-3.5","children":["“","Excelente atención, tiene gran dominio de la información y la expresa con claridad y precisión. Muchas gracias a Wilson Pabón y a todo su equipo.","”"]}],["$","div",null,{"className":"border-t border-dashed my-3.5 border-hair"}],["$","div",null,{"className":"flex justify-between items-end","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-display font-extrabold text-[13px] uppercase","children":"Carlos Hernández · Venezuela"}],["$","div",null,{"className":"text-[12px] text-ink-soft","children":"Trustpilot"}]]}],["$","div",null,{"className":"flex gap-[1.5px] items-end h-[22px]","aria-hidden":"true","children":[["$","i","0",{"className":"block bg-ink","style":{"width":2,"height":"100%"}}],["$","i","1",{"className":"block bg-ink","style":{"width":1,"height":"70%"}}],["$","i","2",{"className":"block bg-ink","style":{"width":2,"height":"100%"}}],["$","i","3",{"className":"block bg-ink","style":{"width":1,"height":"60%"}}],["$","i","4",{"className":"block bg-ink","style":{"width":2,"height":"100%"}}],["$","i","5",{"className":"block bg-ink","style":{"width":1,"height":"80%"}}],["$","i","6",{"className":"block bg-ink","style":{"width":2,"height":"100%"}}]]}]]}]]}]}],["$","$L16","Sandra Morales Zambrano",{"children":["$","div",null,{"className":"relative rounded-md border p-5 bg-white border-hair ","children":["$undefined",["$","p",null,{"className":"font-serif italic text-[20px] leading-[1.25] my-3.5","children":["“","Excelente atención y trato. Súper eficaz y demasiado eficiente. Espero con ansias un favorable a mi solicitud y con ellos me he sentido segura y confiada. Muchas gracias chicos!!!","”"]}],["$","div",null,{"className":"border-t border-dashed my-3.5 border-hair"}],["$","div",null,{"className":"flex justify-between items-end","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-display font-extrabold text-[13px] uppercase","children":"Sandra Morales Zambrano · España"}],["$","div",null,{"className":"text-[12px] text-ink-soft","children":"Trustpilot"}]]}],"$L18"]}]]}]}]]}]]}]]}]}]
+b:["$","section",null,{"id":"universidades","className":"border-y border-hair py-9 sm:py-12 md:py-[72px]","children":[["$","div",null,{"className":"flex justify-between gap-5 px-5 sm:px-8 md:px-11 mb-6.5","children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"CONVENIOS DIRECTOS"}],["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-ink-soft","children":["04"," UNIVERSIDAD","ES"]}]]}],["$","div",null,{"className":"grid gap-px bg-hair","style":{"gridTemplateColumns":"repeat(auto-fit, minmax(160px,1fr))"},"children":[["$","$L16","Universidad Alfonso X el Sabio (UAX)",{"className":"bg-off-white px-4.5 py-6.5 grid place-items-center","children":["$","div",null,{"className":"w-full h-16 flex items-center justify-center","children":["$","span",null,{"className":"font-display font-extrabold text-[15px] uppercase text-ink-soft text-center","children":"Universidad Alfonso X el Sabio (UAX)"}]}]}],["$","$L16","Universidad Nebrija",{"className":"bg-off-white px-4.5 py-6.5 grid place-items-center","children":["$","div",null,{"className":"w-full h-16 flex items-center justify-center","children":["$","span",null,{"className":"font-display font-extrabold text-[15px] uppercase text-ink-soft text-center","children":"Universidad Nebrija"}]}]}],["$","$L16","Universidad CEU San Pablo",{"className":"bg-off-white px-4.5 py-6.5 grid place-items-center","children":["$","div",null,{"className":"w-full h-16 flex items-center justify-center","children":["$","span",null,{"className":"font-display font-extrabold text-[15px] uppercase text-ink-soft text-center","children":"Universidad CEU San Pablo"}]}]}],["$","$L16","Universidad Camilo José Cela (UCJC)",{"className":"bg-off-white px-4.5 py-6.5 grid place-items-center","children":["$","div",null,{"className":"w-full h-16 flex items-center justify-center","children":["$","span",null,{"className":"font-display font-extrabold text-[15px] uppercase text-ink-soft text-center","children":"Universidad Camilo José Cela (UCJC)"}]}]}]]}]]}]
+c:["$","section",null,{"className":"relative px-5 sm:px-8 md:px-11 py-14 sm:py-20 md:py-[150px] overflow-hidden","children":[["$","div",null,{"aria-hidden":"true","className":"absolute inset-0","style":{"filter":"grayscale(1) blur(9px) contrast(1.1)","opacity":0.5},"children":["$","$L3",null,{"src":"https://d8j0ntlcm91z4.cloudfront.net/user_34QWmygEkYOaE9WTVh75CuadBkH/hf_20260909_212821_30004389-2629-4caf-8fab-326c9869566f.png","alt":"","fill":true,"unoptimized":true,"sizes":"100vw","style":{"objectFit":"cover"}}]}],["$","div",null,{"aria-hidden":"true","className":"absolute left-0 right-0 text-center pointer-events-none hidden md:block font-display font-black uppercase","style":{"top":"24%","fontSize":"clamp(60px,16vw,280px)","letterSpacing":"-.05em","color":"rgba(22,19,17,.1)","filter":"blur(3px)"},"children":"Madrid"}],["$","div",null,{"className":"relative grid gap-3.5 sm:gap-5 md:gap-6.5","style":{"gridTemplateColumns":"repeat(auto-fit, minmax(260px,1fr))","maxWidth":1100,"margin":"0 auto"},"children":[["$","$L16",null,{"children":["$","div",null,{"className":"bg-white border border-hair rounded-md p-6","children":[["$","div",null,{"className":"font-mono text-[10px] tracking-[.16em] text-red-signal","children":"AHORRO"}],["$","p",null,{"className":"font-display font-extrabold mt-3 mb-0 text-[22px]","style":{"letterSpacing":"-.02em"},"children":"Matrícula con convenio"}],["$","p",null,{"className":"text-[14px] leading-[1.5] text-ink-soft mt-2 mb-0","children":"Pagas la tarifa acordada con la universidad, no la de lista."}]]}]}],["$","$L16",null,{"delay":0.05,"children":["$","div",null,{"className":"bg-white border border-hair rounded-md p-6","children":[["$","div",null,{"className":"font-mono text-[10px] tracking-[.16em] text-red-signal","children":"TRANQUILIDAD"}],["$","p",null,{"className":"font-display font-extrabold mt-3 mb-0 text-[22px]","style":{"letterSpacing":"-.02em"},"children":"Un asesor, todo el proceso"}],["$","p",null,{"className":"text-[14px] leading-[1.5] text-ink-soft mt-2 mb-0","children":"La misma persona desde la primera consulta hasta tu TIE."}]]}]}],["$","$L16",null,{"delay":0.1,"children":["$","div",null,{"className":"bg-red-signal text-white rounded-md p-6 flex flex-col justify-between gap-4.5","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-mono text-[10px] tracking-[.16em]","children":"SIGUIENTE PASO"}],["$","p",null,{"className":"font-display font-extrabold mt-3 mb-0 text-[22px]","style":{"letterSpacing":"-.02em"},"children":"Escríbenos por WhatsApp"}]]}],["$","a",null,{"href":"https://wa.me/34677055769","target":"_blank","rel":"noopener","className":"text-white font-display font-extrabold text-[14px] uppercase tracking-[.04em] border-b-2 border-white pb-[3px] self-start","children":"+34 677 055 769 ↗"}]]}]}]]}]]}]
+d:["$","p",null,{"className":"sr-only","children":[57," programas en catálogo."]}]
+e:["$","script","script-0",{"src":"/_next/static/chunks/066t0ud47q33j.js","async":true}]
+f:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+12:["$","$1","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Estudia en Madrid — Tu carrera sigue en Madrid"}],["$","meta","1",{"name":"description","content":"8 años y más de 500 estudiantes latinoamericanos acompañados para estudiar en universidades privadas de Madrid: elección de programa, convalidaciones,…"}],["$","link","2",{"rel":"canonical","href":"https://estudiaenmadrid.com"}],["$","meta","3",{"property":"og:title","content":"Estudia en Madrid — Tu carrera sigue en Madrid"}],["$","meta","4",{"property":"og:description","content":"8 años y más de 500 estudiantes latinoamericanos acompañados para estudiar en universidades privadas de Madrid: elección de programa, convalidaciones,…"}],["$","meta","5",{"property":"og:url","content":"https://estudiaenmadrid.com"}],["$","meta","6",{"property":"og:site_name","content":"Estudia en Madrid"}],["$","meta","7",{"property":"og:locale","content":"es_ES"}],["$","meta","8",{"property":"og:image","content":"https://estudiaenmadrid.com/opengraph-image?1bfa79b2529b63ab"}],["$","meta","9",{"property":"og:image:type","content":"image/png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Estudia en Madrid — Tu carrera sigue en Madrid"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Estudia en Madrid — Tu carrera sigue en Madrid"}],["$","meta","16",{"name":"twitter:description","content":"8 años y más de 500 estudiantes latinoamericanos acompañados para estudiar en universidades privadas de Madrid: elección de programa, convalidaciones,…"}],["$","meta","17",{"name":"twitter:image","content":"https://estudiaenmadrid.com/opengraph-image?1bfa79b2529b63ab"}],["$","meta","18",{"name":"twitter:image:alt","content":"Estudia en Madrid — Tu carrera sigue en Madrid"}],["$","meta","19",{"name":"twitter:image:type","content":"image/png"}],["$","meta","20",{"name":"twitter:image:width","content":"1200"}],["$","meta","21",{"name":"twitter:image:height","content":"630"}],["$","link","22",{"rel":"icon","href":"/icon.png?icon.2ptuj5tv8i2an.png","sizes":"192x192","type":"image/png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.3zahz7vkregr2.png","sizes":"180x180","type":"image/png"}],["$","$L1e","24",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:true
+18:["$","div",null,{"className":"flex gap-[1.5px] items-end h-[22px]","aria-hidden":"true","children":[["$","i","0",{"className":"block bg-ink","style":{"width":2,"height":"100%"}}],["$","i","1",{"className":"block bg-ink","style":{"width":1,"height":"70%"}}],["$","i","2",{"className":"block bg-ink","style":{"width":2,"height":"100%"}}],["$","i","3",{"className":"block bg-ink","style":{"width":1,"height":"60%"}}],["$","i","4",{"className":"block bg-ink","style":{"width":2,"height":"100%"}}],["$","i","5",{"className":"block bg-ink","style":{"width":1,"height":"80%"}}],["$","i","6",{"className":"block bg-ink","style":{"width":2,"height":"100%"}}]]}]
+1b:null
+11:300
+11:C
+14:0
+13:"$undefined"
+10:"$undefined"
