@@ -5,4 +5,4 @@
 :HL["/_next/static/media/7ebf22b5a21034f8-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e41d5df559864f9e-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"guias","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cuenta-bancaria-espana-estudiante-extranjero","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"EybKspaKI4a5pyF91wuv_"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"guias","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cuenta-bancaria-espana-estudiante-extranjero","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"nXDv2KE-VbaFVcoNQWrDv"}
