@@ -175,26 +175,33 @@ export default async function AreaPage({ params }: { params: Promise<{ categoria
 
         <div className="grid gap-3.5 sm:gap-5 md:gap-6.5 mt-8 sm:mt-12 md:mt-20" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(260px,1fr))" }}>
           <Reveal>
-            <div className="bg-white border border-hair rounded-md p-6">
+            <Link
+              href="/guias/homologacion-vs-convalidacion-titulo"
+              className="block bg-white border border-hair rounded-md p-6 hover:bg-off-white"
+            >
               <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">CÓMO ELEGIR</div>
               <p className="font-display font-extrabold mt-3 mb-0 text-[21px]" style={{ letterSpacing: "-.02em" }}>
                 Convalidar o empezar
               </p>
               <p className="text-[14px] leading-[1.5] text-ink-soft mt-2 mb-0">
-                Si tienes créditos cursados, casi siempre conviene convalidar: menos años y menos dinero.
+                Si tienes créditos cursados, casi siempre conviene convalidar: menos años y menos dinero. Leé la
+                guía completa ↗
               </p>
-            </div>
+            </Link>
           </Reveal>
           <Reveal delay={0.05}>
-            <div className="bg-white border border-hair rounded-md p-6">
+            <Link
+              href="/guias/visado-estudiante-espana-latinoamericanos"
+              className="block bg-white border border-hair rounded-md p-6 hover:bg-off-white"
+            >
               <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">MODALIDAD</div>
               <p className="font-display font-extrabold mt-3 mb-0 text-[21px]" style={{ letterSpacing: "-.02em" }}>
                 ¿Te mudas o no?
               </p>
               <p className="text-[14px] leading-[1.5] text-ink-soft mt-2 mb-0">
-                Online no requiere visado. Presencial sí, y lo gestionamos contigo.
+                Online no requiere visado. Presencial sí — mirá cómo se tramita ↗
               </p>
-            </div>
+            </Link>
           </Reveal>
           <Reveal delay={0.1}>
             <div className="bg-ink text-off-white rounded-md p-6 flex flex-col justify-between gap-4.5">

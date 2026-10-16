@@ -11,11 +11,17 @@ import {
   getRelatedPrograms,
 } from "@/lib/content";
 import { CAMPUS_BY_UNIVERSITY } from "@/lib/photos";
+import { UNIVERSITIES } from "@/data/universities";
 import PlaceholderImage from "@/components/PlaceholderImage";
 import Reveal from "@/components/Reveal";
+import Breadcrumb from "@/components/Breadcrumb";
 import CourseSchema from "@/components/schema/CourseSchema";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
 import MarkdownSections from "@/components/shared/MarkdownSections";
+import RelatedGuides from "@/components/shared/RelatedGuides";
+import ScrollProgress from "@/components/shared/ScrollProgress";
+import TableOfContents from "@/components/shared/TableOfContents";
+import { getTocItems } from "@/lib/programSections";
 import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -52,6 +58,7 @@ export default async function FichaPage({
 
   const universityLabel = displayUniversity(program.university);
   const campusPhoto = CAMPUS_BY_UNIVERSITY[universityLabel];
+  const universityProfile = UNIVERSITIES.find((u) => u.displayName === universityLabel);
 
   const facts: [string, string][] = [
     ["Universidad", universityLabel],
@@ -62,7 +69,13 @@ export default async function FichaPage({
   if (program.duration) facts.push(["Duración", program.duration]);
   if (program.startDate) facts.push(["Próximo inicio", program.startDate]);
 
+  const statStrip: { value: string; label: string }[] = [{ value: program.level, label: "nivel" }];
+  if (program.ectsTotal) statStrip.push({ value: String(program.ectsTotal), label: "créditos ECTS" });
+  statStrip.push({ value: getModalityTags(program.modality)[0] ?? program.modality, label: "modalidad" });
+  statStrip.push({ value: universityProfile?.shortName ?? "—", label: "universidad" });
+
   const related = getRelatedPrograms(program);
+  const tocItems = getTocItems(program.bodyMarkdown);
   const lastUpdatedLabel = program.lastUpdated
     ? new Date(program.lastUpdated + "T00:00:00").toLocaleDateString("es-ES", {
         day: "numeric",
@@ -73,6 +86,7 @@ export default async function FichaPage({
 
   return (
     <>
+      <ScrollProgress />
       <CourseSchema program={program} />
       <BreadcrumbSchema
         items={[
@@ -83,10 +97,14 @@ export default async function FichaPage({
         ]}
       />
       <section className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16">
-        <div className="flex flex-wrap gap-2 font-mono text-[11px] tracking-[.16em] text-ink-soft uppercase">
-          <Link href="/programas">Programas</Link> /{" "}
-          <Link href={`/programas/${area.slug}`}>{area.name}</Link>
-        </div>
+        <Breadcrumb
+          items={[
+            { name: "Inicio", path: "/" },
+            { name: "Programas", path: "/programas" },
+            { name: area.name, path: `/programas/${area.slug}` },
+            { name: program.title, path: `/programas/${area.slug}/${program.programSlug}` },
+          ]}
+        />
         <Link
           href={`/programas/${area.slug}`}
           className="inline-flex items-center gap-2.5 mt-3.5 border border-hair px-3.5 py-2.5 font-display font-extrabold text-[12px] tracking-[.08em] uppercase hover:bg-white"
@@ -99,9 +117,19 @@ export default async function FichaPage({
         >
           {program.title}
         </h1>
-        <p className="font-serif italic mt-4" style={{ fontSize: "clamp(20px,2.4vw,32px)" }}>
-          {universityLabel}
-        </p>
+        {universityProfile ? (
+          <Link
+            href={`/universidades/${universityProfile.slug}`}
+            className="inline-flex font-serif italic mt-4 border-b border-ink-soft/40 hover:border-red-signal hover:text-red-signal"
+            style={{ fontSize: "clamp(20px,2.4vw,32px)" }}
+          >
+            {universityLabel}
+          </Link>
+        ) : (
+          <p className="font-serif italic mt-4" style={{ fontSize: "clamp(20px,2.4vw,32px)" }}>
+            {universityLabel}
+          </p>
+        )}
         <div className="flex flex-wrap gap-2 mt-5.5">
           {getModalityTags(program.modality).map((t) => (
             <em key={t} className="not-italic font-mono text-[11px] tracking-[.1em] border border-hair px-2.5 py-1.5">
@@ -129,12 +157,36 @@ export default async function FichaPage({
             <PlaceholderImage label={`${universityLabel} — imagen pendiente`} className="w-full h-full" />
           )}
         </div>
+
+        <div
+          className="grid gap-px bg-hair border-y border-hair mt-5.5 md:mt-9"
+          style={{ gridTemplateColumns: "repeat(auto-fit, minmax(140px,1fr))" }}
+        >
+          {statStrip.map((s) => (
+            <div key={s.label} className="bg-off-white py-4 px-4 first:pl-0 min-w-0">
+              <div
+                className="font-display font-black text-red-signal uppercase truncate"
+                style={{ fontSize: "clamp(17px,2.1vw,28px)", letterSpacing: "-.02em" }}
+                title={s.value}
+              >
+                {s.value}
+              </div>
+              <div className="text-[13px] text-ink-soft mt-1">{s.label}</div>
+            </div>
+          ))}
+        </div>
       </section>
 
       <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px] grid gap-6 sm:gap-9 md:gap-[72px]" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(280px,1fr))" }}>
         <MarkdownSections bodyMarkdown={program.bodyMarkdown} />
 
         <aside className="flex flex-col gap-3.5 md:sticky md:top-24 self-start">
+          {tocItems.length > 1 && (
+            <div className="hidden md:block font-mono text-[10px] tracking-[.16em] text-red-signal mb-1">
+              EN ESTA PÁGINA
+            </div>
+          )}
+          <TableOfContents items={tocItems} />
           <Reveal delay={0.1}>
             <div className="bg-white border border-hair rounded-md p-5.5">
               <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">DATOS CLAVE</div>
@@ -194,6 +246,8 @@ export default async function FichaPage({
           </div>
         </section>
       )}
+
+      <RelatedGuides />
     </>
   );
 }

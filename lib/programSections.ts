@@ -48,6 +48,23 @@ export function parseFaqPairs(markdown: string): FaqItem[] {
   return items;
 }
 
+/** Deterministic heading -> anchor id, shared between MarkdownSections (sets the id) and any in-page table of contents (links to it). */
+export function slugifyHeading(heading: string): string {
+  return heading
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+/** Section headings + anchor ids for a body's table of contents — the CTA section is excluded, it's a call to action, not a navigable topic. */
+export function getTocItems(bodyMarkdown: string): { id: string; heading: string }[] {
+  return splitProgramSections(bodyMarkdown)
+    .filter((s) => sectionKind(s.heading) !== "cta")
+    .map((s) => ({ id: slugifyHeading(s.heading), heading: s.heading }));
+}
+
 export type SectionKind = "intro" | "datos" | "faq" | "porque" | "checklist" | "cta" | "card";
 
 export function sectionKind(heading: string): SectionKind {

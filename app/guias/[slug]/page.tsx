@@ -3,7 +3,10 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getAllGuides, getGuide, getGuidesByCategory } from "@/lib/guides";
 import MarkdownSections from "@/components/shared/MarkdownSections";
+import Breadcrumb from "@/components/Breadcrumb";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import Reveal from "@/components/Reveal";
+import ScrollProgress from "@/components/shared/ScrollProgress";
 import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -41,6 +44,7 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
 
   return (
     <>
+      <ScrollProgress />
       <BreadcrumbSchema
         items={[
           { name: "Inicio", path: "/" },
@@ -49,9 +53,13 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
         ]}
       />
       <section className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16">
-        <div className="flex flex-wrap gap-2 font-mono text-[11px] tracking-[.16em] text-ink-soft uppercase">
-          <Link href="/guias">Guías</Link> / <span className="text-red-signal">{guide.category}</span>
-        </div>
+        <Breadcrumb
+          items={[
+            { name: "Inicio", path: "/" },
+            { name: "Guías", path: "/guias" },
+            { name: guide.title, path: `/guias/${guide.slug}` },
+          ]}
+        />
         <Link
           href="/guias"
           className="inline-flex items-center gap-2.5 mt-3.5 border border-hair px-3.5 py-2.5 font-display font-extrabold text-[12px] tracking-[.08em] uppercase hover:bg-white"
@@ -104,6 +112,43 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
           </div>
         </section>
       )}
+
+      <section className={`px-5 sm:px-8 md:px-11 pb-14 sm:pb-20 md:pb-[120px] ${related.length > 0 ? "" : "border-t border-hair pt-9 sm:pt-12"}`}>
+        <div className="grid gap-3.5 sm:gap-5" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(260px,1fr))" }}>
+          <Reveal>
+            <Link
+              href="/programas"
+              className="flex flex-col justify-between gap-4 bg-ink text-off-white rounded-md p-6 h-full hover:opacity-90"
+            >
+              <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">CATÁLOGO</div>
+              <div>
+                <p className="font-display font-extrabold mt-0 mb-1.5 text-[21px]" style={{ letterSpacing: "-.02em" }}>
+                  Ver todos los programas
+                </p>
+                <p className="text-[14px] leading-[1.5]" style={{ color: "rgba(248,244,235,.7)" }}>
+                  Grados y másteres con convenio directo en 5 áreas.
+                </p>
+              </div>
+            </Link>
+          </Reveal>
+          <Reveal delay={0.05}>
+            <Link
+              href="/universidades"
+              className="flex flex-col justify-between gap-4 bg-white border border-hair rounded-md p-6 h-full hover:bg-off-white"
+            >
+              <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">UNIVERSIDADES</div>
+              <div>
+                <p className="font-display font-extrabold mt-0 mb-1.5 text-[21px]" style={{ letterSpacing: "-.02em" }}>
+                  Conocé con quién trabajamos
+                </p>
+                <p className="text-[14px] leading-[1.5] text-ink-soft">
+                  Las 4 universidades privadas con convenio directo.
+                </p>
+              </div>
+            </Link>
+          </Reveal>
+        </div>
+      </section>
     </>
   );
 }

@@ -32,18 +32,21 @@ const PROCESS_STEPS = [
     title: "Orientación",
     body: "Analizamos tu expediente y te decimos con honestidad qué opciones tienes.",
     h: "clamp(200px,26vh,260px)",
+    href: "/programas",
   },
   {
     num: "02",
     title: "Postulación",
     body: "Preparamos documentos, apostillas y solicitud de reconocimiento de créditos.",
     h: "clamp(240px,32vh,320px)",
+    href: "/guias/homologacion-vs-convalidacion-titulo",
   },
   {
     num: "03",
     title: "Visado y becas",
     body: "Cita consular, seguro médico, solvencia y las becas a las que sí calificas.",
     h: "clamp(280px,38vh,380px)",
+    href: "/guias/visado-estudiante-espana-latinoamericanos",
   },
   {
     num: "04",
@@ -51,6 +54,7 @@ const PROCESS_STEPS = [
     body: "Alojamiento, TIE, empadronamiento y una red de estudiantes que ya pasó por esto.",
     h: "clamp(320px,44vh,440px)",
     red: true,
+    href: "/guias/vivir-en-madrid-estudiante-latinoamericano",
   },
 ];
 
@@ -161,8 +165,9 @@ export default function Home() {
         >
           {PROCESS_STEPS.map((step) => (
             <Reveal key={step.num}>
-              <div
-                className={`relative border p-5.5 flex flex-col justify-between ${
+              <Link
+                href={step.href}
+                className={`relative border p-5.5 flex flex-col justify-between hover:opacity-90 ${
                   step.red ? "bg-red-signal text-white border-white/18" : "bg-ink border-white/18"
                 }`}
                 style={{ height: step.h }}
@@ -178,7 +183,7 @@ export default function Home() {
                     {step.body}
                   </p>
                 </div>
-              </div>
+              </Link>
             </Reveal>
           ))}
         </div>

@@ -6,7 +6,9 @@ import { UNIVERSITIES, getUniversityBySlug } from "@/data/universities";
 import { getAllPrograms, groupPrograms, normalizeUniversityName } from "@/lib/content";
 import { CAMPUS_BY_UNIVERSITY } from "@/lib/photos";
 import Reveal from "@/components/Reveal";
+import Breadcrumb from "@/components/Breadcrumb";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import RelatedGuides from "@/components/shared/RelatedGuides";
 import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -48,9 +50,13 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
         ]}
       />
       <section className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16">
-        <div className="flex flex-wrap gap-2 font-mono text-[11px] tracking-[.16em] text-ink-soft uppercase">
-          <Link href="/universidades">Universidades</Link>
-        </div>
+        <Breadcrumb
+          items={[
+            { name: "Inicio", path: "/" },
+            { name: "Universidades", path: "/universidades" },
+            { name: profile.shortName, path: `/universidades/${profile.slug}` },
+          ]}
+        />
         <Link
           href="/universidades"
           className="inline-flex items-center gap-2.5 mt-3.5 border border-hair px-3.5 py-2.5 font-display font-extrabold text-[12px] tracking-[.08em] uppercase hover:bg-white"
@@ -207,6 +213,11 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
           </p>
         </aside>
       </section>
+
+      <RelatedGuides
+        slugs={["como-elegir-universidad-privada-madrid", "creditos-ects-sistema-universitario-espanol", "homologacion-vs-convalidacion-titulo"]}
+        title="Guías para decidir mejor"
+      />
     </>
   );
 }

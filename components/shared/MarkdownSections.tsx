@@ -2,6 +2,7 @@ import Reveal from "@/components/Reveal";
 import {
   parseFaqPairs,
   sectionKind,
+  slugifyHeading,
   splitProgramSections,
   type ProgramSection,
 } from "@/lib/programSections";
@@ -19,7 +20,7 @@ function SectionKicker({ index, heading }: { index: number; heading: string }) {
 function IntroSection({ section, index }: { section: ProgramSection; index: number }) {
   return (
     <Reveal>
-      <div>
+      <div id={slugifyHeading(section.heading)} style={{ scrollMarginTop: "100px" }}>
         <SectionKicker index={index} heading={section.heading} />
         <div
           className="eem-prose eem-sec-intro"
@@ -34,7 +35,7 @@ function IntroSection({ section, index }: { section: ProgramSection; index: numb
 function DatosSection({ section, index }: { section: ProgramSection; index: number }) {
   return (
     <Reveal>
-      <div>
+      <div id={slugifyHeading(section.heading)} style={{ scrollMarginTop: "100px" }}>
         <SectionKicker index={index} heading={section.heading} />
         <div
           className="eem-prose eem-sec-datos bg-white border border-hair rounded-md p-1.5 sm:p-2"
@@ -48,7 +49,7 @@ function DatosSection({ section, index }: { section: ProgramSection; index: numb
 function CardSection({ section, index }: { section: ProgramSection; index: number }) {
   return (
     <Reveal>
-      <div>
+      <div id={slugifyHeading(section.heading)} style={{ scrollMarginTop: "100px" }}>
         <SectionKicker index={index} heading={section.heading} />
         <div
           className="eem-prose bg-white border border-hair border-l-4 border-l-red-signal rounded-md p-5.5 sm:p-7"
@@ -62,7 +63,7 @@ function CardSection({ section, index }: { section: ProgramSection; index: numbe
 function ChecklistSection({ section, index }: { section: ProgramSection; index: number }) {
   return (
     <Reveal>
-      <div>
+      <div id={slugifyHeading(section.heading)} style={{ scrollMarginTop: "100px" }}>
         <SectionKicker index={index} heading={section.heading} />
         <div
           className="eem-prose eem-sec-checklist"
@@ -76,7 +77,7 @@ function ChecklistSection({ section, index }: { section: ProgramSection; index: 
 function PorQueSection({ section, index }: { section: ProgramSection; index: number }) {
   return (
     <Reveal>
-      <div>
+      <div id={slugifyHeading(section.heading)} style={{ scrollMarginTop: "100px" }}>
         <SectionKicker index={index} heading={section.heading} />
         <div
           className="eem-prose eem-sec-porque"
@@ -91,7 +92,7 @@ function FaqSection({ section, index }: { section: ProgramSection; index: number
   const items = parseFaqPairs(section.markdown);
   if (items.length === 0) return null;
   return (
-    <div>
+    <div id={slugifyHeading(section.heading)} style={{ scrollMarginTop: "100px" }}>
       <Reveal>
         <SectionKicker index={index} heading={section.heading} />
       </Reveal>
