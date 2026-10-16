@@ -40,12 +40,22 @@ export default function GuideFilter({ guides, categories }: { guides: Guide[]; c
       <div className="grid gap-px bg-hair border border-hair mt-9 sm:mt-12 md:mt-16" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(280px,1fr))" }}>
         {visible.map((g, i) => (
           <Reveal key={g.slug} delay={Math.min(i * 0.05, 0.2)} className="bg-white">
-            <Link href={`/guias/${g.slug}`} className="flex flex-col justify-between gap-6 p-6 sm:p-8 h-full text-ink hover:bg-off-white" style={{ minHeight: "260px" }}>
+            <Link
+              href={`/guias/${g.slug}`}
+              className="flex flex-col justify-between gap-6 p-6 sm:p-8 h-full text-ink hover:bg-off-white min-w-0"
+              style={{ minHeight: "260px" }}
+            >
               <span className="font-mono text-[10px] tracking-[.14em] text-red-signal uppercase">{g.category}</span>
-              <span>
+              <span className="min-w-0">
                 <span
                   className="font-display font-black uppercase block"
-                  style={{ fontSize: "clamp(20px,2.2vw,30px)", lineHeight: 1.05, letterSpacing: "-.03em" }}
+                  style={{
+                    fontSize: "clamp(18px,2vw,28px)",
+                    lineHeight: 1.08,
+                    letterSpacing: "-.03em",
+                    overflowWrap: "break-word",
+                    hyphens: "auto",
+                  }}
                 >
                   {g.title}
                 </span>
