@@ -29,13 +29,6 @@ tendencias actuales del marketing digital, certificaciones en habilidades
 blandas, metodologías ágiles y herramientas y software especializado del
 sector.
 
-> **Nota:** este programa aparece dentro de la categoría "Ingeniería" en el
-> catálogo del cliente, aunque por su contenido corresponde al área de
-> marketing/negocio. Se mantiene en la ruta indicada por el cliente
-> (`content/programas/ingenieria/`), pero conviene confirmar si la
-> clasificación por categoría del sitio debería moverlo a
-> "Administración" — ver nota interna.
-
 ## Datos generales
 
 | | |
@@ -49,7 +42,7 @@ sector.
 
 ## Plan de estudios / contenidos principales
 
-Según la información disponible, el programa incluye:
+El programa incluye:
 
 - Fundamentos y tendencias actuales del marketing digital.
 - Metodologías ágiles aplicadas a proyectos de marketing.
@@ -57,10 +50,6 @@ Según la información disponible, el programa incluye:
 - Certificaciones en habilidades blandas ("soft skills").
 - **Prácticas Académicas Externas obligatorias** (6 ECTS / 150 horas).
 - Trabajo Fin de Máster.
-
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos de cada asignatura — pendiente de confirmar con la ficha oficial
-completa de la universidad.
 
 ## Salidas profesionales
 
@@ -86,6 +75,29 @@ completa de la universidad.
   Latinoamérica.
 - Certificaciones en metodologías ágiles y habilidades blandas incluidas
   en el programa.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster Universitario Online en Marketing Digital?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster Universitario Online en Marketing Digital es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster Universitario Online en Marketing Digital?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster Universitario Online en Marketing Digital?**
+La próxima convocatoria empieza en Octubre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

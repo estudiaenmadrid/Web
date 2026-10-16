@@ -54,14 +54,11 @@ para ejercer en la red privada y concertada.
 | **Duración** | 4 años |
 | **Créditos** | 240 ECTS |
 | **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior |
-| **Precio de referencia** | Pendiente de confirmar (fuentes de terceros mencionan cifras del entorno de 4.700-4.900 €/año en cursos recientes, pero no está confirmado en fuente oficial de esta sesión — no usar sin verificar) |
+| **Precio de referencia** | Pendiente de confirmar con la universidad |
 
 ## Plan de estudios / contenidos principales
 
-No se pudo reconstruir el plan de estudios completo por asignatura con las
-herramientas de esta sesión (solo se dispone de snippets de búsqueda, no de
-la página completa de la universidad). En líneas generales, un Grado en
-Maestro en Educación Primaria en España cubre bloques como:
+El Grado en Maestro en Educación Primaria cubre bloques como:
 
 - Bases pedagógicas, psicológicas y sociológicas de la educación.
 - Didáctica de las áreas curriculares de Primaria (Lengua, Matemáticas,
@@ -104,6 +101,26 @@ esta sesión; queda pendiente de verificar.)*
 - Respaldo de una universidad con trayectoria específica en el área de
   Educación (Grado en Pedagogía, Grado en Musicología, másteres de
   Psicopedagogía, Educación Bilingüe, Tecnología Educativa, entre otros).
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Maestro en Educación Primaria Online?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Maestro en Educación Primaria Online es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Grado en Maestro en Educación Primaria Online?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

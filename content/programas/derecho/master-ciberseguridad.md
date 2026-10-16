@@ -23,7 +23,7 @@ El **Máster en Ciberseguridad. Ingeniería y Gestión** de la **Universidad Neb
 
 El claustro está formado por líderes de ciberseguridad de grandes multinacionales, con un enfoque de actualización constante frente a las amenazas y tecnologías del sector. El programa combina proyectos aplicados, trabajo fin de máster y prácticas en empresas, y prepara además para obtener certificaciones reconocidas del sector, lo que suma competitividad al perfil del egresado en el mercado laboral.
 
-**Importante:** este es el Máster en Ciberseguridad que la **Universidad Nebrija** dicta en **Madrid**. Es un programa distinto del "Máster en Ciberseguridad" que se imparte en **Málaga** en otras universidades (Universidad de Málaga, Universidad Europea, UAX) — no son el mismo título ni la misma universidad (ver nota interna).
+**Importante:** este es el Máster en Ciberseguridad que la **Universidad Nebrija** dicta en **Madrid**. Es un programa distinto del "Máster en Ciberseguridad" que se imparte en **Málaga** en otras universidades (Universidad de Málaga, Universidad Europea, UAX) — no son el mismo título ni la misma universidad.
 
 ## Datos generales
 
@@ -38,7 +38,7 @@ El claustro está formado por líderes de ciberseguridad de grandes multinaciona
 
 ## Plan de estudios / contenidos principales
 
-La información disponible en fuentes indexadas no incluye el desglose completo de asignaturas por módulo, pero confirma los siguientes componentes del programa:
+El programa se organiza en torno a estos componentes:
 
 - **Fundamentos de ingeniería y gestión de la ciberseguridad**, con enfoque en aplicación real de conocimientos, no solo teoría.
 - **Preparación orientada a certificaciones reconocidas del sector** de ciberseguridad.
@@ -65,6 +65,26 @@ La información disponible en fuentes indexadas no incluye el desglose completo 
 - **Claustro de profesionales en activo** de empresas multinacionales líderes en ciberseguridad.
 - **Orientación a certificaciones del sector**, que suman valor al currículum más allá del título académico.
 - **Colaboración directa con empresas** para prácticas y proyectos reales.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Ciberseguridad?**
+Lo imparte Universidad Nebrija. Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Ciberseguridad es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Máster en Ciberseguridad?**
+Dura 1 año académico y son 60 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

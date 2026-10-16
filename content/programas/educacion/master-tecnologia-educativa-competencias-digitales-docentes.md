@@ -1,5 +1,5 @@
 ---
-title_seo: "Máster en Tecnología Educativa y Competencias Digitales para Docentes en Madrid | UAX - Estudia en Madrid"
+title_seo: "Máster en Tecnología Educativa para Docentes en Madrid | UAX - Estudia en Madrid"
 meta_description: "Máster Oficial Universitario en Tecnología Educativa y Competencias Digitales para Docentes de la UAX (Madrid). 60 ECTS, 9 meses, puntúa en oposiciones. Infórmate con Estudia en Madrid."
 slug: /programas/educacion/master-tecnologia-educativa-competencias-digitales-docentes/
 categoria: Educación
@@ -18,14 +18,6 @@ fuente: "estudiaenmadrid.com/programas/master-oficial-en-tecnologia-educativa-y-
 # Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes en Madrid (UAX)
 
 ## Qué es este máster
-
-**Nota sobre esta ficha:** en el catálogo original de Estudia en Madrid,
-este programa vivía **sin categoría asignada** (fuera de la sección
-Educación), a diferencia del resto de programas de este lote. Se incorpora
-aquí, dentro de Educación, por pedido explícito del cliente. Además, hay
-evidencia fuerte de que este programa es el **mismo** que
-`postgrado-tecnologia-educativa.md` — ver la nota interna al final de este
-archivo y de esa otra ficha para el detalle completo.
 
 El **Máster Universitario Online en Tecnología Educativa y Competencias
 Digitales Docentes** de la **Universidad Alfonso X el Sabio (UAX)** es un
@@ -78,10 +70,6 @@ la UAX, el plan de estudios incorpora asignaturas y metodologías como:
 El perfil de egreso se orienta a las competencias digitales docentes
 definidas por **UNESCO** e **INTEF**.
 
-*(No se pudo reconstruir el desglose completo de asignaturas por
-cuatrimestre y ECTS con las herramientas de esta sesión — el snippet
-indexado no incluye tabla de plan de estudios.)*
-
 ## Salidas profesionales
 
 - Especialista en tecnología educativa dentro de centros escolares.
@@ -108,6 +96,29 @@ indexado no incluye tabla de plan de estudios.)*
 - Curriculum orientado a competencias digitales de referencia
   internacional (UNESCO, INTEF).
 - Acceso a prácticas en una red de más de 700 centros educativos.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes?**
+La próxima convocatoria empieza en Octubre (año exacto a confirmar). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

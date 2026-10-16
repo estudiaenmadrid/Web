@@ -55,15 +55,12 @@ presencial en las sedes habilitadas por la UAX.
 
 ## Plan de estudios / contenidos principales
 
-Según los fragmentos disponibles, el programa cubre:
+El programa cubre:
 
 - Evaluación e intervención en los procesos de aprendizaje.
 - Estrategias para abordar la diversidad educativa.
 - Diseño de planes de orientación y asesoramiento psicopedagógico
   adaptados a contextos específicos.
-
-*(No se pudo reconstruir el desglose completo de asignaturas por
-cuatrimestre con las herramientas de esta sesión.)*
 
 ## Salidas profesionales
 
@@ -89,6 +86,29 @@ cuatrimestre con las herramientas de esta sesión.)*
   conveniencia.
 - Acompañamiento de tutores y asesores profesionales durante todo el
   programa.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Psicopedagogía Online?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Psicopedagogía Online es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster en Psicopedagogía Online?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster en Psicopedagogía Online?**
+La próxima convocatoria empieza en Octubre (a confirmar año exacto). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

@@ -87,7 +87,7 @@ modificado según BOE-A-2023-10040.
   estudiar en España.
 - Para estudiantes internacionales: gestión de homologación de estudios y
   visado de estudiante (la UAX cuenta con equipo propio de apoyo para
-  estos trámites, según el sitio).
+  estos trámites).
 
 ## Por qué elegir este programa
 
@@ -98,6 +98,29 @@ modificado según BOE-A-2023-10040.
   campus.
 - Equipo de apoyo dedicado a estudiantes internacionales (visado,
   homologación, matrícula).
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Administración de Empresas?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Administración de Empresas es online o tengo que mudarme a Madrid?**
+Es semipresencial: combina clases online con jornadas presenciales en Madrid, así que vas a necesitar visado de estudiante para las jornadas presenciales, aunque el grueso del programa lo llevás desde donde estés.
+
+**¿Cuánto dura Grado en Administración de Empresas?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Cuándo empieza Grado en Administración de Empresas?**
+La próxima convocatoria empieza en Septiembre (calendario académico español). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

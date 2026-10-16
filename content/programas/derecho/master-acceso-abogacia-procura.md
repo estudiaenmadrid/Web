@@ -59,7 +59,7 @@ De los 90 ECTS, 60 corresponden a formación teórica y 30 a componente práctic
 - Estar en posesión del Grado en Derecho (o titulación equivalente reconocida en España).
 - No estar colegiado como abogado o procurador.
 - Acreditar el nivel de español requerido si los estudios previos no fueron cursados en ese idioma.
-- Para estudiantes con título de abogado obtenido en Latinoamérica: este máster **no sustituye** el trámite de homologación/convalidación del título extranjero — son procesos distintos (ver nota interna).
+- Para estudiantes con título de abogado obtenido en Latinoamérica: este máster **no sustituye** el trámite de homologación/convalidación del título extranjero — son procesos distintos.
 
 ## Por qué elegir este programa
 
@@ -68,6 +68,29 @@ De los 90 ECTS, 60 corresponden a formación teórica y 30 a componente práctic
 - **Componente práctico fuerte** — 30 ECTS de prácticas externas reales, no solo simulación en aula.
 - **Flexibilidad de modalidad** — presencial en Madrid u online/distancia según la situación del estudiante.
 - **Taller específico de preparación al examen oficial**, incluido en el plan de estudios.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster Universitario en Acceso a la Abogacía y la Procura?**
+Lo imparte Universidad Nebrija. Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster Universitario en Acceso a la Abogacía y la Procura es online o tengo que mudarme a Madrid?**
+Tiene versión online y también presencial, según lo que te convenga, así que la necesidad de visado depende de qué modalidad elijas — te lo confirmamos según tu caso.
+
+**¿Cuánto dura Máster Universitario en Acceso a la Abogacía y la Procura?**
+Dura 1 año y medio (3 semestres) y son 90 créditos ECTS.
+
+**¿Cuándo empieza Máster Universitario en Acceso a la Abogacía y la Procura?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

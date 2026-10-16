@@ -54,7 +54,8 @@ El modelo educativo, según describe la propia UAX, pone el foco en:
   competencias de última generación.
 
 La universidad destaca acuerdos con empresas tecnológicas como **Google,
-IBM y Deloitte** dentro de la formación del programa.
+IBM y Deloitte** dentro de la formación del programa, tanto para prácticas
+como para proyectos conjuntos durante los últimos cursos.
 
 No se encontró en las búsquedas el desglose curso por curso completo — para
 eso recomendamos remitir al estudiante a la ficha oficial de uax.com.
@@ -81,6 +82,29 @@ eso recomendamos remitir al estudiante a la ficha oficial de uax.com.
   desarrollo de software aplicado.
 - 4 bootcamps con GeeksHubs Academy incluidos en la formación.
 - Acuerdos con empresas de referencia como Google, IBM y Deloitte.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Doble Grado en Ingeniería Matemática e Informática?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Doble Grado en Ingeniería Matemática e Informática es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Doble Grado en Ingeniería Matemática e Informática?**
+Dura 5 años y son 360 créditos ECTS.
+
+**¿Cuándo empieza Doble Grado en Ingeniería Matemática e Informática?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

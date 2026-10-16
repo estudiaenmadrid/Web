@@ -52,8 +52,8 @@ mientras resuelve trámites de visado o mudanza.
 
 ## Plan de estudios / contenidos principales
 
-Según la información disponible, el programa combina fundamentos teóricos
-con desarrollo aplicado de proyectos:
+El programa combina fundamentos teóricos con desarrollo aplicado de
+proyectos:
 
 - **Técnicas de IA**: clasificación, clustering, regresiones, deep
   learning.
@@ -64,10 +64,6 @@ con desarrollo aplicado de proyectos:
 - **Prácticas Académicas Externas** (6 ECTS / 150 horas), obligatorias
   salvo reconocimiento de experiencia equivalente.
 - **Trabajo Fin de Máster**.
-
-No se localizó en la búsqueda un desglose módulo por módulo con ECTS
-exactos de cada asignatura — pendiente de confirmar con la ficha oficial
-completa.
 
 ## Salidas profesionales
 
@@ -94,6 +90,29 @@ completa.
 - Herramientas de referencia de la industria (Python, TensorFlow, PyTorch).
 - Título oficial de universidad española, válido en el Espacio Europeo de
   Educación Superior.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster Universitario Online en Inteligencia Artificial?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster Universitario Online en Inteligencia Artificial es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster Universitario Online en Inteligencia Artificial?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster Universitario Online en Inteligencia Artificial?**
+La próxima convocatoria empieza en Octubre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

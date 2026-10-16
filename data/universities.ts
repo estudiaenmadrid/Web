@@ -1,0 +1,118 @@
+// Facts (founding year, campuses, accreditation) researched via WebSearch
+// against each university's official site, Wikipedia, and educaweb.com —
+// not fabricated. `about`/`whyEEM` copy is original, written from Estudia en
+// Madrid's own perspective as the placement agency, not copied marketing text.
+
+export interface UniversityProfile {
+  slug: string;
+  /** Must match normalizeUniversityName()'s output exactly — used to join against the program catalog. */
+  displayName: string;
+  shortName: string;
+  founded: string;
+  foundedNote: string;
+  campuses: { name: string; note: string }[];
+  accreditation: string;
+  about: string[];
+  whyEEM: string;
+  officialUrl: string;
+}
+
+export const UNIVERSITIES: UniversityProfile[] = [
+  {
+    slug: "uax",
+    displayName: "Universidad Alfonso X el Sabio (UAX)",
+    shortName: "UAX",
+    founded: "1994",
+    foundedNote: "aprobada por la Ley 9/1993 del Congreso de los Diputados",
+    campuses: [
+      {
+        name: "Villanueva de la Cañada",
+        note: "el campus principal, a 25 km de Madrid, con más de 1.000.000 m² y capacidad para 15.000 alumnos — incluye una Ciudad Sanitaria con hospital de simulación",
+      },
+      { name: "Madrid-Chamartín", note: "campus urbano dentro de la ciudad de Madrid" },
+    ],
+    accreditation:
+      "Calificación QS Stars de 5 estrellas, con distintivo \"Excellent\" en Empleabilidad, Enseñanza, Desarrollo Académico, Instalaciones, Enseñanza Online y Buen Gobierno. Reconocida como la segunda universidad más innovadora de España — la única privada entre las tres primeras del ranking.",
+    about: [
+      "La UAX se define a sí misma como \"la Universidad de la Empresa\": nació en 1994 como un proyecto orientado explícitamente a la inserción laboral de sus egresados, y ese enfoque práctico sigue marcando su identidad más de tres décadas después.",
+      "Es, con diferencia, la universidad con más oferta dentro de nuestro catálogo: cubre Ingeniería, Salud, Administración y Educación, con un campus propio de más de un millón de metros cuadrados que incluye desde un túnel de viento para Ingeniería Aeroespacial hasta un hospital de simulación para las carreras de Salud.",
+    ],
+    whyEEM:
+      "Es la universidad con la que gestionamos más admisiones, precisamente porque su oferta es la más amplia del catálogo y porque su modelo — orientado a la empleabilidad, con instalaciones propias para prácticas — encaja bien con estudiantes que buscan un título con salida laboral concreta, no solo teoría.",
+    officialUrl: "https://www.uax.com",
+  },
+  {
+    slug: "nebrija",
+    displayName: "Universidad Nebrija",
+    shortName: "Nebrija",
+    founded: "1995",
+    foundedNote: "reconocida oficialmente como universidad privada; su origen como Centro de Estudios Hispánicos data de 1985",
+    campuses: [
+      { name: "La Berzosa", note: "campus principal en el noroeste de la Comunidad de Madrid" },
+      { name: "Dehesa de la Villa y Princesa", note: "dos sedes urbanas dentro de Madrid capital" },
+    ],
+    accreditation:
+      "Acreditada oficialmente por el Ministerio de Educación y por la agencia de evaluación de la calidad ANECA. Más de 30 años de trayectoria en docencia, empleabilidad, investigación e internacionalización.",
+    about: [
+      "Su nombre rinde homenaje a Elio Antonio de Nebrija, autor de la primera gramática castellana (1492) — un guiño a su fuerte tradición en Humanidades e idiomas, aunque hoy su oferta va mucho más allá de eso.",
+      "Dentro de nuestro catálogo, Nebrija concentra la mayor parte del área de Derecho (grado, dobles grados y la mayoría de sus másteres) y aporta el Máster en Business Analytics dentro de Administración.",
+    ],
+    whyEEM:
+      "La recomendamos sobre todo a estudiantes de Derecho: es la universidad con la que tenemos convenio más específico para esa área, con programas que van desde el grado hasta másteres de especialización como Criminalística.",
+    officialUrl: "https://www.nebrija.com",
+  },
+  {
+    slug: "ceu-san-pablo",
+    displayName: "Universidad CEU San Pablo",
+    shortName: "CEU San Pablo",
+    founded: "1993",
+    foundedNote: "aprobada por ley del 20 de abril de 1993 e inaugurada oficialmente en febrero de 1994",
+    campuses: [
+      {
+        name: "Moncloa (Madrid)",
+        note: "sede de las facultades de Ciencias Económicas y Empresariales, Derecho y Humanidades y Ciencias de la Comunicación",
+      },
+    ],
+    accreditation:
+      "Antes de su reconocimiento como universidad independiente, funcionó como centro adscrito a la Universidad Complutense de Madrid. Forma parte de la Fundación Universitaria San Pablo CEU, con raíces que se remontan a la Asociación Católica de Propagandistas fundada en 1908.",
+    about: [
+      "Es una de las universidades privadas con más historia de Madrid: su fundación institucional data de 1933, aunque como universidad independiente opera desde 1993, tras años funcionando como centro adscrito a la Complutense.",
+      "Dentro de nuestro catálogo, CEU San Pablo aporta programas más especializados que complementan la oferta de Derecho de Nebrija — el caso más claro es su Máster en Criminalística.",
+    ],
+    whyEEM:
+      "La recomendamos para especializaciones puntuales dentro de Derecho que no cubre nuestra otra universidad convenida del área — es el caso del Máster en Criminalística, uno de los programas que más consultas recibe en esa área.",
+    officialUrl: "https://www.uspceu.com",
+  },
+  {
+    slug: "ucjc",
+    displayName: "Universidad Camilo José Cela (UCJC)",
+    shortName: "UCJC",
+    founded: "2000",
+    foundedNote: "fundada por Felipe Segovia Olmo, de la Institución Educativa SEK",
+    campuses: [
+      {
+        name: "Madrid-Villafranca",
+        note: "campus principal en Villafranca del Castillo, 100.000 m², con residencias y el UCJC Sports Club",
+      },
+      { name: "Campus Almagro", note: "sede urbana en un edificio histórico de 1931 en Madrid" },
+      { name: "Campus Castellana", note: "sede de reciente apertura, con estándares altos de sostenibilidad" },
+    ],
+    accreditation:
+      "Universidad privada independiente con más de 40 grados oficiales y más de 140 posgrados entre oficiales y propios. Sus ejes estratégicos declarados son emprendimiento e innovación, tecnología y digitalización, e impacto social.",
+    about: [
+      "Su nombre honra al escritor Camilo José Cela, Premio Nobel de Literatura, quien colocó la primera piedra de la institución junto a su fundador, Felipe Segovia Olmo.",
+      "Dentro de nuestro catálogo es la universidad de referencia para Robótica, coherente con su apuesta declarada por la tecnología y la innovación como eje estratégico.",
+    ],
+    whyEEM:
+      "La recomendamos específicamente para Robótica: es la única de nuestras universidades convenidas con oferta propia en esa especialización dentro del área de Ingeniería.",
+    officialUrl: "https://www.ucjc.edu",
+  },
+];
+
+export function getUniversityBySlug(slug: string): UniversityProfile | undefined {
+  return UNIVERSITIES.find((u) => u.slug === slug);
+}
+
+export function getUniversityByDisplayName(displayName: string): UniversityProfile | undefined {
+  return UNIVERSITIES.find((u) => u.displayName === displayName);
+}

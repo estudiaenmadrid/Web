@@ -71,6 +71,29 @@ El plan de estudios combina las materias troncales de cualquier grado en Derecho
 - **Puerta de entrada a dobles grados** — Nebrija ofrece combinarlo con ADE, Relaciones Internacionales o Seguridad si el estudiante quiere ampliar su perfil.
 - **Proyección internacional** — plan de estudios con componente de Derecho internacional y posibilidad de cursar asignaturas en inglés.
 
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Derecho?**
+Lo imparte Universidad Nebrija. Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Derecho es online o tengo que mudarme a Madrid?**
+Es semipresencial: combina clases online con jornadas presenciales en Madrid, así que vas a necesitar visado de estudiante para las jornadas presenciales, aunque el grueso del programa lo llevás desde donde estés.
+
+**¿Cuánto dura Grado en Derecho?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Cuándo empieza Grado en Derecho?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
 ## Llamada a la acción
 
 > ¿Querés estudiar Derecho en Madrid con una formación práctica desde el primer día? Escribinos por WhatsApp al **+34 677 055 769** y te acompañamos en todo el proceso: elección de modalidad, visado de estudiante y gestión de la matrícula.

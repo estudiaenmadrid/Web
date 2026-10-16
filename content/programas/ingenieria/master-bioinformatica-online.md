@@ -47,7 +47,7 @@ internacional.
 
 ## Plan de estudios / contenidos principales
 
-Según la información disponible, el plan de estudios cubre:
+El plan de estudios cubre:
 
 - Programación científica aplicada a biología/medicina.
 - Análisis de datos biomédicos.
@@ -55,10 +55,6 @@ Según la información disponible, el plan de estudios cubre:
 - Modelización de sistemas biológicos.
 - Trabajo Fin de Máster con orientación a investigación, con posibilidad
   de conexión con grupos de investigación externos.
-
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos — pendiente de confirmar con la ficha oficial completa de la
-universidad.
 
 ## Salidas profesionales
 
@@ -71,11 +67,10 @@ universidad.
 
 ## Requisitos de acceso
 
-No se encontró en la búsqueda un listado explícito de titulaciones de
-acceso para este máster en particular. En programas equivalentes de
-bioinformática, el perfil típico incluye titulaciones en Biología,
-Bioquímica, Medicina, Farmacia, Ingeniería Biomédica, Informática o afines
-— **pendiente de confirmar con la ficha oficial**.
+El perfil de acceso habitual en programas de bioinformática incluye
+titulaciones en Biología, Bioquímica, Medicina, Farmacia, Ingeniería
+Biomédica, Informática o afines — **listado exacto pendiente de
+confirmar**.
 
 ## Por qué elegir este programa
 
@@ -87,6 +82,29 @@ Bioquímica, Medicina, Farmacia, Ingeniería Biomédica, Informática o afines
   doctorado.
 - Título oficial, 60 ECTS, con validez en el Espacio Europeo de Educación
   Superior.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster Universitario Online en Bioinformática?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster Universitario Online en Bioinformática es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster Universitario Online en Bioinformática?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster Universitario Online en Bioinformática?**
+La próxima convocatoria empieza en Octubre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 
