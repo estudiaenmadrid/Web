@@ -6,12 +6,17 @@ import Image from "next/image";
 const STORAGE_KEY = "eem-loader-shown";
 
 export default function Loader() {
-  const [visible, setVisible] = useState(false);
   const [count, setCount] = useState(0);
   const bandTopRef = useRef<HTMLDivElement>(null);
   const bandBotRef = useRef<HTMLDivElement>(null);
   const innerRef = useRef<HTMLDivElement>(null);
   const dotsRef = useRef<HTMLDivElement>(null);
+  // Starts false (loader visible) rather than gated behind an effect: this is a
+  // static export, so the pre-rendered HTML can't know yet whether sessionStorage
+  // has the "already shown" flag — the first paint always shows the loader, and
+  // the effect below flips this to true immediately if this session already saw
+  // it. Defaulting to "not done" avoids a flash of the raw, unstyled page before
+  // hydration runs, which is what rendering nothing on that first frame used to do.
   const [done, setDone] = useState(false);
 
   useEffect(() => {
@@ -26,7 +31,6 @@ export default function Loader() {
       setDone(true);
       return;
     }
-    setVisible(true);
 
     const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     const dur = reduced ? 400 : 1700;
@@ -67,7 +71,7 @@ export default function Loader() {
     return () => clearInterval(timer);
   }, []);
 
-  if (!visible || done) return null;
+  if (done) return null;
 
   return (
     <div className="fixed inset-0 z-[200]">
