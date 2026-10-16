@@ -9,6 +9,7 @@ No es la rama de desarrollo. El código fuente vive en `claude/new-session-6e1qz
 se reconstruye desde ahí y se sobreescribe el contenido de esta rama por
 completo — nunca se edita directamente.
 
-Configurá el despliegue por Git de Hostinger para que apunte a *esta*
-rama (`hostinger-deploy`), no a la de desarrollo — así el auto-deploy
-sirve el sitio compilado en vez del código fuente sin compilar.
+Hostinger está configurado (hPanel → Sitios web → estudiaenmadrid.com →
+Avanzado → Git) para desplegar automáticamente esta rama en `public_html`
+en cada push — así el `git push` sí actualiza el sitio en vivo, porque lo
+que llega es HTML ya compilado, no el código fuente de Next.js.
