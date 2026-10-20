@@ -22,6 +22,8 @@ export function getModalityTags(modality: string): string[] {
   if (/presencial/i.test(modality) && !/semipresencial/i.test(modality)) tags.push("PRESENCIAL");
   if (/semipresencial/i.test(modality)) tags.push("SEMIPRESENCIAL");
   if (/online/i.test(modality)) tags.push("ONLINE");
-  if (tags.length === 0) tags.push(modality.split("(")[0].trim().toUpperCase() || "PENDIENTE");
+  if (tags.length === 0) {
+    tags.push(/pendiente/i.test(modality) ? "A CONFIRMAR" : modality.split("(")[0].trim().toUpperCase() || "A CONFIRMAR");
+  }
   return tags;
 }

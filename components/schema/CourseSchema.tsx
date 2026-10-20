@@ -7,7 +7,7 @@ function courseMode(modality: string): string[] {
   if (/presencial/i.test(modality) && !/semipresencial/i.test(modality)) modes.push("Onsite");
   if (/semipresencial/i.test(modality)) modes.push("Blended");
   if (/online/i.test(modality)) modes.push("Online");
-  return modes.length ? modes : ["Onsite"];
+  return modes;
 }
 
 /**
@@ -33,12 +33,18 @@ export default function CourseSchema({ program }: { program: Program }) {
       ? { "@type": "CollegeOrUniversity", name: university }
       : { "@type": "Organization", name: SITE_NAME },
     sponsor: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
-    hasCourseInstance: {
-      "@type": "CourseInstance",
-      courseMode: courseMode(program.modality),
-      ...(program.city ? { location: { "@type": "Place", name: program.city } } : {}),
-    },
   };
+
+  // A pending modality ("Pendiente de confirmar") gets no courseMode at all
+  // rather than a guessed "Onsite".
+  const modes = courseMode(program.modality);
+  if (modes.length > 0) {
+    data.hasCourseInstance = {
+      "@type": "CourseInstance",
+      courseMode: modes,
+      ...(program.city ? { location: { "@type": "Place", name: program.city } } : {}),
+    };
+  }
 
   if (program.ectsTotal && !/pendiente/i.test(String(program.ectsTotal))) {
     data.numberOfCredits = String(program.ectsTotal);

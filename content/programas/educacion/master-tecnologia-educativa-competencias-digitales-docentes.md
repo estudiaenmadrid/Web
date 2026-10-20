@@ -12,7 +12,7 @@ duracion: "9 meses"
 fecha_inicio: "Octubre (año exacto a confirmar)"
 ultima_actualizacion: "2026-09-03"
 schema_type: Course
-fuente: "estudiaenmadrid.com/programas/master-oficial-en-tecnologia-educativa-y-competencias-digitales-para-docentes/ (snippet indexado, coincide con el título) + WebSearch sobre uax.com; ver nota interna sobre probable duplicado con postgrado-tecnologia-educativa.md"
+fuente: "estudiaenmadrid.com/programas/master-oficial-en-tecnologia-educativa-y-competencias-digitales-para-docentes/ (snippet indexado, coincide con el título) + WebSearch sobre uax.com; el cliente confirmó el 20/10/2026 que es distinto del Postgrado en Tecnología Educativa"
 ---
 
 # Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes en Madrid (UAX)
@@ -126,7 +126,11 @@ Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una mat
 > matrícula.
 
 ---
-*Nota interna (no publicar) — IMPORTANTE, leer junto con
+*Nota interna (no publicar) — ACTUALIZACIÓN 20/10/2026: el cliente confirmó que
+este máster y el "Postgrado en Tecnología Educativa" son **programas distintos**;
+no fusionar. Lo que sigue sobre un posible duplicado queda superado.
+
+Contexto histórico, leer junto con
 `postgrado-tecnologia-educativa.md`: este programa vivía en el catálogo
 original **sin categoría asignada** (fuera de Educación), a diferencia del
 resto del lote — se incorpora a Educación por instrucción explícita del

@@ -14,9 +14,8 @@ const nextConfig: NextConfig = {
 
   images: {
     // No Image Optimization server exists on static hosting — images are
-    // served as-is. The Higgsfield placeholder photos (lib/photos.ts) were
-    // already unoptimized for other reasons; this extends it to the local
-    // logo/favicon images too.
+    // served as-is. University photos ship pre-sized by scripts/fotos.mjs
+    // (see lib/photos.ts); this covers the logo/favicon images too.
     unoptimized: true,
   },
 };

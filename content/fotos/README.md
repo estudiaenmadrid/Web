@@ -41,11 +41,11 @@ fundación y campus — datos reales, no una imagen inventada.
 | `archivo` | sí | Nombre del original dentro de `fotos-originales/`. |
 | `alt` | sí | Descripción de la foto (accesibilidad y SEO). También se usa como pie de foto. |
 | `credito` | sí | Autoría, p. ej. `"Foto: Universidad Nebrija"`. Se muestra junto a la foto. |
-| `universidad` | no | `uax`, `nebrija` o `ceu-san-pablo`. Sin esto la foto no aparece en fichas ni en páginas de universidad. |
+| `universidad` | no | `uax`, `nebrija`, `ceu-san-pablo` o `udit`. Sin esto la foto no aparece en fichas ni en páginas de universidad. |
 | `areas` | no | Áreas que ilustra (`salud`, `ingenieria`, `derecho`, `administracion`, `educacion`). Una foto **sin áreas** es una foto general del campus y sirve para cualquier programa de esa universidad. |
 | `tema` | no | Etiqueta libre: `campus`, `laboratorio`, `clinica`, `biblioteca`, `investigacion`… |
 | `foco` | no | Punto de interés `[x, y]` en % (por defecto `[50, 50]`). Los recortes se anclan ahí para no cortar caras ni fachadas. |
-| `usos` | no | Lugares fijos del sitio: `home-hero`, `home-cierre`, `nosotros`. Reemplazan las imágenes provisorias de esas secciones. |
+| `usos` | no | Lugares fijos del sitio: `home-cierre` (fondo del cierre del inicio) y `nosotros` (foto real del equipo). Sin foto, esas secciones se muestran sin imagen. |
 
 ## Dónde aparece cada foto
 
@@ -55,8 +55,8 @@ fundación y campus — datos reales, no una imagen inventada.
   repita la misma foto en todos los programas.
 - **Página de universidad:** la primera foto general como portada, y el
   resto en la galería "El campus por dentro".
-- **Listado de universidades y programas destacados del inicio:** la foto
-  principal de cada universidad.
+- **Inicio (portada), listado de universidades y programas destacados:** la
+  foto principal de cada universidad.
 
 ## Licencias
 

@@ -41,7 +41,7 @@ En la práctica, algunas universidades son bastante más restrictivas que
 ese 5% legal — es una decisión interna de cada centro y de cada profesor,
 así que no asumas que vas a entrar en el cupo solo por sacar más de 9. La
 política exacta de cada una de nuestras universidades convenidas (UAX,
-Nebrija, CEU San Pablo) la confirmamos caso por caso.
+Nebrija, CEU San Pablo, UDIT) la confirmamos caso por caso.
 
 **La ventaja real de la MH:** quien la obtiene no paga la matrícula de esa
 misma cantidad de créditos en el curso siguiente — es, en los hechos, una

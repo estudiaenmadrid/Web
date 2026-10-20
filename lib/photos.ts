@@ -76,33 +76,9 @@ export function photoForProgram(universitySlug: string | undefined, area: AreaSl
   return pool[hash(seed) % pool.length];
 }
 
-export type SiteSlot = "home-hero" | "home-cierre" | "nosotros";
+/** Fixed places on the site that take a photo of their own: the home page's closing section and /nosotros (a real team photo). */
+export type SiteSlot = "home-cierre" | "nosotros";
 
 export function photoForSlot(slot: SiteSlot): Photo | undefined {
   return PHOTOS.find((p) => p.slots.includes(slot));
 }
-
-/**
- * AI-generated placeholders (Higgsfield) still filling the home page and
- * /nosotros until the client sends real photos for those slots — any photo
- * in content/fotos/fotos.json with `"usos": ["home-hero"]` etc. replaces
- * them automatically. Generic scenes only: never use these, or any other
- * AI image, to depict a specific university.
- */
-export const PLACEHOLDER_SLOT_IMAGES: Record<SiteSlot, { src: string; alt: string; focal: [number, number] }> = {
-  "home-hero": {
-    src: "https://d8j0ntlcm91z4.cloudfront.net/user_34QWmygEkYOaE9WTVh75CuadBkH/hf_20260909_212821_19aaf1cb-15f7-40c7-9262-5d328f2a039d.png",
-    alt: "Estudiante universitaria caminando entre clases",
-    focal: [50, 32],
-  },
-  "home-cierre": {
-    src: "https://d8j0ntlcm91z4.cloudfront.net/user_34QWmygEkYOaE9WTVh75CuadBkH/hf_20260909_212821_30004389-2629-4caf-8fab-326c9869566f.png",
-    alt: "",
-    focal: [50, 50],
-  },
-  nosotros: {
-    src: "https://d8j0ntlcm91z4.cloudfront.net/user_34QWmygEkYOaE9WTVh75CuadBkH/hf_20260909_212821_b4bf8170-75ee-412f-9a79-ec3bcdca0136.png",
-    alt: "Asesoría académica con un estudiante",
-    focal: [50, 35],
-  },
-};

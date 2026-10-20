@@ -1,171 +1,97 @@
 ---
 title_seo: "Postgrado en Tecnología Educativa en Madrid | UAX - Estudia en Madrid"
-meta_description: "Máster Universitario Online en Tecnología Educativa y Competencias Digitales Docentes de la UAX (Madrid). Título oficial, 60 ECTS, 9 meses. Infórmate con Estudia en Madrid."
+meta_description: "Postgrado en Tecnología Educativa de la UAX, distinto del Máster Universitario en Tecnología Educativa. Duración, créditos y modalidad: te los confirmamos por WhatsApp."
 slug: /programas/educacion/postgrado-tecnologia-educativa/
 categoria: Educación
-nombre_oficial_titulo: "Máster Universitario Online en Tecnología Educativa y Competencias Digitales Docentes"
+nombre_oficial_titulo: "Postgrado en Tecnología Educativa"
 universidad: "Universidad Alfonso X el Sabio (UAX)"
 ciudad: Madrid
-modalidad: Online
-ects_total: 60
-duracion: "9 meses"
-fecha_inicio: "Octubre (año exacto a confirmar)"
-ultima_actualizacion: "2026-09-03"
+modalidad: "Pendiente de confirmar"
+ects_total: "Pendiente de confirmar"
+duracion: "Pendiente de confirmar"
+fecha_inicio: "Pendiente de confirmar"
+ultima_actualizacion: "2026-10-20"
 schema_type: Course
-fuente: "WebSearch (uax.com/en/studies/postgraduate-course-in-online-educational-technology, educaweb.com, mundoposgrado.com); ver nota interna sobre probable duplicado con master-tecnologia-educativa-competencias-digitales-docentes.md"
+fuente: "Catálogo del cliente; el cliente confirmó el 20/10/2026 que es un programa distinto del Máster Universitario en Tecnología Educativa y Competencias Digitales Docentes. Datos concretos pendientes de que el cliente los envíe."
 ---
 
 # Postgrado en Tecnología Educativa en Madrid (UAX)
 
 ## Qué es este programa
 
-El **Postgrado en Tecnología Educativa** que ofrecemos es el **Máster
-Universitario Online en Tecnología Educativa y Competencias Digitales
-Docentes** de la **Universidad Alfonso X el Sabio (UAX)**: un título oficial de 60 ECTS y 9 meses de duración que prepara a
-docentes para liderar la transformación digital en el aula, convirtiendo
-la tecnología en una herramienta pedagógica real.
+El **Postgrado en Tecnología Educativa** de la **Universidad Alfonso X el
+Sabio (UAX)** es una formación de posgrado para docentes y profesionales
+de la educación que quieren llevar la tecnología a su práctica en el aula.
 
-El programa figura en el **Top 2 del Ranking 2025 de Mundo Postgrado**
-entre los másteres en tecnología educativa de España, y **puntúa en oposiciones**
-docentes de Primaria y Secundaria en España.
+Es un programa **distinto** del [Máster Universitario en Tecnología
+Educativa y Competencias Digitales
+Docentes](/programas/educacion/master-tecnologia-educativa-competencias-digitales-docentes/)
+de la misma universidad: no los confundas al comparar duración, créditos o
+tipo de título. La duración, los créditos, la modalidad y el precio de este
+postgrado te los confirmamos por WhatsApp antes de que decidas.
 
 ## Para quién es
 
-- Graduados en Educación Infantil, Primaria, Educación Especial o
-  Pedagogía.
-- Docentes que ya cuentan con el Máster en Formación del Profesorado
-  (Secundaria).
-- Titulados en másteres oficiales de Educación que buscan sumar
-  competencias digitales certificadas.
+- Docentes en ejercicio que quieren sumar competencias digitales a su
+  práctica en el aula.
+- Profesionales de la educación que buscan especializarse en tecnología
+  educativa.
+- Quienes todavía no saben si les conviene este postgrado o el máster
+  universitario: te ayudamos a compararlos según tu objetivo.
 
 ## Datos generales
 
 | | |
 |---|---|
 | **Universidad** | Universidad Alfonso X el Sabio (UAX) |
-| **Modalidad** | Online |
-| **Duración** | 9 meses |
-| **Créditos** | 60 ECTS |
-| **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior |
-| **Prácticas** | Posibilidad de prácticas en más de 700 centros educativos |
-| **Reconocimiento** | Puntúa en oposiciones de Primaria y Secundaria en España; Top 2 del Ranking 2025 de Mundo Postgrado en su categoría |
+| **Duración** | A confirmar |
+| **Créditos** | A confirmar |
+| **Modalidad** | A confirmar |
+| **Título** | Postgrado de la UAX — distinto del Máster Universitario en Tecnología Educativa |
 
-## Plan de estudios / contenidos principales
+## Postgrado o máster: cuál te conviene
 
-El plan de estudios incorpora
-asignaturas y metodologías como:
-
-- Robótica educativa
-- Ciberseguridad
-- Gamificación
-- Microlearning
-- Diseño de aplicaciones educativas (app design)
-- Metodologías activas: Flipped Classroom, Roleplay, aprendizaje basado en
-  proyectos
-
-El perfil de egreso se orienta a las competencias digitales docentes
-definidas por **UNESCO** e **INTEF** (Instituto Nacional de Tecnologías
-Educativas y de Formación del Profesorado).
-
-## Salidas profesionales
-
-- Especialista en tecnología educativa dentro de centros escolares.
-- Diseñador/a de recursos educativos digitales.
-- Gestor/a de proyectos de tecnología educativa.
-- Consultor/a en tecnología educativa para centros o empresas
-  edtech.
-- Investigador/a en tecnología educativa.
-- Desarrollador/a de software educativo.
-
-## Requisitos de acceso
-
-- Título de Graduado en Educación Infantil, Primaria, Educación Especial
-  o Pedagogía.
-- Título del Máster en Formación del Profesorado (para perfiles de
-  Secundaria).
-- Título de un máster oficial en Educación.
-
-## Por qué elegir este programa
-
-- Título oficial, con puntuación reconocida en oposiciones docentes en
-  España.
-- Top 2 del Ranking 2025 de Mundo Postgrado entre los másteres de
-  tecnología educativa de España.
-- Curriculum orientado a competencias digitales de referencia
-  internacional (UNESCO, INTEF).
-- Acceso a prácticas en una red de más de 700 centros educativos.
+- Si necesitás un **título oficial de máster** — por ejemplo, para que
+  puntúe en oposiciones docentes en España —, mirá la ficha del [Máster
+  Universitario en Tecnología
+  Educativa](/programas/educacion/master-tecnologia-educativa-competencias-digitales-docentes/).
+- Si buscás una formación de posgrado en tecnología educativa y querés
+  comparar opciones, escribinos con tu título y tu objetivo: te decimos
+  cuál de los dos encaja mejor con tu caso.
 
 ## Preguntas frecuentes
 
-**¿Qué universidad imparte Postgrado en Tecnología Educativa?**
-Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+**¿Es lo mismo que el Máster Universitario en Tecnología Educativa?**
+No. Son dos programas distintos de la UAX. Antes de matricularte te
+confirmamos duración, créditos y tipo de título de cada uno, para que
+compares con datos concretos.
 
-**¿Postgrado en Tecnología Educativa es online o tengo que mudarme a Madrid?**
-Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+**¿Qué universidad imparte el Postgrado en Tecnología Educativa?**
+Lo imparte la Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
 
-**¿Cuánto dura Postgrado en Tecnología Educativa?**
-Dura 9 meses y son 60 créditos ECTS.
+**¿Cuánto dura y cuántos créditos tiene?**
+Te lo confirmamos por WhatsApp junto con la modalidad y el precio de convenio de la próxima convocatoria.
 
-**¿Cuándo empieza Postgrado en Tecnología Educativa?**
-La próxima convocatoria empieza en Octubre (año exacto a confirmar). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
-
-**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
-Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
-
-**¿Puedo convalidar créditos de estudios que ya cursé?**
-Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+**¿Estudia en Madrid me ayuda con la matrícula?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si la modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante.
 
 **¿Qué pasa si este programa no es exactamente lo que busco?**
-Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil encaja mejor en el máster o en otro programa del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 
-> ¿Querés liderar la transformación digital en el aula con un título
-> oficial reconocido? Escribinos por WhatsApp al **+34 677 055 769** y te
-> ayudamos con la admisión, el visado de estudiante y la gestión de la
-> matrícula.
+> ¿Dudás entre el postgrado y el máster en Tecnología Educativa?
+> Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos a elegir
+> según tu título y tu objetivo.
 
 ---
-*Nota interna (no publicar) — IMPORTANTE, leer junto con
-`master-tecnologia-educativa-competencias-digitales-docentes.md`: en esta
-sesión se investigó específicamente si "Postgrado en Tecnología Educativa"
-y "Máster Oficial en Tecnología Educativa y Competencias Digitales para
-Docentes" son el mismo programa de la UAX (universidad confirmada por el
-cliente). Evidencia encontrada:
-
-1. La propia UAX titula la página en inglés de su único máster de
-   tecnología educativa como "Postgraduate Course in Online Educational
-   Technology" — coincide literalmente con el nombre corto
-   "Postgrado en Tecnología Educativa" del catálogo interno.
-2. Todas las demás fuentes de terceros consultadas (educaweb.com,
-   aprendemas.com, mastermania.com, mundoposgrado.com, uteg.edu.ec)
-   describen un único programa de la UAX en esta área: el "Máster
-   Universitario en Tecnología Educativa y Competencias Digitales
-   Docentes", 60 ECTS, 9 meses, online.
-3. Al buscar en estudiaenmadrid.com el snippet de "Postgrado en
-   Tecnología Educativa", el resultado devuelto coincidió textualmente
-   con el contenido del "Máster Oficial en Tecnología Educativa y
-   Competencias Digitales para Docentes" (mismo texto sobre Robótica,
-   Ciberseguridad, Gamificación, microlearning y diseño de apps).
-4. Además, la búsqueda mostró que la página del "Máster Oficial en
-   Tecnología Educativa y Competencias Digitales para Docentes" existe en
-   el sitio bajo **dos URLs distintas**: una en
-   `/programas/educacion__trashed/...` (es decir, retirada/eliminada de
-   la categoría Educación en algún momento del historial del sitio) y
-   otra en `/programas/...` sin categoría asignada — que coincide
-   exactamente con el programa #12 del encargo original, descrito como
-   "sin categoría".
-
-**Conclusión de esta sesión: "Postgrado en Tecnología Educativa" y "Máster
-Oficial en Tecnología Educativa y Competencias Digitales para Docentes"
-son, con alta probabilidad, el mismo programa de la UAX**, y no dos
-productos distintos (uno de nivel "postgrado" propio y otro de "máster
-universitario" oficial). El nombre "Postgrado en Tecnología Educativa" del
-catálogo interno parece ser simplemente un alias o nombre corto/comercial
-usado en algún momento para el mismo máster oficial. **Se redactaron
-igualmente las dos fichas por pedido explícito** (con contenido
-equivalente, ya que describen el mismo programa real), pero se recomienda
-al cliente **fusionar ambas entradas en una sola página** antes de
-publicar, para evitar contenido duplicado y canibalización SEO, y decidir
-cuál de las dos URLs (o una nueva) conservar. Precio y fecha exacta de
-inicio: pendientes de confirmar.*
+*Nota interna (no publicar): 20/10/2026 — el cliente confirmó que este
+postgrado y el Máster Universitario en Tecnología Educativa y Competencias
+Digitales Docentes son **programas distintos**. La versión anterior de esta
+ficha había copiado los datos del máster (60 ECTS, 9 meses, título oficial,
+Top 2 Mundo Postgrado, puntuación en oposiciones, prácticas en 700
+centros) porque la investigación previa los había tomado por el mismo
+programa: se retiraron todos. Pendiente que el cliente envíe los datos
+reales del postgrado — duración, créditos, modalidad, tipo de título
+(¿título propio?), plan de estudios, precio y fecha de inicio — para
+completar la ficha.*

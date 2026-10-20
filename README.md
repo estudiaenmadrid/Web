@@ -53,12 +53,10 @@ marcador "A CONFIRMAR" o como placeholder, en vez de inventarse:
 - País(es) de operación (sección "Quiénes somos").
 - Fotos oficiales de las universidades. El circuito ya está listo
   (`npm run fotos`, ver `content/fotos/README.md`): mientras no haya fotos
-  cargadas, cada universidad se muestra con una placa tipográfica. El
-  inicio y /nosotros todavía usan imágenes provisorias generadas con IA
-  (`PLACEHOLDER_SLOT_IMAGES` en `lib/photos.ts`) hasta tener fotos reales
-  para esos lugares.
+  cargadas, cada universidad se muestra con una placa tipográfica. El sitio
+  no usa ninguna imagen generada con IA.
 - Logos oficiales de las universidades socias.
 
-El número de universidades con convenio (3: UAX, Nebrija, CEU San Pablo)
+El número de universidades con convenio (4: UAX, Nebrija, CEU San Pablo, UDIT)
 y el conteo de programas por área/universidad se calculan en vivo desde
 `content/programas/`, no están hardcodeados.

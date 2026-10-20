@@ -4,13 +4,13 @@ meta_description: "Grado oficial en Animación en UDIT (Madrid): guion, diseño 
 slug: /programas/ingenieria/grado-animacion/
 categoria: Ingeniería
 nombre_oficial_titulo: "Grado en Animación"
-universidad: "UDIT (Universidad de Diseño, Innovación y Tecnología)"
+universidad: "Universidad de Diseño, Innovación y Tecnología (UDIT)"
 ciudad: Madrid
 modalidad: Presencial
 ects_total: 240
 duracion: "4 años"
 fecha_inicio: "Pendiente de confirmar"
-ultima_actualizacion: "2026-09-03"
+ultima_actualizacion: "2026-10-20"
 schema_type: Course
 fuente: WebSearch (udit.es/grado-en-animacion) — no se encontró snippet propio en estudiaenmadrid.com
 ---
@@ -87,7 +87,7 @@ Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una mat
 > visado de estudiante y toda la gestión para estudiar en Madrid.
 
 ---
-*Nota interna (no publicar): universidad corregida a **UDIT** — el
+*Nota interna (no publicar): 20/10/2026 — el cliente confirmó que UDIT SÍ es universidad con convenio (por dos años más), así que esta ficha se publica con UDIT. Historial: universidad corregida a **UDIT** — el
 candidato alternativo (U-tad) queda descartado porque Estudia en Madrid ya
 no trabaja con esa universidad, según indicación del cliente. Esto es
 consistente con el resto del catálogo de la categoría Tecnología, donde

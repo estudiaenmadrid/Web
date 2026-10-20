@@ -1,6 +1,7 @@
 // Facts (founding year, campuses, accreditation) researched via WebSearch
 // against each university's official site, Wikipedia, and educaweb.com —
-// not fabricated. `about`/`whyEEM` copy is original, written from Estudia en
+// not fabricated. UDIT's come from its recognition law (Ley 2/2022 de la
+// Comunidad de Madrid, BOCM 4/3/2022, BOE 27/4/2022) and Decreto 133/2022. `about`/`whyEEM` copy is original, written from Estudia en
 // Madrid's own perspective as the placement agency, not copied marketing text.
 
 export interface UniversityProfile {
@@ -87,6 +88,30 @@ export const UNIVERSITIES: UniversityProfile[] = [
     whyEEM:
       "La recomendamos para especializaciones puntuales dentro de Derecho que no cubre nuestra otra universidad convenida del área — es el caso del Máster en Criminalística, uno de los programas que más consultas recibe en esa área.",
     officialUrl: "https://www.uspceu.com",
+  },
+  {
+    slug: "udit",
+    displayName: "Universidad de Diseño, Innovación y Tecnología (UDIT)",
+    shortName: "UDIT",
+    monogram: "UDIT",
+    founded: "2022",
+    foundedNote:
+      "reconocida como universidad privada por la Ley 2/2022 de la Comunidad de Madrid; nace de ESNE, escuela universitaria de diseño con más de 20 años de trayectoria",
+    campuses: [
+      {
+        name: "Madrid",
+        note: "campus propio en Madrid capital, dedicado al diseño, la tecnología y las industrias creativas",
+      },
+    ],
+    accreditation:
+      "Universidad privada reconocida por la Ley 2/2022, de 1 de marzo, de la Comunidad de Madrid, con inicio de actividades autorizado en diciembre de 2022. Sus grados son títulos oficiales verificados por el Consejo de Universidades.",
+    about: [
+      "UDIT es la evolución de ESNE, la escuela universitaria de diseño que durante más de dos décadas formó en Madrid a diseñadores, animadores y desarrolladores. En 2022 la Comunidad de Madrid la reconoció como universidad propia, especializada en diseño, innovación y tecnología.",
+      "Su oferta gira alrededor de las industrias creativas — animación, videojuegos, diseño gráfico y multimedia, diseño de producto, interiores, moda y publicidad. Dentro de nuestro catálogo aporta el Grado en Animación.",
+    ],
+    whyEEM:
+      "La recomendamos para perfiles creativos que quieren dedicarse a la animación: es la universidad del convenio especializada en industrias creativas, un terreno que no cubren las demás universidades con las que trabajamos.",
+    officialUrl: "https://www.udit.es",
   },
 ];
 

@@ -37,7 +37,7 @@ tu país — con sus propios plazos, convocatorias y preparación.
 
 Las universidades privadas fijan su **propio proceso de admisión**. En la
 mayoría de los casos (y es el que seguimos con nuestro catálogo de
-programas en UAX, Nebrija y CEU San Pablo) no hace falta rendir la
+programas en UAX, Nebrija, CEU San Pablo y UDIT) no hace falta rendir la
 PAU ni las PCE: alcanza con tener tu bachillerato **homologado** y
 matricularte dentro del plazo que fija la universidad. No hay nota de
 corte competitiva en el mismo sentido que en la pública — la condición es
@@ -66,7 +66,7 @@ querés el paso a paso completo de ese trámite.
 | Admisión | Nota de corte + PCE/UNEDasiss | Proceso propio, sin selectividad |
 | Precio | Fijado por la comunidad autónoma, distinto para UE/no UE | Fijado por la universidad |
 | Plazas | Limitadas por nota de corte | Según capacidad del programa |
-| Convenio con Estudia en Madrid | No | Sí (UAX, Nebrija, CEU San Pablo) |
+| Convenio con Estudia en Madrid | No | Sí (UAX, Nebrija, CEU San Pablo, UDIT) |
 
 ## Por qué trabajamos con privadas
 

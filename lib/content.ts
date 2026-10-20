@@ -5,15 +5,6 @@ import type { AreaSlug } from "@/data/areas";
 
 const PROGRAMS_DIR = path.join(process.cwd(), "content", "programas");
 
-// PROGRAMS-INDEX.md #6: "Grado en Animación" was written against UDIT's
-// degree. The client first said UDIT wasn't a partner, then (Oct 2026)
-// said it is — pending their confirmation and UDIT's program list, keep
-// UDIT off the live site (it would be a 4th partner the rest of the copy
-// doesn't know about). Delete this entry once confirmed.
-const UNCONFIRMED_UNIVERSITY_OVERRIDES: Record<string, string> = {
-  "ingenieria/grado-animacion": "Pendiente de confirmar",
-};
-
 const CATEGORY_TO_SLUG: Record<string, AreaSlug> = {
   "Administración": "administracion",
   "Derecho": "derecho",
@@ -87,17 +78,8 @@ function loadProgram(categoryDir: string, file: string): Program {
   const categoryName: string = data.categoria ?? categoryDir;
   const categorySlug = CATEGORY_TO_SLUG[categoryName] ?? (categoryDir as AreaSlug);
   const programSlug = file.replace(/\.md$/, "");
-  const overrideKey = `${categoryDir}/${programSlug}`;
-  let title = firstH1(content) ?? data.nombre_oficial_titulo ?? programSlug;
-  const university: string =
-    UNCONFIRMED_UNIVERSITY_OVERRIDES[overrideKey] ?? data.universidad ?? "Pendiente de confirmar";
-  if (UNCONFIRMED_UNIVERSITY_OVERRIDES[overrideKey]) {
-    // Title still carries the disavowed university's abbreviation, e.g.
-    // "Grado en Animación en Madrid (UDIT)" — strip it so it doesn't
-    // contradict the corrected "Universidad pendiente de confirmar" shown
-    // alongside it.
-    title = title.replace(/\s*\([^)]*\)\s*$/, "").trim();
-  }
+  const title = firstH1(content) ?? data.nombre_oficial_titulo ?? programSlug;
+  const university: string = data.universidad ?? "Pendiente de confirmar";
   const bodyMarkdown = stripInternalNote(stripFirstH1(content));
   const modality: string = data.modalidad ?? "Pendiente de confirmar";
   const level = deriveLevel(title);

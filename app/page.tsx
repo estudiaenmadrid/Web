@@ -1,7 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import {
-  countProgramsForUniversity,
   displayUniversity,
   getAllPrograms,
   getModalityTags,
@@ -13,7 +12,7 @@ import { getTestimonials } from "@/lib/testimonials";
 import { AREAS } from "@/data/areas";
 import { PROCESS_STEPS } from "@/data/process";
 import { getUniversityByDisplayName } from "@/data/universities";
-import { PLACEHOLDER_SLOT_IMAGES, photoForProgram, photoForSlot } from "@/lib/photos";
+import { photoForProgram, photoForSlot } from "@/lib/photos";
 import Photo from "@/components/shared/Photo";
 import TypePlate from "@/components/shared/TypePlate";
 import Reveal from "@/components/Reveal";
@@ -21,6 +20,7 @@ import Stat from "@/components/Stat";
 import Ticket from "@/components/Ticket";
 import SplitHeadline from "@/components/SplitHeadline";
 import FeaturedPrograms, { type FeaturedItem } from "@/components/home/FeaturedPrograms";
+import PartnerWall from "@/components/home/PartnerWall";
 import WaveLine from "@/components/home/WaveLine";
 import { pageMetadata } from "@/lib/seo";
 
@@ -68,7 +68,6 @@ export default function Home() {
   const universities = getPartnerUniversities();
   const testimonials = getTestimonials().slice(0, 2);
   const totalPrograms = getAllPrograms().length;
-  const heroPhoto = photoForSlot("home-hero");
   const closingPhoto = photoForSlot("home-cierre");
   const featuredItems: FeaturedItem[] = featured.map((p) => ({
     href: `/programas/${p.categorySlug}/${p.programSlug}`,
@@ -122,20 +121,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div
-          className="relative mt-6 md:mt-10 overflow-hidden bg-ink w-full aspect-[4/5] sm:aspect-[16/9] lg:aspect-[21/9]"
-          style={{ maxHeight: "min(80vh,780px)" }}
-        >
-          {heroPhoto ? (
-            <Photo photo={heroPhoto} priority sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)" />
-          ) : (
-            <Photo
-              placeholder={PLACEHOLDER_SLOT_IMAGES["home-hero"]}
-              priority
-              sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)"
-            />
-          )}
-        </div>
+        <PartnerWall />
       </section>
 
       {/* Programas destacados */}
@@ -262,56 +248,13 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Universidades */}
-      <section id="universidades" className="border-y border-hair py-9 sm:py-12 md:py-[72px]">
-        <div className="flex justify-between gap-5 px-5 sm:px-8 md:px-11 mb-6.5">
-          <span className="font-mono text-[11px] tracking-[.16em] text-red-signal">CONVENIOS DIRECTOS</span>
-          <span className="font-mono text-[11px] tracking-[.16em] text-ink-soft">
-            {String(universities.length).padStart(2, "0")} UNIVERSIDAD{universities.length === 1 ? "" : "ES"}
-          </span>
-        </div>
-        <div className="grid gap-px bg-hair" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(220px,1fr))" }}>
-          {universities.map((u) => {
-            const profile = getUniversityByDisplayName(u);
-            const count = countProgramsForUniversity(u);
-            const inner = (
-              <>
-                <span className="font-display font-extrabold text-[15px] uppercase text-center">{u}</span>
-                <span className="font-mono text-[10px] tracking-[.14em] text-red-signal">
-                  {count} PROGRAMA{count === 1 ? "" : "S"}
-                  {profile ? " ↗" : ""}
-                </span>
-              </>
-            );
-            const cellClass = "h-full min-h-[116px] px-4.5 py-6.5 flex flex-col items-center justify-center gap-2";
-            return (
-              <Reveal key={u} className="bg-off-white">
-                {profile ? (
-                  <Link href={`/universidades/${profile.slug}`} className={`${cellClass} text-ink-soft hover:text-ink hover:bg-white`}>
-                    {inner}
-                  </Link>
-                ) : (
-                  <div className={`${cellClass} text-ink-soft`}>{inner}</div>
-                )}
-              </Reveal>
-            );
-          })}
-        </div>
-      </section>
-
       {/* Cierre */}
       <section className="relative px-5 sm:px-8 md:px-11 py-14 sm:py-20 md:py-[150px] overflow-hidden">
-        <div
-          aria-hidden="true"
-          className="absolute inset-0"
-          style={{ filter: "blur(9px) contrast(1.1)", opacity: 0.5 }}
-        >
-          {closingPhoto ? (
+        {closingPhoto && (
+          <div aria-hidden="true" className="absolute inset-0" style={{ filter: "blur(9px) contrast(1.1)", opacity: 0.5 }}>
             <Photo photo={{ ...closingPhoto, alt: "" }} sizes="100vw" />
-          ) : (
-            <Photo placeholder={PLACEHOLDER_SLOT_IMAGES["home-cierre"]} sizes="100vw" />
-          )}
-        </div>
+          </div>
+        )}
         <div
           aria-hidden="true"
           className="absolute left-0 right-0 text-center pointer-events-none hidden md:block font-display font-black uppercase"

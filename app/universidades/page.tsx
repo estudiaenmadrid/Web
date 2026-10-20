@@ -12,7 +12,7 @@ import { pageMetadata } from "@/lib/seo";
 export const metadata: Metadata = pageMetadata({
   title: "Universidades privadas de Madrid con convenio",
   description:
-    "Universidad Alfonso X el Sabio (UAX), Nebrija y CEU San Pablo: universidades privadas españolas con convenio directo con Estudia en Madrid para grados y másteres.",
+    "Universidad Alfonso X el Sabio (UAX), Nebrija, CEU San Pablo y UDIT: universidades privadas españolas con convenio directo con Estudia en Madrid para grados y másteres.",
   path: "/universidades",
 });
 
@@ -35,7 +35,6 @@ const CONVENIO_STEPS = [
 
 export default function UniversidadesPage() {
   const programs = getAllPrograms();
-  const years = UNIVERSITIES.map((u) => Number(u.founded));
   const countWord = NUMBER_WORDS[UNIVERSITIES.length] ?? String(UNIVERSITIES.length);
   const byFounding = [...UNIVERSITIES].sort((a, b) => Number(a.founded) - Number(b.founded));
 
@@ -91,7 +90,7 @@ export default function UniversidadesPage() {
                         word={u.monogram}
                         label={u.displayName}
                         topLeft={`Est. ${u.founded}`}
-                        topRight={`${count} programas`}
+                        topRight={`${count} programa${count === 1 ? "" : "s"}`}
                         bottom={u.campuses.map((c) => c.name).join(" · ")}
                       />
                     )}
@@ -120,7 +119,7 @@ export default function UniversidadesPage() {
                           <div className="font-display font-black text-red-signal" style={{ fontSize: "clamp(26px,3vw,40px)", letterSpacing: "-.03em" }}>
                             {count}
                           </div>
-                          <div className="text-[13px] text-ink-soft">programas con convenio</div>
+                          <div className="text-[13px] text-ink-soft">{count === 1 ? "programa con convenio" : "programas con convenio"}</div>
                         </div>
                         <div className="bg-off-white py-3.5 pl-4">
                           <div className="font-display font-black text-red-signal" style={{ fontSize: "clamp(26px,3vw,40px)", letterSpacing: "-.03em" }}>
@@ -203,14 +202,15 @@ export default function UniversidadesPage() {
           </Reveal>
           <Reveal delay={0.04}>
             <p className="m-0 text-[15px] leading-[1.65] text-ink-soft" style={{ maxWidth: "58ch" }}>
-              Son universidades privadas españolas, oficialmente reconocidas y acreditadas, fundadas entre{" "}
-              {Math.min(...years)} y {Math.max(...years)} — ninguna es un centro improvisado ni de reciente
-              creación. Cada una tiene su propia especialidad dentro de nuestro catálogo, así que la recomendación
-              depende del área y del programa, no de cuál &ldquo;suena mejor&rdquo;.
+              Son universidades privadas españolas, oficialmente reconocidas, con títulos oficiales verificados
+              por el Consejo de Universidades. CEU San Pablo, UAX y Nebrija llevan más de 30 años como
+              universidad; UDIT se reconoció en 2022 sobre la base de más de 20 años de ESNE formando en diseño.
+              Cada una tiene su propia especialidad dentro de nuestro catálogo, así que la recomendación depende
+              del área y del programa, no de cuál &ldquo;suena mejor&rdquo;.
             </p>
           </Reveal>
         </div>
-        <ol className="list-none p-0 m-0 mt-9 md:mt-14 grid gap-px bg-hair border border-hair md:grid-cols-3">
+        <ol className="list-none p-0 m-0 mt-9 md:mt-14 grid gap-px bg-hair border border-hair sm:grid-cols-2 lg:grid-cols-4">
           {byFounding.map((u, i) => (
             <Reveal key={u.slug} as="li" delay={Math.min(i * 0.05, 0.15)} className="bg-off-white">
               <Link href={`/universidades/${u.slug}`} className="group flex flex-col gap-3 p-5.5 sm:p-7 h-full hover:bg-white">

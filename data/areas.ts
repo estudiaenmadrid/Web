@@ -44,7 +44,7 @@ export const AREAS: Area[] = [
     intro:
       "La oferta más amplia: informática, aeroespacial, biomédica, IA y diseño industrial, con laboratorios propios y prácticas en empresa.",
     extended:
-      "Es el área más grande del catálogo, con la UAX como universidad convenida para toda la oferta (informática, IA, biomédica, aeroespacial y más). La mayoría de los grados son presenciales con laboratorios propios, mientras que buena parte de los másteres —Big Data, Bioinformática, Energías Renovables— se cursan online.",
+      "Es el área más grande del catálogo, con la UAX como universidad convenida para casi toda la oferta (informática, IA, biomédica, aeroespacial y más) y UDIT para el Grado en Animación. La mayoría de los grados son presenciales con laboratorios propios, mientras que buena parte de los másteres —Big Data, Bioinformática, Energías Renovables— se cursan online.",
     headingSize: "clamp(38px,9.6vw,148px)",
   },
   {

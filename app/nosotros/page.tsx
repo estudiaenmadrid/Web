@@ -2,7 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getPartnerUniversities } from "@/lib/content";
 import { getTestimonials } from "@/lib/testimonials";
-import { PLACEHOLDER_SLOT_IMAGES, photoForSlot } from "@/lib/photos";
+import { photoForSlot } from "@/lib/photos";
 import { PROCESS_STEPS } from "@/data/process";
 import Photo from "@/components/shared/Photo";
 import Reveal from "@/components/Reveal";
@@ -35,7 +35,7 @@ const VALUES = [
 
 export default function NosotrosPage() {
   const universities = getPartnerUniversities();
-  const testimonial = getTestimonials()[0];
+  const [featuredReview, sideReview] = getTestimonials();
   const teamPhoto = photoForSlot("nosotros");
 
   return (
@@ -53,20 +53,35 @@ export default function NosotrosPage() {
           <br />
           <span className="text-red-signal">Abrimos puertas.</span>
         </h1>
-        <div
-          className="relative mt-6 md:mt-11 overflow-hidden bg-ink w-full aspect-[4/5] sm:aspect-[16/9] lg:aspect-[21/9]"
-          style={{ maxHeight: "min(72vh,640px)" }}
-        >
-          {teamPhoto ? (
+        {teamPhoto ? (
+          <div
+            className="relative mt-6 md:mt-11 overflow-hidden bg-ink w-full aspect-[4/5] sm:aspect-[16/9] lg:aspect-[21/9]"
+            style={{ maxHeight: "min(72vh,640px)" }}
+          >
             <Photo photo={teamPhoto} priority sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)" />
-          ) : (
-            <Photo
-              placeholder={PLACEHOLDER_SLOT_IMAGES.nosotros}
-              priority
-              sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)"
-            />
-          )}
-        </div>
+          </div>
+        ) : (
+          featuredReview && (
+            // No real team photo yet: a real student review stands in, never a generated picture.
+            <figure className="relative overflow-hidden m-0 mt-6 md:mt-11 bg-ink text-off-white px-6 sm:px-10 md:px-16 py-10 sm:py-14 md:py-20">
+              <div aria-hidden="true" className="eem-plate-grain absolute inset-0" />
+              <div className="relative font-mono text-[11px] tracking-[.16em] text-red-signal">LO QUE DICEN NUESTROS ESTUDIANTES</div>
+              <blockquote
+                className="relative m-0 mt-5 font-serif italic"
+                style={{ fontSize: "clamp(26px,3.6vw,56px)", lineHeight: 1.12, maxWidth: "28ch" }}
+              >
+                &ldquo;{featuredReview.quote}&rdquo;
+              </blockquote>
+              <figcaption className="relative mt-6 sm:mt-8 flex flex-wrap items-center gap-x-4 gap-y-2 font-mono text-[11px] tracking-[.14em] uppercase text-off-white/70">
+                <span className="block w-2 h-2 bg-red-signal" />
+                <span className="text-off-white">
+                  {featuredReview.name} · {featuredReview.country}
+                </span>
+                <span>Reseña en Trustpilot</span>
+              </figcaption>
+            </figure>
+          )
+        )}
       </section>
 
       <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px] grid gap-6 sm:gap-9 md:gap-[72px]" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(280px,1fr))" }}>
@@ -158,9 +173,9 @@ export default function NosotrosPage() {
               <Stat value="Todos" label="los países de Latinoamérica con convenio" className="bg-off-white p-5" />
             </div>
           </Reveal>
-          {testimonial && (
+          {sideReview && (
             <Reveal delay={0.05}>
-              <Ticket quote={testimonial.quote} name={`${testimonial.name} · ${testimonial.country}`} meta="Trustpilot" />
+              <Ticket quote={sideReview.quote} name={`${sideReview.name} · ${sideReview.country}`} meta="Trustpilot" />
             </Reveal>
           )}
           <a

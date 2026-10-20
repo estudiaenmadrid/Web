@@ -22,8 +22,8 @@ const SRC_DIR = path.join(ROOT, "fotos-originales");
 const OUT_DIR = path.join(ROOT, "public/assets/fotos");
 const WIDTHS = [640, 1024, 1600, 2400];
 const AREAS = ["administracion", "derecho", "ingenieria", "salud", "educacion"];
-const UNIVERSITIES = ["uax", "nebrija", "ceu-san-pablo"];
-const SLOTS = ["home-hero", "home-cierre", "nosotros"];
+const UNIVERSITIES = ["uax", "nebrija", "ceu-san-pablo", "udit"];
+const SLOTS = ["home-cierre", "nosotros"];
 
 async function readJson(file, fallback) {
   try {

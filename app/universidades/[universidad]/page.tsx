@@ -28,7 +28,7 @@ export async function generateMetadata({
   const count = getAllPrograms().filter((p) => normalizeUniversityName(p.university) === profile.displayName).length;
   return pageMetadata({
     title: `${profile.displayName} — convenio con Estudia en Madrid`,
-    description: `${profile.displayName}, fundada en ${profile.founded}. ${count} programas con convenio directo gestionados por Estudia en Madrid: admisión, visado y becas.`,
+    description: `${profile.displayName}, fundada en ${profile.founded}. ${count} programa${count === 1 ? "" : "s"} con convenio directo gestionado${count === 1 ? "" : "s"} por Estudia en Madrid: admisión, visado y becas.`,
     path: `/universidades/${profile.slug}`,
   });
 }
@@ -53,7 +53,7 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
   const stats = [
     { value: profile.founded, label: "año de fundación" },
     { value: String(profile.campuses.length), label: "campus" },
-    { value: String(programs.length), label: "programas con convenio" },
+    { value: String(programs.length), label: programs.length === 1 ? "programa con convenio" : "programas con convenio" },
     onlineCount > 0
       ? { value: String(onlineCount), label: "se pueden cursar online" }
       : { value: "100%", label: "presencial, en Madrid" },
@@ -101,7 +101,7 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
                 word={profile.monogram}
                 label={profile.displayName}
                 topLeft={`Est. ${profile.founded}`}
-                topRight={`${programs.length} programas con convenio`}
+                topRight={`${programs.length} programa${programs.length === 1 ? "" : "s"} con convenio`}
                 bottom={profile.campuses.map((c) => c.name).join(" · ")}
               />
             )}

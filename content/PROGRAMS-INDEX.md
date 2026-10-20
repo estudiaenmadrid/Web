@@ -9,18 +9,18 @@
 >
 > **Última actualización: 2026-10-20.**
 >
-> 🆕 **Actualización 20/10/2026 (mensaje de voz del cliente):**
-> - **UDIT sí tiene convenio vigente** — el cliente dijo que "la Audi"
->   (transcripción automática; casi seguro "la UDIT") "es una universidad
->   con la que tenemos convenio por dos años". Esto corrige el punto 3 de
->   abajo. **Pendiente:** que el cliente confirme que se refería a UDIT y
->   mande qué programas de UDIT se ofrecen. Hasta entonces el sitio sigue
->   mostrando 3 universidades (UAX, Nebrija, CEU San Pablo) y Grado en
->   Animación sigue como "pendiente de confirmar" (ver #6).
-> - **Instituto de técnicos superiores (contacto: Mayra)** — pendiente de
->   información del cliente. Sería la primera oferta de FP / Técnico
->   Superior; hoy está excluida del catálogo (ver "Excluidos").
+> 🆕 **Actualización 20/10/2026 (mensajes del cliente):**
+> - **UDIT es universidad con convenio** (confirmado por el cliente: el
+>   convenio sigue vigente dos años más). Se publicó como cuarta
+>   universidad, con ficha propia (`data/universities.ts`) y el Grado en
+>   Animación atribuido a UDIT. **Pendiente:** que el cliente mande el resto
+>   de programas de UDIT que se ofrecen (los de la antigua categoría
+>   Tecnología eran mayormente de UDIT — no se restauraron sin confirmación).
+> - **Instituto de técnicos superiores (contacto: Mayra)** — el cliente
+>   decidió **dejarlo fuera** del catálogo.
 > - **Se eliminó Máster en Psicopedagogía presencial** (ver #7).
+> - **Postgrado y Máster en Tecnología Educativa son programas distintos**
+>   (confirmado por el cliente, ver #8).
 >
 > ⚠️ **Confirmado por el cliente — Estudia en Madrid SOLO ofrece los grados
 > y másteres de las universidades con las que tiene convenio real.** Esto
@@ -34,8 +34,8 @@
 > 2. **Se eliminaron los 3 programas de Técnico/Técnico Superior (FP)** de
 >    Salud — tampoco son parte del catálogo real de la agencia.
 > 3. ~~**UDIT y U-tad NO son universidades socias**~~ — **CORREGIDO el
->    20/10/2026: UDIT sí tiene convenio (por dos años más).** U-tad sigue
->    sin convenio. Ver la actualización al principio de este documento.
+>    20/10/2026: UDIT sí tiene convenio (por dos años más) y ya está
+>    publicada.** U-tad sigue sin convenio.
 > 4. **"Grado en ADE" y "Grado en Administración de Empresas" son el mismo
 >    programa** (UAX) — se fusionaron en una sola ficha.
 
@@ -64,12 +64,8 @@
    Producto" — un solo grado. Se eliminó `ingenieria/grado-diseno-producto.md`
    (que estaba mal atribuido a U-tad); queda una sola ficha en
    `ingenieria/grado-diseno-industrial.md`.
-6. **"Grado en Animación"** (Ingeniería) — la ficha se redactó sobre el
-   grado de UDIT, y el 20/10/2026 el cliente indicó que UDIT sí tiene
-   convenio. **Casi resuelto:** cuando el cliente confirme que "la Audi"
-   era UDIT, basta con quitar el override `ingenieria/grado-animacion` de
-   `lib/content.ts` (vuelve a mostrar UDIT) y crear la ficha de
-   universidad de UDIT en `data/universities.ts`.
+6. ~~**"Grado en Animación"**~~ — **RESUELTO (20/10/2026):** el cliente
+   confirmó UDIT; la ficha se publica atribuida a UDIT.
 7. ~~**"Máster en Psicopedagogía" presencial vs. online**~~ — **RESUELTO
    (20/10/2026): se eliminó la versión presencial** a pedido del cliente.
    Para cursarla presencialmente hace falta tener el título homologado en
@@ -77,10 +73,12 @@
    latinoamericanos. Queda solo la ficha online (UAX). La URL vieja hace
    301 a la online (`public/.htaccess`).
 8. **"Postgrado en Tecnología Educativa" vs. "Máster Oficial en Tecnología
-   Educativa y Competencias Digitales para Docentes"** (Educación) —
-   evidencia fuerte de que es el **mismo programa UAX** con dos URLs
-   distintas en el sitio actual (una de ellas retirada de la categoría
-   Educación). Recomendado fusionar en una sola ficha antes de publicar.
+   Educativa y Competencias Digitales para Docentes"** (Educación) — el
+   cliente confirmó el 20/10/2026 que **son programas distintos** (no
+   fusionar). La ficha del postgrado tenía copiados los datos del máster
+   (60 ECTS, 9 meses, título oficial, ranking): se retiraron y quedan como
+   "a confirmar". **Pendiente:** que el cliente mande los datos reales del
+   postgrado (duración, créditos, modalidad, tipo de título, precio).
 9. ~~**Robótica (UCJC)** (Ingeniería)~~ — **RESUELTO: el cliente confirmó
    que no hay convenio con UCJC.** Se eliminó `ingenieria/grado-robotica.md`
    y la ficha de universidad de UCJC por completo (no se reasignó a UAX
@@ -124,7 +122,7 @@ detalle de qué falta específicamente.
 | Máster en Derecho Internacional Humanitario | Universidad Nebrija | `derecho/master-derecho-internacional-humanitario.md` |
 | Máster en Sostenibilidad y Compliance | CEU San Pablo — título propio, no oficial | `derecho/master-sostenibilidad-compliance.md` |
 
-## Ingeniería (19/20 🟢 · 1 🟠 — se fusionó Diseño de Producto/Industrial)
+## Ingeniería (19/20 🟢 · 1 🟠 — Máster en IA presencial sigue pendiente, ver #2)
 
 | Programa | Universidad | Archivo |
 |---|---|---|
@@ -137,7 +135,7 @@ detalle de qué falta específicamente.
 | Grado en Física | UAX | `ingenieria/grado-fisica.md` |
 | Grado en Inteligencia Artificial | UAX | `ingenieria/grado-inteligencia-artificial.md` |
 | Grado en Diseño Industrial y Desarrollo de Producto | UAX (fusionado con "Diseño de Producto", ver #5) | `ingenieria/grado-diseno-industrial.md` |
-| **Grado en Animación** | 🟠 **Pendiente de confirmar (ni UDIT ni U-tad, ver #6)** | `ingenieria/grado-animacion.md` |
+| Grado en Animación | UDIT (confirmado, ver #6) | `ingenieria/grado-animacion.md` |
 | Máster en Ingeniería Industrial | UAX | `ingenieria/master-ingenieria-industrial.md` |
 | Máster Universitario en Inteligencia Artificial Online | UAX | `ingenieria/master-inteligencia-artificial-online.md` |
 | Máster en Inteligencia Artificial (presencial) | Pendiente de confirmar — probable duplicado (ver #2) | `ingenieria/master-inteligencia-artificial.md` |
@@ -176,8 +174,8 @@ detalle de qué falta específicamente.
 | Máster Universitario en Neuropsicología Aplicada a la Educación | UAX | `educacion/master-neuropsicologia-aplicada-educacion.md` |
 | Máster Universitario en Educación Emocional | UAX | `educacion/master-educacion-emocional.md` |
 | Máster Universitario en Liderazgo y Dirección de Centros Educativos | UAX (confianza media, UNIR tiene uno igual de nombre) | `educacion/master-liderazgo-direccion-centros-educativos.md` |
-| Postgrado en Tecnología Educativa | UAX (posible fusión, ver #8) | `educacion/postgrado-tecnologia-educativa.md` |
-| Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes | UAX (posible fusión, ver #8) | `educacion/master-tecnologia-educativa-competencias-digitales-docentes.md` |
+| Postgrado en Tecnología Educativa | UAX — programa distinto del máster, datos pendientes (ver #8) | `educacion/postgrado-tecnologia-educativa.md` |
+| Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes | UAX (distinto del postgrado, ver #8) | `educacion/master-tecnologia-educativa-competencias-digitales-docentes.md` |
 
 ## Excluidos del catálogo (no son parte de la oferta real de la agencia)
 
@@ -185,7 +183,8 @@ detalle de qué falta específicamente.
   principio de este documento.
 - **Programas de Técnico / Técnico Superior (FP)** de Salud — la agencia
   no trabaja con formación profesional, solo con grados y másteres
-  universitarios.
+  universitarios. El instituto de técnicos superiores (contacto: Mayra)
+  también queda fuera por decisión del cliente (20/10/2026).
 - **Especialista en Gestión de Proyectos, Liderazgo y Emprendimiento**,
   **Especialista en Gestión de Calidad y RSC**, **Especialista en
   Comunicación Empresarial e Institucional**, **Especialista en Logística

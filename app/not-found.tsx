@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import Reveal from "@/components/Reveal";
 import SplitHeadline from "@/components/SplitHeadline";
+import { UNIVERSITIES } from "@/data/universities";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
@@ -13,7 +14,7 @@ export const metadata: Metadata = pageMetadata({
 
 const LINKS = [
   { href: "/programas", label: "Programas", desc: "Grados y másteres con convenio directo" },
-  { href: "/universidades", label: "Universidades", desc: "Las 3 universidades con las que trabajamos" },
+  { href: "/universidades", label: "Universidades", desc: `Las ${UNIVERSITIES.length} universidades con las que trabajamos` },
   { href: "/guias", label: "Guías", desc: "Visado, convalidaciones, vivir en Madrid" },
   { href: "/nosotros", label: "Nosotros", desc: "Quiénes somos y cómo acompañamos el proceso" },
 ];
