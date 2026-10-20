@@ -58,6 +58,23 @@ fundación y campus — datos reales, no una imagen inventada.
 - **Inicio (portada), listado de universidades y programas destacados:** la
   foto principal de cada universidad.
 
+## Fotos de Wikimedia Commons (`commons.json`)
+
+Mientras no lleguen las fotos oficiales, las páginas de universidades usan
+fotos reales de sus edificios publicadas en Wikimedia Commons con licencia
+libre (CC0 o CC BY-SA). Se cargan directamente desde Commons, se muestran
+en blanco y negro y **llevan siempre el crédito** (autor + licencia
+enlazados), que es lo que exigen esas licencias.
+
+- Solo se usan en el inicio, en `/universidades` y en la página de cada
+  universidad — no en las fichas de programa, para no repetir la misma foto
+  en todos los programas de una universidad.
+- Cuando se carga una foto oficial de esa universidad en `fotos.json`, pasa
+  a ser la principal automáticamente; las de Commons quedan en la galería.
+- Para agregar otra: copiá en `commons.json` el nombre exacto del archivo
+  (sin el prefijo `File:`), su autor, su licencia y el enlace a la licencia
+  tal como figuran en la página del archivo en Commons.
+
 ## Licencias
 
 Antes de publicar una foto, confirmá que la universidad autoriza su uso

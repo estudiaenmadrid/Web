@@ -4,6 +4,7 @@ import { countProgramsForUniversity } from "@/lib/content";
 import { photoForUniversity } from "@/lib/photos";
 import Photo from "@/components/shared/Photo";
 import TypePlate from "@/components/shared/TypePlate";
+import PhotoCredit from "@/components/shared/PhotoCredit";
 
 /**
  * Home hero visual: the partner universities themselves, one tile each —
@@ -11,6 +12,9 @@ import TypePlate from "@/components/shared/TypePlate";
  * typographic plate until then.
  */
 export default function PartnerWall() {
+  const commonsPhotos = UNIVERSITIES.map((u) => photoForUniversity(u.slug)).filter(
+    (p): p is NonNullable<typeof p> => p?.source === "commons"
+  );
   return (
     <div className="mt-6 md:mt-10">
       <div className="flex justify-between items-baseline gap-4 font-mono text-[11px] tracking-[.16em] mb-3">
@@ -61,6 +65,17 @@ export default function PartnerWall() {
           );
         })}
       </div>
+      {commonsPhotos.length > 0 && (
+        <p className="m-0 mt-2.5 font-mono text-[10px] tracking-[.1em] uppercase text-ink-soft leading-[1.6]">
+          Fotos vía Wikimedia Commons, en blanco y negro:{" "}
+          {commonsPhotos.map((photo, i) => (
+            <span key={photo.id}>
+              {i > 0 && " · "}
+              <PhotoCredit photo={photo} compact />
+            </span>
+          ))}
+        </p>
+      )}
     </div>
   );
 }

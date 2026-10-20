@@ -9,6 +9,7 @@ import Reveal from "@/components/Reveal";
 import Breadcrumb from "@/components/Breadcrumb";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
 import Photo from "@/components/shared/Photo";
+import PhotoCredit from "@/components/shared/PhotoCredit";
 import TypePlate from "@/components/shared/TypePlate";
 import RelatedGuides from "@/components/shared/RelatedGuides";
 import { pageMetadata } from "@/lib/seo";
@@ -109,7 +110,7 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
           {leadPhoto && (
             <figcaption className="flex flex-wrap justify-between gap-x-4 gap-y-1 font-mono text-[10px] tracking-[.12em] uppercase text-ink-soft mt-2.5">
               <span>{leadPhoto.alt}</span>
-              <span>{leadPhoto.credit}</span>
+              <PhotoCredit photo={leadPhoto} />
             </figcaption>
           )}
         </figure>
@@ -287,7 +288,7 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
                   </div>
                   <figcaption className="font-mono text-[10px] tracking-[.12em] uppercase text-ink-soft mt-2.5 flex flex-col gap-0.5">
                     <span>{photo.alt}</span>
-                    <span>{photo.credit}</span>
+                    <PhotoCredit photo={photo} />
                   </figcaption>
                 </figure>
               </Reveal>

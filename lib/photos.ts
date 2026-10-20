@@ -1,20 +1,33 @@
 import generated from "@/content/fotos/fotos.generated.json";
+import commons from "@/content/fotos/commons.json";
 import type { AreaSlug } from "@/data/areas";
 
 /**
- * Official university photography, processed to black and white by
- * scripts/fotos.mjs (`npm run fotos`) from the entries in
- * content/fotos/fotos.json. Never AI-generated: every entry must come from
- * the university itself (press kit, communications office) or the client.
+ * Real photography only — never AI-generated. Two sources:
+ *
+ * - Official photos from the universities or the client, processed to black
+ *   and white by scripts/fotos.mjs (`npm run fotos`) from
+ *   content/fotos/fotos.json and served from /assets/fotos.
+ * - Freely licensed photos of the universities' buildings on Wikimedia
+ *   Commons (content/fotos/commons.json), loaded straight from Commons and
+ *   greyed out in CSS. Their licences require crediting author and licence
+ *   next to the photo — see PhotoCredit.
  */
 export interface Photo {
   id: string;
-  /** Width/height of the largest processed version — the intrinsic aspect ratio. */
-  width: number;
-  height: number;
+  source: "local" | "commons";
+  /** Intrinsic size of the largest version, when known. */
+  width?: number;
+  height?: number;
   widths: number[];
   alt: string;
-  credit: string;
+  /** Plain credit line for local photos, e.g. "Foto: Universidad Nebrija". */
+  credit?: string;
+  /** Commons attribution: author, licence name and links. */
+  author?: string;
+  license?: string;
+  licenseUrl?: string;
+  sourceUrl?: string;
   /** University slug (data/universities.ts), or null for city/agency photos. */
   university: string | null;
   /** Areas this photo illustrates (a dental clinic -> salud). Empty = a general campus shot that suits any program of its university. */
@@ -24,14 +37,69 @@ export interface Photo {
   focal: [number, number];
   /** Fixed site slots this photo fills (see SiteSlot). */
   slots: string[];
+  /** Whether program fichas may use it. Building shots only appear on university surfaces: with one or two per university, every ficha of that university would otherwise repeat the same picture. */
+  fichas: boolean;
   blur?: string;
+  /** Commons file name, for source === "commons". */
+  file?: string;
 }
 
-// The JSON's shape is validated by scripts/fotos.mjs when it's written;
-// TypeScript infers `focal` as number[] rather than the [x, y] tuple.
-export const PHOTOS = generated as unknown as Photo[];
+interface CommonsEntry {
+  id: string;
+  archivo: string;
+  universidad: string;
+  tema?: string;
+  alt: string;
+  autor: string;
+  licencia: string;
+  licenciaUrl: string;
+  ancho?: number;
+  alto?: number;
+  foco?: number[];
+}
+
+// Standard Wikimedia thumbnail widths (already cached on their CDN). Asking
+// for a width at or above the original's returns the original file.
+const COMMONS_WIDTHS = [500, 960, 1280, 1920];
+
+function fromCommons(entry: CommonsEntry): Photo {
+  const file = entry.archivo.replace(/ /g, "_");
+  const widths = entry.ancho ? COMMONS_WIDTHS.filter((w) => w < entry.ancho!) : COMMONS_WIDTHS;
+  if (entry.ancho && entry.ancho <= COMMONS_WIDTHS[COMMONS_WIDTHS.length - 1]) widths.push(entry.ancho);
+  return {
+    id: entry.id,
+    source: "commons",
+    file,
+    width: entry.ancho,
+    height: entry.alto,
+    widths,
+    alt: entry.alt,
+    author: entry.autor,
+    license: entry.licencia,
+    licenseUrl: entry.licenciaUrl,
+    sourceUrl: `https://commons.wikimedia.org/wiki/File:${encodeURIComponent(file)}`,
+    university: entry.universidad,
+    areas: [],
+    subject: entry.tema ?? null,
+    focal: (entry.foco as [number, number] | undefined) ?? [50, 50],
+    slots: [],
+    fichas: false,
+  };
+}
+
+// The local JSON's shape is validated by scripts/fotos.mjs when it's written;
+// TypeScript infers `focal` as number[] rather than the [x, y] tuple. Local
+// (official) photos come first, so they win over Commons ones as a
+// university's lead photo once they exist.
+export const PHOTOS: Photo[] = [
+  ...(generated as unknown as Omit<Photo, "source" | "fichas">[]).map((p) => ({ ...p, source: "local" as const, fichas: true })),
+  ...(commons as CommonsEntry[]).map(fromCommons),
+];
 
 export function photoSrc(photo: Photo, width = photo.widths[photo.widths.length - 1]): string {
+  if (photo.source === "commons") {
+    return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(photo.file!)}?width=${width}`;
+  }
   return `/assets/fotos/${photo.id}-${width}.webp`;
 }
 
@@ -69,7 +137,7 @@ export function photoForUniversity(universitySlug: string): Photo | undefined {
  */
 export function photoForProgram(universitySlug: string | undefined, area: AreaSlug, seed: string): Photo | undefined {
   if (!universitySlug) return undefined;
-  const own = photosForUniversity(universitySlug);
+  const own = photosForUniversity(universitySlug).filter((p) => p.fichas);
   const byArea = own.filter((p) => p.areas.includes(area));
   const pool = byArea.length > 0 ? byArea : own.filter((p) => p.areas.length === 0);
   if (pool.length === 0) return undefined;

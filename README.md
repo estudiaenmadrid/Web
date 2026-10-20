@@ -53,8 +53,10 @@ marcador "A CONFIRMAR" o como placeholder, en vez de inventarse:
 - País(es) de operación (sección "Quiénes somos").
 - Fotos oficiales de las universidades. El circuito ya está listo
   (`npm run fotos`, ver `content/fotos/README.md`): mientras no haya fotos
-  cargadas, cada universidad se muestra con una placa tipográfica. El sitio
-  no usa ninguna imagen generada con IA.
+  cargadas, las universidades usan fotos reales de sus edificios de
+  Wikimedia Commons con licencia libre (`content/fotos/commons.json`,
+  siempre con crédito), y una placa tipográfica donde no hay ninguna. El
+  sitio no usa ninguna imagen generada con IA.
 - Logos oficiales de las universidades socias.
 
 El número de universidades con convenio (4: UAX, Nebrija, CEU San Pablo, UDIT)

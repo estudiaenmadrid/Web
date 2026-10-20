@@ -5,6 +5,7 @@ import { UNIVERSITIES } from "@/data/universities";
 import { photoForUniversity } from "@/lib/photos";
 import Reveal from "@/components/Reveal";
 import Photo from "@/components/shared/Photo";
+import PhotoCredit from "@/components/shared/PhotoCredit";
 import TypePlate from "@/components/shared/TypePlate";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
 import { pageMetadata } from "@/lib/seo";
@@ -72,29 +73,35 @@ export default function UniversidadesPage() {
             const photo = photoForUniversity(u.slug);
             return (
               <Reveal key={u.slug}>
-                <Link
-                  href={`/universidades/${u.slug}`}
-                  className="group grid gap-6 md:gap-12 py-7 sm:py-9 md:py-12 border-t border-hair md:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]"
-                >
+                {/* Whole row clickable via the title link's stretched ::after, so the
+                    photo credit links can sit inside without nesting anchors. */}
+                <div className="group relative grid gap-6 md:gap-12 py-7 sm:py-9 md:py-12 border-t border-hair md:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
                   {/* self-start: a stretched grid item with aspect-ratio derives its width from the row height and spills over the text column. */}
-                  <div className="relative overflow-hidden bg-ink aspect-[4/3] self-start">
-                    {photo ? (
-                      <Photo
-                        photo={photo}
-                        sizes="(min-width: 768px) 40vw, 100vw"
-                        className="absolute inset-0 w-full h-full transition-transform duration-700 ease-out group-hover:scale-[1.03]"
-                      />
-                    ) : (
-                      <TypePlate
-                        className="absolute inset-0"
-                        word={u.monogram}
-                        label={u.displayName}
-                        topLeft={`Est. ${u.founded}`}
-                        topRight={`${count} programa${count === 1 ? "" : "s"}`}
-                        bottom={u.campuses.map((c) => c.name).join(" · ")}
-                      />
+                  <figure className="m-0 self-start">
+                    <div className="relative overflow-hidden bg-ink aspect-[4/3]">
+                      {photo ? (
+                        <Photo
+                          photo={photo}
+                          sizes="(min-width: 768px) 40vw, 100vw"
+                          className="absolute inset-0 w-full h-full transition-transform duration-700 ease-out group-hover:scale-[1.03]"
+                        />
+                      ) : (
+                        <TypePlate
+                          className="absolute inset-0"
+                          word={u.monogram}
+                          label={u.displayName}
+                          topLeft={`Est. ${u.founded}`}
+                          topRight={`${count} programa${count === 1 ? "" : "s"}`}
+                          bottom={u.campuses.map((c) => c.name).join(" · ")}
+                        />
+                      )}
+                    </div>
+                    {photo && (
+                      <figcaption className="relative z-10 mt-2.5 font-mono text-[10px] tracking-[.12em] uppercase text-ink-soft">
+                        <PhotoCredit photo={photo} />
+                      </figcaption>
                     )}
-                  </div>
+                  </figure>
 
                   <div className="flex flex-col justify-between gap-6 min-w-0">
                     <div>
@@ -106,7 +113,9 @@ export default function UniversidadesPage() {
                         className="font-display font-black uppercase mt-4 mb-0 transition-colors group-hover:text-red-signal"
                         style={{ fontSize: "clamp(28px,4.4vw,68px)", lineHeight: 0.92, letterSpacing: "-.04em" }}
                       >
-                        {u.displayName}
+                        <Link href={`/universidades/${u.slug}`} className="after:absolute after:inset-0">
+                          {u.displayName}
+                        </Link>
                       </h2>
                       <p className="mt-4 mb-0 text-[15px] leading-[1.6] text-ink-soft" style={{ maxWidth: "52ch" }}>
                         {u.whyEEM}
@@ -140,7 +149,7 @@ export default function UniversidadesPage() {
                       </span>
                     </div>
                   </div>
-                </Link>
+                </div>
               </Reveal>
             );
           })}

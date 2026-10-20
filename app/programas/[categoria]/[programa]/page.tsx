@@ -12,6 +12,7 @@ import {
 import { photoForProgram } from "@/lib/photos";
 import { getUniversityByDisplayName } from "@/data/universities";
 import Photo from "@/components/shared/Photo";
+import PhotoCredit from "@/components/shared/PhotoCredit";
 import Reveal from "@/components/Reveal";
 import Breadcrumb from "@/components/Breadcrumb";
 import CourseSchema from "@/components/schema/CourseSchema";
@@ -183,7 +184,7 @@ export default async function FichaPage({
             </div>
             <figcaption className="flex flex-wrap justify-between gap-x-4 gap-y-1 font-mono text-[10px] tracking-[.12em] uppercase text-ink-soft mt-2.5">
               <span>{photo.alt}</span>
-              <span>{photo.credit}</span>
+              <PhotoCredit photo={photo} />
             </figcaption>
           </figure>
         )}
