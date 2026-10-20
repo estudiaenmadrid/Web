@@ -13,12 +13,12 @@ fuente: "WebSearch (esim.holafly.com, uniplaces.com, nidoliving.com, tesify.es, 
 
 ## Cuánto presupuestar por mes
 
-No hay una cifra única — depende del barrio, si compartís piso o no, y tu estilo de vida — pero esto es lo que indican fuentes especializadas para el curso 2026-2027:
+No hay una cifra única — depende del barrio, si compartís piso o no, y tu estilo de vida — pero estas son las cifras de referencia para el curso 2026-2027:
 
 - **Alquiler de una habitación en piso compartido**: entre 450 € y 650 € al mes, con un promedio cercano a los 600 €. En barrios muy céntricos y demandados, podés superar esa cifra con facilidad.
 - **Estudio pequeño individual**: entre 900 € y 1.100 € al mes, en zonas no céntricas.
 - **Gastos fijos adicionales** (luz, agua, calefacción, wifi, teléfono): sumá unos 200 € más al mes.
-- **Presupuesto total mensual**, incluyendo alquiler, comida, transporte y ocio moderado: las estimaciones varían bastante según la fuente, desde unos 1.050 € en un esquema ajustado compartiendo piso, hasta 1.700-2.000 € en un esquema más holgado o viviendo solo/a.
+- **Presupuesto total mensual**, incluyendo alquiler, comida, transporte y ocio moderado: desde unos 1.050 € en un esquema ajustado compartiendo piso, hasta 1.700-2.000 € en un esquema más holgado o viviendo solo/a.
 
 La opción más económica, con diferencia, es compartir piso — es lo que elige la gran mayoría de estudiantes internacionales en Madrid, tanto por costo como porque es una forma rápida de hacer red social.
 

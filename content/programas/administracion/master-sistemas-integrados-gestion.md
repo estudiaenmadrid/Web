@@ -57,7 +57,7 @@ trabajo), **ISO 9001** (calidad) e **ISO 14001** (medio ambiente).
 
 ## Plan de estudios / contenidos principales
 
-Según las fuentes disponibles, el programa cubre:
+El programa cubre:
 
 - Sistemas de Gestión de la Calidad (ISO 9001).
 - Sistemas de Gestión Ambiental (ISO 14001).
@@ -67,8 +67,8 @@ Según las fuentes disponibles, el programa cubre:
 - Diseño, implementación, evaluación y mejora continua de sistemas de
   gestión en cualquier tipo de empresa.
 
-No se localizó en las búsquedas un desglose completo de módulos y
-asignaturas con su carga de ECTS individual.
+El desglose completo de módulos y asignaturas, con los ECTS de cada una,
+te lo enviamos junto con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 

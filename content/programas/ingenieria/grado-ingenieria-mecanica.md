@@ -48,7 +48,7 @@ El programa se estructura sobre una base de ciencias fundamentales
 la ingeniería mecánica: mecánica, termodinámica, ciencia de materiales y
 electrónica.
 
-**Primer curso** (según los registros consultados): Física, Matemática
+**Primer curso:** Física, Matemática
 Fundamental de la Ingeniería, Informática, Técnicas de Comunicación
 Profesional, Idiomas, Dibujo Técnico, Fundamentos Químicos en la
 Ingeniería, Ingeniería Eléctrica y Máquinas Eléctricas, y Fundamentos de
@@ -72,7 +72,7 @@ universidad.
 - Gestión de proyectos de ingeniería.
 - Sectores destacados: automoción, robótica, energía y aeronáutica.
 - El 94% de los titulados encuentra trabajo durante el primer año tras
-  finalizar sus estudios, según datos publicados por la UAX.
+  finalizar sus estudios.
 
 ## Requisitos de acceso
 

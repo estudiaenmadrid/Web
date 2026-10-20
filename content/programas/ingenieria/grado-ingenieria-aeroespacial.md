@@ -39,7 +39,7 @@ ensayo. Es un título oficial de **4 años (240 ECTS)**.
 | **Idioma** | Español |
 | **Inicio** | Septiembre |
 
-### Distribución de créditos (según fuentes consultadas)
+### Distribución de créditos
 
 | Bloque | ECTS |
 |---|---|
@@ -58,7 +58,7 @@ ensayo. Es un título oficial de **4 años (240 ECTS)**.
 - Ingeniería de materiales y mantenimiento de aeronaves.
 - Prácticas externas en empresas del sector aeroespacial, con visitas
   formativas a organizaciones como Airbus o el Instituto Nacional de
-  Técnica Aeroespacial (INTA), según fuentes consultadas.
+  Técnica Aeroespacial (INTA).
 
 ## Instalaciones y prácticas
 

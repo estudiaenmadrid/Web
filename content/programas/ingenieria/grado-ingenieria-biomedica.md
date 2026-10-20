@@ -43,7 +43,7 @@ el Espacio Europeo de Educación Superior (EEES).
 
 ## Plan de estudios / contenidos principales
 
-Según la propia UAX, el programa se apoya en dos pilares desde el primer
+El programa se apoya en dos pilares desde el primer
 curso:
 
 - **Bases médicas:** anatomía, fisiología y biología celular.
@@ -67,8 +67,8 @@ digitalización) y metodologías como Design Thinking y Scrum.
 - Ingeniería de software clínico.
 - Procesamiento de señales e imagen médica.
 - Investigación y desarrollo (I+D) en tecnología sanitaria.
-- Sector de alta demanda: la propia universidad destaca el crecimiento del
-  mercado de tecnología médica como factor de empleabilidad.
+- Sector de alta demanda: el mercado de tecnología médica no para de
+  crecer, y con él la empleabilidad de este perfil.
 
 ## Requisitos de acceso
 

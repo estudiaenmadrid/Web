@@ -30,7 +30,7 @@ Si tu póliza no cumple con todas estas condiciones a la vez, el consulado puede
 
 ## Cuánto cuesta, en términos generales
 
-Los precios varían según la aseguradora, tu edad y la cobertura exacta, pero como referencia de mercado (fuentes de terceros, no verificado con cotización propia), los seguros de estudiante que cumplen estas condiciones suelen rondar entre los 400 € y 500 € anuales. No recomendamos ninguna aseguradora en particular — te sugerimos comparar al menos dos o tres opciones que cumplan explícitamente con los requisitos consulares antes de contratar.
+Los precios varían según la aseguradora, tu edad y la cobertura exacta, pero como referencia orientativa, los seguros de estudiante que cumplen estas condiciones suelen rondar entre los 400 € y 500 € anuales. No recomendamos ninguna aseguradora en particular — te sugerimos comparar al menos dos o tres opciones que cumplan explícitamente con los requisitos consulares antes de contratar.
 
 ## Cómo confirmar que tu póliza sirve
 

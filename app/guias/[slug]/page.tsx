@@ -7,6 +7,8 @@ import Breadcrumb from "@/components/Breadcrumb";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
 import Reveal from "@/components/Reveal";
 import ScrollProgress from "@/components/shared/ScrollProgress";
+import TableOfContents from "@/components/shared/TableOfContents";
+import { getTocItems } from "@/lib/programSections";
 import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -34,6 +36,9 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
   if (!guide) notFound();
 
   const related = getGuidesByCategory(guide.category).filter((g) => g.slug !== guide.slug);
+  const tocItems = getTocItems(guide.bodyMarkdown);
+  const words = guide.bodyMarkdown.split(/\s+/).filter(Boolean).length;
+  const readingMinutes = Math.max(1, Math.round(words / 200));
   const lastUpdatedLabel = guide.lastUpdated
     ? new Date(guide.lastUpdated + "T00:00:00").toLocaleDateString("es-ES", {
         day: "numeric",
@@ -77,15 +82,37 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
             {guide.summary}
           </p>
         )}
-        {lastUpdatedLabel && (
-          <p className="font-mono text-[11px] tracking-[.08em] text-ink-soft mt-4">
-            Última actualización: {lastUpdatedLabel}
-          </p>
-        )}
+        <div className="flex flex-wrap gap-x-6 gap-y-2 mt-6 pt-4 border-t border-hair font-mono text-[11px] tracking-[.1em] uppercase text-ink-soft">
+          <span className="text-red-signal">{guide.category}</span>
+          <span>{readingMinutes} min de lectura</span>
+          {lastUpdatedLabel && <span>Actualizada: {lastUpdatedLabel}</span>}
+        </div>
       </section>
 
-      <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px]">
-        <MarkdownSections bodyMarkdown={guide.bodyMarkdown} />
+      <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[100px] grid gap-9 md:gap-[72px] md:grid-cols-[minmax(0,1fr)_260px] lg:grid-cols-[minmax(0,1fr)_300px]">
+        <MarkdownSections bodyMarkdown={guide.bodyMarkdown} variant="article" />
+        <aside className="hidden md:flex flex-col gap-4 sticky top-24 self-start">
+          {tocItems.length > 1 && (
+            <>
+              <div className="font-mono text-[10px] tracking-[.16em] text-red-signal">EN ESTA GUÍA</div>
+              <TableOfContents items={tocItems} />
+            </>
+          )}
+          <a
+            href="https://wa.me/34677055769"
+            target="_blank"
+            rel="noopener"
+            className="mt-2 flex flex-col gap-3 bg-ink text-off-white rounded-md p-5 hover:opacity-90"
+          >
+            <span className="font-mono text-[10px] tracking-[.16em] text-red-signal">¿TU CASO ES DISTINTO?</span>
+            <span className="font-display font-extrabold text-[17px] leading-[1.25]" style={{ letterSpacing: "-.01em" }}>
+              Contanos tu situación y te decimos qué aplica
+            </span>
+            <span className="font-display font-extrabold text-[12px] uppercase tracking-[.04em] border-b-2 border-red-signal pb-[3px] self-start">
+              WhatsApp ↗
+            </span>
+          </a>
+        </aside>
       </section>
 
       {related.length > 0 && (

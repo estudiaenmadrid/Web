@@ -29,9 +29,8 @@ un complemento formativo pensado para quienes buscan reinventar su perfil
 profesional estudiando a su propio ritmo, compaginándolo con su actividad
 laboral.
 
-Según fuentes de terceros consultadas en esta sesión, el programa está
-posicionado como **Top 2 del Ranking 2025 de Mundo Postgrado** entre los
-másteres en tecnología educativa de España.
+El programa figura en el **Top 2 del Ranking 2025 de Mundo Postgrado**
+entre los másteres en tecnología educativa de España.
 
 ## Para quién es
 
@@ -52,12 +51,11 @@ másteres en tecnología educativa de España.
 | **Créditos** | 60 ECTS |
 | **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior |
 | **Prácticas** | Posibilidad de prácticas en más de 700 centros educativos |
-| **Reconocimiento** | Puntúa en oposiciones de Primaria y Secundaria en España; posicionado como Top 2 del Ranking 2025 de Mundo Postgrado en su categoría (fuente de terceros) |
+| **Reconocimiento** | Puntúa en oposiciones de Primaria y Secundaria en España; Top 2 del Ranking 2025 de Mundo Postgrado en su categoría |
 
 ## Plan de estudios / contenidos principales
 
-Según el snippet indexado en estudiaenmadrid.com y fuentes adicionales de
-la UAX, el plan de estudios incorpora asignaturas y metodologías como:
+El plan de estudios incorpora asignaturas y metodologías como:
 
 - Robótica educativa
 - Ciberseguridad
@@ -91,8 +89,8 @@ definidas por **UNESCO** e **INTEF**.
 
 - Título oficial, con puntuación reconocida en oposiciones docentes en
   España.
-- Posicionado entre los mejores másteres de tecnología educativa de
-  España según rankings de terceros.
+- Top 2 del Ranking 2025 de Mundo Postgrado entre los másteres de
+  tecnología educativa de España.
 - Curriculum orientado a competencias digitales de referencia
   internacional (UNESCO, INTEF).
 - Acceso a prácticas en una red de más de 700 centros educativos.

@@ -55,8 +55,8 @@ El programa se organiza en torno a estos componentes:
 
 ## Requisitos de acceso
 
-- Titulación universitaria previa relacionada con informática, ingeniería o tecnología (según lo habitual en este tipo de programas; no se confirmó el requisito exacto en las fuentes consultadas).
-- Se admite también experiencia profesional relevante en el sector tecnológico como vía de acceso alternativa (dato encontrado en snippet, pendiente de confirmar el detalle exacto).
+- Titulación universitaria previa, preferentemente en informática, ingeniería o tecnología — el requisito exacto para tu título lo revisamos caso por caso.
+- La experiencia profesional en el sector tecnológico también puede valorarse como vía de acceso — te confirmamos si aplica a tu perfil.
 - Acreditar el nivel de español requerido si los estudios previos no fueron cursados en ese idioma.
 
 ## Por qué elegir este programa

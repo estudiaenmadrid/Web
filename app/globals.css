@@ -92,6 +92,22 @@
   background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/></filter><rect width='180' height='180' filter='url(%23n)'/></svg>");
 }
 
+/* Film grain for dark photo stand-ins (components/shared/TypePlate.tsx) —
+   the page-wide .eem-grain multiplies, which vanishes on ink. */
+.eem-plate-grain {
+  opacity: 0.16;
+  mix-blend-mode: screen;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/></filter><rect width='180' height='180' filter='url(%23n)'/></svg>");
+}
+
+/* Horizontally scrolling tab rows on mobile — swipeable, no scrollbar chrome. */
+.eem-noscrollbar {
+  scrollbar-width: none;
+}
+.eem-noscrollbar::-webkit-scrollbar {
+  display: none;
+}
+
 .eem-px {
   position: absolute;
   width: 9px;
@@ -145,8 +161,17 @@
   flex-direction: column;
   gap: 0.5em;
 }
+.eem-prose ul {
+  list-style: square;
+}
+.eem-prose ol {
+  list-style: decimal;
+}
 .eem-prose li {
   padding-left: 0.2em;
+}
+.eem-prose li::marker {
+  color: var(--red-signal);
 }
 .eem-prose a {
   color: var(--red-signal);
@@ -269,6 +294,30 @@
   font-size: 11px;
   letter-spacing: 0.14em;
   color: var(--red-signal);
+}
+
+/* Guide articles (MarkdownSections variant="article"). */
+.eem-article {
+  font-size: 18px;
+  line-height: 1.7;
+}
+.eem-article-lead > p:first-child {
+  font-size: clamp(20px, 1.9vw, 24px);
+  line-height: 1.5;
+}
+.eem-article table {
+  font-size: 14px;
+}
+/* Narrow screens: let a wide table scroll inside the column instead of
+   pushing the whole page sideways. */
+@media (max-width: 640px) {
+  .eem-article table {
+    display: block;
+    overflow-x: auto;
+  }
+}
+.eem-article h3 {
+  font-size: 20px;
 }
 
 .eem-sec-intro p:first-of-type {

@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getArea } from "@/data/areas";
@@ -10,9 +9,9 @@ import {
   getProgram,
   getRelatedPrograms,
 } from "@/lib/content";
-import { CAMPUS_BY_UNIVERSITY } from "@/lib/photos";
-import { UNIVERSITIES } from "@/data/universities";
-import PlaceholderImage from "@/components/PlaceholderImage";
+import { photoForProgram } from "@/lib/photos";
+import { getUniversityByDisplayName } from "@/data/universities";
+import Photo from "@/components/shared/Photo";
 import Reveal from "@/components/Reveal";
 import Breadcrumb from "@/components/Breadcrumb";
 import CourseSchema from "@/components/schema/CourseSchema";
@@ -45,6 +44,13 @@ export async function generateMetadata({
   });
 }
 
+/** "2026-10-01" (or a YAML date gray-matter parsed into a Date) -> "1 de octubre de 2026"; free text like "Octubre (a confirmar)" passes through. */
+function formatStartDate(value: string | Date): string {
+  const iso = value instanceof Date ? value.toISOString().slice(0, 10) : String(value);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(iso)) return iso;
+  return new Date(iso + "T00:00:00").toLocaleDateString("es-ES", { day: "numeric", month: "long", year: "numeric" });
+}
+
 export default async function FichaPage({
   params,
 }: {
@@ -57,8 +63,8 @@ export default async function FichaPage({
   if (!program) notFound();
 
   const universityLabel = displayUniversity(program.university);
-  const campusPhoto = CAMPUS_BY_UNIVERSITY[universityLabel];
-  const universityProfile = UNIVERSITIES.find((u) => u.displayName === universityLabel);
+  const universityProfile = getUniversityByDisplayName(universityLabel);
+  const photo = photoForProgram(universityProfile?.slug, area.slug, program.programSlug);
 
   const facts: [string, string][] = [
     ["Universidad", universityLabel],
@@ -67,12 +73,13 @@ export default async function FichaPage({
   ];
   if (program.ectsTotal) facts.push(["ECTS", String(program.ectsTotal)]);
   if (program.duration) facts.push(["Duración", program.duration]);
-  if (program.startDate) facts.push(["Próximo inicio", program.startDate]);
+  if (program.startDate) facts.push(["Próximo inicio", formatStartDate(program.startDate)]);
 
+  const pendingAware = (value: string) => (/pendiente/i.test(value) ? "A confirmar" : value);
   const statStrip: { value: string; label: string }[] = [{ value: program.level, label: "nivel" }];
-  if (program.ectsTotal) statStrip.push({ value: String(program.ectsTotal), label: "créditos ECTS" });
-  statStrip.push({ value: getModalityTags(program.modality)[0] ?? program.modality, label: "modalidad" });
-  statStrip.push({ value: universityProfile?.shortName ?? "—", label: "universidad" });
+  if (program.ectsTotal) statStrip.push({ value: pendingAware(String(program.ectsTotal)), label: "créditos ECTS" });
+  statStrip.push({ value: pendingAware(getModalityTags(program.modality)[0] ?? program.modality), label: "modalidad" });
+  statStrip.push({ value: universityProfile?.shortName ?? "A confirmar", label: "universidad" });
 
   const related = getRelatedPrograms(program);
   const tocItems = getTocItems(program.bodyMarkdown);
@@ -143,27 +150,20 @@ export default async function FichaPage({
           </p>
         )}
 
-        <div className="relative mt-5.5 md:mt-11 overflow-hidden" style={{ height: "clamp(220px,38vh,440px)", filter: "grayscale(1) contrast(1.06)" }}>
-          {campusPhoto ? (
-            <Image
-              src={campusPhoto}
-              alt={`Ambiente de campus universitario — ${universityLabel}`}
-              fill
-              unoptimized
-              sizes="100vw"
-              style={{ objectFit: "cover" }}
-            />
-          ) : (
-            <PlaceholderImage label={`${universityLabel} — imagen pendiente`} className="w-full h-full" />
-          )}
-        </div>
-
         <div
-          className="grid gap-px bg-hair border-y border-hair mt-5.5 md:mt-9"
-          style={{ gridTemplateColumns: "repeat(auto-fit, minmax(140px,1fr))" }}
+          className={`grid grid-cols-2 gap-px bg-hair border-y border-hair mt-6 md:mt-11 ${
+            statStrip.length === 3 ? "md:grid-cols-3" : "md:grid-cols-4"
+          }`}
         >
-          {statStrip.map((s) => (
-            <div key={s.label} className="bg-off-white py-4 px-4 first:pl-0 min-w-0">
+          {statStrip.map((s, i) => (
+            // Flush with the page gutter wherever a cell starts a row (2 columns on
+            // mobile, one row from md); an odd last cell spans the mobile row.
+            <div
+              key={s.label}
+              className={`bg-off-white py-4 pr-4 min-w-0 ${i % 2 === 0 ? "pl-0" : "pl-4"} ${i === 2 ? "md:pl-4" : ""} ${
+                statStrip.length % 2 === 1 && i === statStrip.length - 1 ? "col-span-2 md:col-span-1" : ""
+              }`}
+            >
               <div
                 className="font-display font-black text-red-signal uppercase truncate"
                 style={{ fontSize: "clamp(17px,2.1vw,28px)", letterSpacing: "-.02em" }}
@@ -175,9 +175,21 @@ export default async function FichaPage({
             </div>
           ))}
         </div>
+
+        {photo && (
+          <figure className="m-0 mt-6 md:mt-11">
+            <div className="relative overflow-hidden bg-ink w-full aspect-[4/3] md:aspect-[21/9]" style={{ maxHeight: "min(70vh,640px)" }}>
+              <Photo photo={photo} sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)" />
+            </div>
+            <figcaption className="flex flex-wrap justify-between gap-x-4 gap-y-1 font-mono text-[10px] tracking-[.12em] uppercase text-ink-soft mt-2.5">
+              <span>{photo.alt}</span>
+              <span>{photo.credit}</span>
+            </figcaption>
+          </figure>
+        )}
       </section>
 
-      <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px] grid gap-6 sm:gap-9 md:gap-[72px]" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(280px,1fr))" }}>
+      <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px] grid gap-9 md:gap-[72px] md:grid-cols-[minmax(0,1fr)_minmax(280px,340px)] lg:grid-cols-[minmax(0,1fr)_380px]">
         <MarkdownSections bodyMarkdown={program.bodyMarkdown} />
 
         <aside className="flex flex-col gap-3.5 md:sticky md:top-24 self-start">

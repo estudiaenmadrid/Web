@@ -22,8 +22,7 @@ fuente: "WebSearch — snippet de estudiaenmadrid.com en /programas/administraci
 El **Grado en Administración de Empresas** de la **Universidad Alfonso X
 el Sabio (UAX)** forma líderes empresariales capaces de tomar decisiones
 estratégicas y gestionar organizaciones con éxito en entornos globales.
-Según el propio contenido indexado del sitio de Estudia en Madrid, el
-programa combina **teoría, práctica y visión internacional** para ofrecer
+El programa combina **teoría, práctica y visión internacional** para ofrecer
 una formación integral en gestión, finanzas, marketing, dirección de
 personas e innovación.
 
@@ -54,8 +53,7 @@ un enfoque internacional desde el primer curso**.
 
 ## Plan de estudios / contenidos principales
 
-Según el contenido indexado y fuentes de la UAX, el programa cubre de
-forma integral:
+El programa cubre de forma integral:
 
 - **Gestión y dirección** de organizaciones.
 - **Finanzas.**
@@ -66,9 +64,9 @@ forma integral:
   materias complementarias de derecho y matemáticas.
 
 Incluye **prácticas garantizadas** en empresas e instituciones con las que
-la UAX mantiene convenios de colaboración. No se encontró en las búsquedas
-un desglose curso a curso de asignaturas; el plan de estudios oficial fue
-modificado según BOE-A-2023-10040.
+la UAX mantiene convenios de colaboración. El plan de estudios oficial
+(actualizado en el BOE-A-2023-10040) te lo enviamos completo, curso por
+curso, junto con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 

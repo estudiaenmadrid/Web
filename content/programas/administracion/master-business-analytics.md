@@ -27,7 +27,8 @@ estratégico y una aplicación práctica orientada al mundo empresarial real.
 
 Se cursa en **Madrid**, con **60 ECTS** repartidos en **un curso
 académico**, y admite tanto modalidad **presencial** como **online**, en
-español e inglés según la fuente consultada.
+español e inglés (te confirmamos qué combinación de modalidad e idioma
+abre en cada convocatoria).
 
 ## Para quién es
 
@@ -70,8 +71,7 @@ El programa se estructura en dos semestres de 30 ECTS cada uno:
 - Prácticas profesionales
 - Trabajo Fin de Máster
 
-El contenido indexado de estudiaenmadrid.com para este programa coincide
-con lo anterior: fundamentos de analítica y Big Data aplicados al entorno
+En la práctica, el programa trabaja fundamentos de analítica y Big Data aplicados al entorno
 empresarial, herramientas de business intelligence (Power BI, Tableau,
 SQL, Python), modelos predictivos y machine learning.
 

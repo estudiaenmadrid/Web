@@ -27,7 +27,7 @@ oficial, reconocido en el Espacio Europeo de Educación Superior, que se
 cursa en modalidad **100% online**, con **9 meses de duración y 60 ECTS**,
 inicio en octubre.
 
-Según la propia universidad, la experiencia es 100% online, con clases en
+La experiencia es 100% online, con clases en
 directo o grabadas y plataforma disponible 24/7; en cada convocatoria, el
 alumno puede optar por rendir los exámenes online desde su casa o de forma
 presencial en las sedes habilitadas por la UAX.
@@ -118,9 +118,15 @@ Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una mat
 > estudiante y la gestión de la matrícula.
 
 ---
-*Nota interna (no publicar) — IMPORTANTE, leer junto con
-`master-psicopedagogia-presencial.md`: el catálogo original del sitio
-lista "Máster en Psicopedagogía" en dos fichas separadas — una marcada como
+*Nota interna (no publicar) — ACTUALIZACIÓN 20/10/2026: el cliente pidió
+eliminar la ficha presencial (`master-psicopedagogia-presencial.md`, ya
+borrada, con 301 a esta ficha en `.htaccess`): para cursar el máster en
+modalidad presencial hace falta tener el título ya homologado en España, lo
+que lo vuelve muy complicado de matricular para estudiantes
+latinoamericanos. Esta ficha online es la única versión del catálogo.
+
+Contexto histórico: el catálogo original del sitio
+listaba "Máster en Psicopedagogía" en dos fichas separadas — una marcada como
 presencial y otra como online. Con las búsquedas realizadas en esta sesión
 (WebSearch, sin acceso a la web completa de la UAX), **no se encontró
 ninguna evidencia de que la UAX ofrezca una versión presencial de este

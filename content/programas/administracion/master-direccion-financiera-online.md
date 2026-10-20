@@ -58,7 +58,7 @@ segundo semestre.
 
 ## Plan de estudios / contenidos principales
 
-Según la fuente oficial de la universidad, el programa se orienta a
+El programa se orienta a
 formar profesionales para liderar la innovación financiera, con un
 enfoque estratégico, global e innovador que integra:
 
@@ -69,8 +69,8 @@ enfoque estratégico, global e innovador que integra:
 - Finanzas sostenibles.
 - Prácticas académicas externas (6 ECTS / 150 h) en el segundo semestre.
 
-No se localizó en las búsquedas un desglose completo de módulos y
-asignaturas con su carga de ECTS individual.
+El desglose completo de módulos y asignaturas, con los ECTS de cada una,
+te lo enviamos junto con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 

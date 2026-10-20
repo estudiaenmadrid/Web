@@ -1,15 +1,26 @@
 import Link from "next/link";
-import Image from "next/image";
 import type { Metadata } from "next";
-import { getAllPrograms, getPartnerUniversities, getProgram } from "@/lib/content";
+import {
+  countProgramsForUniversity,
+  displayUniversity,
+  getAllPrograms,
+  getModalityTags,
+  getPartnerUniversities,
+  getProgram,
+  type Program,
+} from "@/lib/content";
 import { getTestimonials } from "@/lib/testimonials";
 import { AREAS } from "@/data/areas";
-import { HERO_STUDENTS, MADRID_SKYLINE } from "@/lib/photos";
+import { PROCESS_STEPS } from "@/data/process";
+import { getUniversityByDisplayName } from "@/data/universities";
+import { PLACEHOLDER_SLOT_IMAGES, photoForProgram, photoForSlot } from "@/lib/photos";
+import Photo from "@/components/shared/Photo";
+import TypePlate from "@/components/shared/TypePlate";
 import Reveal from "@/components/Reveal";
 import Stat from "@/components/Stat";
 import Ticket from "@/components/Ticket";
 import SplitHeadline from "@/components/SplitHeadline";
-import FeaturedPrograms from "@/components/home/FeaturedPrograms";
+import FeaturedPrograms, { type FeaturedItem } from "@/components/home/FeaturedPrograms";
 import WaveLine from "@/components/home/WaveLine";
 import { pageMetadata } from "@/lib/seo";
 
@@ -26,37 +37,29 @@ const FEATURED_SLUGS: [string, string][] = [
   ["ingenieria", "grado-inteligencia-artificial"],
 ];
 
-const PROCESS_STEPS = [
-  {
-    num: "01",
-    title: "Orientación",
-    body: "Analizamos tu expediente y te decimos con honestidad qué opciones tienes.",
-    h: "clamp(200px,26vh,260px)",
-    href: "/programas",
-  },
-  {
-    num: "02",
-    title: "Postulación",
-    body: "Preparamos documentos, apostillas y solicitud de reconocimiento de créditos.",
-    h: "clamp(240px,32vh,320px)",
-    href: "/guias/homologacion-vs-convalidacion-titulo",
-  },
-  {
-    num: "03",
-    title: "Visado y becas",
-    body: "Cita consular, seguro médico, solvencia y las becas a las que sí calificas.",
-    h: "clamp(280px,38vh,380px)",
-    href: "/guias/visado-estudiante-espana-latinoamericanos",
-  },
-  {
-    num: "04",
-    title: "Llegada a Madrid",
-    body: "Alojamiento, TIE, empadronamiento y una red de estudiantes que ya pasó por esto.",
-    h: "clamp(320px,44vh,440px)",
-    red: true,
-    href: "/guias/vivir-en-madrid-estudiante-latinoamericano",
-  },
-];
+// Step heights rise left to right — the "cuesta arriba" staircase.
+const STEP_HEIGHTS = ["clamp(200px,26vh,260px)", "clamp(240px,32vh,320px)", "clamp(280px,38vh,380px)", "clamp(320px,44vh,440px)"];
+
+// Each stat sits flush with the page gutter when it starts a grid row —
+// which cell that is changes with the column count (1 / 2 / 4).
+const STAT_CELL = ["py-5 pr-5 pl-0", "py-5 pr-5 pl-0 sm:pl-5", "py-5 pr-5 pl-0 lg:pl-5", "py-5 pr-5 pl-0 sm:pl-5"];
+
+/** Sticky-panel preview for a featured program: an official photo of its university when there is one, else a typographic plate — never a stand-in picture of a campus. */
+function FeaturedPreview({ program }: { program: Program }) {
+  const universityLabel = displayUniversity(program.university);
+  const profile = getUniversityByDisplayName(universityLabel);
+  const photo = photoForProgram(profile?.slug, program.categorySlug, program.programSlug);
+  if (photo) return <Photo photo={photo} sizes="(min-width: 768px) 38vw, 100vw" />;
+  return (
+    <TypePlate
+      className="absolute inset-0"
+      word={profile?.monogram ?? "EEM"}
+      label={`${program.title} — ${universityLabel}`}
+      topLeft={[program.level, ...getModalityTags(program.modality)].join(" · ")}
+      bottom={universityLabel}
+    />
+  );
+}
 
 export default function Home() {
   const featured = FEATURED_SLUGS.map(([cat, slug]) => getProgram(cat as never, slug)).filter(
@@ -65,6 +68,15 @@ export default function Home() {
   const universities = getPartnerUniversities();
   const testimonials = getTestimonials().slice(0, 2);
   const totalPrograms = getAllPrograms().length;
+  const heroPhoto = photoForSlot("home-hero");
+  const closingPhoto = photoForSlot("home-cierre");
+  const featuredItems: FeaturedItem[] = featured.map((p) => ({
+    href: `/programas/${p.categorySlug}/${p.programSlug}`,
+    title: p.title,
+    universityLabel: displayUniversity(p.university),
+    level: p.level,
+    preview: <FeaturedPreview program={p} />,
+  }));
 
   return (
     <>
@@ -90,11 +102,15 @@ export default function Home() {
           sin empezar de cero, y sin pelear sola con el papeleo
         </p>
 
-        <div className="grid gap-px bg-hair border-y border-hair mt-7 sm:mt-9 md:mt-16" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(240px,1fr))" }}>
-          <Stat value="8" label="años acompañando estudiantes" className="bg-off-white py-5 pr-5 pl-0" />
-          <Stat value="500+" label="estudiantes ya matriculados" className="bg-off-white p-5" />
-          <Stat value={String(universities.length).padStart(2, "0")} label="universidades con convenio directo" className="bg-off-white p-5" />
-          <div className="bg-off-white p-5 flex items-center">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-hair border-y border-hair mt-7 sm:mt-9 md:mt-16">
+          <Stat value="8" label="años acompañando estudiantes" className={`bg-off-white ${STAT_CELL[0]}`} />
+          <Stat value="500+" label="estudiantes ya matriculados" className={`bg-off-white ${STAT_CELL[1]}`} />
+          <Stat
+            value={String(universities.length).padStart(2, "0")}
+            label="universidades con convenio directo"
+            className={`bg-off-white ${STAT_CELL[2]}`}
+          />
+          <div className={`bg-off-white flex items-center ${STAT_CELL[3]}`}>
             <a
               href="https://wa.me/34677055769"
               target="_blank"
@@ -106,16 +122,19 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="relative mt-6 md:mt-10 overflow-hidden" style={{ height: "clamp(300px,52vh,620px)", filter: "grayscale(1) contrast(1.06)" }}>
-          <Image
-            src={HERO_STUDENTS}
-            alt="Estudiante caminando por un campus universitario en Madrid"
-            fill
-            priority
-            unoptimized
-            sizes="100vw"
-            style={{ objectFit: "cover" }}
-          />
+        <div
+          className="relative mt-6 md:mt-10 overflow-hidden bg-ink w-full aspect-[4/5] sm:aspect-[16/9] lg:aspect-[21/9]"
+          style={{ maxHeight: "min(80vh,780px)" }}
+        >
+          {heroPhoto ? (
+            <Photo photo={heroPhoto} priority sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)" />
+          ) : (
+            <Photo
+              placeholder={PLACEHOLDER_SLOT_IMAGES["home-hero"]}
+              priority
+              sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)"
+            />
+          )}
         </div>
       </section>
 
@@ -132,7 +151,7 @@ export default function Home() {
             VER LAS {AREAS.length} ÁREAS ↗
           </Link>
         </div>
-        <FeaturedPrograms programs={featured} />
+        <FeaturedPrograms items={featuredItems} />
       </section>
 
       {/* Proceso */}
@@ -163,29 +182,32 @@ export default function Home() {
           className="grid gap-3.5 sm:gap-5 md:gap-6 items-end mt-8 sm:mt-12 md:mt-[86px] relative"
           style={{ gridTemplateColumns: "repeat(auto-fit, minmax(210px,1fr))" }}
         >
-          {PROCESS_STEPS.map((step) => (
+          {PROCESS_STEPS.map((step, i) => {
+            const red = i === PROCESS_STEPS.length - 1;
+            return (
             <Reveal key={step.num}>
               <Link
                 href={step.href}
                 className={`relative border p-5.5 flex flex-col justify-between hover:opacity-90 ${
-                  step.red ? "bg-red-signal text-white border-white/18" : "bg-ink border-white/18"
+                  red ? "bg-red-signal text-white border-white/18" : "bg-ink border-white/18"
                 }`}
-                style={{ height: step.h }}
+                style={{ height: STEP_HEIGHTS[i] }}
               >
-                <span className="font-mono text-[11px] tracking-[.16em] text-red-signal" style={step.red ? { color: "#fff" } : undefined}>
+                <span className="font-mono text-[11px] tracking-[.16em] text-red-signal" style={red ? { color: "#fff" } : undefined}>
                   {step.num}
                 </span>
                 <div>
                   <h3 className="font-display font-extrabold m-0 mb-2" style={{ fontSize: "clamp(19px,2vw,26px)", letterSpacing: "-.02em" }}>
                     {step.title}
                   </h3>
-                  <p className="m-0 text-[14px] leading-[1.5]" style={{ color: step.red ? "rgba(255,255,255,.85)" : "rgba(248,244,235,.7)" }}>
+                  <p className="m-0 text-[14px] leading-[1.5]" style={{ color: red ? "rgba(255,255,255,.85)" : "rgba(248,244,235,.7)" }}>
                     {step.body}
                   </p>
                 </div>
               </Link>
             </Reveal>
-          ))}
+            );
+          })}
         </div>
 
         <WaveLine />
@@ -248,14 +270,32 @@ export default function Home() {
             {String(universities.length).padStart(2, "0")} UNIVERSIDAD{universities.length === 1 ? "" : "ES"}
           </span>
         </div>
-        <div className="grid gap-px bg-hair" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(160px,1fr))" }}>
-          {universities.map((u) => (
-            <Reveal key={u} className="bg-off-white px-4.5 py-6.5 grid place-items-center">
-              <div className="w-full h-16 flex items-center justify-center">
-                <span className="font-display font-extrabold text-[15px] uppercase text-ink-soft text-center">{u}</span>
-              </div>
-            </Reveal>
-          ))}
+        <div className="grid gap-px bg-hair" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(220px,1fr))" }}>
+          {universities.map((u) => {
+            const profile = getUniversityByDisplayName(u);
+            const count = countProgramsForUniversity(u);
+            const inner = (
+              <>
+                <span className="font-display font-extrabold text-[15px] uppercase text-center">{u}</span>
+                <span className="font-mono text-[10px] tracking-[.14em] text-red-signal">
+                  {count} PROGRAMA{count === 1 ? "" : "S"}
+                  {profile ? " ↗" : ""}
+                </span>
+              </>
+            );
+            const cellClass = "h-full min-h-[116px] px-4.5 py-6.5 flex flex-col items-center justify-center gap-2";
+            return (
+              <Reveal key={u} className="bg-off-white">
+                {profile ? (
+                  <Link href={`/universidades/${profile.slug}`} className={`${cellClass} text-ink-soft hover:text-ink hover:bg-white`}>
+                    {inner}
+                  </Link>
+                ) : (
+                  <div className={`${cellClass} text-ink-soft`}>{inner}</div>
+                )}
+              </Reveal>
+            );
+          })}
         </div>
       </section>
 
@@ -264,9 +304,13 @@ export default function Home() {
         <div
           aria-hidden="true"
           className="absolute inset-0"
-          style={{ filter: "grayscale(1) blur(9px) contrast(1.1)", opacity: 0.5 }}
+          style={{ filter: "blur(9px) contrast(1.1)", opacity: 0.5 }}
         >
-          <Image src={MADRID_SKYLINE} alt="" fill unoptimized sizes="100vw" style={{ objectFit: "cover" }} />
+          {closingPhoto ? (
+            <Photo photo={{ ...closingPhoto, alt: "" }} sizes="100vw" />
+          ) : (
+            <Photo placeholder={PLACEHOLDER_SLOT_IMAGES["home-cierre"]} sizes="100vw" />
+          )}
         </div>
         <div
           aria-hidden="true"

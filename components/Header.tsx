@@ -67,7 +67,7 @@ export default function Header({ searchIndex }: { searchIndex: SearchEntry[] }) 
           />
         </Link>
 
-        <nav className="hidden md:flex items-stretch flex-1">
+        <nav className="hidden lg:flex items-stretch flex-1">
           {NAV_LINKS.map((link) => {
             const isPrograms = link.href === "/programas";
             return (
@@ -77,7 +77,7 @@ export default function Header({ searchIndex }: { searchIndex: SearchEntry[] }) 
                 onMouseMove={onMouseMove}
                 onMouseEnter={isPrograms ? openSubmenu : undefined}
                 onMouseLeave={isPrograms ? scheduleClose : undefined}
-                className="relative overflow-hidden flex items-center gap-2 px-[22px] border-r border-hair text-[13px] font-medium tracking-[.06em] uppercase text-ink"
+                className="relative overflow-hidden flex items-center gap-2 px-4 xl:px-[22px] border-r border-hair text-[13px] font-medium tracking-[.06em] uppercase text-ink"
               >
                 {link.label}
                 {link.hint && <span className="font-mono text-[10px] text-red-signal">{link.hint}</span>}
@@ -93,14 +93,14 @@ export default function Header({ searchIndex }: { searchIndex: SearchEntry[] }) 
           target="_blank"
           rel="noopener"
           data-no-transition
-          className="hidden md:flex items-center gap-3 px-6 bg-red-signal text-white font-display font-extrabold text-[13px] tracking-[.04em] uppercase transition-colors hover:bg-red-dark"
+          className="hidden lg:flex items-center gap-3 px-5 xl:px-6 whitespace-nowrap bg-red-signal text-white font-display font-extrabold text-[13px] tracking-[.04em] uppercase transition-colors hover:bg-red-dark"
         >
           Habla con un asesor <span className="text-[16px] leading-none">↗</span>
         </a>
 
         <button
           type="button"
-          className="md:hidden ml-auto px-5 flex items-center gap-2 font-display font-extrabold text-[12px] uppercase tracking-[.08em]"
+          className="lg:hidden ml-auto px-5 flex items-center gap-2 font-display font-extrabold text-[12px] uppercase tracking-[.08em]"
           onClick={() => setMobileOpen((v) => !v)}
           aria-expanded={mobileOpen}
           aria-label="Abrir menú"
@@ -113,7 +113,7 @@ export default function Header({ searchIndex }: { searchIndex: SearchEntry[] }) 
         <div
           onMouseEnter={openSubmenu}
           onMouseLeave={scheduleClose}
-          className="hidden md:block border-t border-hair bg-off-white"
+          className="hidden lg:block border-t border-hair bg-off-white"
         >
           <Link
             href="/programas"
@@ -147,7 +147,7 @@ export default function Header({ searchIndex }: { searchIndex: SearchEntry[] }) 
       )}
 
       {mobileOpen && (
-        <div className="md:hidden border-t border-hair bg-off-white">
+        <div className="lg:hidden border-t border-hair bg-off-white">
           <nav className="flex flex-col">
             {NAV_LINKS.map((link) => (
               <Link

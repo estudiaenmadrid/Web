@@ -3,6 +3,13 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 
+const FOOTER_LINKS = [
+  { href: "/programas", label: "PROGRAMAS" },
+  { href: "/universidades", label: "UNIVERSIDADES" },
+  { href: "/guias", label: "GUÍAS" },
+  { href: "/nosotros", label: "NOSOTROS" },
+];
+
 export default function Footer() {
   const [time, setTime] = useState("");
 
@@ -65,18 +72,19 @@ export default function Footer() {
           <span style={{ fontSize: "clamp(22px,3vw,44px)", lineHeight: 1 }}>↗</span>
         </a>
 
-        <div className="flex flex-col gap-2.5 font-mono text-[12px] tracking-[.08em] text-right">
+        <div className="flex flex-col gap-2.5 font-mono text-[12px] tracking-[.08em] items-start sm:items-end text-left sm:text-right">
           <span className="opacity-75">HORA EN MADRID</span>
           <span style={{ fontSize: "clamp(18px,2vw,28px)" }}>{time || "—"}</span>
-          <Link href="/guias" className="text-white opacity-85">
-            GUÍAS
-          </Link>
-          <Link href="/nosotros" className="text-white opacity-85">
-            NOSOTROS
-          </Link>
-          <a href="https://wa.me/34677055769" target="_blank" rel="noopener" className="text-white opacity-85">
-            WHATSAPP
-          </a>
+          <nav aria-label="Pie de página" className="flex flex-col gap-2.5 items-start sm:items-end mt-1">
+            {FOOTER_LINKS.map((l) => (
+              <Link key={l.href} href={l.href} className="text-white opacity-85 hover:opacity-100">
+                {l.label}
+              </Link>
+            ))}
+            <a href="https://wa.me/34677055769" target="_blank" rel="noopener" className="text-white opacity-85 hover:opacity-100">
+              WHATSAPP
+            </a>
+          </nav>
         </div>
       </div>
 

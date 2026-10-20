@@ -8,6 +8,8 @@ export interface UniversityProfile {
   /** Must match normalizeUniversityName()'s output exactly — used to join against the program catalog. */
   displayName: string;
   shortName: string;
+  /** Display word for the typographic photo stand-in (components/shared/TypePlate.tsx). */
+  monogram: string;
   founded: string;
   foundedNote: string;
   campuses: { name: string; note: string }[];
@@ -22,6 +24,7 @@ export const UNIVERSITIES: UniversityProfile[] = [
     slug: "uax",
     displayName: "Universidad Alfonso X el Sabio (UAX)",
     shortName: "UAX",
+    monogram: "UAX",
     founded: "1994",
     foundedNote: "aprobada por la Ley 9/1993 del Congreso de los Diputados",
     campuses: [
@@ -34,7 +37,7 @@ export const UNIVERSITIES: UniversityProfile[] = [
     accreditation:
       "Calificación QS Stars de 5 estrellas, con distintivo \"Excellent\" en Empleabilidad, Enseñanza, Desarrollo Académico, Instalaciones, Enseñanza Online y Buen Gobierno. Reconocida como la segunda universidad más innovadora de España — la única privada entre las tres primeras del ranking.",
     about: [
-      "La UAX se define a sí misma como \"la Universidad de la Empresa\": nació en 1994 como un proyecto orientado explícitamente a la inserción laboral de sus egresados, y ese enfoque práctico sigue marcando su identidad más de tres décadas después.",
+      "\"La Universidad de la Empresa\": así nació la UAX en 1994, como un proyecto orientado explícitamente a la inserción laboral de sus egresados, y ese enfoque práctico sigue marcando su identidad más de tres décadas después.",
       "Es, con diferencia, la universidad con más oferta dentro de nuestro catálogo: cubre Ingeniería, Salud, Administración y Educación, con un campus propio de más de un millón de metros cuadrados que incluye desde un túnel de viento para Ingeniería Aeroespacial hasta un hospital de simulación para las carreras de Salud.",
     ],
     whyEEM:
@@ -45,6 +48,7 @@ export const UNIVERSITIES: UniversityProfile[] = [
     slug: "nebrija",
     displayName: "Universidad Nebrija",
     shortName: "Nebrija",
+    monogram: "Nebrija",
     founded: "1995",
     foundedNote: "reconocida oficialmente como universidad privada; su origen como Centro de Estudios Hispánicos data de 1985",
     campuses: [
@@ -55,16 +59,17 @@ export const UNIVERSITIES: UniversityProfile[] = [
       "Acreditada oficialmente por el Ministerio de Educación y por la agencia de evaluación de la calidad ANECA. Más de 30 años de trayectoria en docencia, empleabilidad, investigación e internacionalización.",
     about: [
       "Su nombre rinde homenaje a Elio Antonio de Nebrija, autor de la primera gramática castellana (1492) — un guiño a su fuerte tradición en Humanidades e idiomas, aunque hoy su oferta va mucho más allá de eso.",
-      "Dentro de nuestro catálogo, Nebrija concentra la mayor parte del área de Derecho (grado, dobles grados y la mayoría de sus másteres) y aporta el Máster en Business Analytics dentro de Administración.",
+      "Dentro de nuestro catálogo, Nebrija concentra la mayor parte del área de Derecho (el grado, el doble grado con ADE y la mayoría de los másteres) y aporta el Máster en Business Analytics dentro de Administración.",
     ],
     whyEEM:
-      "La recomendamos sobre todo a estudiantes de Derecho: es la universidad con la que tenemos convenio más específico para esa área, con programas que van desde el grado hasta másteres de especialización como Criminalística.",
+      "La recomendamos sobre todo a estudiantes de Derecho: es la universidad con la que tenemos convenio más específico para esa área, con programas que van desde el grado hasta másteres de especialización como Ciberseguridad o Derecho Internacional Humanitario.",
     officialUrl: "https://www.nebrija.com",
   },
   {
     slug: "ceu-san-pablo",
     displayName: "Universidad CEU San Pablo",
     shortName: "CEU San Pablo",
+    monogram: "CEU",
     founded: "1993",
     foundedNote: "aprobada por ley del 20 de abril de 1993 e inaugurada oficialmente en febrero de 1994",
     campuses: [

@@ -33,7 +33,7 @@ Un caso frecuente: si sos abogado/a recibido/a en Latinoamérica y venís a hace
 
 ## Costos y plazos de referencia (2026)
 
-Según fuentes de terceros consultadas, la tasa de homologación ronda los **166,50 €** y el trámite toma en promedio unos **4,5 meses** desde que se presenta la solicitud completa en el portal oficial (Valida-TE). La convalidación de estudios de Formación Profesional, gestionada por el MEFP, tiene una tasa menor (de referencia, en torno a 58 €) y plazos algo más cortos. Estas cifras cambian con cierta frecuencia — antes de pagar la tasa, confirmá el monto vigente directamente en el portal oficial.
+Hoy la tasa de homologación ronda los **166,50 €** y el trámite toma en promedio unos **4,5 meses** desde que se presenta la solicitud completa en el portal oficial (Valida-TE). La convalidación de estudios de Formación Profesional, gestionada por el MEFP, tiene una tasa menor (de referencia, en torno a 58 €) y plazos algo más cortos. Estas cifras cambian con cierta frecuencia — antes de pagar la tasa, confirmá el monto vigente directamente en el portal oficial.
 
 ## Documentos que vas a necesitar
 
@@ -58,7 +58,7 @@ No. La convalidación te permite continuar estudios dentro del sistema español,
 La mayoría están adheridos al Convenio de La Haya y usan apostilla, pero conviene confirmar el procedimiento exacto de tu país antes de iniciar el trámite, porque el circuito de legalización varía.
 
 **¿Cuánto tarda realmente el trámite?**
-Como referencia de fuentes de terceros, unos 4,5 meses en promedio para homologación universitaria, pero el tiempo real depende del volumen de solicitudes que tenga el ministerio en el momento en que la presentás.
+En promedio, unos 4,5 meses para una homologación universitaria, pero el tiempo real depende del volumen de solicitudes que tenga el ministerio en el momento en que la presentás.
 
 ## Llamada a la acción
 

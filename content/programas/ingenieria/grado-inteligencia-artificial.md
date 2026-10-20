@@ -41,7 +41,7 @@ disruptivo, storytelling y liderazgo.
 | **Modalidad** | Presencial (centro de Madrid) u Online |
 | **Idioma** | Español, con modelo bilingüe progresivo desde ~30% en inglés |
 | **Inicio** | Septiembre |
-| **Profesorado** | Más del 70% combina docencia con actividad profesional (empresas como Accenture, Avanade o CaixaBank, según la UAX) |
+| **Profesorado** | Más del 70% combina docencia con actividad profesional (empresas como Accenture, Avanade o CaixaBank) |
 
 ## Plan de estudios / contenidos principales
 
@@ -53,14 +53,14 @@ disruptivo, storytelling y liderazgo.
 - **Formación estratégica para negocio digital:** UX Design, Social Media
   Marketing, Business & Product Innovation.
 - **Certificación profesional incluida:** el programa incorpora la
-  certificación "Google Data Analytics", según describe la propia
-  universidad.
+  certificación "Google Data Analytics".
 
-No se encontró en las búsquedas el desglose curso por curso completo.
+El desglose completo, curso por curso, te lo enviamos con la ficha oficial
+de la universidad.
 
 ## Salidas profesionales
 
-Según la propia UAX, los perfiles profesionales más demandados incluyen:
+Los perfiles profesionales más demandados incluyen:
 
 - Data & AI Manager.
 - Deep Learning Developer.

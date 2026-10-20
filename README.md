@@ -17,6 +17,7 @@ Abre [http://localhost:3000](http://localhost:3000).
 npm run build   # build de producción
 npm run start   # sirve el build de producción
 npm run lint    # eslint
+npm run fotos   # procesa las fotos oficiales (ver content/fotos/README.md)
 ```
 
 ## Estructura
@@ -33,6 +34,8 @@ npm run lint    # eslint
   trae al final (se recorta automáticamente).
 - `lib/testimonials.ts` — parsea los testimonios curados de
   `content/testimonios.md`.
+- `lib/photos.ts` + `scripts/fotos.mjs` — fotos oficiales en blanco y negro,
+  generadas desde `content/fotos/fotos.json` con `npm run fotos`.
 - `data/areas.ts` — las 5 áreas reales del catálogo (Derecho,
   Administración, Ingeniería, Salud, Educación — sin "Tecnología", que el
   cliente confirmó que no es parte de la oferta real).
@@ -48,12 +51,13 @@ marcador "A CONFIRMAR" o como placeholder, en vez de inventarse:
 - Años operando y número de estudiantes matriculados (stats del hero,
   "Quiénes somos").
 - País(es) de operación (sección "Quiénes somos").
-- Fotografía real aprobada por el cliente (hero, campus, equipo) — hoy son
-  bloques placeholder con etiqueta.
-- Logos oficiales de las universidades socias (hoy placeholders con
-  nombre).
-- Guías/artículos del blog — la sección `/guias` está lista (tabs,
-  filtros, grid) pero sin contenido publicado todavía.
+- Fotos oficiales de las universidades. El circuito ya está listo
+  (`npm run fotos`, ver `content/fotos/README.md`): mientras no haya fotos
+  cargadas, cada universidad se muestra con una placa tipográfica. El
+  inicio y /nosotros todavía usan imágenes provisorias generadas con IA
+  (`PLACEHOLDER_SLOT_IMAGES` en `lib/photos.ts`) hasta tener fotos reales
+  para esos lugares.
+- Logos oficiales de las universidades socias.
 
 El número de universidades con convenio (3: UAX, Nebrija, CEU San Pablo)
 y el conteo de programas por área/universidad se calculan en vivo desde

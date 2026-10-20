@@ -67,7 +67,7 @@ export default function Search({ index, variant = "nav" }: SearchProps) {
           type="button"
           onClick={() => setOpen(true)}
           aria-label="Buscar programas"
-          className="relative overflow-hidden hidden md:flex items-center gap-2 px-[18px] border-r border-hair text-ink hover:bg-white"
+          className="relative overflow-hidden hidden lg:flex items-center gap-2 px-[18px] border-r border-hair text-ink hover:bg-white"
         >
           <SearchIcon />
         </button>

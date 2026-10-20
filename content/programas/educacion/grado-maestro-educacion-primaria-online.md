@@ -88,10 +88,9 @@ curso directamente con la universidad.)*
 - Trámites específicos de acceso para estudiantes internacionales
   (convalidación/homologación de estudios previos).
 
-*(El requisito de la prueba de aptitud personal — PAP, exigida por la
-Comunidad de Madrid en algunas universidades para el Grado de Magisterio —
-no se pudo confirmar específicamente para la modalidad online de la UAX en
-esta sesión; queda pendiente de verificar.)*
+Algunas universidades de la Comunidad de Madrid exigen además una prueba
+de aptitud personal (PAP) para el Grado de Magisterio: te confirmamos si
+aplica a la modalidad online de la UAX antes de que inicies la admisión.
 
 ## Por qué elegir este programa
 

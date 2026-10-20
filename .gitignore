@@ -42,3 +42,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# official photo originals (5-15 MB each) — only the processed WebPs in
+# public/assets/fotos/ are committed, see scripts/fotos.mjs
+/fotos-originales/

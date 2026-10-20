@@ -42,7 +42,7 @@ reconocidos en el Espacio Europeo de Educación Superior.
 
 ## Plan de estudios / contenidos principales
 
-El modelo educativo, según describe la propia UAX, pone el foco en:
+El modelo educativo pone el foco en:
 
 - Tecnologías emergentes: Big Data, robótica, inteligencia artificial,
   industria conectada.
@@ -57,8 +57,8 @@ La universidad destaca acuerdos con empresas tecnológicas como **Google,
 IBM y Deloitte** dentro de la formación del programa, tanto para prácticas
 como para proyectos conjuntos durante los últimos cursos.
 
-No se encontró en las búsquedas el desglose curso por curso completo — para
-eso recomendamos remitir al estudiante a la ficha oficial de uax.com.
+El desglose completo, curso por curso, te lo enviamos con la ficha oficial
+de la universidad.
 
 ## Salidas profesionales
 

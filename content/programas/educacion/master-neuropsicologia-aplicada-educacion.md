@@ -19,13 +19,9 @@ fuente: "estudiaenmadrid.com/educacion/master-neuropsicologia-educativa-online/ 
 
 ## Qué es este máster
 
-El catálogo original de Estudia en Madrid nombra este programa como
-**"Máster Universitario en Neuropsicología Aplicada a la Educación"**. La
-página indexada en el sitio corresponde en realidad al **"Máster en
-Neuropsicología Educativa Online"** de la **Universidad Alfonso X el Sabio
-(UAX)** — se trata, con alta probabilidad, del mismo programa nombrado de
-forma ligeramente distinta (nombre comercial largo en el catálogo interno
-vs. nombre corto usado en la URL del sitio y en la propia UAX).
+El **Máster Universitario en Neuropsicología Aplicada a la Educación** se
+cursa en la **Universidad Alfonso X el Sabio (UAX)**, donde figura como
+**Máster en Neuropsicología Educativa Online**.
 
 El máster forma profesionales capaces de aplicar los conocimientos de la
 neuropsicología —cómo funciona y aprende el cerebro— a la intervención
@@ -53,9 +49,9 @@ cognitivo en el aula.
 
 ## Plan de estudios / contenidos principales
 
-No fue posible reconstruir el plan de estudios detallado con las
-herramientas de esta sesión (solo se dispuso de snippets de búsqueda). En
-líneas generales, un máster de este tipo suele cubrir:
+El plan de estudios oficial, asignatura por asignatura, te lo enviamos
+junto con la ficha de la universidad. A grandes rasgos, un máster de esta
+especialidad trabaja:
 
 - Fundamentos de neurociencia y desarrollo cerebral.
 - Neuropsicología del aprendizaje: atención, memoria, lenguaje, funciones

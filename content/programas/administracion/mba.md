@@ -53,7 +53,7 @@ negocios y transformación digital — con una duración de **9 meses**.
 
 ## Plan de estudios / contenidos principales
 
-Según fuentes de la propia universidad, el programa incluye materias como:
+El programa incluye materias como:
 
 - Análisis de datos y toma de decisiones
 - Dirección de marketing y ventas

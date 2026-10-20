@@ -27,12 +27,6 @@ Es un título oficial, reconocido en el Espacio Europeo de Educación
 Superior, que se cursa en modalidad **100% online**, con **9 meses de
 duración y 60 ECTS**.
 
-El snippet indexado en estudiaenmadrid.com para este programa coincide con
-el contenido esperado (no está afectado por el bug de "Energías
-Renovables" que sí afecta a otras páginas del sitio), por lo que se usó
-como fuente para esta ficha junto con información adicional de la propia
-UAX.
-
 ## Para quién es
 
 - Graduados en Educación (Infantil, Primaria, Pedagogía) que quieren

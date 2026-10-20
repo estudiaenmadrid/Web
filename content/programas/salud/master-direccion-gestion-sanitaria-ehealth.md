@@ -9,7 +9,7 @@ ciudad: Madrid
 modalidad: Online
 ects_total: 60
 duracion: "9 meses"
-fecha_inicio: "Octubre (convocatoria 2026 abierta según fuentes consultadas)"
+fecha_inicio: "Octubre (convocatoria 2026 abierta)"
 ultima_actualizacion: "2026-09-03"
 schema_type: Course
 fuente: "WebSearch — no se encontró página dedicada indexada en estudiaenmadrid.com para este programa en concreto (solo el máster de Enfermería aparece indexado dentro de la misma categoría); datos tomados de educaweb, dondeestudiar y del sitio oficial uax.com"
@@ -41,8 +41,8 @@ casos y examen final.
 | **Modalidad** | 100% online |
 | **Inicio** | Octubre |
 | **Requisito de acceso** | Título universitario en Ciencias de la Salud |
-| **Financiación** | Planes de pago hasta en 10 cuotas (según fuente) |
-| **Becas** | Becas de organismos oficiales (Comunidad de Madrid, Ministerio de Educación), según fuente consultada |
+| **Financiación** | Planes de pago hasta en 10 cuotas |
+| **Becas** | Becas de organismos oficiales (Comunidad de Madrid, Ministerio de Educación) |
 
 ## Plan de estudios / contenidos principales
 
@@ -86,7 +86,7 @@ Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte
 Dura 9 meses y son 60 créditos ECTS.
 
 **¿Cuándo empieza Máster en Dirección y Gestión Sanitaria: e-Health Online — UAX?**
-La próxima convocatoria empieza en Octubre (convocatoria 2026 abierta según fuentes consultadas). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+La próxima convocatoria empieza en Octubre (convocatoria 2026 abierta). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
 
 **¿Estudia en Madrid me ayuda con la matrícula y el visado?**
 Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.

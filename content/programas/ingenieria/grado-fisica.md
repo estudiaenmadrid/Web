@@ -26,8 +26,7 @@ cósmico y afrontar los retos tecnológicos de la industria actual.
 
 Es un título oficial de **4 años (240 ECTS)**, 100% presencial, con acceso
 a laboratorios equipados con tecnología de última generación y profesorado
-vinculado a proyectos de investigación y desarrollo científico, según
-describe la propia universidad.
+vinculado a proyectos de investigación y desarrollo científico.
 
 ## Datos generales
 
@@ -39,14 +38,13 @@ describe la propia universidad.
 | **Modalidad** | Presencial |
 | **Idioma** | Español |
 | **Inicio** | Septiembre |
-| **Empleabilidad** | 94% (dato publicado por la UAX) |
+| **Empleabilidad** | 94% |
 
 ## Plan de estudios / contenidos principales
 
 Formación rigurosa en física teórica y experimental, con un enfoque
 transversal que combina ciencia, tecnología, computación y datos. Entre las
-asignaturas más exigentes del plan de estudios, según fuentes consultadas,
-se encuentran:
+asignaturas más exigentes del plan de estudios se encuentran:
 
 - Mecánica Cuántica.
 - Termodinámica.
@@ -57,8 +55,8 @@ se encuentran:
 - Métodos Numéricos.
 
 El plan combina asignaturas obligatorias y optativas, con prácticas de
-laboratorio y proyectos de investigación. No se encontró en las búsquedas
-el desglose curso por curso completo.
+laboratorio y proyectos de investigación. El desglose completo, curso por
+curso, te lo enviamos con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 
@@ -70,8 +68,7 @@ el desglose curso por curso completo.
 - Especializaciones tecnológicas en robótica, mecatrónica, biotecnología,
   Big Data, ciberseguridad y desarrollo de aplicaciones móviles.
 - Perfiles demandados en sectores como energía, aeroespacial, salud y
-  finanzas, además de la industria tecnológica propiamente dicha, según
-  comunicación pública de la UAX.
+  finanzas, además de la industria tecnológica propiamente dicha.
 
 ## Requisitos de acceso
 
@@ -82,7 +79,7 @@ el desglose curso por curso completo.
 
 ## Por qué elegir este programa
 
-- 94% de empleabilidad, según datos publicados por la propia universidad.
+- 94% de empleabilidad.
 - Formación STEM con demanda creciente en toda Europa.
 - Laboratorios equipados con tecnología de última generación.
 - Salidas profesionales muy diversas: desde investigación pura hasta

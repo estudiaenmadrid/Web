@@ -57,7 +57,7 @@ Es una opción interesante para estudiantes latinoamericanos que quieren un más
 - Responsable de relaciones y negociación laboral.
 - Responsable de gestión del conocimiento.
 
-La modalidad presencial del programa incluye prácticas remuneradas en empresas como Línea Directa, Ferrovial, Pascual, Amazon, Banco Santander, BBVA, Accenture, Johnson & Johnson, Telefónica o Loewe — no se confirmó si la modalidad online tiene el mismo esquema de prácticas garantizadas.
+La modalidad presencial del programa incluye prácticas remuneradas en empresas como Línea Directa, Ferrovial, Pascual, Amazon, Banco Santander, BBVA, Accenture, Johnson & Johnson, Telefónica o Loewe — si te interesa la modalidad online, te confirmamos si incluye el mismo esquema de prácticas.
 
 ## Requisitos de acceso
 

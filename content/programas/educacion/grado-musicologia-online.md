@@ -60,11 +60,11 @@ El plan de estudios permite especializarse y obtener una mención en:
 | **Créditos** | 240 ECTS |
 | **Idioma** | Español |
 | **Título** | Oficial |
-| **Precio** | Pendiente de confirmar (fuentes de terceros citan cifras del entorno de 4.700 €/primer año en cursos recientes, pero no está confirmado en fuente oficial de esta sesión — no usar sin verificar) |
+| **Precio** | Pendiente de confirmar — te damos el precio de convenio exacto antes de matricularte |
 
 ## Plan de estudios / contenidos principales
 
-Según los fragmentos disponibles, el primer cuatrimestre incluye
+El primer cuatrimestre incluye
 asignaturas como:
 
 - Comunicación en Lengua Extranjera

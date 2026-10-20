@@ -5,10 +5,11 @@ import type { AreaSlug } from "@/data/areas";
 
 const PROGRAMS_DIR = path.join(process.cwd(), "content", "programas");
 
-// PROGRAMS-INDEX.md #6: client confirmed UDIT/U-tad are NOT partner
-// universities, but "Grado en Animación" still carries the stale UDIT
-// attribution in its frontmatter pending the client naming the real
-// university. Don't ship a disavowed partner name on the live site.
+// PROGRAMS-INDEX.md #6: "Grado en Animación" was written against UDIT's
+// degree. The client first said UDIT wasn't a partner, then (Oct 2026)
+// said it is — pending their confirmation and UDIT's program list, keep
+// UDIT off the live site (it would be a 4th partner the rest of the copy
+// doesn't know about). Delete this entry once confirmed.
 const UNCONFIRMED_UNIVERSITY_OVERRIDES: Record<string, string> = {
   "ingenieria/grado-animacion": "Pendiente de confirmar",
 };

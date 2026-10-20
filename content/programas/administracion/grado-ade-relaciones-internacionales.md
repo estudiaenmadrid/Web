@@ -76,8 +76,7 @@ El plan combina asignaturas de ambas titulaciones:
 
 El programa incorpora asignaturas de carácter digital ("3.0") y ofrece la
 posibilidad de realizar prácticas en instituciones internacionales de
-prestigio y estancias de hasta 3 años en universidades de todo el mundo,
-según la propia UAX.
+prestigio y estancias de hasta 3 años en universidades de todo el mundo.
 
 ## Salidas profesionales
 

@@ -1,13 +1,15 @@
 import Link from "next/link";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { UNIVERSITIES, getUniversityBySlug } from "@/data/universities";
-import { getAllPrograms, groupPrograms, normalizeUniversityName } from "@/lib/content";
-import { CAMPUS_BY_UNIVERSITY } from "@/lib/photos";
+import { AREAS } from "@/data/areas";
+import { getAllPrograms, getModalityTags, normalizeUniversityName } from "@/lib/content";
+import { photoForUniversity, photosForUniversity } from "@/lib/photos";
 import Reveal from "@/components/Reveal";
 import Breadcrumb from "@/components/Breadcrumb";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import Photo from "@/components/shared/Photo";
+import TypePlate from "@/components/shared/TypePlate";
 import RelatedGuides from "@/components/shared/RelatedGuides";
 import { pageMetadata } from "@/lib/seo";
 
@@ -31,14 +33,31 @@ export async function generateMetadata({
   });
 }
 
+function Kicker({ children }: { children: React.ReactNode }) {
+  return <div className="font-mono text-[11px] tracking-[.16em] text-red-signal mb-3">{children}</div>;
+}
+
 export default async function UniversityPage({ params }: { params: Promise<{ universidad: string }> }) {
   const { universidad } = await params;
   const profile = getUniversityBySlug(universidad);
   if (!profile) notFound();
 
   const programs = getAllPrograms().filter((p) => normalizeUniversityName(p.university) === profile.displayName);
-  const groups = groupPrograms(programs);
-  const campusPhoto = CAMPUS_BY_UNIVERSITY[profile.displayName];
+  const onlineCount = programs.filter((p) => /online/i.test(p.modality)).length;
+  const byArea = AREAS.map((area) => ({ area, items: programs.filter((p) => p.categorySlug === area.slug) })).filter(
+    (g) => g.items.length > 0
+  );
+  const leadPhoto = photoForUniversity(profile.slug);
+  const gallery = photosForUniversity(profile.slug).filter((p) => p.id !== leadPhoto?.id);
+
+  const stats = [
+    { value: profile.founded, label: "año de fundación" },
+    { value: String(profile.campuses.length), label: "campus" },
+    { value: String(programs.length), label: "programas con convenio" },
+    onlineCount > 0
+      ? { value: String(onlineCount), label: "se pueden cursar online" }
+      : { value: "100%", label: "presencial, en Madrid" },
+  ];
 
   return (
     <>
@@ -65,35 +84,54 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
         </Link>
         <h1
           className="font-display font-black uppercase mt-4"
-          style={{ fontSize: "clamp(32px,6.4vw,96px)", lineHeight: 0.9, letterSpacing: "-.045em" }}
+          style={{ fontSize: "clamp(32px,6.4vw,104px)", lineHeight: 0.9, letterSpacing: "-.045em" }}
         >
           {profile.displayName}
         </h1>
-        <p className="font-serif italic mt-4" style={{ fontSize: "clamp(20px,2.4vw,32px)" }}>
-          Fundada en {profile.founded} · {programs.length} programa{programs.length === 1 ? "" : "s"} con convenio
+        <p className="font-serif italic mt-4 mb-0" style={{ fontSize: "clamp(20px,2.4vw,32px)" }}>
+          {profile.campuses.map((c) => c.name).join(" · ")}
         </p>
-        {campusPhoto && (
-          <div
-            className="relative mt-5.5 md:mt-11 overflow-hidden"
-            style={{ height: "clamp(220px,38vh,440px)", filter: "grayscale(1) contrast(1.06)" }}
-          >
-            <Image
-              src={campusPhoto}
-              alt={`Ambiente de campus universitario — ${profile.displayName}`}
-              fill
-              unoptimized
-              sizes="100vw"
-              style={{ objectFit: "cover" }}
-            />
+
+        <figure className="m-0 mt-6 md:mt-11">
+          <div className="relative overflow-hidden bg-ink w-full aspect-[4/3] md:aspect-[21/9]" style={{ maxHeight: "min(72vh,640px)" }}>
+            {leadPhoto ? (
+              <Photo photo={leadPhoto} priority sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)" />
+            ) : (
+              <TypePlate
+                word={profile.monogram}
+                label={profile.displayName}
+                topLeft={`Est. ${profile.founded}`}
+                topRight={`${programs.length} programas con convenio`}
+                bottom={profile.campuses.map((c) => c.name).join(" · ")}
+              />
+            )}
           </div>
-        )}
+          {leadPhoto && (
+            <figcaption className="flex flex-wrap justify-between gap-x-4 gap-y-1 font-mono text-[10px] tracking-[.12em] uppercase text-ink-soft mt-2.5">
+              <span>{leadPhoto.alt}</span>
+              <span>{leadPhoto.credit}</span>
+            </figcaption>
+          )}
+        </figure>
+
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-px bg-hair border-y border-hair mt-6 md:mt-9">
+          {stats.map((s, i) => (
+            // Flush with the page gutter wherever a cell starts a row (2 columns on mobile, 4 from md).
+            <div key={s.label} className={`bg-off-white py-4 pr-4 min-w-0 ${i % 2 === 0 ? "pl-0" : "pl-4"} ${i === 2 ? "md:pl-4" : ""}`}>
+              <div className="font-display font-black text-red-signal" style={{ fontSize: "clamp(22px,2.6vw,36px)", letterSpacing: "-.03em" }}>
+                {s.value}
+              </div>
+              <div className="text-[13px] text-ink-soft mt-1">{s.label}</div>
+            </div>
+          ))}
+        </div>
       </section>
 
-      <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px] grid gap-6 sm:gap-9 md:gap-[72px]" style={{ gridTemplateColumns: "repeat(auto-fit, minmax(280px,1fr))" }}>
-        <div className="flex flex-col gap-9 sm:gap-11" style={{ maxWidth: "62ch" }}>
+      <section className="px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[110px] grid gap-9 md:gap-[72px] md:grid-cols-[minmax(0,1fr)_minmax(280px,380px)]">
+        <div className="flex flex-col gap-11 sm:gap-14 min-w-0" style={{ maxWidth: "68ch" }}>
           <Reveal>
             <div>
-              <div className="font-mono text-[11px] tracking-[.16em] text-red-signal mb-3">01 — SOBRE LA UNIVERSIDAD</div>
+              <Kicker>01 — SOBRE LA UNIVERSIDAD</Kicker>
               <div className="eem-prose" style={{ fontSize: "18px" }}>
                 {profile.about.map((p) => (
                   <p key={p}>{p}</p>
@@ -104,69 +142,83 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
 
           <Reveal>
             <div>
-              <div className="font-mono text-[11px] tracking-[.16em] text-red-signal mb-3">02 — CAMPUS</div>
-              <div className="eem-sec-checklist">
-                <ul>
-                  {profile.campuses.map((c) => (
-                    <li key={c.name}>
-                      <strong>{c.name}</strong> — {c.note}
-                    </li>
-                  ))}
-                </ul>
+              <Kicker>02 — CAMPUS</Kicker>
+              <div className="grid gap-px bg-hair border border-hair sm:grid-cols-2">
+                {profile.campuses.map((c, i) => (
+                  <div key={c.name} className="bg-white p-5 sm:p-6 flex flex-col gap-2">
+                    <span className="font-mono text-[10px] tracking-[.14em] text-ink-soft">CAMPUS {String(i + 1).padStart(2, "0")}</span>
+                    <span className="font-display font-extrabold text-[19px]" style={{ letterSpacing: "-.015em" }}>
+                      {c.name}
+                    </span>
+                    <span className="text-[14px] leading-[1.55] text-ink-soft first-letter:uppercase block">{c.note}</span>
+                  </div>
+                ))}
               </div>
             </div>
           </Reveal>
 
           <Reveal>
             <div>
-              <div className="font-mono text-[11px] tracking-[.16em] text-red-signal mb-3">03 — ACREDITACIÓN</div>
-              <p className="eem-prose" style={{ margin: 0 }}>
-                {profile.accreditation}
-              </p>
+              <Kicker>03 — ACREDITACIÓN</Kicker>
+              <p className="eem-prose m-0">{profile.accreditation}</p>
             </div>
           </Reveal>
 
           <Reveal>
-            <div className="bg-ink text-off-white rounded-md p-6 sm:p-8">
-              <div className="font-mono text-[11px] tracking-[.16em] text-red-signal mb-3">04 — POR QUÉ LA RECOMENDAMOS</div>
-              <p className="font-serif italic" style={{ fontSize: "clamp(19px,2vw,26px)", lineHeight: 1.3, margin: 0 }}>
+            <div className="bg-ink text-off-white rounded-md p-6 sm:p-9">
+              <Kicker>04 — POR QUÉ LA RECOMENDAMOS</Kicker>
+              <p className="font-serif italic m-0" style={{ fontSize: "clamp(20px,2.2vw,30px)", lineHeight: 1.28 }}>
                 {profile.whyEEM}
               </p>
             </div>
           </Reveal>
 
-          {groups.length > 0 && (
+          {byArea.length > 0 && (
             <div>
-              <div className="font-mono text-[11px] tracking-[.16em] text-red-signal mb-3">
-                05 — PROGRAMAS CON {profile.shortName.toUpperCase()}
-              </div>
-              {groups.map((group) => (
-                <div key={group.title} className="mt-5 first:mt-0">
-                  <div className="flex gap-2.5 items-baseline font-mono text-[11px] tracking-[.16em] text-ink-soft uppercase">
-                    <span>{group.title}</span>
-                    <span className="text-red-signal">[{group.items.length}]</span>
-                  </div>
-                  <div className="flex flex-col mt-2">
-                    {group.items.map((p) => (
-                      <Reveal key={p.programSlug}>
+              <Kicker>
+                05 — PROGRAMAS CON {profile.shortName.toUpperCase()} [{programs.length}]
+              </Kicker>
+              <div className="flex flex-col gap-9 sm:gap-11 mt-2">
+                {byArea.map(({ area, items }) => (
+                  <div key={area.slug}>
+                    <Link
+                      href={`/programas/${area.slug}`}
+                      className="group flex justify-between items-baseline gap-4 border-b-2 border-ink pb-2.5"
+                    >
+                      <span
+                        className="font-display font-black uppercase group-hover:text-red-signal"
+                        style={{ fontSize: "clamp(22px,2.6vw,34px)", letterSpacing: "-.03em" }}
+                      >
+                        {area.name}
+                      </span>
+                      <span className="font-mono text-[11px] tracking-[.14em] text-red-signal whitespace-nowrap">
+                        {items.length} PROGRAMA{items.length === 1 ? "" : "S"} ↗
+                      </span>
+                    </Link>
+                    <div className="flex flex-col">
+                      {items.map((p) => (
                         <Link
+                          key={p.programSlug}
                           href={`/programas/${p.categorySlug}/${p.programSlug}`}
-                          className="grid gap-2.5 sm:gap-4 items-center py-3.5 border-b border-hair text-ink hover:bg-white"
-                          style={{ gridTemplateColumns: "minmax(0,1fr) auto" }}
+                          className="group grid gap-x-4 gap-y-1 items-baseline py-3.5 border-b border-hair text-ink hover:bg-white grid-cols-[minmax(0,1fr)_auto] sm:grid-cols-[96px_minmax(0,1fr)_auto]"
                         >
+                          <span className="font-mono text-[10px] tracking-[.14em] text-red-signal col-span-2 sm:col-span-1">{p.level}</span>
                           <span
-                            className="font-display font-extrabold block"
-                            style={{ fontSize: "clamp(15px,1.5vw,20px)", lineHeight: 1.2, letterSpacing: "-.015em" }}
+                            className="font-display font-extrabold block group-hover:translate-x-1 transition-transform"
+                            style={{ fontSize: "clamp(15px,1.4vw,19px)", lineHeight: 1.25, letterSpacing: "-.015em" }}
                           >
                             {p.title}
+                            <span className="block mt-1 font-body font-normal text-[12px] text-ink-soft" style={{ letterSpacing: 0 }}>
+                              {getModalityTags(p.modality).join(" · ") || p.modality}
+                            </span>
                           </span>
                           <span className="text-red-signal text-[15px]">↗</span>
                         </Link>
-                      </Reveal>
-                    ))}
+                      ))}
+                    </div>
                   </div>
-                </div>
-              ))}
+                ))}
+              </div>
             </div>
           )}
         </div>
@@ -188,6 +240,10 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
                   <span className="text-ink-soft">Programas con EEM</span>
                   <strong className="text-right">{programs.length}</strong>
                 </div>
+                <div className="flex justify-between gap-3 text-[14px]">
+                  <span className="text-ink-soft">Áreas</span>
+                  <strong className="text-right">{byArea.map((g) => g.area.name).join(", ")}</strong>
+                </div>
               </div>
               <div className="border-t border-dashed border-hair mt-5 mb-0 -mx-5.5" />
               <a
@@ -202,7 +258,7 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
                 href={profile.officialUrl}
                 target="_blank"
                 rel="noopener"
-                className="text-center mt-3 text-[12px] text-ink-soft underline"
+                className="block text-center mt-3 text-[12px] text-ink-soft underline"
               >
                 Sitio oficial de {profile.shortName} ↗
               </a>
@@ -213,6 +269,32 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
           </p>
         </aside>
       </section>
+
+      {gallery.length > 0 && (
+        <section className="px-5 sm:px-8 md:px-11 pb-14 sm:pb-20 md:pb-[120px]">
+          <div className="flex justify-between items-baseline gap-4 border-b border-hair pb-3.5">
+            <h2 className="font-display font-black uppercase m-0" style={{ fontSize: "clamp(22px,3vw,44px)", letterSpacing: "-.03em" }}>
+              El campus por dentro
+            </h2>
+            <span className="font-mono text-[11px] tracking-[.16em] text-red-signal">{gallery.length} FOTOS</span>
+          </div>
+          <div className="grid gap-3.5 sm:gap-5 mt-6 sm:grid-cols-2 lg:grid-cols-3">
+            {gallery.map((photo) => (
+              <Reveal key={photo.id}>
+                <figure className="m-0">
+                  <div className="relative overflow-hidden bg-ink aspect-[4/3]">
+                    <Photo photo={photo} sizes="(min-width: 1024px) 31vw, (min-width: 640px) 46vw, 100vw" />
+                  </div>
+                  <figcaption className="font-mono text-[10px] tracking-[.12em] uppercase text-ink-soft mt-2.5 flex flex-col gap-0.5">
+                    <span>{photo.alt}</span>
+                    <span>{photo.credit}</span>
+                  </figcaption>
+                </figure>
+              </Reveal>
+            ))}
+          </div>
+        </section>
+      )}
 
       <RelatedGuides
         slugs={["como-elegir-universidad-privada-madrid", "creditos-ects-sistema-universitario-espanol", "homologacion-vs-convalidacion-titulo"]}

@@ -32,8 +32,8 @@ inicio — algo especialmente relevante para estudiantes internacionales que
 están gestionando su visado o llegada a España.
 
 Es un título oficial de **4 años (240 ECTS)**, con un fuerte componente
-práctico: incluye un período de prácticas externas (300 horas / 12 ECTS,
-según los registros consultados) que da el primer contacto con el mercado
+práctico: incluye un período de prácticas externas (300 horas / 12 ECTS)
+que da el primer contacto con el mercado
 laboral antes de graduarse.
 
 ## Datos generales
@@ -63,14 +63,13 @@ programación) a lo especializado:
 - **Últimos cursos:** desarrollo de proyectos aplicados, prácticas externas
   en empresas y Trabajo Fin de Grado.
 
-No se encontró en las búsquedas un desglose completo asignatura por
-asignatura ni la lista de posibles itinerarios/menciones — para eso
-recomendamos remitir al estudiante a la ficha oficial de uax.com.
+El desglose completo asignatura por asignatura, con los itinerarios o
+menciones disponibles, te lo enviamos con la ficha oficial de la
+universidad.
 
 ## Salidas profesionales
 
-Según la propia UAX, los perfiles profesionales más demandados entre sus
-egresados incluyen:
+Los perfiles profesionales más demandados entre sus egresados incluyen:
 
 - Data Analyst
 - DevOps Engineer

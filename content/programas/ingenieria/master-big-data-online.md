@@ -61,11 +61,6 @@ El programa cubre:
 - Consultor de Business Intelligence.
 - Especialista en analítica de datos aplicada a la estrategia de negocio.
 
-Nota: en material de la propia universidad se menciona una tasa de
-empleabilidad de referencia para perfiles de Big Data superior al 90%; no
-se incluye esa cifra en esta ficha porque no pudo confirmarse su fuente y
-metodología exactas.
-
 ## Requisitos de acceso
 
 - Titulación universitaria previa (ingeniería, arquitectura o disciplinas

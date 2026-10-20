@@ -44,8 +44,7 @@ título oficial de **4 años (240 ECTS)**.
 
 ## Plan de estudios / contenidos principales
 
-Según fuentes consultadas, el plan de estudios incluye, entre otras
-asignaturas:
+El plan de estudios incluye, entre otras asignaturas:
 
 - Diseño Asistido por Ordenador (CAD) II.
 - Diseño Gráfico y Comunicación.
@@ -62,10 +61,9 @@ El programa cuenta con instalaciones especializadas propias, entre ellas:
 - **Túnel de viento.**
 
 Los estudiantes pueden orientar su formación hacia distintas
-especialidades — entre las mencionadas en fuentes consultadas figuran
-automoción, bioingeniería, producto integrado e innovación, y
-termodinámica — aunque no se pudo confirmar con precisión el número y
-nombre exacto de los itinerarios oficiales.
+especialidades, como automoción, bioingeniería, producto integrado e
+innovación, o termodinámica — te confirmamos los itinerarios oficiales
+abiertos en tu convocatoria.
 
 ## Salidas profesionales
 

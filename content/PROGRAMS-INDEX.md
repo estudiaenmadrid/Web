@@ -7,7 +7,20 @@
 > Estado: 🟢 redactado y confiable · 🟠 redactado pero universidad pendiente
 > de confirmar (no publicar) · ⚪ pendiente (esperando info del cliente)
 >
-> **Última actualización: 2026-09-03.**
+> **Última actualización: 2026-10-20.**
+>
+> 🆕 **Actualización 20/10/2026 (mensaje de voz del cliente):**
+> - **UDIT sí tiene convenio vigente** — el cliente dijo que "la Audi"
+>   (transcripción automática; casi seguro "la UDIT") "es una universidad
+>   con la que tenemos convenio por dos años". Esto corrige el punto 3 de
+>   abajo. **Pendiente:** que el cliente confirme que se refería a UDIT y
+>   mande qué programas de UDIT se ofrecen. Hasta entonces el sitio sigue
+>   mostrando 3 universidades (UAX, Nebrija, CEU San Pablo) y Grado en
+>   Animación sigue como "pendiente de confirmar" (ver #6).
+> - **Instituto de técnicos superiores (contacto: Mayra)** — pendiente de
+>   información del cliente. Sería la primera oferta de FP / Técnico
+>   Superior; hoy está excluida del catálogo (ver "Excluidos").
+> - **Se eliminó Máster en Psicopedagogía presencial** (ver #7).
 >
 > ⚠️ **Confirmado por el cliente — Estudia en Madrid SOLO ofrece los grados
 > y másteres de las universidades con las que tiene convenio real.** Esto
@@ -20,8 +33,9 @@
 >    U-tad) con las que la agencia no trabaja.
 > 2. **Se eliminaron los 3 programas de Técnico/Técnico Superior (FP)** de
 >    Salud — tampoco son parte del catálogo real de la agencia.
-> 3. **UDIT y U-tad NO son universidades socias** — cualquier ficha que las
->    mencione como universidad está mal atribuida.
+> 3. ~~**UDIT y U-tad NO son universidades socias**~~ — **CORREGIDO el
+>    20/10/2026: UDIT sí tiene convenio (por dos años más).** U-tad sigue
+>    sin convenio. Ver la actualización al principio de este documento.
 > 4. **"Grado en ADE" y "Grado en Administración de Empresas" son el mismo
 >    programa** (UAX) — se fusionaron en una sola ficha.
 
@@ -50,18 +64,18 @@
    Producto" — un solo grado. Se eliminó `ingenieria/grado-diseno-producto.md`
    (que estaba mal atribuido a U-tad); queda una sola ficha en
    `ingenieria/grado-diseno-industrial.md`.
-6. **"Grado en Animación"** (Ingeniería) — quedó sin universidad
-   confirmada tras descartar UDIT y U-tad. **Falta que el cliente diga con
-   qué universidad de Madrid lo dictan realmente**, o si este programa no
-   forma parte del catálogo (como pasó con toda la categoría Tecnología) y
-   conviene eliminarlo también.
-7. **"Máster en Psicopedagogía" presencial vs. online** (Educación) — no
-   hay evidencia de que UAX ofrezca versión presencial (su único máster de
-   esta área es 100% online). Podría ser: (a) un duplicado/error de
-   catalogación, o (b) un programa real de otra universidad (Villanueva,
-   Universidad Europea o Comillas ofrecen versión presencial) mal asociado
-   en el catálogo. Sin resolver — no publicar la ficha presencial sin
-   confirmar.
+6. **"Grado en Animación"** (Ingeniería) — la ficha se redactó sobre el
+   grado de UDIT, y el 20/10/2026 el cliente indicó que UDIT sí tiene
+   convenio. **Casi resuelto:** cuando el cliente confirme que "la Audi"
+   era UDIT, basta con quitar el override `ingenieria/grado-animacion` de
+   `lib/content.ts` (vuelve a mostrar UDIT) y crear la ficha de
+   universidad de UDIT en `data/universities.ts`.
+7. ~~**"Máster en Psicopedagogía" presencial vs. online**~~ — **RESUELTO
+   (20/10/2026): se eliminó la versión presencial** a pedido del cliente.
+   Para cursarla presencialmente hace falta tener el título homologado en
+   España, lo que la hace muy difícil de matricular para estudiantes
+   latinoamericanos. Queda solo la ficha online (UAX). La URL vieja hace
+   301 a la online (`public/.htaccess`).
 8. **"Postgrado en Tecnología Educativa" vs. "Máster Oficial en Tecnología
    Educativa y Competencias Digitales para Docentes"** (Educación) —
    evidencia fuerte de que es el **mismo programa UAX** con dos URLs
@@ -149,7 +163,7 @@ detalle de qué falta específicamente.
 | Máster en Dirección y Gestión de Servicios de Enfermería | UAX | `salud/master-direccion-gestion-servicios-enfermeria.md` |
 | Máster en Odontología Digital | UAX | `salud/master-odontologia-digital.md` |
 
-## Educación (12/12 🟢, incluye el que vivía sin categoría)
+## Educación (11/11 🟢, incluye el que vivía sin categoría — se eliminó Psicopedagogía presencial)
 
 | Programa | Universidad | Archivo |
 |---|---|---|
@@ -157,7 +171,6 @@ detalle de qué falta específicamente.
 | Grado en Pedagogía Online | UAX (confianza media) | `educacion/grado-pedagogia-online.md` |
 | Grado en Musicología Online | UAX | `educacion/grado-musicologia-online.md` |
 | Máster en Educación Bilingüe | UAX (confirmado) | `educacion/master-educacion-bilingue.md` |
-| Máster en Psicopedagogía (presencial) | Pendiente — ver #7 | `educacion/master-psicopedagogia-presencial.md` |
 | Máster en Psicopedagogía (online) | UAX (confirmado) | `educacion/master-psicopedagogia-online.md` |
 | Máster en Pedagogía Instrumental | UAX (confirmado) | `educacion/master-pedagogia-instrumental.md` |
 | Máster Universitario en Neuropsicología Aplicada a la Educación | UAX | `educacion/master-neuropsicologia-aplicada-educacion.md` |

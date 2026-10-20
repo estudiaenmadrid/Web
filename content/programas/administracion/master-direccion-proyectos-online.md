@@ -53,18 +53,17 @@ Es un máster de **60 ECTS**, con una duración de **9 meses**, en modalidad
 
 ## Plan de estudios / contenidos principales
 
-Según la fuente oficial de la universidad, el programa se centra en:
+El programa se centra en:
 
 - Herramientas avanzadas de gestión de proyectos.
 - Metodologías innovadoras de dirección de proyectos (incluye enfoques
-  ágiles, según el nombre comercial del programa en otras fuentes de la
-  misma universidad — "Project Management Online").
+  ágiles).
 - Aplicación de inteligencia artificial generativa a la dirección de
   proyectos.
 - Preparación orientada a la certificación PMP® del PMI.
 
-No se localizó en las búsquedas un desglose completo de módulos y
-asignaturas con su carga de ECTS individual.
+El desglose completo de módulos y asignaturas, con los ECTS de cada una,
+te lo enviamos junto con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 

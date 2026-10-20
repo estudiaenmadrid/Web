@@ -1,8 +1,10 @@
+import Link from "next/link";
 import type { Metadata } from "next";
-import Image from "next/image";
 import { getPartnerUniversities } from "@/lib/content";
 import { getTestimonials } from "@/lib/testimonials";
-import { ADVISOR_STUDENT } from "@/lib/photos";
+import { PLACEHOLDER_SLOT_IMAGES, photoForSlot } from "@/lib/photos";
+import { PROCESS_STEPS } from "@/data/process";
+import Photo from "@/components/shared/Photo";
 import Reveal from "@/components/Reveal";
 import Ticket from "@/components/Ticket";
 import Stat from "@/components/Stat";
@@ -34,6 +36,7 @@ const VALUES = [
 export default function NosotrosPage() {
   const universities = getPartnerUniversities();
   const testimonial = getTestimonials()[0];
+  const teamPhoto = photoForSlot("nosotros");
 
   return (
     <>
@@ -50,15 +53,19 @@ export default function NosotrosPage() {
           <br />
           <span className="text-red-signal">Abrimos puertas.</span>
         </h1>
-        <div className="relative mt-5.5 md:mt-11 overflow-hidden" style={{ height: "clamp(260px,46vh,500px)", filter: "grayscale(1) contrast(1.06)" }}>
-          <Image
-            src={ADVISOR_STUDENT}
-            alt="Asesor académico conversando con un estudiante"
-            fill
-            unoptimized
-            sizes="100vw"
-            style={{ objectFit: "cover" }}
-          />
+        <div
+          className="relative mt-6 md:mt-11 overflow-hidden bg-ink w-full aspect-[4/5] sm:aspect-[16/9] lg:aspect-[21/9]"
+          style={{ maxHeight: "min(72vh,640px)" }}
+        >
+          {teamPhoto ? (
+            <Photo photo={teamPhoto} priority sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)" />
+          ) : (
+            <Photo
+              placeholder={PLACEHOLDER_SLOT_IMAGES.nosotros}
+              priority
+              sizes="(min-width: 768px) calc(100vw - 88px), calc(100vw - 40px)"
+            />
+          )}
         </div>
       </section>
 
@@ -103,12 +110,28 @@ export default function NosotrosPage() {
             </div>
           </Reveal>
           <Reveal>
-            <p className="m-0 text-[15px] leading-[1.6] text-ink-soft">
-              En la práctica esto se ve en cuatro pasos: orientación honesta sobre qué opciones tenés según tu
-              expediente, la postulación con apostillas y reconocimiento de créditos, el trámite del visado y las becas
-              a las que sí calificás si tu modalidad requiere mudarte, y por último la llegada a Madrid — alojamiento,
-              TIE, empadronamiento y una red de estudiantes que ya pasó por lo mismo.
-            </p>
+            <div className="mt-2.5">
+              <div className="font-mono text-[11px] tracking-[.16em] text-red-signal mb-3">EN LA PRÁCTICA, CUATRO PASOS</div>
+              <ol className="list-none p-0 m-0 border-t border-hair">
+                {PROCESS_STEPS.map((step) => (
+                  <li key={step.num}>
+                    <Link
+                      href={step.href}
+                      className="group grid grid-cols-[40px_minmax(0,1fr)_auto] gap-3 items-baseline py-4 border-b border-hair hover:bg-white"
+                    >
+                      <span className="font-mono text-[11px] text-red-signal">{step.num}</span>
+                      <span>
+                        <span className="block font-display font-extrabold text-[17px]" style={{ letterSpacing: "-.01em" }}>
+                          {step.title}
+                        </span>
+                        <span className="block text-[14px] leading-[1.5] text-ink-soft mt-1">{step.body}</span>
+                      </span>
+                      <span className="text-red-signal transition-transform group-hover:translate-x-1">↗</span>
+                    </Link>
+                  </li>
+                ))}
+              </ol>
+            </div>
           </Reveal>
           <Reveal delay={0.04}>
             <p className="m-0 text-[15px] leading-[1.6] text-ink-soft">

@@ -35,7 +35,7 @@ no solo ejecutarlos.
 Un diferencial fuerte del programa es su fuerte componente de software
 profesional (CAD/CAM, análisis estructural, cálculo numérico) y su claustro,
 que combina docencia con actividad profesional en empresas como IBM,
-Repsol, Endesa o Airbus, según describe la propia universidad.
+Repsol, Endesa o Airbus.
 
 ## Datos generales
 

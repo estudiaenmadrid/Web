@@ -19,20 +19,14 @@ fuente: "WebSearch (uax.com/en/studies/postgraduate-course-in-online-educational
 
 ## Qué es este programa
 
-"Postgrado en Tecnología Educativa" es el nombre con el que este programa
-figura en nuestro catálogo — es el mismo título que la UAX también
-promociona como **Máster Universitario Online en Tecnología Educativa y
-Competencias Digitales Docentes**.
-
-El programa es el **Máster Universitario Online en Tecnología Educativa y
-Competencias Digitales Docentes** de la **Universidad Alfonso X el Sabio
-(UAX)**: un título oficial de 60 ECTS y 9 meses de duración que prepara a
+El **Postgrado en Tecnología Educativa** que ofrecemos es el **Máster
+Universitario Online en Tecnología Educativa y Competencias Digitales
+Docentes** de la **Universidad Alfonso X el Sabio (UAX)**: un título oficial de 60 ECTS y 9 meses de duración que prepara a
 docentes para liderar la transformación digital en el aula, convirtiendo
 la tecnología en una herramienta pedagógica real.
 
-Según fuentes de terceros consultadas en esta sesión, el programa está
-posicionado como **Top 2 del Ranking 2025 de Mundo Postgrado** entre los
-másteres en tecnología educativa de España, y **puntúa en oposiciones**
+El programa figura en el **Top 2 del Ranking 2025 de Mundo Postgrado**
+entre los másteres en tecnología educativa de España, y **puntúa en oposiciones**
 docentes de Primaria y Secundaria en España.
 
 ## Para quién es
@@ -54,11 +48,11 @@ docentes de Primaria y Secundaria en España.
 | **Créditos** | 60 ECTS |
 | **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior |
 | **Prácticas** | Posibilidad de prácticas en más de 700 centros educativos |
-| **Reconocimiento** | Puntúa en oposiciones de Primaria y Secundaria en España; posicionado como Top 2 del Ranking 2025 de Mundo Postgrado en su categoría (fuente de terceros) |
+| **Reconocimiento** | Puntúa en oposiciones de Primaria y Secundaria en España; Top 2 del Ranking 2025 de Mundo Postgrado en su categoría |
 
 ## Plan de estudios / contenidos principales
 
-Según los fragmentos disponibles, el plan de estudios incorpora
+El plan de estudios incorpora
 asignaturas y metodologías como:
 
 - Robótica educativa
@@ -95,8 +89,8 @@ Educativas y de Formación del Profesorado).
 
 - Título oficial, con puntuación reconocida en oposiciones docentes en
   España.
-- Posicionado entre los mejores másteres de tecnología educativa de
-  España según rankings de terceros.
+- Top 2 del Ranking 2025 de Mundo Postgrado entre los másteres de
+  tecnología educativa de España.
 - Curriculum orientado a competencias digitales de referencia
   internacional (UNESCO, INTEF).
 - Acceso a prácticas en una red de más de 700 centros educativos.

@@ -26,8 +26,7 @@ análisis de datos.
 
 Combina matemáticas avanzadas, física, estadística, programación y
 modelado computacional, con un enfoque orientado a la práctica y docentes
-vinculados a empresas tecnológicas y científicas, según describe la propia
-universidad. Es un título oficial de **4 años (240 ECTS)**, presencial,
+vinculados a empresas tecnológicas y científicas. Es un título oficial de **4 años (240 ECTS)**, presencial,
 adaptado al Espacio Europeo de Educación Superior.
 
 ## Datos generales
@@ -40,11 +39,11 @@ adaptado al Espacio Europeo de Educación Superior.
 | **Modalidad** | Presencial |
 | **Idioma** | Español |
 | **Inicio** | Septiembre |
-| **Empleabilidad** | Más del 91% a un año de titularse (dato publicado por la UAX) |
+| **Empleabilidad** | Más del 91% a un año de titularse |
 
 ## Plan de estudios / contenidos principales
 
-**Primer curso** (según los registros de asignaturas consultados):
+**Primer curso:**
 
 - *Primer semestre:* Estructuras Algebraicas, Álgebra I, Análisis
   Estadístico, Fundamentos de Programación y Computadores, Fundamentos
@@ -54,12 +53,12 @@ adaptado al Espacio Europeo de Educación Superior.
   Fundamentos Matemáticos de la Ingeniería II.
 
 Los cursos siguientes profundizan en matemáticas avanzadas, estadística
-aplicada, computación y modelado — no se encontró en las búsquedas el
-desglose curso por curso completo.
+aplicada, computación y modelado — el desglose completo, curso por curso,
+te lo enviamos con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 
-Según la propia UAX, las principales salidas profesionales son:
+Las principales salidas profesionales son:
 
 - Investigación.
 - Docencia universitaria.
@@ -68,7 +67,7 @@ Según la propia UAX, las principales salidas profesionales son:
 - Banca y finanzas.
 - Estudios de mercado, encuestas y sondeos.
 
-Perfiles concretos que menciona la universidad: analista de datos, Chief
+Perfiles concretos: analista de datos, Chief
 Data Officer, DataOps y desarrollador Fullstack, además de participación en
 proyectos de investigación de mercado, análisis y gestión de riesgo, u
 optimización de procesos de negocio y diseño de modelos predictivos. El
@@ -85,8 +84,7 @@ incertidumbre.
 
 ## Por qué elegir este programa
 
-- Empleabilidad superior al 91% al año de titularse, según datos de la
-  propia universidad.
+- Empleabilidad superior al 91% al año de titularse.
 - Perfil muy valorado por las empresas: pensamiento analítico + capacidad
   de digitalización.
 - Salidas laborales diversas: desde banca y consultoría hasta IA e

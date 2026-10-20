@@ -60,6 +60,21 @@ function CardSection({ section, index }: { section: ProgramSection; index: numbe
   );
 }
 
+/** Guide-article variant of CardSection: flowing editorial text instead of a boxed card — a guide is read top to bottom, not scanned like a ficha. */
+function ArticleSection({ section, index, lead }: { section: ProgramSection; index: number; lead: boolean }) {
+  return (
+    <Reveal>
+      <div id={slugifyHeading(section.heading)} style={{ scrollMarginTop: "100px" }}>
+        <SectionKicker index={index} heading={section.heading} />
+        <div
+          className={`eem-prose eem-article ${lead ? "eem-article-lead" : ""}`}
+          dangerouslySetInnerHTML={{ __html: section.html }}
+        />
+      </div>
+    </Reveal>
+  );
+}
+
 function ChecklistSection({ section, index }: { section: ProgramSection; index: number }) {
   return (
     <Reveal>
@@ -148,12 +163,18 @@ function CtaSection({ section, index }: { section: ProgramSection; index: number
   );
 }
 
-/** Renders a program ficha's or guide post's markdown body as visually distinct, Reveal-animated sections, styled by heading (see sectionKind in lib/programSections.ts). */
-export default function MarkdownSections({ bodyMarkdown }: { bodyMarkdown: string }) {
+/** Renders a program ficha's or guide post's markdown body as visually distinct, Reveal-animated sections, styled by heading (see sectionKind in lib/programSections.ts). `article` (guides) sets generic sections as flowing text instead of cards. */
+export default function MarkdownSections({
+  bodyMarkdown,
+  variant = "ficha",
+}: {
+  bodyMarkdown: string;
+  variant?: "ficha" | "article";
+}) {
   const sections = splitProgramSections(bodyMarkdown);
 
   return (
-    <div className="flex flex-col gap-9 sm:gap-11" style={{ maxWidth: "62ch" }}>
+    <div className={`flex flex-col ${variant === "article" ? "gap-12 sm:gap-14" : "gap-9 sm:gap-11"} min-w-0`} style={{ maxWidth: variant === "article" ? "68ch" : "62ch" }}>
       {sections.map((section, i) => {
         const kind = sectionKind(section.heading);
         const index = i + 1;
@@ -171,7 +192,11 @@ export default function MarkdownSections({ bodyMarkdown }: { bodyMarkdown: strin
           case "cta":
             return <CtaSection key={section.heading} section={section} index={index} />;
           default:
-            return <CardSection key={section.heading} section={section} index={index} />;
+            return variant === "article" ? (
+              <ArticleSection key={section.heading} section={section} index={index} lead={i === 0} />
+            ) : (
+              <CardSection key={section.heading} section={section} index={index} />
+            );
         }
       })}
     </div>

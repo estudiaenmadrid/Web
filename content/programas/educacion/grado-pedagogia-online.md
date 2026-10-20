@@ -56,13 +56,12 @@ con la UAX para este programa en particular.
 | **Modalidad** | Online |
 | **Duración** | 4 años |
 | **Créditos** | 240 ECTS |
-| **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior, y reconocimiento en los sistemas educativos de Latinoamérica (según fuente de la universidad) |
+| **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior (para usarlo en tu país, te orientamos sobre su reconocimiento) |
 | **Precio** | Pendiente de confirmar |
 
 ## Menciones / especialización
 
-Según fuentes de la propia UAX, el grado permite especializarse en una de
-dos menciones:
+El grado permite especializarse en una de dos menciones:
 
 - **Orientación Pedagógica.**
 - **Pedagogía para los Nuevos Retos Educativos y Sociales.**
@@ -88,8 +87,8 @@ líneas generales, un Grado en Pedagogía cubre:
   intervención original y riguroso, en el que se debe demostrar la
   integración de todas las competencias adquiridas.
 
-*(Pendiente reconstruir el desglose completo por curso/asignatura con la
-universidad; los snippets no alcanzan para armar la tabla completa.)*
+El desglose completo, curso por curso y asignatura por asignatura, te lo
+enviamos con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 
