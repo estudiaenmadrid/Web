@@ -75,6 +75,9 @@
   Redirect 301 /grados-y-maestrias/estados-unidos/maestrias-en-estados-unidos/master-en-innovacion-digital-con-mencion-en-gobierno-electronico /
   Redirect 301 /programas/ingenieria/grado-robotica /programas/ingenieria
   Redirect 301 /universidades/ucjc /universidades
+  # Presencial version dropped (Oct 2026): it requires a degree already
+  # homologated in Spain to enrol, so the agency only offers the online one.
+  Redirect 301 /programas/educacion/master-psicopedagogia-presencial /programas/educacion/master-psicopedagogia-online
 
   # Old WordPress utility pages with no equivalent on this site.
   Redirect 301 /contacto /
