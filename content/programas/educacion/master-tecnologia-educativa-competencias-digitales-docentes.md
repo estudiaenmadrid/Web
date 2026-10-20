@@ -1,170 +1,159 @@
 ---
-title_seo: "Máster en Tecnología Educativa para Docentes en Madrid | UAX - Estudia en Madrid"
-meta_description: "Máster Oficial Universitario en Tecnología Educativa y Competencias Digitales para Docentes de la UAX (Madrid). 60 ECTS, 9 meses, puntúa en oposiciones. Infórmate con Estudia en Madrid."
+title_seo: "Máster en Tecnología Educativa Online | UAX - Estudia en Madrid"
+meta_description: "Máster Universitario en Tecnología Educativa y Competencias Digitales Docentes (UAX), online: 60 ECTS, 9 meses. Programación, apps, robótica e IA para el aula. Puntúa en oposiciones."
 slug: /programas/educacion/master-tecnologia-educativa-competencias-digitales-docentes/
 categoria: Educación
-nombre_oficial_titulo: "Máster Universitario Online en Tecnología Educativa y Competencias Digitales Docentes"
+nombre_oficial_titulo: "Máster Universitario en Tecnología Educativa y Competencias Digitales Docentes"
 universidad: "Universidad Alfonso X el Sabio (UAX)"
 ciudad: Madrid
 modalidad: Online
 ects_total: 60
 duracion: "9 meses"
-fecha_inicio: "Octubre (año exacto a confirmar)"
-ultima_actualizacion: "2026-09-03"
+fecha_inicio: "Octubre"
+ultima_actualizacion: "2026-10-20"
 schema_type: Course
-fuente: "estudiaenmadrid.com/programas/master-oficial-en-tecnologia-educativa-y-competencias-digitales-para-docentes/ (snippet indexado, coincide con el título) + WebSearch sobre uax.com; el cliente confirmó el 20/10/2026 que es distinto del Postgrado en Tecnología Educativa"
+fuente: "Ficha oficial de la UAX enviada por el cliente (PDF 'Máster en Tecnología Educativa Online | UAX', octubre 2026)"
 ---
 
-# Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes en Madrid (UAX)
+# Máster en Tecnología Educativa y Competencias Digitales Docentes (UAX)
 
 ## Qué es este máster
 
-El **Máster Universitario Online en Tecnología Educativa y Competencias
-Digitales Docentes** de la **Universidad Alfonso X el Sabio (UAX)** es un
-título oficial de 60 ECTS y 9 meses de duración, que prepara a los
-docentes para comprender, usar y aplicar la tecnología en la mejora de la
-calidad educativa y de la experiencia de aprendizaje. Responde a las
-exigencias de un sector comprometido con la transformación digital, y es
-un complemento formativo pensado para quienes buscan reinventar su perfil
-profesional estudiando a su propio ritmo, compaginándolo con su actividad
-laboral.
+El **Máster Universitario en Tecnología Educativa y Competencias Digitales
+Docentes** de la **Universidad Alfonso X el Sabio (UAX)** es un título
+oficial de **60 ECTS**, 100% online, que te prepara para integrar la
+tecnología en el aula de forma pedagógica, estratégica y aplicada.
 
-El programa figura en el **Top 2 del Ranking 2025 de Mundo Postgrado**
-entre los másteres en tecnología educativa de España.
+Su diferencia con otros másteres del área es que no solo aprendés a usar
+la tecnología: **aprendés a crearla**. Durante el programa vas a
+programar, desarrollar tus propias aplicaciones educativas —que podés usar
+desde el móvil, en el aula real— y construir proyectos de robótica. Todas
+las asignaturas se trabajan además desde la perspectiva de la
+**inteligencia artificial generativa**.
+
+La formación está alineada con el **Marco Europeo de Competencia Digital
+(DigComp)**: te prepara para las competencias de un nivel B2 y te facilita
+la documentación para solicitar su acreditación oficial. Es el **Top 2 de
+los másteres en Tecnología Educativa de España** (Mundo Postgrado, 2026) y
+sus estudiantes lo valoran con un 9/10.
 
 ## Para quién es
 
-- Graduados en Educación Infantil, Primaria, Educación Especial o
-  Pedagogía.
-- Docentes que ya cuentan con el Máster en Formación del Profesorado
-  (Secundaria).
-- Titulados en másteres oficiales de Educación que buscan sumar
-  competencias digitales certificadas y puntuación para oposiciones.
+- Docentes que quieren liderar la transformación digital de su aula o de
+  su centro.
+- Maestros y profesores de Secundaria que buscan méritos baremables para
+  oposiciones.
+- Perfiles de educación que quieren dar el salto al diseño de recursos
+  digitales, el e-learning o la formación de profesorado en TIC.
 
 ## Datos generales
 
 | | |
 |---|---|
-| **Universidad** | Universidad Alfonso X el Sabio (UAX) |
-| **Modalidad** | Online |
+| **Universidad** | Universidad Alfonso X el Sabio (UAX) — Facultad de Ciencias de la Educación |
+| **Modalidad** | Online, con exámenes online y/o presenciales |
 | **Duración** | 9 meses |
 | **Créditos** | 60 ECTS |
-| **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior |
-| **Prácticas** | Posibilidad de prácticas en más de 700 centros educativos |
-| **Reconocimiento** | Puntúa en oposiciones de Primaria y Secundaria en España; Top 2 del Ranking 2025 de Mundo Postgrado en su categoría |
+| **Inicio** | Octubre |
+| **Título** | Máster Universitario oficial, con validez en España y en el Espacio Europeo de Educación Superior |
+| **Prácticas** | Prácticas externas obligatorias (6 ECTS), con más de 700 convenios de prácticas |
+| **Oposiciones** | Aporta méritos baremables en oposiciones de Maestros y Secundaria |
 
 ## Plan de estudios / contenidos principales
 
-El plan de estudios incorpora asignaturas y metodologías como:
+**Primer cuatrimestre (30 ECTS)**
 
-- Robótica educativa
-- Ciberseguridad
-- Gamificación
-- Microlearning
-- Diseño de aplicaciones educativas (app design)
-- Metodologías activas: Flipped Classroom, Roleplay, aprendizaje basado en
-  proyectos
+- Aprendizaje y educación digital (4 ECTS)
+- Diseño y creación de materiales didácticos digitales (6 ECTS)
+- El E-centro educativo: la transformación digital (4 ECTS)
+- Herramientas y recursos educativos para el aprendizaje en entornos digitales (6 ECTS)
+- Programación, robótica en el ámbito educativo (6 ECTS)
+- Seguridad, protección de datos y privacidad en la red (4 ECTS)
 
-El perfil de egreso se orienta a las competencias digitales docentes
-definidas por **UNESCO** e **INTEF**.
+**Segundo cuatrimestre (30 ECTS)**
+
+- Entornos virtuales y aprendizaje e-learning (4 ECTS)
+- Gamificación y videojuegos educativos (6 ECTS)
+- Innovación educativa en el ámbito digital (4 ECTS)
+- Diseño de APPs (4 ECTS)
+- Prácticas externas (6 ECTS)
+- Trabajo Fin de Máster (6 ECTS)
+
+Todas las asignaturas son obligatorias. A lo largo del máster construís un
+portfolio propio con los proyectos y recursos que desarrollás, y podés
+sumar microcredenciales (Neuroeducación para profesores, IA generativa) y
+el certificado profesional de Microsoft 365 con IA generativa.
 
 ## Salidas profesionales
 
-- Especialista en tecnología educativa dentro de centros escolares.
-- Diseñador/a de recursos educativos digitales.
-- Gestor/a de proyectos de tecnología educativa.
-- Consultor/a en tecnología educativa para centros o empresas edtech.
-- Investigador/a en tecnología educativa.
-- Desarrollador/a de software educativo.
+- Docente especializado en contenidos multimedia y entornos digitales.
+- Diseñador/a de aplicaciones y recursos educativos digitales.
+- Coordinador/a de programas de formación en entornos virtuales.
+- Formador/a de profesorado en competencias digitales y TIC.
+- Consultor/a de innovación educativa y transformación digital.
+- Responsable de proyectos e-learning en centros educativos.
 
 ## Requisitos de acceso
 
-- Título de Graduado en Educación Infantil, Primaria, Educación Especial
-  o Pedagogía.
-- Título del Máster en Formación del Profesorado (para perfiles de
-  Secundaria).
-- Título de un máster oficial en Educación.
+- Título universitario que dé acceso a estudios de máster en España (Grado
+  en Educación Infantil o Primaria, Pedagogía, o un grado acompañado del
+  Máster en Formación del Profesorado, entre otros).
+- Si tu título es de fuera del EEES, revisamos tu caso antes de iniciar la
+  admisión.
 
 ## Por qué elegir este máster
 
-- Título oficial, con puntuación reconocida en oposiciones docentes en
-  España.
-- Top 2 del Ranking 2025 de Mundo Postgrado entre los másteres de
-  tecnología educativa de España.
-- Curriculum orientado a competencias digitales de referencia
-  internacional (UNESCO, INTEF).
-- Acceso a prácticas en una red de más de 700 centros educativos.
+- El más práctico en tecnología: programás, creás tus propias apps
+  educativas y hacés proyectos de robótica.
+- IA generativa integrada en todas las asignaturas.
+- Preparación para la acreditación de competencia digital docente nivel
+  B2 (DigComp).
+- Top 2 en Tecnología Educativa de España (Mundo Postgrado, 2026).
+- Título oficial con méritos para oposiciones docentes.
+
+## ¿Y en qué se diferencia del Máster en Innovación Educativa?
+
+Los dos son másteres oficiales online de la UAX de 60 ECTS, pero apuntan a
+cosas distintas. **Este máster es tecnológico**: programación, apps,
+robótica, gamificación, e-learning y seguridad digital — su pregunta es
+*cómo creo y uso tecnología en el aula*. El [Máster en Innovación
+Educativa](/programas/educacion/master-innovacion-educativa-online/) es
+**pedagógico y de gestión**: diseñar, liderar y evaluar proyectos de
+mejora en un centro, metodologías activas e inclusión — la tecnología es
+una asignatura, no el eje.
 
 ## Preguntas frecuentes
 
-**¿Qué universidad imparte Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes?**
-Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+**¿Qué universidad imparte el Máster en Tecnología Educativa y Competencias Digitales Docentes?**
+Lo imparte la Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
 
-**¿Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes es online o tengo que mudarme a Madrid?**
-Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+**¿Es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin mudarte ni tramitar visado de estudiante. Los exámenes pueden ser online o presenciales.
 
-**¿Cuánto dura Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes?**
-Dura 9 meses y son 60 créditos ECTS.
+**¿Cuánto dura?**
+Dura 9 meses y son 60 créditos ECTS. Empieza en octubre.
 
-**¿Cuándo empieza Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes?**
-La próxima convocatoria empieza en Octubre (año exacto a confirmar). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+**¿Sirve para oposiciones?**
+Sí: al ser un máster universitario oficial aporta méritos baremables en las oposiciones de Maestros y Secundaria, según las bases de cada convocatoria.
 
-**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
-Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+**¿Necesito saber programar?**
+No. El máster te enseña a programar y a crear tus propias aplicaciones educativas a lo largo del curso.
 
 **¿Puedo convalidar créditos de estudios que ya cursé?**
-Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
-
-**¿Qué pasa si este programa no es exactamente lo que busco?**
-Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+Depende de tu expediente. Escribinos por WhatsApp con tu plan de estudios: lo revisamos y te decimos qué podrían reconocerte antes de que te matricules.
 
 ## Llamada a la acción
 
-> ¿Querés liderar la transformación digital en el aula con un título
-> oficial reconocido? Escribinos por WhatsApp al **+34 677 055 769** y te
-> ayudamos con la admisión, el visado de estudiante y la gestión de la
-> matrícula.
+> ¿Querés llevar la tecnología al aula creando tus propias apps y
+> proyectos? Escribinos por WhatsApp al **+34 677 055 769** y te
+> ayudamos con la admisión y la matrícula.
 
 ---
-*Nota interna (no publicar) — ACTUALIZACIÓN 20/10/2026: el cliente confirmó que
-este máster y el "Postgrado en Tecnología Educativa" son **programas distintos**;
-no fusionar. Lo que sigue sobre un posible duplicado queda superado.
-
-Contexto histórico, leer junto con
-`postgrado-tecnologia-educativa.md`: este programa vivía en el catálogo
-original **sin categoría asignada** (fuera de Educación), a diferencia del
-resto del lote — se incorpora a Educación por instrucción explícita del
-cliente para esta tanda de fichas.
-
-Al buscar el snippet de estudiaenmadrid.com para este nombre exacto, se
-encontraron **dos URLs distintas para el mismo contenido**:
-`estudiaenmadrid.com/programas/educacion__trashed/master-oficial-en-tecnologia-educativa-y-competencias-digitales-para-docentes/`
-(nótese "educacion__trashed" — indicio de que en algún momento del
-historial del sitio esta página estuvo categorizada en Educación y fue
-retirada/eliminada de esa categoría) y
-`estudiaenmadrid.com/programas/master-oficial-en-tecnologia-educativa-y-competencias-digitales-para-docentes/`
-(sin categoría en la URL, que es probablemente la versión "sin categoría"
-a la que se refiere el encargo original). Ambas URLs devolvieron el mismo
-snippet de contenido.
-
-Adicionalmente, se investigó específicamente si este máster es el mismo
-programa que "Postgrado en Tecnología Educativa" (programa #11 de este
-mismo lote). Toda la evidencia recogida (ver nota interna completa en
-`postgrado-tecnologia-educativa.md`) apunta a que **es el mismo programa
-de la UAX**, nombrado de dos formas distintas: la UAX titula la versión en
-inglés de este máster como "Postgraduate Course in Online Educational
-Technology", que equivale a "Postgrado en Tecnología Educativa", y no se
-encontró evidencia de que existan dos productos formativos distintos
-(uno de nivel "postgrado" propio y otro "máster universitario" oficial)
-en el área de tecnología educativa de la UAX.
-
-**Conclusión de esta sesión: se trata, con alta probabilidad, de un
-duplicado real dentro del propio catálogo/sitio de Estudia en Madrid** —
-tanto a nivel de contenido (dos URLs con el mismo snippet) como de
-nombre comercial (Postgrado en Tecnología Educativa = Máster Oficial en
-Tecnología Educativa y Competencias Digitales para Docentes). **Se
-redactaron igualmente ambas fichas por pedido explícito**, pero se
-recomienda fuertemente al cliente decidir una sola URL/ficha final antes
-de publicar, para evitar contenido duplicado, confusión de categoría y
-canibalización SEO entre las dos versiones. Precio y fecha exacta de
-inicio: pendientes de confirmar.*
+*Nota interna (no publicar): 20/10/2026 — ficha reescrita con el PDF
+oficial de la UAX que envió el cliente (plan de estudios con códigos
+M120800-M120813, Top 2 Mundo Postgrado 2026, 9/10, DigComp B2, +700
+convenios de prácticas, Facultad de Ciencias de la Educación). El cliente
+confirmó que es un programa distinto del Máster Universitario Online en
+Innovación Educativa (ficha `master-innovacion-educativa-online.md`). El
+PDF mencionaba "Hasta 35% de ayuda al estudio antes del 18/10": no se
+publicó por ser una promoción con fecha. Precio de convenio: pendiente.*

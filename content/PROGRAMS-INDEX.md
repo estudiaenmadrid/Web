@@ -19,7 +19,7 @@
 > - **Instituto de técnicos superiores (contacto: Mayra)** — el cliente
 >   decidió **dejarlo fuera** del catálogo.
 > - **Se eliminó Máster en Psicopedagogía presencial** (ver #7).
-> - **Postgrado y Máster en Tecnología Educativa son programas distintos**
+> - **Tecnología Educativa e Innovación Educativa (UAX) son dos másteres distintos**
 >   (confirmado por el cliente, ver #8).
 >
 > ⚠️ **Confirmado por el cliente — Estudia en Madrid SOLO ofrece los grados
@@ -72,13 +72,14 @@
    España, lo que la hace muy difícil de matricular para estudiantes
    latinoamericanos. Queda solo la ficha online (UAX). La URL vieja hace
    301 a la online (`public/.htaccess`).
-8. **"Postgrado en Tecnología Educativa" vs. "Máster Oficial en Tecnología
-   Educativa y Competencias Digitales para Docentes"** (Educación) — el
-   cliente confirmó el 20/10/2026 que **son programas distintos** (no
-   fusionar). La ficha del postgrado tenía copiados los datos del máster
-   (60 ECTS, 9 meses, título oficial, ranking): se retiraron y quedan como
-   "a confirmar". **Pendiente:** que el cliente mande los datos reales del
-   postgrado (duración, créditos, modalidad, tipo de título, precio).
+8. ~~**"Postgrado en Tecnología Educativa"**~~ — **RESUELTO (20/10/2026):**
+   el cliente envió los PDF oficiales de los dos programas reales de la
+   UAX: **Máster en Tecnología Educativa y Competencias Digitales Docentes**
+   (tecnológico: programación, apps, robótica) y **Máster Universitario
+   Online en Innovación Educativa** (pedagógico: proyectos de mejora,
+   liderazgo, inclusión). Se publicaron como fichas separadas; la ficha del
+   "postgrado" (sin datos propios) se eliminó con 301 a Innovación
+   Educativa.
 9. ~~**Robótica (UCJC)** (Ingeniería)~~ — **RESUELTO: el cliente confirmó
    que no hay convenio con UCJC.** Se eliminó `ingenieria/grado-robotica.md`
    y la ficha de universidad de UCJC por completo (no se reasignó a UAX
@@ -174,8 +175,8 @@ detalle de qué falta específicamente.
 | Máster Universitario en Neuropsicología Aplicada a la Educación | UAX | `educacion/master-neuropsicologia-aplicada-educacion.md` |
 | Máster Universitario en Educación Emocional | UAX | `educacion/master-educacion-emocional.md` |
 | Máster Universitario en Liderazgo y Dirección de Centros Educativos | UAX (confianza media, UNIR tiene uno igual de nombre) | `educacion/master-liderazgo-direccion-centros-educativos.md` |
-| Postgrado en Tecnología Educativa | UAX — programa distinto del máster, datos pendientes (ver #8) | `educacion/postgrado-tecnologia-educativa.md` |
-| Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes | UAX (distinto del postgrado, ver #8) | `educacion/master-tecnologia-educativa-competencias-digitales-docentes.md` |
+| Máster Universitario Online en Innovación Educativa | UAX (PDF oficial del cliente, ver #8) | `educacion/master-innovacion-educativa-online.md` |
+| Máster Universitario en Tecnología Educativa y Competencias Digitales Docentes | UAX (PDF oficial del cliente, ver #8) | `educacion/master-tecnologia-educativa-competencias-digitales-docentes.md` |
 
 ## Excluidos del catálogo (no son parte de la oferta real de la agencia)
 
