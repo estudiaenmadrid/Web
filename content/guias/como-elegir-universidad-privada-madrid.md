@@ -23,11 +23,11 @@ Todas las universidades privadas españolas necesitan aprobación del Ministerio
 
 ### 2. Antigüedad y trayectoria, no solo marketing
 
-Las cuatro universidades con las que trabajamos fueron fundadas entre 1993 y 2000 — ninguna es un proyecto improvisado, aunque todas son relativamente jóvenes comparadas con la Complutense (fundada en el siglo XIII) o la Autónoma de Madrid. Eso no las hace peores: significa que compiten mostrando resultados concretos (empleabilidad, instalaciones, alianzas con empresas) en vez de apoyarse solo en la tradición. Cuando evalúes una universidad, buscá datos verificables — certificaciones como QS Stars, rankings de terceros, o cifras de empleabilidad publicadas por la propia universidad — más que el discurso de marketing.
+Las tres universidades con las que trabajamos fueron fundadas entre 1993 y 1995 — ninguna es un proyecto improvisado, aunque todas son relativamente jóvenes comparadas con la Complutense (fundada en el siglo XIII) o la Autónoma de Madrid. Eso no las hace peores: significa que compiten mostrando resultados concretos (empleabilidad, instalaciones, alianzas con empresas) en vez de apoyarse solo en la tradición. Cuando evalúes una universidad, buscá datos verificables — certificaciones como QS Stars, rankings de terceros, o cifras de empleabilidad publicadas por la propia universidad — más que el discurso de marketing.
 
 ### 3. Especialidad real por área, no oferta genérica
 
-En nuestro catálogo, esto se ve clarísimo: la oferta de Derecho se concentra sobre todo en Nebrija, con CEU San Pablo aportando programas puntuales de especialización como Criminalística. Robótica, en cambio, solo la ofrece Camilo José Cela (UCJC), coherente con su apuesta declarada por tecnología e innovación. UAX es la más grande del catálogo, con oferta en Ingeniería, Salud, Administración y Educación, y un campus propio de más de un millón de metros cuadrados pensado para carreras con fuerte componente práctico. Esto significa que la "mejor" universidad cambia según qué quieras estudiar — no hay una respuesta única.
+En nuestro catálogo, esto se ve clarísimo: la oferta de Derecho se concentra sobre todo en Nebrija, con CEU San Pablo aportando programas puntuales de especialización como Criminalística. UAX es la más grande del catálogo, con oferta en Ingeniería, Salud, Administración y Educación, y un campus propio de más de un millón de metros cuadrados pensado para carreras con fuerte componente práctico. Esto significa que la "mejor" universidad cambia según qué quieras estudiar — no hay una respuesta única.
 
 ### 4. Modalidad real, no la que asumís
 

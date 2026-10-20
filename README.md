@@ -55,6 +55,6 @@ marcador "A CONFIRMAR" o como placeholder, en vez de inventarse:
 - Guías/artículos del blog — la sección `/guias` está lista (tabs,
   filtros, grid) pero sin contenido publicado todavía.
 
-El número de universidades con convenio (4: UAX, Nebrija, CEU San Pablo,
-UCJC) y el conteo de programas por área/universidad se calculan en vivo
-desde `content/programas/`, no están hardcodeados.
+El número de universidades con convenio (3: UAX, Nebrija, CEU San Pablo)
+y el conteo de programas por área/universidad se calculan en vivo desde
+`content/programas/`, no están hardcodeados.

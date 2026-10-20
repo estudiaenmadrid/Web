@@ -6,7 +6,7 @@ categoria: Universidades
 resumen: "La escala de 0 a 10, qué significa cada tramo, y qué es exactamente la Matrícula de Honor que tanto se menciona y poco se explica."
 fecha_publicacion: "2026-10-16"
 ultima_actualizacion: "2026-10-16"
-fuente: "WebSearch (upv.es, uam.es, normativa de Grado de la Universidad de Cantabria, tesify.es) contrastado contra el Real Decreto 1125/2003 (BOE); la política exacta de Matrícula de Honor de UAX, Nebrija, CEU San Pablo y UCJC no está confirmada — se presenta el marco general del RD, no el reglamento interno de cada universidad convenida"
+fuente: "WebSearch (upv.es, uam.es, normativa de Grado de la Universidad de Cantabria, tesify.es) contrastado contra el Real Decreto 1125/2003 (BOE); la política exacta de Matrícula de Honor de UAX, Nebrija y CEU San Pablo no está confirmada — se presenta el marco general del RD, no el reglamento interno de cada universidad convenida"
 ---
 
 # Cómo se califica en las universidades españolas
@@ -41,7 +41,7 @@ En la práctica, algunas universidades son bastante más restrictivas que
 ese 5% legal — es una decisión interna de cada centro y de cada profesor,
 así que no asumas que vas a entrar en el cupo solo por sacar más de 9. La
 política exacta de cada una de nuestras universidades convenidas (UAX,
-Nebrija, CEU San Pablo, UCJC) la confirmamos caso por caso.
+Nebrija, CEU San Pablo) la confirmamos caso por caso.
 
 **La ventaja real de la MH:** quien la obtiene no paga la matrícula de esa
 misma cantidad de créditos en el curso siguiente — es, en los hechos, una

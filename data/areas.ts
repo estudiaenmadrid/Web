@@ -42,9 +42,9 @@ export const AREAS: Area[] = [
     name: "Ingeniería",
     num: "03",
     intro:
-      "La oferta más amplia: informática, aeroespacial, biomédica, IA y robótica, con laboratorios propios y prácticas en empresa.",
+      "La oferta más amplia: informática, aeroespacial, biomédica, IA y diseño industrial, con laboratorios propios y prácticas en empresa.",
     extended:
-      "Es el área más grande del catálogo, con UAX como universidad principal (informática, IA, biomédica, aeroespacial y más) y Universidad Camilo José Cela para Robótica. La mayoría de los grados son presenciales con laboratorios propios, mientras que buena parte de los másteres —Big Data, Bioinformática, Energías Renovables— se cursan online.",
+      "Es el área más grande del catálogo, con la UAX como universidad convenida para toda la oferta (informática, IA, biomédica, aeroespacial y más). La mayoría de los grados son presenciales con laboratorios propios, mientras que buena parte de los másteres —Big Data, Bioinformática, Energías Renovables— se cursan online.",
     headingSize: "clamp(38px,9.6vw,148px)",
   },
   {

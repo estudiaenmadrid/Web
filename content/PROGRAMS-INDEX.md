@@ -67,14 +67,15 @@
    evidencia fuerte de que es el **mismo programa UAX** con dos URLs
    distintas en el sitio actual (una de ellas retirada de la categoría
    Educación). Recomendado fusionar en una sola ficha antes de publicar.
-9. **Robótica (UCJC)** (Ingeniería) — universidad nueva, fuera del patrón
-   habitual del catálogo (UAX, CEU San Pablo, Nebrija). Confirmar que
-   Estudia en Madrid realmente tiene convenio con UCJC.
+9. ~~**Robótica (UCJC)** (Ingeniería)~~ — **RESUELTO: el cliente confirmó
+   que no hay convenio con UCJC.** Se eliminó `ingenieria/grado-robotica.md`
+   y la ficha de universidad de UCJC por completo (no se reasignó a UAX
+   por no haber evidencia de que la UAX dicte ese grado).
 10. **Varios programas sin página indexada en el sitio actual**: Grado en
     Fisioterapia, Grado en CAFYD (ambos standalone), Máster en Dirección y
-    Gestión Sanitaria eHealth, Grado en Robótica, Grado en Diseño
-    Industrial. Confirmar si ya existen en el sitio (no indexadas) o si
-    son contenido enteramente nuevo a publicar.
+    Gestión Sanitaria eHealth, Grado en Diseño Industrial. Confirmar si ya
+    existen en el sitio (no indexadas) o si son contenido enteramente nuevo
+    a publicar.
 
 **Ningún precio de programa está confirmado** salvo Odontología Digital
 (dato directo del cliente). Fechas de inicio exactas y planes de estudio
@@ -121,7 +122,6 @@ detalle de qué falta específicamente.
 | Doble Grado en Ingeniería Matemática e Informática | UAX | `ingenieria/doble-grado-ingenieria-matematica-informatica.md` |
 | Grado en Física | UAX | `ingenieria/grado-fisica.md` |
 | Grado en Inteligencia Artificial | UAX | `ingenieria/grado-inteligencia-artificial.md` |
-| Grado en Robótica | UCJC (confirmar convenio, ver #9) | `ingenieria/grado-robotica.md` |
 | Grado en Diseño Industrial y Desarrollo de Producto | UAX (fusionado con "Diseño de Producto", ver #5) | `ingenieria/grado-diseno-industrial.md` |
 | **Grado en Animación** | 🟠 **Pendiente de confirmar (ni UDIT ni U-tad, ver #6)** | `ingenieria/grado-animacion.md` |
 | Máster en Ingeniería Industrial | UAX | `ingenieria/master-ingenieria-industrial.md` |

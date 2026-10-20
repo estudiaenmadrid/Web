@@ -73,6 +73,8 @@
   Redirect 301 /programas/salud/tecnico-en-farmacia-y-parafarmacia /programas/salud
   Redirect 301 /master-educacion-inclusiva-online /programas/educacion
   Redirect 301 /grados-y-maestrias/estados-unidos/maestrias-en-estados-unidos/master-en-innovacion-digital-con-mencion-en-gobierno-electronico /
+  Redirect 301 /programas/ingenieria/grado-robotica /programas/ingenieria
+  Redirect 301 /universidades/ucjc /universidades
 
   # Old WordPress utility pages with no equivalent on this site.
   Redirect 301 /contacto /

@@ -142,7 +142,7 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
                   Conocé con quién trabajamos
                 </p>
                 <p className="text-[14px] leading-[1.5] text-ink-soft">
-                  Las 4 universidades privadas con convenio directo.
+                  Las 3 universidades privadas con convenio directo.
                 </p>
               </div>
             </Link>

@@ -34,9 +34,9 @@ Ninguna de estas la tramitamos nosotros directamente — son programas externos 
 Esto es lo que sí conocemos de cerca porque trabajamos directo con las universidades:
 
 - **Universidad Nebrija** tiene un programa específico para estudiantes latinoamericanos, en alianza con la Fundación Beca: según su información pública, ofrece becas de hasta el 30% para programas de posgrado y hasta el 10% para el primer año de grado.
-- **UAX, CEU San Pablo y UCJC** también tienen programas de becas y ayudas internas, pero no encontramos cifras específicas y verificadas para estudiantes internacionales en esta investigación — varían por programa, convocatoria y perfil del estudiante, así que te las confirmamos caso por caso antes de que te matricules.
+- **UAX y CEU San Pablo** también tienen programas de becas y ayudas internas, pero no encontramos cifras específicas y verificadas para estudiantes internacionales en esta investigación — varían por programa, convocatoria y perfil del estudiante, así que te las confirmamos caso por caso antes de que te matricules.
 
-Además de estas becas por mérito o nacionalidad, casi todas las universidades tienen descuentos por otros motivos (por ejemplo, UCJC ofrece un descuento del 10% para quienes se empadronan en el municipio de su campus principal) — no son exclusivos para estudiantes internacionales, pero pueden sumar si aplican a tu situación.
+Además de estas becas por mérito o nacionalidad, varias universidades tienen descuentos por otros motivos (por ejemplo, por empadronarte en el municipio de su campus) — no son exclusivos para estudiantes internacionales, pero pueden sumar si aplican a tu situación.
 
 ## Cómo lo trabajamos nosotros
 

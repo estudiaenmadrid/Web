@@ -17,7 +17,7 @@ import { pageMetadata } from "@/lib/seo";
 export const metadata: Metadata = pageMetadata({
   title: "Universidades privadas de Madrid con convenio",
   description:
-    "Universidad Alfonso X el Sabio (UAX), Nebrija, CEU San Pablo y UCJC: universidades privadas españolas con convenio directo con Estudia en Madrid para grados y másteres.",
+    "Universidad Alfonso X el Sabio (UAX), Nebrija y CEU San Pablo: universidades privadas españolas con convenio directo con Estudia en Madrid para grados y másteres.",
   path: "/universidades",
 });
 

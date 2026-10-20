@@ -83,30 +83,6 @@ export const UNIVERSITIES: UniversityProfile[] = [
       "La recomendamos para especializaciones puntuales dentro de Derecho que no cubre nuestra otra universidad convenida del área — es el caso del Máster en Criminalística, uno de los programas que más consultas recibe en esa área.",
     officialUrl: "https://www.uspceu.com",
   },
-  {
-    slug: "ucjc",
-    displayName: "Universidad Camilo José Cela (UCJC)",
-    shortName: "UCJC",
-    founded: "2000",
-    foundedNote: "fundada por Felipe Segovia Olmo, de la Institución Educativa SEK",
-    campuses: [
-      {
-        name: "Madrid-Villafranca",
-        note: "campus principal en Villafranca del Castillo, 100.000 m², con residencias y el UCJC Sports Club",
-      },
-      { name: "Campus Almagro", note: "sede urbana en un edificio histórico de 1931 en Madrid" },
-      { name: "Campus Castellana", note: "sede de reciente apertura, con estándares altos de sostenibilidad" },
-    ],
-    accreditation:
-      "Universidad privada independiente con más de 40 grados oficiales y más de 140 posgrados entre oficiales y propios. Sus ejes estratégicos declarados son emprendimiento e innovación, tecnología y digitalización, e impacto social.",
-    about: [
-      "Su nombre honra al escritor Camilo José Cela, Premio Nobel de Literatura, quien colocó la primera piedra de la institución junto a su fundador, Felipe Segovia Olmo.",
-      "Dentro de nuestro catálogo es la universidad de referencia para Robótica, coherente con su apuesta declarada por la tecnología y la innovación como eje estratégico.",
-    ],
-    whyEEM:
-      "La recomendamos específicamente para Robótica: es la única de nuestras universidades convenidas con oferta propia en esa especialización dentro del área de Ingeniería.",
-    officialUrl: "https://www.ucjc.edu",
-  },
 ];
 
 export function getUniversityBySlug(slug: string): UniversityProfile | undefined {

@@ -23,6 +23,4 @@ export const CAMPUS_BY_UNIVERSITY: Record<string, string> = {
     "https://d8j0ntlcm91z4.cloudfront.net/user_34QWmygEkYOaE9WTVh75CuadBkH/hf_20260909_212821_d0d4e95c-dbef-4c20-8ba2-f39b590e3cdc.png",
   "Universidad CEU San Pablo":
     "https://d8j0ntlcm91z4.cloudfront.net/user_34QWmygEkYOaE9WTVh75CuadBkH/hf_20260909_212821_5c55e072-a16f-4552-bb26-e862b45cf901.png",
-  "Universidad Camilo José Cela (UCJC)":
-    "https://d8j0ntlcm91z4.cloudfront.net/user_34QWmygEkYOaE9WTVh75CuadBkH/hf_20260909_212821_3d440764-d0a6-462e-a9e0-04f5629a5529.png",
 };
