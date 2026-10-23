@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Reveal from "@/components/Reveal";
+import CookieSettingsButton from "@/components/CookieSettingsButton";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
 import { pageMetadata } from "@/lib/seo";
 
@@ -10,7 +11,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/privacidad",
 });
 
-const LAST_UPDATED = "18 de septiembre de 2026";
+const LAST_UPDATED = "23 de octubre de 2026";
 
 const SECTION_TITLES: Record<string, string> = {
   "01": "Quién es el responsable del tratamiento",
@@ -79,7 +80,7 @@ export default function PrivacidadPage() {
           <Reveal>
             <div className="bg-white border border-hair border-l-4 border-l-red-signal rounded-md p-5.5 sm:p-7">
               <p className="eem-prose m-0">
-                Resumen en un párrafo: este sitio no usa cookies de seguimiento ni publicidad, no vende tus datos a
+                Resumen en un párrafo: este sitio solo usa cookies de analítica (Google Analytics) si las aceptás, no usa publicidad, no vende tus datos a
                 nadie, y solo recogemos la información que vos mismo/a nos das cuando nos escribís por WhatsApp o
                 correo para pedir información sobre un programa. La usamos únicamente para responderte y gestionar tu
                 posible admisión — nada más.
@@ -118,8 +119,8 @@ export default function PrivacidadPage() {
             </ul>
             <p>
               No recogemos datos automáticamente a través de formularios en el sitio (no tenemos formularios de
-              contacto propios) ni mediante herramientas de analítica o publicidad — ver la sección de Cookies más
-              abajo.
+              contacto propios). Si aceptás las cookies de analítica, Google Analytics registra de forma estadística
+              cómo navegás el sitio — ver la sección de Cookies más abajo.
             </p>
           </Section>
 
@@ -145,14 +146,11 @@ export default function PrivacidadPage() {
               fines analíticos o publicitarios.
             </p>
             <p>
-              <strong>Este sitio no utiliza ninguna cookie</strong> — ni propia ni de terceros, ni técnica, ni de
-              analítica, ni de publicidad. No hay Google Analytics, Meta Pixel, ni ninguna otra herramienta de
-              seguimiento instalada.
-            </p>
-            <p>
-              Lo único que se guarda en tu navegador es una marca técnica local, usando{" "}
-              <code>sessionStorage</code> (una tecnología distinta de las cookies, que el sitio web controla pero que
-              nunca se envía a ningún servidor):
+              Este sitio <strong>solo usa cookies de analítica, y únicamente si las aceptás</strong> en el aviso que
+              aparece en tu primera visita. Usamos <strong>Google Analytics 4</strong> (Google Ireland Limited) para
+              saber, de forma estadística, cuántas personas visitan la web, desde qué país y qué páginas les resultan
+              útiles. No usamos cookies de publicidad ni Meta Pixel. Si rechazás, Google Analytics no se carga y no
+              se instala ninguna cookie.
             </p>
             <div className="overflow-x-auto">
               <table className="min-w-[560px]">
@@ -167,9 +165,33 @@ export default function PrivacidadPage() {
                 <tbody>
                   <tr>
                     <td>
+                      <code>_ga</code>
+                    </td>
+                    <td>Cookie de analítica de Google (terceros), solo con tu consentimiento</td>
+                    <td>Distinguir visitantes de forma anónima para las estadísticas de Google Analytics.</td>
+                    <td>2 años</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <code>_ga_V6X4XTWVTB</code>
+                    </td>
+                    <td>Cookie de analítica de Google (terceros), solo con tu consentimiento</td>
+                    <td>Mantener el estado de la sesión de Google Analytics.</td>
+                    <td>2 años</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <code>eem-cookie-consent</code>
+                    </td>
+                    <td>localStorage (técnico, no es una cookie)</td>
+                    <td>Recordar si aceptaste o rechazaste las cookies de analítica, para no volver a preguntarte.</td>
+                    <td>Hasta que borres los datos del navegador.</td>
+                  </tr>
+                  <tr>
+                    <td>
                       <code>eem-loader-shown</code>
                     </td>
-                    <td>sessionStorage (no es una cookie)</td>
+                    <td>sessionStorage (técnico, no es una cookie)</td>
                     <td>Recordar que ya viste la animación de carga inicial, para no repetirla en cada página durante la misma visita.</td>
                     <td>Se borra al cerrar la pestaña o el navegador.</td>
                   </tr>
@@ -177,19 +199,17 @@ export default function PrivacidadPage() {
               </table>
             </div>
             <p>
-              Esta marca no te identifica, no se comparte con nadie, y no tiene ningún propósito de seguimiento o
-              analítica — es puramente una preferencia visual de tu sesión actual. No necesita tu consentimiento
-              porque no es una cookie ni un dato personal.
+              Los datos de Google Analytics se tratan de forma agregada y con la IP anonimizada. Google puede tratarlos
+              fuera del Espacio Económico Europeo con las garantías previstas en su{" "}
+              <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">política de privacidad</a>.
             </p>
+            <p>Podés cambiar o retirar tu consentimiento en cualquier momento:</p>
+            <div>
+              <CookieSettingsButton />
+            </div>
             <p>
-              Como no usamos cookies, no hay nada que necesites desactivar. Si igual querés borrar ese dato local,
-              podés hacerlo desde la configuración de tu navegador (Configuración → Privacidad → Borrar datos de
-              navegación) o simplemente cerrando la pestaña.
-            </p>
-            <p>
-              Si en el futuro incorporamos cookies o herramientas de analítica o publicidad, vamos a actualizar esta
-              página, detallar aquí cada una en la tabla de arriba, y pedir tu consentimiento explícito antes de
-              activarlas — como exige la normativa (LSSI-CE y RGPD).
+              Si incorporamos otras cookies o herramientas, vamos a actualizar esta página y pedir tu consentimiento
+              antes de activarlas — como exige la normativa (LSSI-CE y RGPD).
             </p>
           </Section>
 

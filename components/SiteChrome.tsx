@@ -4,6 +4,7 @@ import Loader from "@/components/Loader";
 import PageTransition from "@/components/PageTransition";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import CookieConsent from "@/components/CookieConsent";
 import type { SearchEntry } from "@/lib/content";
 
 export default function SiteChrome({
@@ -21,6 +22,7 @@ export default function SiteChrome({
       <Header searchIndex={searchIndex} />
       <main className="flex-1">{children}</main>
       <Footer />
+      <CookieConsent />
     </div>
   );
 }
