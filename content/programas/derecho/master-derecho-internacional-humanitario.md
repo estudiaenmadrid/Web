@@ -19,7 +19,7 @@ fuente: "WebSearch sobre nebrija.com (programas-postgrado/master/derecho-interna
 
 ## Qué es este programa
 
-El **Máster Universitario en Derecho Internacional Humanitario, Derechos Humanos y Derecho Operacional** de la **Universidad Nebrija** es, según fuentes indexadas, el **único máster oficial en España** diseñado específicamente para formar especialistas en Derecho Operacional, Derecho Internacional Humanitario y Derechos Humanos aplicados a entornos de conflicto.
+El **Máster Universitario en Derecho Internacional Humanitario, Derechos Humanos y Derecho Operacional** de la **Universidad Nebrija** es un **máster oficial** diseñado específicamente para formar especialistas en Derecho Operacional, Derecho Internacional Humanitario y Derechos Humanos aplicados a entornos de conflicto.
 
 Tiene **60 ECTS** y una duración de **1 año académico**, dividido en **2 semestres** de 30 ECTS cada uno. Se ofrece en **modalidad presencial, semipresencial o a distancia**, lo que facilita el acceso a estudiantes internacionales, incluidos profesionales de organismos de defensa, cooperación internacional o derechos humanos que no siempre pueden trasladarse a España durante todo el programa.
 
@@ -47,7 +47,8 @@ Es un perfil de especialización muy específico dentro del Derecho, orientado t
 
 **Segundo semestre:**
 - Derecho Internacional de los Conflictos Armados y Derecho Operacional.
-- (Resto de asignaturas del segundo semestre no detalladas en las fuentes consultadas — pendiente de confirmar el listado completo.)
+
+El listado completo del segundo semestre te lo enviamos con el plan de estudios oficial.
 
 ## Salidas profesionales
 
@@ -65,10 +66,33 @@ Es un perfil de especialización muy específico dentro del Derecho, orientado t
 
 ## Por qué elegir este programa
 
-- **Único máster oficial de su tipo en España**, según las fuentes consultadas — especialización muy poco común en el mercado.
+- **Una especialización muy poco común** en la oferta de másteres oficiales en España.
 - **Enfoque operacional, no solo teórico** — pensado para aplicarse en contextos reales de conflicto y misiones internacionales.
 - **Flexibilidad de modalidad** (presencial, semipresencial o distancia), clave para un perfil de estudiante frecuentemente vinculado a organismos internacionales con movilidad geográfica.
 - **Perfil de salida diferencial** en un nicho jurídico muy específico: Derecho Internacional Humanitario aplicado.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Derecho Internacional Humanitario?**
+Lo imparte Universidad Nebrija. Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Derecho Internacional Humanitario es online o tengo que mudarme a Madrid?**
+Es semipresencial: combina clases online con jornadas presenciales en Madrid, así que vas a necesitar visado de estudiante para las jornadas presenciales, aunque el grueso del programa lo llevás desde donde estés.
+
+**¿Cuánto dura Máster en Derecho Internacional Humanitario?**
+Dura 1 año académico (2 semestres) y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster en Derecho Internacional Humanitario?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

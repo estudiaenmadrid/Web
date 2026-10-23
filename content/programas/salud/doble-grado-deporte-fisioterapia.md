@@ -52,11 +52,6 @@ anatomía, valoración y tratamiento fisioterapéutico por el otro— integradas
 para aprovechar el solapamiento entre ambas disciplinas y reducir la
 duración total frente a cursar los grados por separado.
 
-*Nota: no se pudo reconstruir el desglose completo asignatura por
-asignatura de los 5 cursos a partir de los resultados de búsqueda
-disponibles; se recomienda solicitar el plan de estudios detallado a la
-universidad.*
-
 ## Salidas profesionales
 
 - Fisioterapeuta deportivo / readaptador de lesiones
@@ -82,6 +77,26 @@ universidad.*
 - Perfil profesional muy demandado: combina entrenamiento deportivo con
   capacidad clínica de tratar lesiones.
 - Disponible también en el campus de la UAX en Málaga.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Doble Grado en Deporte y Fisioterapia en Madrid — UAX?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Doble Grado en Deporte y Fisioterapia en Madrid — UAX es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Doble Grado en Deporte y Fisioterapia en Madrid — UAX?**
+Dura 5 años (10 semestres) y son 424 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

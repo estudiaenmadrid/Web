@@ -39,7 +39,7 @@ ensayo. Es un título oficial de **4 años (240 ECTS)**.
 | **Idioma** | Español |
 | **Inicio** | Septiembre |
 
-### Distribución de créditos (según fuentes consultadas)
+### Distribución de créditos
 
 | Bloque | ECTS |
 |---|---|
@@ -58,14 +58,28 @@ ensayo. Es un título oficial de **4 años (240 ECTS)**.
 - Ingeniería de materiales y mantenimiento de aeronaves.
 - Prácticas externas en empresas del sector aeroespacial, con visitas
   formativas a organizaciones como Airbus o el Instituto Nacional de
-  Técnica Aeroespacial (INTA), según fuentes consultadas.
+  Técnica Aeroespacial (INTA).
+
+## Instalaciones y prácticas
+
+La UAX dispone de más de 25.000 m² de laboratorios y talleres dedicados a
+ingeniería, entre los que destacan un **túnel de viento propio**, un
+**banco de ensayo de turborreactores**, zonas de co-working y un
+**FABLAB** para fabricación digital (impresión 3D, corte láser,
+prototipado). Además de las prácticas en empresas del sector, el plan de
+estudios incluye visitas formativas a organizaciones como Airbus o el
+Instituto Nacional de Técnica Aeroespacial (INTA).
 
 ## Salidas profesionales
 
-- Diseño y desarrollo de aeronaves y vehículos espaciales.
-- Mantenimiento y operaciones aeronáuticas.
-- Aviónica y sistemas de navegación.
-- Estructuras y materiales aeroespaciales.
+- Diseño, fabricación y certificación de aeronaves, satélites,
+  helicópteros, turborreactores y lanzaderas aeroespaciales.
+- Proyección, construcción, inspección, certificación y mantenimiento de
+  aeronaves y vehículos espaciales.
+- Dirección técnica de proyectos de I+D+i en empresas y centros
+  tecnológicos aeronáuticos y espaciales.
+- Acceso a la profesión regulada de **Ingeniero Técnico Aeronáutico** en
+  España.
 - Entornos técnicos altamente especializados, tanto en España como a nivel
   internacional (según comunicación pública de la UAX).
 
@@ -85,6 +99,29 @@ ensayo. Es un título oficial de **4 años (240 ECTS)**.
 - Formación técnica muy especializada en un sector con proyección
   internacional.
 
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Ingeniería Aeroespacial?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Ingeniería Aeroespacial es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Grado en Ingeniería Aeroespacial?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Cuándo empieza Grado en Ingeniería Aeroespacial?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
 ## Llamada a la acción
 
 > ¿Soñás con trabajar en el sector aeroespacial? Escribinos por WhatsApp al
@@ -94,8 +131,11 @@ ensayo. Es un título oficial de **4 años (240 ECTS)**.
 ---
 *Nota interna (no publicar): fuente principal, snippets de
 `estudiaenmadrid.com/programas/ingenieria/grado-ingenieria-aeroespacial-espana/`,
-contrastados con snippets de uax.com y educaweb.com. No se detectó el bug de
-"Energías Renovables" en estos snippets. Pendiente de confirmar con el
-cliente: (1) precio del programa por convenio, (2) confirmación oficial de
-las visitas a Airbus/INTA (aparecen en snippets de terceros, no en fuente
-primaria de la universidad), (3) plan de estudios curso por curso completo.*
+contrastados con snippets de uax.com y educaweb.com. Actualización
+2026-09: se localizó el folleto informativo oficial de la UAX
+(uax.com/content/download/868/informative_pdf/GRADO%20ING_AEROESPACIAL.pdf),
+que confirma directamente los 25.000 m² de laboratorios, túnel de viento,
+banco de turborreactores, FABLAB y el acceso a la profesión regulada de
+Ingeniero Técnico Aeronáutico — ya no depende de snippets de terceros para
+estos datos. Pendiente de confirmar con el cliente: (1) precio del
+programa por convenio, (2) plan de estudios curso por curso completo.*

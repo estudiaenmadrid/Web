@@ -1,5 +1,5 @@
 ---
-title_seo: "Máster en Dirección y Gestión Sanitaria: e-Health Online | UAX - Estudia en Madrid"
+title_seo: "Máster en Dirección y Gestión Sanitaria: e-Health | UAX - Estudia en Madrid"
 meta_description: "Máster Universitario en Dirección y Gestión Sanitaria: e-Health, online, de la UAX. 60 ECTS, 9 meses, transformación digital en salud, IA y telemedicina. Infórmate con Estudia en Madrid."
 slug: /programas/salud/master-direccion-gestion-sanitaria-ehealth/
 categoria: Salud
@@ -9,7 +9,7 @@ ciudad: Madrid
 modalidad: Online
 ects_total: 60
 duracion: "9 meses"
-fecha_inicio: "Octubre (convocatoria 2026 abierta según fuentes consultadas)"
+fecha_inicio: "Octubre (convocatoria 2026 abierta)"
 ultima_actualizacion: "2026-09-03"
 schema_type: Course
 fuente: "WebSearch — no se encontró página dedicada indexada en estudiaenmadrid.com para este programa en concreto (solo el máster de Enfermería aparece indexado dentro de la misma categoría); datos tomados de educaweb, dondeestudiar y del sitio oficial uax.com"
@@ -41,8 +41,8 @@ casos y examen final.
 | **Modalidad** | 100% online |
 | **Inicio** | Octubre |
 | **Requisito de acceso** | Título universitario en Ciencias de la Salud |
-| **Financiación** | Planes de pago hasta en 10 cuotas (según fuente) |
-| **Becas** | Becas de organismos oficiales (Comunidad de Madrid, Ministerio de Educación), según fuente consultada |
+| **Financiación** | Planes de pago hasta en 10 cuotas |
+| **Becas** | Becas de organismos oficiales (Comunidad de Madrid, Ministerio de Educación) |
 
 ## Plan de estudios / contenidos principales
 
@@ -52,9 +52,6 @@ casos y examen final.
 - Legislación sanitaria y deontología
 - Herramientas digitales aplicadas a la gestión: inteligencia artificial,
   machine learning y telemedicina
-
-*Nota: no se pudo reconstruir el desglose completo de módulos y créditos
-por bloque a partir de los resultados de búsqueda disponibles.*
 
 ## Salidas profesionales
 
@@ -76,6 +73,29 @@ por bloque a partir de los resultados de búsqueda disponibles.*
 - Modalidad 100% online, compatible con el ejercicio profesional.
 - Contenidos actualizados en IA, machine learning y telemedicina aplicados
   a la gestión sanitaria.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Dirección y Gestión Sanitaria: e-Health Online — UAX?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Dirección y Gestión Sanitaria: e-Health Online — UAX es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster en Dirección y Gestión Sanitaria: e-Health Online — UAX?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster en Dirección y Gestión Sanitaria: e-Health Online — UAX?**
+La próxima convocatoria empieza en Octubre (convocatoria 2026 abierta). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

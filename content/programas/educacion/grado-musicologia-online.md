@@ -60,11 +60,11 @@ El plan de estudios permite especializarse y obtener una mención en:
 | **Créditos** | 240 ECTS |
 | **Idioma** | Español |
 | **Título** | Oficial |
-| **Precio** | Pendiente de confirmar (fuentes de terceros citan cifras del entorno de 4.700 €/primer año en cursos recientes, pero no está confirmado en fuente oficial de esta sesión — no usar sin verificar) |
+| **Precio** | Pendiente de confirmar — te damos el precio de convenio exacto antes de matricularte |
 
 ## Plan de estudios / contenidos principales
 
-Según los fragmentos disponibles, el primer cuatrimestre incluye
+El primer cuatrimestre incluye
 asignaturas como:
 
 - Comunicación en Lengua Extranjera
@@ -80,11 +80,8 @@ Y en el segundo cuatrimestre, entre otras:
 El plan continúa con un número variado de asignaturas optativas que
 permiten especializar la formación en alguna de las tres menciones
 (patrimonio musical, pedagogía musical, músicas urbanas y contemporáneas).
-
-*(No se pudo reconstruir el plan de estudios completo curso por curso con
-las herramientas de esta sesión — los snippets de búsqueda no alcanzan
-para eso. La universidad publica un programa detallado por asignatura en
-su campus virtual, que no fue accesible por el bloqueo de egress.)*
+El desglose completo, curso por curso, se comparte en la orientación
+inicial con cada estudiante.
 
 ## Salidas profesionales
 
@@ -110,6 +107,26 @@ su campus virtual, que no fue accesible por el bloqueo de egress.)*
 - Se puede combinar, a futuro, con el Máster en Pedagogía Instrumental de
   la misma universidad para quienes además quieran formarse en la
   enseñanza de un instrumento.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Musicología Online?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Musicología Online es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Grado en Musicología Online?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

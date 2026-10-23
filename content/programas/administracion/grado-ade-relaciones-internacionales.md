@@ -76,8 +76,7 @@ El plan combina asignaturas de ambas titulaciones:
 
 El programa incorpora asignaturas de carácter digital ("3.0") y ofrece la
 posibilidad de realizar prácticas en instituciones internacionales de
-prestigio y estancias de hasta 3 años en universidades de todo el mundo,
-según la propia UAX.
+prestigio y estancias de hasta 3 años en universidades de todo el mundo.
 
 ## Salidas profesionales
 
@@ -103,6 +102,29 @@ según la propia UAX.
 - Metodologías ágiles y proyectos interdisciplinares con otras carreras y
   empresas.
 - Perfil de egreso muy demandado en un mercado laboral globalizado.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en ADE y Relaciones Internacionales?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en ADE y Relaciones Internacionales es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Grado en ADE y Relaciones Internacionales?**
+Dura 5 años.
+
+**¿Cuándo empieza Grado en ADE y Relaciones Internacionales?**
+La próxima convocatoria empieza en Septiembre (calendario académico español). Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

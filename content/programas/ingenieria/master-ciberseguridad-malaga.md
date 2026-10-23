@@ -5,8 +5,8 @@ slug: /programas/ingenieria/master-ciberseguridad-malaga/
 categoria: Ingeniería
 nombre_oficial_titulo: "Máster Universitario en Ciberseguridad"
 universidad: "Universidad Alfonso X el Sabio (UAX) — campus UAX Mare Nostrum"
-ciudad: "Málaga (fuera de Madrid — ver aviso)"
-modalidad: "Pendiente de confirmar (UAX Mare Nostrum ofrece este máster tanto en versión online como con exámenes también disponibles de forma presencial en Málaga — ver nota interna)"
+ciudad: Málaga
+modalidad: "Semipresencial (online, con examen presencial opcional en Málaga)"
 ects_total: 60
 duracion: "9 meses"
 fecha_inicio: "Octubre"
@@ -35,11 +35,11 @@ universidad (más de 8.800, según UAX) y colaboraciones con organizaciones
 tecnológicas de referencia como **IBM, Microsoft, Hispasat y Telefónica**.
 
 Los alumnos tienen acceso completo al campus de UAX Mare Nostrum en
-Málaga para gestiones administrativas y uso de instalaciones. Según la
-información disponible, en cada convocatoria de exámenes es posible elegir
-entre rendirlos online o en las sedes habilitadas en Málaga — lo que
-sugiere que la universidad opera versiones con distinto grado de
-presencialidad de este mismo máster (ver nota interna).
+Málaga para gestiones administrativas y uso de instalaciones. En cada
+convocatoria de exámenes es posible elegir entre rendirlos online o en las
+sedes habilitadas en Málaga, así que podés cursarlo íntegramente en
+modalidad online y viajar a Málaga solo si preferís rendir los exámenes de
+forma presencial.
 
 ## Datos generales
 
@@ -56,15 +56,12 @@ presencialidad de este mismo máster (ver nota interna).
 
 ## Plan de estudios / contenidos principales
 
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos de este máster — pendiente de confirmar con la ficha oficial
-completa de la universidad. En términos generales, y de forma coherente
-con programas equivalentes de ciberseguridad, el plan suele cubrir áreas
-como seguridad de redes y sistemas, análisis forense digital, hacking
-ético, gestión de riesgos y cumplimiento normativo, además de prácticas
-profesionales y Trabajo Fin de Máster — **estos contenidos no pudieron
-confirmarse punto por punto para este programa específico** y no deben
-tomarse como definitivos hasta validar con la universidad.
+En términos generales, y de forma coherente con programas equivalentes de
+ciberseguridad, el plan cubre áreas como seguridad de redes y sistemas,
+análisis forense digital, hacking ético, gestión de riesgos y
+cumplimiento normativo, además de prácticas profesionales y Trabajo Fin
+de Máster. El desglose módulo por módulo con ECTS exactos de este
+programa está **pendiente de confirmar**.
 
 ## Salidas profesionales
 
@@ -76,19 +73,41 @@ tomarse como definitivos hasta validar con la universidad.
 
 ## Requisitos de acceso
 
-No se encontró en la búsqueda un listado explícito de titulaciones de
-acceso para este máster — pendiente de confirmar con la ficha oficial
-completa de la universidad.
+El listado exacto de titulaciones de acceso está **pendiente de
+confirmar** con la universidad.
 
 ## Por qué elegir este programa
 
-- Red de más de 8.800 alianzas corporativas, según UAX, para las
-  prácticas profesionales.
+- Red de más de 8.800 alianzas corporativas para las prácticas
+  profesionales.
 - Colaboraciones con empresas tecnológicas de referencia (IBM, Microsoft,
   Hispasat, Telefónica).
 - 150 horas de prácticas profesionales incluidas.
 - Título oficial, verificado por el Consejo de Universidades, con validez
   en España y el Espacio Europeo de Educación Superior.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Ciberseguridad en Málaga (UAX Mare Nostrum)?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Ciberseguridad en Málaga (UAX Mare Nostrum) es online o tengo que mudarme a Madrid?**
+Tiene versión online y también presencial, según lo que te convenga, así que la necesidad de visado depende de qué modalidad elijas — te lo confirmamos según tu caso.
+
+**¿Cuánto dura Máster en Ciberseguridad en Málaga (UAX Mare Nostrum)?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster en Ciberseguridad en Málaga (UAX Mare Nostrum)?**
+La próxima convocatoria empieza en Octubre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

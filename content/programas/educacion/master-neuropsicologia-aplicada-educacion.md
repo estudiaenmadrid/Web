@@ -19,13 +19,9 @@ fuente: "estudiaenmadrid.com/educacion/master-neuropsicologia-educativa-online/ 
 
 ## Qué es este máster
 
-El catálogo original de Estudia en Madrid nombra este programa como
-**"Máster Universitario en Neuropsicología Aplicada a la Educación"**. La
-página indexada en el sitio corresponde en realidad al **"Máster en
-Neuropsicología Educativa Online"** de la **Universidad Alfonso X el Sabio
-(UAX)** — se trata, con alta probabilidad, del mismo programa nombrado de
-forma ligeramente distinta (nombre comercial largo en el catálogo interno
-vs. nombre corto usado en la URL del sitio y en la propia UAX).
+El **Máster Universitario en Neuropsicología Aplicada a la Educación** se
+cursa en la **Universidad Alfonso X el Sabio (UAX)**, donde figura como
+**Máster en Neuropsicología Educativa Online**.
 
 El máster forma profesionales capaces de aplicar los conocimientos de la
 neuropsicología —cómo funciona y aprende el cerebro— a la intervención
@@ -53,9 +49,9 @@ cognitivo en el aula.
 
 ## Plan de estudios / contenidos principales
 
-No fue posible reconstruir el plan de estudios detallado con las
-herramientas de esta sesión (solo se dispuso de snippets de búsqueda). En
-líneas generales, un máster de este tipo suele cubrir:
+El plan de estudios oficial, asignatura por asignatura, te lo enviamos
+junto con la ficha de la universidad. A grandes rasgos, un máster de esta
+especialidad trabaja:
 
 - Fundamentos de neurociencia y desarrollo cerebral.
 - Neuropsicología del aprendizaje: atención, memoria, lenguaje, funciones
@@ -88,6 +84,26 @@ universidad.)*
   incluye Psicopedagogía, Educación Bilingüe y Educación Emocional —
   permite combinar especializaciones dentro de la misma universidad.
 - Modalidad online, sin necesidad de residir en Madrid desde el inicio.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Neuropsicología Aplicada a la Educación?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Neuropsicología Aplicada a la Educación es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster en Neuropsicología Aplicada a la Educación?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

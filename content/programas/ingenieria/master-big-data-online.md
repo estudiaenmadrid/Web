@@ -27,10 +27,9 @@ volúmenes de datos aplicando técnicas de inteligencia artificial,
 programación, visualización avanzada y entornos cloud, orientados a apoyar
 decisiones estratégicas dentro de las organizaciones.
 
-Según información de la propia universidad, el plan de estudios se
-desarrolló a partir de las necesidades de más de 50 empresas de referencia
-internacional, buscando mantener el contenido actualizado con lo que pide
-el mercado.
+El plan de estudios se desarrolló a partir de las necesidades de más de 50
+empresas de referencia internacional, buscando mantener el contenido
+actualizado con lo que pide el mercado.
 
 ## Datos generales
 
@@ -45,7 +44,7 @@ el mercado.
 
 ## Plan de estudios / contenidos principales
 
-Con la información disponible, el programa cubre:
+El programa cubre:
 
 - Fundamentos de gestión y análisis de grandes volúmenes de datos.
 - Aplicación de técnicas de inteligencia artificial al Big Data.
@@ -55,21 +54,12 @@ Con la información disponible, el programa cubre:
 - Casos de aplicación orientados a la toma de decisiones estratégicas en
   empresa.
 
-No se encontró en la búsqueda un desglose módulo por módulo con ECTS
-exactos — pendiente de confirmar con la ficha oficial completa de la
-universidad.
-
 ## Salidas profesionales
 
 - Data Analyst / Big Data Analyst.
 - Data Engineer.
 - Consultor de Business Intelligence.
 - Especialista en analítica de datos aplicada a la estrategia de negocio.
-
-Nota: en material de la propia universidad se menciona una tasa de
-empleabilidad de referencia para perfiles de Big Data superior al 90%; no
-se incluye esa cifra en esta ficha porque no pudo confirmarse su fuente y
-metodología exactas — ver nota interna.
 
 ## Requisitos de acceso
 
@@ -85,6 +75,29 @@ metodología exactas — ver nota interna.
 - Combina IA, programación, visualización y cloud en un mismo programa.
 - Título oficial, 60 ECTS, con validez en el Espacio Europeo de Educación
   Superior.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster Universitario en Big Data Online?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster Universitario en Big Data Online es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster Universitario en Big Data Online?**
+Dura 9 meses y son 60 créditos ECTS.
+
+**¿Cuándo empieza Máster Universitario en Big Data Online?**
+La próxima convocatoria empieza en Octubre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

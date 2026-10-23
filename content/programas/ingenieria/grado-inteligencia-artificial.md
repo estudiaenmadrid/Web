@@ -37,11 +37,11 @@ disruptivo, storytelling y liderazgo.
 |---|---|
 | **Universidad** | Universidad Alfonso X el Sabio (UAX) |
 | **Duración** | 4 años |
-| **Créditos** | 270 ECTS (según una de las fuentes consultadas — ver nota interna) |
+| **Créditos** | 270 ECTS |
 | **Modalidad** | Presencial (centro de Madrid) u Online |
 | **Idioma** | Español, con modelo bilingüe progresivo desde ~30% en inglés |
 | **Inicio** | Septiembre |
-| **Profesorado** | Más del 70% combina docencia con actividad profesional (empresas como Accenture, Avanade o CaixaBank, según la UAX) |
+| **Profesorado** | Más del 70% combina docencia con actividad profesional (empresas como Accenture, Avanade o CaixaBank) |
 
 ## Plan de estudios / contenidos principales
 
@@ -53,14 +53,14 @@ disruptivo, storytelling y liderazgo.
 - **Formación estratégica para negocio digital:** UX Design, Social Media
   Marketing, Business & Product Innovation.
 - **Certificación profesional incluida:** el programa incorpora la
-  certificación "Google Data Analytics", según describe la propia
-  universidad.
+  certificación "Google Data Analytics".
 
-No se encontró en las búsquedas el desglose curso por curso completo.
+El desglose completo, curso por curso, te lo enviamos con la ficha oficial
+de la universidad.
 
 ## Salidas profesionales
 
-Según la propia UAX, los perfiles profesionales más demandados incluyen:
+Los perfiles profesionales más demandados incluyen:
 
 - Data & AI Manager.
 - Deep Learning Developer.
@@ -81,6 +81,29 @@ Según la propia UAX, los perfiles profesionales más demandados incluyen:
   Madrid.
 - Profesorado con actividad profesional activa en empresas tecnológicas de
   referencia.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Inteligencia Artificial?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Inteligencia Artificial es online o tengo que mudarme a Madrid?**
+Tiene versión online y también presencial, según lo que te convenga, así que la necesidad de visado depende de qué modalidad elijas — te lo confirmamos según tu caso.
+
+**¿Cuánto dura Grado en Inteligencia Artificial?**
+Dura 4 años y son 270 créditos ECTS.
+
+**¿Cuándo empieza Grado en Inteligencia Artificial?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

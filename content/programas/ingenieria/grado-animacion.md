@@ -4,13 +4,13 @@ meta_description: "Grado oficial en Animación en UDIT (Madrid): guion, diseño 
 slug: /programas/ingenieria/grado-animacion/
 categoria: Ingeniería
 nombre_oficial_titulo: "Grado en Animación"
-universidad: "UDIT (Universidad de Diseño, Innovación y Tecnología)"
+universidad: "Universidad de Diseño, Innovación y Tecnología (UDIT)"
 ciudad: Madrid
 modalidad: Presencial
 ects_total: 240
 duracion: "4 años"
 fecha_inicio: "Pendiente de confirmar"
-ultima_actualizacion: "2026-09-03"
+ultima_actualizacion: "2026-10-20"
 schema_type: Course
 fuente: WebSearch (udit.es/grado-en-animacion) — no se encontró snippet propio en estudiaenmadrid.com
 ---
@@ -60,6 +60,26 @@ plataformas digitales.
 - Suele valorarse (a confirmar) portafolio o prueba de aptitud artística,
   como en el resto de grados creativos de UDIT.
 
+## Preguntas frecuentes
+
+**¿Con qué universidad se cursa Grado en Animación?**
+La universidad todavía está pendiente de confirmar para esta ficha. Escribinos por WhatsApp y te damos la información actualizada antes de que decidas.
+
+**¿Grado en Animación es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Grado en Animación?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
+
 ## Llamada a la acción
 
 > ¿Te interesa formarte como animador/a profesional en Madrid? Escribinos
@@ -67,7 +87,7 @@ plataformas digitales.
 > visado de estudiante y toda la gestión para estudiar en Madrid.
 
 ---
-*Nota interna (no publicar): universidad corregida a **UDIT** — el
+*Nota interna (no publicar): 20/10/2026 — el cliente confirmó que UDIT SÍ es universidad con convenio (por dos años más), así que esta ficha se publica con UDIT. Historial: universidad corregida a **UDIT** — el
 candidato alternativo (U-tad) queda descartado porque Estudia en Madrid ya
 no trabaja con esa universidad, según indicación del cliente. Esto es
 consistente con el resto del catálogo de la categoría Tecnología, donde

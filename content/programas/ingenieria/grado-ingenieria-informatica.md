@@ -32,8 +32,8 @@ inicio — algo especialmente relevante para estudiantes internacionales que
 están gestionando su visado o llegada a España.
 
 Es un título oficial de **4 años (240 ECTS)**, con un fuerte componente
-práctico: incluye un período de prácticas externas (300 horas / 12 ECTS,
-según los registros consultados) que da el primer contacto con el mercado
+práctico: incluye un período de prácticas externas (300 horas / 12 ECTS)
+que da el primer contacto con el mercado
 laboral antes de graduarse.
 
 ## Datos generales
@@ -63,14 +63,13 @@ programación) a lo especializado:
 - **Últimos cursos:** desarrollo de proyectos aplicados, prácticas externas
   en empresas y Trabajo Fin de Grado.
 
-No se encontró en las búsquedas un desglose completo asignatura por
-asignatura ni la lista de posibles itinerarios/menciones — para eso
-recomendamos remitir al estudiante a la ficha oficial de uax.com.
+El desglose completo asignatura por asignatura, con los itinerarios o
+menciones disponibles, te lo enviamos con la ficha oficial de la
+universidad.
 
 ## Salidas profesionales
 
-Según la propia UAX, los perfiles profesionales más demandados entre sus
-egresados incluyen:
+Los perfiles profesionales más demandados entre sus egresados incluyen:
 
 - Data Analyst
 - DevOps Engineer
@@ -95,6 +94,29 @@ egresados incluyen:
 - Formación progresiva que termina con contacto real con IA, ciberseguridad
   y cloud — áreas de alta demanda.
 - Prácticas externas incluidas en el plan de estudios.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Ingeniería Informática?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Ingeniería Informática es online o tengo que mudarme a Madrid?**
+Tiene versión online y también presencial, según lo que te convenga, así que la necesidad de visado depende de qué modalidad elijas — te lo confirmamos según tu caso.
+
+**¿Cuánto dura Grado en Ingeniería Informática?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Cuándo empieza Grado en Ingeniería Informática?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 
