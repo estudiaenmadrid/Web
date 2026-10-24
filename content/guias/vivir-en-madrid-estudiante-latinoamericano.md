@@ -36,7 +36,7 @@ Buscar piso a distancia, antes de viajar, es el momento de mayor riesgo de estaf
 2. **Empadronarte**: es el primer trámite administrativo, obligatorio, y requisito para pedir tu TIE después.
 3. **Abrir una cuenta bancaria española**: la vas a necesitar para el alquiler, la matrícula y el día a día — la mayoría de los bancos piden tu TIE o al menos tu NIE para abrirla, así que conviene resolver esto en las primeras semanas.
 4. **Sacar un número de teléfono español**: lo vas a necesitar para trámites, para el banco y para el día a día.
-5. **Conocer el transporte público**: el Abono Joven de la Comunidad de Madrid (para menores de cierta edad, a confirmar el límite vigente) suele ser mucho más económico que pagar viaje por viaje — vale la pena averiguarlo apenas llegás.
+5. **Conocer el transporte público**: si tenés menos de 26 años, el Abono Joven de la Comunidad de Madrid te da viajes ilimitados en toda la red por mucho menos que pagar viaje por viaje — te explicamos cómo sacarlo en nuestra [guía de transporte en Madrid](/guias/transporte-publico-madrid-abono-joven-estudiantes/).
 
 ## Lo que nadie te cuenta: el primer mes es el más caro
 
