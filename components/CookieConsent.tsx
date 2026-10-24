@@ -2,34 +2,19 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-
-export const GA_MEASUREMENT_ID = "G-V6X4XTWVTB";
-export const CONSENT_KEY = "eem-cookie-consent";
+import { CONSENT_KEY } from "@/lib/analytics";
 
 type Consent = "granted" | "denied";
 
 declare global {
   interface Window {
-    dataLayer?: unknown[];
     gtag?: (...args: unknown[]) => void;
   }
 }
 
-/** Loads Google Analytics only after the visitor accepts — nothing is requested from Google before that (RGPD / LSSI-CE). */
-function loadAnalytics() {
-  if (window.gtag) return;
-  window.dataLayer = window.dataLayer || [];
-  window.gtag = function gtag() {
-    // gtag.js expects the Arguments object itself, not an array.
-    // eslint-disable-next-line prefer-rest-params
-    window.dataLayer!.push(arguments);
-  };
-  window.gtag("js", new Date());
-  window.gtag("config", GA_MEASUREMENT_ID, { anonymize_ip: true });
-  const s = document.createElement("script");
-  s.async = true;
-  s.src = `https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`;
-  document.head.appendChild(s);
+/** The Google tag itself is in app/layout.tsx with analytics storage denied by default; this only flips consent. */
+function setAnalyticsConsent(consent: Consent) {
+  window.gtag?.("consent", "update", { analytics_storage: consent });
 }
 
 function readConsent(): Consent | null {
@@ -47,9 +32,8 @@ export default function CookieConsent() {
 
   useEffect(() => {
     const consent = readConsent();
-    if (consent === "granted") loadAnalytics();
     // eslint-disable-next-line react-hooks/set-state-in-effect -- localStorage is client-only, read once after mount.
-    else if (consent === null) setOpen(true);
+    if (consent === null) setOpen(true);
     const reopen = () => setOpen(true);
     window.addEventListener("eem-open-cookies", reopen);
     return () => window.removeEventListener("eem-open-cookies", reopen);
@@ -60,9 +44,7 @@ export default function CookieConsent() {
       localStorage.setItem(CONSENT_KEY, consent);
     } catch {}
     setOpen(false);
-    if (consent === "granted") loadAnalytics();
-    // Withdrawing consent after GA loaded: the next page load won't load it again.
-    else if (window.gtag) window.location.reload();
+    setAnalyticsConsent(consent);
   };
 
   if (!open) return null;

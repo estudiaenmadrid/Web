@@ -149,8 +149,9 @@ export default function PrivacidadPage() {
               Este sitio <strong>solo usa cookies de analítica, y únicamente si las aceptás</strong> en el aviso que
               aparece en tu primera visita. Usamos <strong>Google Analytics 4</strong> (Google Ireland Limited) para
               saber, de forma estadística, cuántas personas visitan la web, desde qué país y qué páginas les resultan
-              útiles. No usamos cookies de publicidad ni Meta Pixel. Si rechazás, Google Analytics no se carga y no
-              se instala ninguna cookie.
+              útiles. No usamos cookies de publicidad ni Meta Pixel. Mientras no aceptes (o si rechazás), Google
+              Analytics funciona en modo de consentimiento denegado: no instala ninguna cookie ni guarda
+              identificadores en tu navegador.
             </p>
             <div className="overflow-x-auto">
               <table className="min-w-[560px]">
