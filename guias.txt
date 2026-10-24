@@ -9,19 +9,566 @@
 :HL["/_next/static/media/a73419dd2ba2d841-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e41d5df559864f9e-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 6:X
-0:{"P":null,"c":["","guias"],"q":"","i":false,"f":[[["",{"children":["guias",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2duo-3cri4gbt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0plfe90stmqa7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1znfkmxi76kvx.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"archivo_41c7a93-module__Bxuc8q__variable dm_sans_ca805f44-module__n2fvTG__variable dm_mono_ed3df95c-module__D4oVwa__variable instrument_serif_bed06b21-module__swPsvG__variable","children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}\nvar c=null;try{c=localStorage.getItem(\"eem-cookie-consent\")}catch(e){}\ngtag('consent','default',{analytics_storage:c==='granted'?'granted':'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});\ngtag('js',new Date());gtag('config','G-V6X4XTWVTB');"}}],["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtag/js?id=G-V6X4XTWVTB"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Estudia en Madrid\",\"url\":\"https://estudiaenmadrid.com\",\"logo\":\"https://estudiaenmadrid.com/assets/eem-horizontal-black.png\",\"description\":\"Agencia de acompañamiento académico con 8 años de experiencia y más de 500 estudiantes latinoamericanos acompañados. Conecta a estudiantes de toda Latinoamérica con universidades privadas de Madrid: elección de programa, convalidaciones, visado y becas.\",\"areaServed\":[\"ES\",\"Latinoamérica\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer service\",\"telephone\":\"+34-677-055-769\",\"areaServed\":[\"ES\",\"Latinoamérica\"],\"availableLanguage\":[\"es\"]},\"sameAs\":[\"https://wa.me/34677055769\"]}"}}],["$","$L2",null,{"searchIndex":[{"programSlug":"grado-ade-relaciones-internacionales","categorySlug":"administracion","title":"Grado en ADE y Relaciones Internacionales en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Administración","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ade y relaciones internacionales en madrid (uax) universidad alfonso x el sabio (uax) administración grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-administracion-empresas-uax","categorySlug":"administracion","title":"Grado en Administración de Empresas en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Administración","GRADO","SEMIPRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en administración de empresas en madrid (uax) universidad alfonso x el sabio (uax) administración grado semipresencial online universidad alfonso x el sabio (uax)"},{"programSlug":"master-business-analytics","categorySlug":"administracion","title":"Máster en Business Analytics en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Administración","MÁSTER","PRESENCIAL","ONLINE","Universidad Nebrija"],"haystack":"máster en business analytics en madrid (universidad nebrija) universidad nebrija administración máster presencial online universidad nebrija"},{"programSlug":"master-direccion-financiera-online","categorySlug":"administracion","title":"Máster en Dirección Financiera Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Administración","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en dirección financiera online en madrid (uax) universidad alfonso x el sabio (uax) — universidad inferida, no confirmada directamente en el catálogo original; ver nota interna administración máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-direccion-proyectos-online","categorySlug":"administracion","title":"Máster en Dirección de Proyectos Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Administración","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en dirección de proyectos online en madrid (uax) universidad alfonso x el sabio (uax) — universidad inferida, no confirmada directamente en el catálogo original; ver nota interna administración máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-sistemas-integrados-gestion","categorySlug":"administracion","title":"Máster en Sistemas Integrados de Gestión en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Administración","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en sistemas integrados de gestión en madrid (uax) universidad alfonso x el sabio (uax) — universidad inferida, no confirmada directamente en el catálogo original; ver nota interna administración máster online universidad alfonso x el sabio (uax)"},{"programSlug":"mba","categorySlug":"administracion","title":"MBA en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MBA","tags":["Administración","MBA","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"mba en madrid (uax) universidad alfonso x el sabio (uax) — universidad inferida, no confirmada directamente en el catálogo original; ver nota interna administración mba online universidad alfonso x el sabio (uax)"},{"programSlug":"doble-grado-derecho-ade","categorySlug":"derecho","title":"Doble Grado en Derecho y ADE en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"DOBLE GRADO","tags":["Derecho","DOBLE GRADO","PRESENCIAL","Universidad Nebrija"],"haystack":"doble grado en derecho y ade en madrid (universidad nebrija) universidad nebrija derecho doble grado presencial universidad nebrija"},{"programSlug":"grado-derecho","categorySlug":"derecho","title":"Grado en Derecho en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"GRADO","tags":["Derecho","GRADO","SEMIPRESENCIAL","ONLINE","Universidad Nebrija"],"haystack":"grado en derecho en madrid (universidad nebrija) universidad nebrija derecho grado semipresencial online universidad nebrija"},{"programSlug":"master-acceso-abogacia-procura","categorySlug":"derecho","title":"Máster Universitario en Acceso a la Abogacía y la Procura en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","ONLINE","Universidad Nebrija"],"haystack":"máster universitario en acceso a la abogacía y la procura en madrid (universidad nebrija) universidad nebrija derecho máster presencial online universidad nebrija"},{"programSlug":"master-arbitraje-comercial-inversiones","categorySlug":"derecho","title":"Máster en Arbitraje Comercial y de Inversiones en Madrid (CEU San Pablo)","university":"Universidad CEU San Pablo","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad CEU San Pablo"],"haystack":"máster en arbitraje comercial y de inversiones en madrid (ceu san pablo) universidad ceu san pablo derecho máster presencial universidad ceu san pablo"},{"programSlug":"master-ciberseguridad","categorySlug":"derecho","title":"Máster en Ciberseguridad en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad Nebrija"],"haystack":"máster en ciberseguridad en madrid (universidad nebrija) universidad nebrija derecho máster presencial universidad nebrija"},{"programSlug":"master-criminalistica","categorySlug":"derecho","title":"Máster Universitario en Criminalística en Madrid (CEU San Pablo)","university":"Universidad CEU San Pablo","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad CEU San Pablo"],"haystack":"máster universitario en criminalística en madrid (ceu san pablo) universidad ceu san pablo derecho máster presencial universidad ceu san pablo"},{"programSlug":"master-derecho-internacional-humanitario","categorySlug":"derecho","title":"Máster en Derecho Internacional Humanitario en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Derecho","MÁSTER","SEMIPRESENCIAL","ONLINE","Universidad Nebrija"],"haystack":"máster en derecho internacional humanitario en madrid (universidad nebrija) universidad nebrija derecho máster semipresencial online universidad nebrija"},{"programSlug":"master-direccion-rrhh-online","categorySlug":"derecho","title":"Máster en Dirección de RRHH Online en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Derecho","MÁSTER","ONLINE","Universidad Nebrija"],"haystack":"máster en dirección de rrhh online en madrid (universidad nebrija) universidad nebrija derecho máster online universidad nebrija"},{"programSlug":"master-sostenibilidad-compliance","categorySlug":"derecho","title":"Máster en Sostenibilidad y Compliance en Madrid (Universidad CEU San Pablo)","university":"Universidad CEU San Pablo","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad CEU San Pablo"],"haystack":"máster en sostenibilidad y compliance en madrid (universidad ceu san pablo) universidad ceu san pablo derecho máster presencial universidad ceu san pablo"},{"programSlug":"grado-maestro-educacion-primaria-online","categorySlug":"educacion","title":"Grado en Maestro en Educación Primaria Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Educación","GRADO","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en maestro en educación primaria online en madrid (uax) universidad alfonso x el sabio (uax) educación grado online universidad alfonso x el sabio (uax)"},{"programSlug":"grado-musicologia-online","categorySlug":"educacion","title":"Grado en Musicología Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Educación","GRADO","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en musicología online en madrid (uax) universidad alfonso x el sabio (uax) educación grado online universidad alfonso x el sabio (uax)"},{"programSlug":"grado-pedagogia-online","categorySlug":"educacion","title":"Grado en Pedagogía Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Educación","GRADO","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en pedagogía online en madrid (uax) universidad alfonso x el sabio (uax) educación grado online universidad alfonso x el sabio (uax)"},{"programSlug":"master-educacion-bilingue","categorySlug":"educacion","title":"Máster en Educación Bilingüe en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en educación bilingüe en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-educacion-emocional","categorySlug":"educacion","title":"Máster en Educación Emocional en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en educación emocional en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-innovacion-educativa-online","categorySlug":"educacion","title":"Máster en Innovación Educativa Online (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en innovación educativa online (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-liderazgo-direccion-centros-educativos","categorySlug":"educacion","title":"Máster en Liderazgo y Dirección de Centros Educativos en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en liderazgo y dirección de centros educativos en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-neuropsicologia-aplicada-educacion","categorySlug":"educacion","title":"Máster en Neuropsicología Aplicada a la Educación en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en neuropsicología aplicada a la educación en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-pedagogia-instrumental","categorySlug":"educacion","title":"Máster en Pedagogía Instrumental en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en pedagogía instrumental en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-psicopedagogia-online","categorySlug":"educacion","title":"Máster en Psicopedagogía Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en psicopedagogía online en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-tecnologia-educativa-competencias-digitales-docentes","categorySlug":"educacion","title":"Máster en Tecnología Educativa y Competencias Digitales Docentes (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en tecnología educativa y competencias digitales docentes (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"doble-grado-ingenieria-matematica-informatica","categorySlug":"ingenieria","title":"Doble Grado en Ingeniería Matemática e Informática en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"DOBLE GRADO","tags":["Ingeniería","DOBLE GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"doble grado en ingeniería matemática e informática en madrid (uax) universidad alfonso x el sabio (uax) ingeniería doble grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-animacion","categorySlug":"ingenieria","title":"Grado en Animación en Madrid (UDIT)","university":"Universidad de Diseño, Innovación y Tecnología (UDIT)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad de Diseño, Innovación y Tecnología (UDIT)"],"haystack":"grado en animación en madrid (udit) universidad de diseño, innovación y tecnología (udit) ingeniería grado presencial universidad de diseño, innovación y tecnología (udit)"},{"programSlug":"grado-diseno-industrial","categorySlug":"ingenieria","title":"Grado en Diseño Industrial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en diseño industrial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-fisica","categorySlug":"ingenieria","title":"Grado en Física en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en física en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-aeroespacial","categorySlug":"ingenieria","title":"Grado en Ingeniería Aeroespacial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería aeroespacial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-biomedica","categorySlug":"ingenieria","title":"Grado en Ingeniería Biomédica en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería biomédica en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-informatica","categorySlug":"ingenieria","title":"Grado en Ingeniería Informática en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería informática en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial online universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-matematica","categorySlug":"ingenieria","title":"Grado en Ingeniería Matemática en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería matemática en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-mecanica","categorySlug":"ingenieria","title":"Grado en Ingeniería Mecánica en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería mecánica en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-inteligencia-artificial","categorySlug":"ingenieria","title":"Grado en Inteligencia Artificial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en inteligencia artificial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial online universidad alfonso x el sabio (uax)"},{"programSlug":"master-big-data-online","categorySlug":"ingenieria","title":"Máster Universitario en Big Data Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario en big data online en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-bioinformatica-online","categorySlug":"ingenieria","title":"Máster Universitario Online en Bioinformática en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario online en bioinformática en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-ciberseguridad-malaga","categorySlug":"ingenieria","title":"Máster en Ciberseguridad en Málaga (UAX Mare Nostrum)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","SEMIPRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en ciberseguridad en málaga (uax mare nostrum) universidad alfonso x el sabio (uax) — campus uax mare nostrum ingeniería máster semipresencial online universidad alfonso x el sabio (uax)"},{"programSlug":"master-energias-renovables-online","categorySlug":"ingenieria","title":"Máster Universitario Online en Energías Renovables en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario online en energías renovables en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-ingenieria-industrial","categorySlug":"ingenieria","title":"Máster en Ingeniería Industrial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en ingeniería industrial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster presencial universidad alfonso x el sabio (uax)"},{"programSlug":"master-inteligencia-artificial-online","categorySlug":"ingenieria","title":"Máster Universitario Online en Inteligencia Artificial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario online en inteligencia artificial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-inteligencia-artificial","categorySlug":"ingenieria","title":"Máster en Inteligencia Artificial en Madrid","university":"Universidad pendiente de confirmar","level":"MÁSTER","tags":["Ingeniería","MÁSTER","A CONFIRMAR"],"haystack":"máster en inteligencia artificial en madrid pendiente de confirmar (ver nota interna: probable duplicado del máster universitario online en inteligencia artificial de uax) ingeniería máster a confirmar"},{"programSlug":"master-marketing-digital-online","categorySlug":"ingenieria","title":"Máster Universitario Online en Marketing Digital en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario online en marketing digital en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-prevencion-riesgos-laborales","categorySlug":"ingenieria","title":"Máster Universitario en Prevención de Riesgos Laborales en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario en prevención de riesgos laborales en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"doble-grado-deporte-fisioterapia","categorySlug":"salud","title":"Doble Grado en Deporte y Fisioterapia en Madrid — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"DOBLE GRADO","tags":["Salud","DOBLE GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"doble grado en deporte y fisioterapia en madrid — uax universidad alfonso x el sabio (uax) salud doble grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"doble-grado-deporte-nutricion","categorySlug":"salud","title":"Doble Grado en Deporte y Nutrición en Madrid — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"DOBLE GRADO","tags":["Salud","DOBLE GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"doble grado en deporte y nutrición en madrid — uax universidad alfonso x el sabio (uax) salud doble grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-biomedicina","categorySlug":"salud","title":"Grado en Biomedicina en Madrid — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Salud","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en biomedicina en madrid — uax universidad alfonso x el sabio (uax) salud grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ciencias-actividad-fisica-deporte","categorySlug":"salud","title":"Grado en Ciencias de la Actividad Física y del Deporte (CAFYD) en Madrid — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Salud","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ciencias de la actividad física y del deporte (cafyd) en madrid — uax universidad alfonso x el sabio (uax) salud grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-fisioterapia","categorySlug":"salud","title":"Grado en Fisioterapia en Madrid — UAX (Villanueva de la Cañada)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Salud","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en fisioterapia en madrid — uax (villanueva de la cañada) universidad alfonso x el sabio (uax) salud grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-psicologia","categorySlug":"salud","title":"Grado en Psicología en Madrid (Online) — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Salud","GRADO","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en psicología en madrid (online) — uax universidad alfonso x el sabio (uax) salud grado online universidad alfonso x el sabio (uax)"},{"programSlug":"master-direccion-gestion-sanitaria-ehealth","categorySlug":"salud","title":"Máster en Dirección y Gestión Sanitaria: e-Health Online — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Salud","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en dirección y gestión sanitaria: e-health online — uax universidad alfonso x el sabio (uax) salud máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-direccion-gestion-servicios-enfermeria","categorySlug":"salud","title":"Máster en Dirección y Gestión de Servicios de Enfermería Online — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Salud","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en dirección y gestión de servicios de enfermería online — uax universidad alfonso x el sabio (uax) salud máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-odontologia-digital","categorySlug":"salud","title":"Máster en Odontología Digital en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Salud","MÁSTER","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en odontología digital en madrid (uax) universidad alfonso x el sabio (uax) salud máster presencial universidad alfonso x el sabio (uax)"},{"programSlug":"master-trastornos-comportamiento-alimentario","categorySlug":"salud","title":"Máster en Trastornos del Comportamiento Alimentario Online — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Salud","MÁSTER","PRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en trastornos del comportamiento alimentario online — uax universidad alfonso x el sabio (uax) salud máster presencial online universidad alfonso x el sabio (uax)"}],"children":"$L3"}]]}]]}]]}],{"children":["$L4",{"children":["$L5",{},null,false,null]},null,false,"$6"]},null,false,null],"$L7",false]],"m":"$undefined","G":["$8",["$L9"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"XX2gD0qStwPD7nDlzQ2UI"}
+0:{"P":null,"c":["","guias"],"q":"","i":false,"f":[[["",{"children":["guias",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2duo-3cri4gbt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0plfe90stmqa7.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/1znfkmxi76kvx.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","className":"archivo_41c7a93-module__Bxuc8q__variable dm_sans_ca805f44-module__n2fvTG__variable dm_mono_ed3df95c-module__D4oVwa__variable instrument_serif_bed06b21-module__swPsvG__variable","children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}\nvar c=null;try{c=localStorage.getItem(\"eem-cookie-consent\")}catch(e){}\ngtag('consent','default',{analytics_storage:c==='granted'?'granted':'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});\ngtag('js',new Date());gtag('config','G-V6X4XTWVTB');"}}],["$","script",null,{"async":true,"src":"https://www.googletagmanager.com/gtag/js?id=G-V6X4XTWVTB"}]]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Estudia en Madrid\",\"url\":\"https://estudiaenmadrid.com\",\"logo\":\"https://estudiaenmadrid.com/assets/eem-horizontal-black.png\",\"description\":\"Agencia de acompañamiento académico con 8 años de experiencia y más de 500 estudiantes latinoamericanos acompañados. Conecta a estudiantes de toda Latinoamérica con universidades privadas de Madrid: elección de programa, convalidaciones, visado y becas.\",\"areaServed\":[\"ES\",\"Latinoamérica\"],\"contactPoint\":{\"@type\":\"ContactPoint\",\"contactType\":\"customer service\",\"telephone\":\"+34-677-055-769\",\"areaServed\":[\"ES\",\"Latinoamérica\"],\"availableLanguage\":[\"es\"]},\"sameAs\":[\"https://wa.me/34677055769\"]}"}}],["$","$L2",null,{"searchIndex":[{"programSlug":"grado-ade-relaciones-internacionales","categorySlug":"administracion","title":"Grado en ADE y Relaciones Internacionales en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Administración","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ade y relaciones internacionales en madrid (uax) universidad alfonso x el sabio (uax) administración grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-administracion-empresas-uax","categorySlug":"administracion","title":"Grado en Administración de Empresas en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Administración","GRADO","SEMIPRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en administración de empresas en madrid (uax) universidad alfonso x el sabio (uax) administración grado semipresencial online universidad alfonso x el sabio (uax)"},{"programSlug":"master-business-analytics","categorySlug":"administracion","title":"Máster en Business Analytics en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Administración","MÁSTER","PRESENCIAL","ONLINE","Universidad Nebrija"],"haystack":"máster en business analytics en madrid (universidad nebrija) universidad nebrija administración máster presencial online universidad nebrija"},{"programSlug":"master-direccion-financiera-online","categorySlug":"administracion","title":"Máster en Dirección Financiera Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Administración","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en dirección financiera online en madrid (uax) universidad alfonso x el sabio (uax) — universidad inferida, no confirmada directamente en el catálogo original; ver nota interna administración máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-direccion-proyectos-online","categorySlug":"administracion","title":"Máster en Dirección de Proyectos Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Administración","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en dirección de proyectos online en madrid (uax) universidad alfonso x el sabio (uax) — universidad inferida, no confirmada directamente en el catálogo original; ver nota interna administración máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-sistemas-integrados-gestion","categorySlug":"administracion","title":"Máster en Sistemas Integrados de Gestión en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Administración","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en sistemas integrados de gestión en madrid (uax) universidad alfonso x el sabio (uax) — universidad inferida, no confirmada directamente en el catálogo original; ver nota interna administración máster online universidad alfonso x el sabio (uax)"},{"programSlug":"mba","categorySlug":"administracion","title":"MBA en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MBA","tags":["Administración","MBA","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"mba en madrid (uax) universidad alfonso x el sabio (uax) — universidad inferida, no confirmada directamente en el catálogo original; ver nota interna administración mba online universidad alfonso x el sabio (uax)"},{"programSlug":"doble-grado-derecho-ade","categorySlug":"derecho","title":"Doble Grado en Derecho y ADE en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"DOBLE GRADO","tags":["Derecho","DOBLE GRADO","PRESENCIAL","Universidad Nebrija"],"haystack":"doble grado en derecho y ade en madrid (universidad nebrija) universidad nebrija derecho doble grado presencial universidad nebrija"},{"programSlug":"grado-derecho","categorySlug":"derecho","title":"Grado en Derecho en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"GRADO","tags":["Derecho","GRADO","SEMIPRESENCIAL","ONLINE","Universidad Nebrija"],"haystack":"grado en derecho en madrid (universidad nebrija) universidad nebrija derecho grado semipresencial online universidad nebrija"},{"programSlug":"master-acceso-abogacia-procura","categorySlug":"derecho","title":"Máster Universitario en Acceso a la Abogacía y la Procura en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","ONLINE","Universidad Nebrija"],"haystack":"máster universitario en acceso a la abogacía y la procura en madrid (universidad nebrija) universidad nebrija derecho máster presencial online universidad nebrija"},{"programSlug":"master-arbitraje-comercial-inversiones","categorySlug":"derecho","title":"Máster en Arbitraje Comercial y de Inversiones en Madrid (CEU San Pablo)","university":"Universidad CEU San Pablo","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad CEU San Pablo"],"haystack":"máster en arbitraje comercial y de inversiones en madrid (ceu san pablo) universidad ceu san pablo derecho máster presencial universidad ceu san pablo"},{"programSlug":"master-ciberseguridad","categorySlug":"derecho","title":"Máster en Ciberseguridad en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad Nebrija"],"haystack":"máster en ciberseguridad en madrid (universidad nebrija) universidad nebrija derecho máster presencial universidad nebrija"},{"programSlug":"master-criminalistica","categorySlug":"derecho","title":"Máster Universitario en Criminalística en Madrid (CEU San Pablo)","university":"Universidad CEU San Pablo","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad CEU San Pablo"],"haystack":"máster universitario en criminalística en madrid (ceu san pablo) universidad ceu san pablo derecho máster presencial universidad ceu san pablo"},{"programSlug":"master-derecho-internacional-humanitario","categorySlug":"derecho","title":"Máster en Derecho Internacional Humanitario en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Derecho","MÁSTER","SEMIPRESENCIAL","ONLINE","Universidad Nebrija"],"haystack":"máster en derecho internacional humanitario en madrid (universidad nebrija) universidad nebrija derecho máster semipresencial online universidad nebrija"},{"programSlug":"master-direccion-rrhh-online","categorySlug":"derecho","title":"Máster en Dirección de RRHH Online en Madrid (Universidad Nebrija)","university":"Universidad Nebrija","level":"MÁSTER","tags":["Derecho","MÁSTER","ONLINE","Universidad Nebrija"],"haystack":"máster en dirección de rrhh online en madrid (universidad nebrija) universidad nebrija derecho máster online universidad nebrija"},{"programSlug":"master-sostenibilidad-compliance","categorySlug":"derecho","title":"Máster en Sostenibilidad y Compliance en Madrid (Universidad CEU San Pablo)","university":"Universidad CEU San Pablo","level":"MÁSTER","tags":["Derecho","MÁSTER","PRESENCIAL","Universidad CEU San Pablo"],"haystack":"máster en sostenibilidad y compliance en madrid (universidad ceu san pablo) universidad ceu san pablo derecho máster presencial universidad ceu san pablo"},{"programSlug":"grado-maestro-educacion-primaria-online","categorySlug":"educacion","title":"Grado en Maestro en Educación Primaria Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Educación","GRADO","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en maestro en educación primaria online en madrid (uax) universidad alfonso x el sabio (uax) educación grado online universidad alfonso x el sabio (uax)"},{"programSlug":"grado-musicologia-online","categorySlug":"educacion","title":"Grado en Musicología Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Educación","GRADO","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en musicología online en madrid (uax) universidad alfonso x el sabio (uax) educación grado online universidad alfonso x el sabio (uax)"},{"programSlug":"grado-pedagogia-online","categorySlug":"educacion","title":"Grado en Pedagogía Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Educación","GRADO","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en pedagogía online en madrid (uax) universidad alfonso x el sabio (uax) educación grado online universidad alfonso x el sabio (uax)"},{"programSlug":"master-educacion-bilingue","categorySlug":"educacion","title":"Máster en Educación Bilingüe en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en educación bilingüe en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-educacion-emocional","categorySlug":"educacion","title":"Máster en Educación Emocional en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en educación emocional en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-innovacion-educativa-online","categorySlug":"educacion","title":"Máster en Innovación Educativa Online (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en innovación educativa online (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-liderazgo-direccion-centros-educativos","categorySlug":"educacion","title":"Máster en Liderazgo y Dirección de Centros Educativos en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en liderazgo y dirección de centros educativos en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-neuropsicologia-aplicada-educacion","categorySlug":"educacion","title":"Máster en Neuropsicología Aplicada a la Educación en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en neuropsicología aplicada a la educación en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-pedagogia-instrumental","categorySlug":"educacion","title":"Máster en Pedagogía Instrumental en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en pedagogía instrumental en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-psicopedagogia-online","categorySlug":"educacion","title":"Máster en Psicopedagogía Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en psicopedagogía online en madrid (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-tecnologia-educativa-competencias-digitales-docentes","categorySlug":"educacion","title":"Máster en Tecnología Educativa y Competencias Digitales Docentes (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Educación","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en tecnología educativa y competencias digitales docentes (uax) universidad alfonso x el sabio (uax) educación máster online universidad alfonso x el sabio (uax)"},{"programSlug":"doble-grado-ingenieria-matematica-informatica","categorySlug":"ingenieria","title":"Doble Grado en Ingeniería Matemática e Informática en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"DOBLE GRADO","tags":["Ingeniería","DOBLE GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"doble grado en ingeniería matemática e informática en madrid (uax) universidad alfonso x el sabio (uax) ingeniería doble grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-animacion","categorySlug":"ingenieria","title":"Grado en Animación en Madrid (UDIT)","university":"Universidad de Diseño, Innovación y Tecnología (UDIT)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad de Diseño, Innovación y Tecnología (UDIT)"],"haystack":"grado en animación en madrid (udit) universidad de diseño, innovación y tecnología (udit) ingeniería grado presencial universidad de diseño, innovación y tecnología (udit)"},{"programSlug":"grado-diseno-industrial","categorySlug":"ingenieria","title":"Grado en Diseño Industrial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en diseño industrial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-fisica","categorySlug":"ingenieria","title":"Grado en Física en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en física en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-aeroespacial","categorySlug":"ingenieria","title":"Grado en Ingeniería Aeroespacial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería aeroespacial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-biomedica","categorySlug":"ingenieria","title":"Grado en Ingeniería Biomédica en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería biomédica en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-informatica","categorySlug":"ingenieria","title":"Grado en Ingeniería Informática en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería informática en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial online universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-matematica","categorySlug":"ingenieria","title":"Grado en Ingeniería Matemática en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería matemática en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ingenieria-mecanica","categorySlug":"ingenieria","title":"Grado en Ingeniería Mecánica en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ingeniería mecánica en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-inteligencia-artificial","categorySlug":"ingenieria","title":"Grado en Inteligencia Artificial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Ingeniería","GRADO","PRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en inteligencia artificial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería grado presencial online universidad alfonso x el sabio (uax)"},{"programSlug":"master-big-data-online","categorySlug":"ingenieria","title":"Máster Universitario en Big Data Online en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario en big data online en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-bioinformatica-online","categorySlug":"ingenieria","title":"Máster Universitario Online en Bioinformática en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario online en bioinformática en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-ciberseguridad-malaga","categorySlug":"ingenieria","title":"Máster en Ciberseguridad en Málaga (UAX Mare Nostrum)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","SEMIPRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en ciberseguridad en málaga (uax mare nostrum) universidad alfonso x el sabio (uax) — campus uax mare nostrum ingeniería máster semipresencial online universidad alfonso x el sabio (uax)"},{"programSlug":"master-energias-renovables-online","categorySlug":"ingenieria","title":"Máster Universitario Online en Energías Renovables en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario online en energías renovables en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-ingenieria-industrial","categorySlug":"ingenieria","title":"Máster en Ingeniería Industrial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en ingeniería industrial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster presencial universidad alfonso x el sabio (uax)"},{"programSlug":"master-inteligencia-artificial-online","categorySlug":"ingenieria","title":"Máster Universitario Online en Inteligencia Artificial en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario online en inteligencia artificial en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-inteligencia-artificial","categorySlug":"ingenieria","title":"Máster en Inteligencia Artificial en Madrid","university":"Universidad pendiente de confirmar","level":"MÁSTER","tags":["Ingeniería","MÁSTER","A CONFIRMAR"],"haystack":"máster en inteligencia artificial en madrid pendiente de confirmar (ver nota interna: probable duplicado del máster universitario online en inteligencia artificial de uax) ingeniería máster a confirmar"},{"programSlug":"master-marketing-digital-online","categorySlug":"ingenieria","title":"Máster Universitario Online en Marketing Digital en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario online en marketing digital en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-prevencion-riesgos-laborales","categorySlug":"ingenieria","title":"Máster Universitario en Prevención de Riesgos Laborales en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Ingeniería","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster universitario en prevención de riesgos laborales en madrid (uax) universidad alfonso x el sabio (uax) ingeniería máster online universidad alfonso x el sabio (uax)"},{"programSlug":"doble-grado-deporte-fisioterapia","categorySlug":"salud","title":"Doble Grado en Deporte y Fisioterapia en Madrid — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"DOBLE GRADO","tags":["Salud","DOBLE GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"doble grado en deporte y fisioterapia en madrid — uax universidad alfonso x el sabio (uax) salud doble grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"doble-grado-deporte-nutricion","categorySlug":"salud","title":"Doble Grado en Deporte y Nutrición en Madrid — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"DOBLE GRADO","tags":["Salud","DOBLE GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"doble grado en deporte y nutrición en madrid — uax universidad alfonso x el sabio (uax) salud doble grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-biomedicina","categorySlug":"salud","title":"Grado en Biomedicina en Madrid — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Salud","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en biomedicina en madrid — uax universidad alfonso x el sabio (uax) salud grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-ciencias-actividad-fisica-deporte","categorySlug":"salud","title":"Grado en Ciencias de la Actividad Física y del Deporte (CAFYD) en Madrid — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Salud","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en ciencias de la actividad física y del deporte (cafyd) en madrid — uax universidad alfonso x el sabio (uax) salud grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-fisioterapia","categorySlug":"salud","title":"Grado en Fisioterapia en Madrid — UAX (Villanueva de la Cañada)","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Salud","GRADO","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en fisioterapia en madrid — uax (villanueva de la cañada) universidad alfonso x el sabio (uax) salud grado presencial universidad alfonso x el sabio (uax)"},{"programSlug":"grado-psicologia","categorySlug":"salud","title":"Grado en Psicología en Madrid (Online) — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"GRADO","tags":["Salud","GRADO","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"grado en psicología en madrid (online) — uax universidad alfonso x el sabio (uax) salud grado online universidad alfonso x el sabio (uax)"},{"programSlug":"master-direccion-gestion-sanitaria-ehealth","categorySlug":"salud","title":"Máster en Dirección y Gestión Sanitaria: e-Health Online — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Salud","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en dirección y gestión sanitaria: e-health online — uax universidad alfonso x el sabio (uax) salud máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-direccion-gestion-servicios-enfermeria","categorySlug":"salud","title":"Máster en Dirección y Gestión de Servicios de Enfermería Online — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Salud","MÁSTER","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en dirección y gestión de servicios de enfermería online — uax universidad alfonso x el sabio (uax) salud máster online universidad alfonso x el sabio (uax)"},{"programSlug":"master-odontologia-digital","categorySlug":"salud","title":"Máster en Odontología Digital en Madrid (UAX)","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Salud","MÁSTER","PRESENCIAL","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en odontología digital en madrid (uax) universidad alfonso x el sabio (uax) salud máster presencial universidad alfonso x el sabio (uax)"},{"programSlug":"master-trastornos-comportamiento-alimentario","categorySlug":"salud","title":"Máster en Trastornos del Comportamiento Alimentario Online — UAX","university":"Universidad Alfonso X el Sabio (UAX)","level":"MÁSTER","tags":["Salud","MÁSTER","PRESENCIAL","ONLINE","Universidad Alfonso X el Sabio (UAX)"],"haystack":"máster en trastornos del comportamiento alimentario online — uax universidad alfonso x el sabio (uax) salud máster presencial online universidad alfonso x el sabio (uax)"}],"children":"$L3"}]]}]]}]]}],{"children":["$L4",{"children":["$L5",{},null,false,null]},null,false,"$6"]},null,false,null],"$L7",false]],"m":"$undefined","G":["$8",["$L9"]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EZWx4YIXKblfWodDQmAbT"}
 a:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
 b:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
 c:I[8245,["/_next/static/chunks/0plfe90stmqa7.js","/_next/static/chunks/1znfkmxi76kvx.js","/_next/static/chunks/235pq51ro_fqf.js"],"default"]
 d:I[59095,["/_next/static/chunks/0plfe90stmqa7.js","/_next/static/chunks/1znfkmxi76kvx.js","/_next/static/chunks/235pq51ro_fqf.js"],"default"]
 e:I[22016,["/_next/static/chunks/0plfe90stmqa7.js","/_next/static/chunks/1znfkmxi76kvx.js","/_next/static/chunks/235pq51ro_fqf.js"],""]
 f:I[40473,["/_next/static/chunks/0plfe90stmqa7.js","/_next/static/chunks/1znfkmxi76kvx.js","/_next/static/chunks/3y54z3m4xnfl7.js"],"default"]
-1f:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
-21:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
-22:"$Sreact.suspense"
+25:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+27:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+28:"$Sreact.suspense"
 3:["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","section",null,{"className":"px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16","children":[["$","div",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"ERROR 404"}],["$","$Lc",null,{"className":"mt-3.5 font-display font-black uppercase text-ink","fontSize":"clamp(40px,8vw,120px)","lines":[{"text":"Esta página"},{"text":"se perdió en"},{"text":"el camino","className":"text-red-signal"}]}],["$","p",null,{"className":"font-serif italic mt-4","style":{"maxWidth":"48ch","fontSize":"clamp(18px,2vw,26px)","lineHeight":1.3},"children":"La dirección cambió o el contenido ya no existe. Pero seguimos acá — empezá de nuevo desde alguno de estos puntos."}]]}],["$","section",null,{"className":"px-5 sm:px-8 md:px-11 py-11 sm:py-16 md:py-[90px]","children":[["$","div",null,{"className":"grid gap-px bg-hair border border-hair","style":{"gridTemplateColumns":"repeat(auto-fit, minmax(230px,1fr))"},"children":[["$","$Ld","/programas",{"children":["$","$Le",null,{"href":"/programas","className":"group flex flex-col justify-between gap-6 bg-off-white p-6 h-full min-h-[160px]","children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-ink-soft group-hover:text-red-signal","children":"↗"}],["$","div",null,{"children":[["$","div",null,{"className":"font-display font-extrabold uppercase text-[20px]","style":{"letterSpacing":"-.02em"},"children":"Programas"}],["$","p",null,{"className":"text-[13px] text-ink-soft mt-1.5 m-0","children":"Grados y másteres con convenio directo"}]]}]]}]}],["$","$Ld","/universidades",{"children":["$","$Le",null,{"href":"/universidades","className":"group flex flex-col justify-between gap-6 bg-off-white p-6 h-full min-h-[160px]","children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-ink-soft group-hover:text-red-signal","children":"↗"}],["$","div",null,{"children":[["$","div",null,{"className":"font-display font-extrabold uppercase text-[20px]","style":{"letterSpacing":"-.02em"},"children":"Universidades"}],["$","p",null,{"className":"text-[13px] text-ink-soft mt-1.5 m-0","children":"Las 4 universidades con las que trabajamos"}]]}]]}]}],["$","$Ld","/guias",{"children":["$","$Le",null,{"href":"/guias","className":"group flex flex-col justify-between gap-6 bg-off-white p-6 h-full min-h-[160px]","children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-ink-soft group-hover:text-red-signal","children":"↗"}],["$","div",null,{"children":[["$","div",null,{"className":"font-display font-extrabold uppercase text-[20px]","style":{"letterSpacing":"-.02em"},"children":"Guías"}],["$","p",null,{"className":"text-[13px] text-ink-soft mt-1.5 m-0","children":"Visado, convalidaciones, vivir en Madrid"}]]}]]}]}],["$","$Ld","/nosotros",{"children":["$","$Le",null,{"href":"/nosotros","className":"group flex flex-col justify-between gap-6 bg-off-white p-6 h-full min-h-[160px]","children":[["$","span",null,{"className":"font-mono text-[11px] tracking-[.16em] text-ink-soft group-hover:text-red-signal","children":"↗"}],["$","div",null,{"children":[["$","div",null,{"className":"font-display font-extrabold uppercase text-[20px]","style":{"letterSpacing":"-.02em"},"children":"Nosotros"}],["$","p",null,{"className":"text-[13px] text-ink-soft mt-1.5 m-0","children":"Quiénes somos y cómo acompañamos el proceso"}]]}]]}]}]]}],["$","$Ld",null,{"children":["$","div",null,{"className":"mt-px flex flex-wrap items-center justify-between gap-5 bg-red-signal text-white p-6 sm:p-7","children":[["$","div",null,{"children":[["$","div",null,{"className":"font-mono text-[11px] tracking-[.16em]","children":"¿NO ENCONTRÁS LO QUE BUSCABAS?"}],["$","p",null,{"className":"font-display font-extrabold mt-2 mb-0 text-[20px]","style":{"letterSpacing":"-.02em"},"children":"Escribinos por WhatsApp y te orientamos directo"}]]}],["$","a",null,{"href":"https://wa.me/34677055769","target":"_blank","rel":"noopener","className":"text-white font-display font-extrabold text-[14px] uppercase tracking-[.04em] border-b-2 border-white pb-[3px] shrink-0","children":"+34 677 055 769 ↗"}]]}]}]]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]
 4:["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-10:Te79,## Lo que tu visado ya te permite hacer
+10:Tcff,## Un clima de contrastes
+
+Madrid está en el centro de la península, a unos 650 metros de altura, y
+tiene un clima **continental**: mucho sol todo el año, poca lluvia y
+diferencias marcadas entre estaciones — y entre el día y la noche.
+
+- **Septiembre y octubre:** todavía calor de día, noches más frescas. Es
+  cuando llegás.
+- **De noviembre a febrero:** frío seco. Por la mañana temprano la
+  temperatura puede acercarse a 0 °C, aunque los días suelen ser
+  soleados. Nieva poco en la ciudad, más en la sierra.
+- **Marzo a mayo:** primavera cambiante, con algunos días de lluvia.
+- **Junio y julio:** calor intenso, con días que superan con facilidad
+  los 35 °C. Coincide con los exámenes finales y el cierre del curso.
+
+Si venís del Caribe, de la costa del Pacífico o del norte de Brasil, el
+invierno madrileño te va a sorprender. Si venís de Bogotá, Quito o La Paz,
+el frío te va a resultar familiar, pero el verano no.
+
+## Qué llevar en la maleta
+
+**Ropa**
+
+- Un abrigo de invierno de verdad (o compralo al llegar: en Madrid hay
+  rebajas desde enero).
+- Ropa en capas: camisetas, sweaters, una campera liviana.
+- Calzado cómodo para caminar mucho — Madrid se recorre a pie.
+- Algo formal para presentaciones, entrevistas de prácticas o eventos de
+  la universidad.
+
+**Tecnología**
+
+- España usa enchufe tipo C/F y 230 V. Llevá un adaptador y revisá que
+  tus cargadores acepten 230 V (casi todos los de celular y laptop sí).
+
+**Salud**
+
+- Si tomás medicación habitual, llevá cantidad para los primeros meses y
+  la receta o un informe médico — mejor si es en español. Tu
+  [seguro médico](/guias/seguro-medico-visado-estudiante-espana/) cubre
+  las consultas una vez allá.
+
+## Lo que va siempre en el equipaje de mano
+
+Nunca despaches estos documentos:
+
+1. Pasaporte con el visado de estudiante.
+2. Carta de admisión de la universidad.
+3. Póliza del seguro médico.
+4. Prueba de medios económicos y de alojamiento, por si te los piden en
+   el control de frontera.
+5. Tus títulos y certificados de notas originales, apostillados — los
+   vas a necesitar para la matrícula y, si corresponde, para la
+   [homologación](/guias/homologacion-vs-convalidacion-titulo/).
+
+Llevá también copias digitales de todo en la nube.
+
+## Lo que conviene comprar al llegar
+
+- Ropa de cama y toallas, salvo que tu alojamiento las incluya.
+- Línea de celular española (prepago o contrato) — la vas a necesitar
+  para trámites y para el banco.
+- Artículos de limpieza y cocina básicos, si vas a piso compartido.
+
+## Preguntas frecuentes
+
+**¿Las casas tienen calefacción?**
+La mayoría sí, pero el tipo varía (central, gas, eléctrica). Si es
+eléctrica, la factura de invierno puede subir: preguntalo antes de alquilar.
+
+**¿Y aire acondicionado?**
+No todos los pisos tienen. Para junio y julio es un detalle que vale la
+pena preguntar.
+
+**¿Cuánta ropa de invierno necesito realmente?**
+Un abrigo bueno, un par de sweaters gruesos, bufanda y guantes alcanzan
+para la ciudad. Si vas a ir a la sierra, algo más.
+
+## Fuentes oficiales
+
+- [AEMET — Agencia Estatal de Meteorología](https://www.aemet.es/)
+
+## Llamada a la acción
+
+> ¿Estás armando la maleta? Escribinos por WhatsApp al
+> **+34 677 055 769** y repasamos juntos la lista de documentos que no
+> pueden faltar.11:T110b,## Primero el campus, después el piso
+
+El error más común de quien llega a Madrid es alquilar en el barrio que le
+gusta sin mirar dónde queda su campus. Algunas universidades privadas
+tienen campus **fuera de la ciudad**, a 30-45 minutos en bus
+interurbano. No es un problema — miles de estudiantes hacen ese trayecto a
+diario, y con el [Abono Joven](/guias/transporte-publico-madrid-abono-joven-estudiantes/)
+cuesta lo mismo — pero conviene saberlo antes de firmar un contrato.
+
+Tu ficha de programa indica en qué campus se cursa. Si tenés dudas,
+preguntanos: algunos programas cambian de sede entre cursos.
+
+## Universidad Alfonso X el Sabio (UAX)
+
+**Campus principal — Villanueva de la Cañada.** Está al oeste de Madrid,
+fuera de la ciudad.
+
+- **Bus interurbano 627** desde el intercambiador de **Moncloa** (metro
+  L3 y L6), con parada en la propia universidad. El trayecto ronda los
+  45 minutos.
+- Los fines de semana hay menos frecuencias y no todos los buses pasan
+  por la universidad: preguntá al conductor antes de subir.
+
+Muchos estudiantes de la UAX viven en la zona de Moncloa-Argüelles para
+tener el bus a mano, o directamente cerca del campus.
+
+## Universidad Nebrija
+
+Nebrija tiene campus dentro y fuera de la ciudad:
+
+- **Campus Princesa** (calle Santa Cruz de Marcenado, 27): en pleno
+  centro, junto a Argüelles. Metro Ventura Rodríguez (L3), Argüelles (L3,
+  L4, L6) y San Bernardo (L2, L4).
+- **Campus Dehesa de la Villa** (calle Pirineos, 55): dentro del parque
+  del mismo nombre, al norte. Metro Francos Rodríguez (L7).
+- **Campus La Berzosa** (Hoyo de Manzanares): en la sierra, a unos 30-45
+  minutos del centro. Se llega en bus interurbano desde Moncloa y la
+  universidad organiza autobuses propios — consultá los horarios del
+  curso en la web oficial.
+
+## Universidad CEU San Pablo
+
+- **Campus Moncloa** (calle Julián Romea, 23): en la zona universitaria
+  de Moncloa. Metro L6 y L7, y buses urbanos 2, 44, C1 y C2.
+- **Campus Montepríncipe** (Alcorcón, Boadilla del Monte): al oeste de
+  Madrid, donde se cursan muchos grados de salud. Se llega en **Metro
+  Ligero ML3** desde Colonia Jardín (conexión con metro L10), en buses
+  interurbanos desde Moncloa y Aluche, o en los **autobuses de la
+  universidad**, que salen desde Ciudad Universitaria y Plaza de Castilla
+  y son gratuitos para el alumnado.
+
+## UDIT — Universidad de Diseño, Innovación y Tecnología
+
+UDIT tiene dos campus, ambos dentro de Madrid capital:
+
+- **Campus de Diseño e Industrias Creativas:** metro Colombia (L8, L9) y
+  Avenida de la Paz (L4), a una parada de Nuevos Ministerios.
+- **Campus de Innovación, Tecnología y Ciencias Aplicadas:** junto a la
+  Quinta de los Molinos, con metro Suanzes (L5).
+
+## Cómo usar esto para elegir dónde vivir
+
+1. Mirá en tu ficha el campus exacto de tu programa.
+2. Si es fuera de la ciudad, buscá piso cerca del intercambiador del que
+   sale tu bus (Moncloa, en la mayoría de los casos).
+3. Hacé el trayecto en hora punta con una app de rutas antes de firmar:
+   en Madrid 15 minutos de diferencia por trayecto son 2 horas y media a
+   la semana.
+
+## Preguntas frecuentes
+
+**¿Tengo que tener auto para llegar a un campus fuera de Madrid?**
+No. Todos los campus de nuestras universidades tienen conexión en
+transporte público, y algunos además autobús propio de la universidad.
+
+**¿Las universidades tienen residencias cerca del campus?**
+Varias sí, con colegios mayores o residencias propias o concertadas. Lo
+contamos en [residencia, colegio mayor o piso compartido](/guias/residencia-colegio-mayor-o-piso-compartido-madrid/).
+
+**¿Y si mi programa es online?**
+Entonces no tenés que desplazarte, salvo para los exámenes presenciales
+si tu programa los tiene — en ese caso suelen poder hacerse en sedes de
+la universidad en España o Latinoamérica.
+
+## Fuentes oficiales
+
+- [Consorcio Regional de Transportes de Madrid — planificador y horarios](https://www.crtm.es/)
+- [Universidad CEU San Pablo — contacto y campus](https://www.uspceu.com/en/contact)
+- [Universidad Nebrija](https://www.nebrija.com/)
+- [Universidad Alfonso X el Sabio](https://www.uax.com/)
+- [UDIT](https://www.udit.es/)
+
+## Llamada a la acción
+
+> ¿No sabés en qué campus te toca o dónde conviene vivir? Escribinos por
+> WhatsApp al **+34 677 055 769** y lo vemos juntos con tu programa.12:Te4e,## La regla de oro: tu campus manda
+
+No existe "el mejor barrio de Madrid" en abstracto. Existe el mejor barrio
+**para tu campus, tu presupuesto y tu forma de vivir**. Antes de enamorarte
+de un piso, mirá [dónde queda tu campus y cómo se llega](/guias/como-llegar-campus-universidades-madrid/).
+A partir de ahí, estas son las zonas que más eligen los estudiantes.
+
+## Moncloa – Argüelles
+
+El barrio universitario por excelencia. Está al lado de la Ciudad
+Universitaria, del campus Moncloa del CEU y del campus Princesa de Nebrija,
+y en Moncloa está el intercambiador del que salen los buses hacia la UAX
+(Villanueva de la Cañada) y hacia La Berzosa.
+
+- **A favor:** ambiente estudiantil, muchos pisos compartidos, parques
+  (Parque del Oeste, Templo de Debod) y conexión directa con los campus
+  del oeste.
+- **En contra:** mucha demanda en septiembre; hay que buscar con tiempo.
+
+## Chamberí
+
+Residencial, seguro, céntrico y bien conectado. Ideal si estudiás en el
+centro o en el norte y buscás un barrio tranquilo pero con vida.
+
+- **A favor:** calidad de vida, mercados de barrio, todo a mano.
+- **En contra:** de los más caros para estudiantes.
+
+## Malasaña y Chueca
+
+El Madrid de los bares, las tiendas independientes y la vida nocturna.
+
+- **A favor:** a pasos de todo, mucha vida cultural.
+- **En contra:** ruido de noche, pisos antiguos y pequeños. Si necesitás
+  dormir temprano para un campus fuera de la ciudad, pensalo dos veces.
+
+## Lavapiés y La Latina
+
+Multicultural, bohemio y con mucha comunidad latinoamericana.
+
+- **A favor:** de las opciones céntricas más accesibles, ambiente de
+  barrio, mucha oferta cultural.
+- **En contra:** calles estrechas y pisos interiores; revisá bien la luz
+  y la ventilación antes de firmar.
+
+## Tetuán y Cuatro Caminos
+
+Al norte, bien conectados por metro y más baratos que Chamberí, que tienen
+al lado.
+
+- **A favor:** buena relación precio-ubicación, cerca del campus Dehesa de
+  la Villa de Nebrija.
+- **En contra:** menos "postal" que el centro, aunque en plena
+  transformación.
+
+## Ciudad Lineal, Prosperidad y la zona de la Avenida de América
+
+Al este. Si vas a la **UDIT**, sus dos campus quedan de este lado de la
+ciudad (zonas de Colombia y Suanzes).
+
+- **A favor:** precios más contenidos, barrios tranquilos, metro y buses
+  directos.
+- **En contra:** más lejos de los campus del oeste.
+
+## Fuera de la ciudad, cerca del campus
+
+Si estudiás en Villanueva de la Cañada, Montepríncipe o La Berzosa, vivir
+en el municipio o en una residencia junto al campus puede ahorrarte más de
+una hora diaria. A cambio, la vida social del centro te queda más lejos,
+sobre todo de noche. Muchos estudiantes hacen el primer año cerca del
+campus y después se mudan al centro.
+
+## Preguntas frecuentes
+
+**¿Cuál es el barrio más barato para estudiantes?**
+En general, cuanto más lejos del centro y del oeste universitario, más
+barato. Lo que ahorrás en alquiler compensa poco si sumás una hora de
+trayecto cada día: calculá las dos cosas juntas.
+
+**¿Es Madrid una ciudad segura?**
+Es una de las capitales más seguras de Europa. Como en cualquier ciudad
+grande, cuidá el celular y la billetera en el metro y en zonas muy
+turísticas.
+
+**¿Conviene buscar piso antes de viajar?**
+Para el primer mes, es mejor reservar algo temporal y buscar en persona.
+Te contamos por qué en [vivir en Madrid como estudiante](/guias/vivir-en-madrid-estudiante-latinoamericano/).
+
+## Llamada a la acción
+
+> ¿Dudás entre dos barrios? Escribinos por WhatsApp al
+> **+34 677 055 769**: te decimos cuál te conviene según tu campus y te
+> conectamos con estudiantes que ya viven ahí.13:T1178,## Una pregunta que conviene hacerse antes de elegir programa
+
+Muchos estudiantes latinoamericanos vienen a Madrid con la idea de, si
+todo sale bien, quedarse a trabajar. Es posible, y la normativa española
+lo contempla expresamente — pero **no todos los estudios abren la misma
+puerta**. Por eso conviene pensarlo antes de elegir programa, no al
+terminarlo.
+
+## Durante los estudios: ya podés trabajar
+
+Con tu autorización de estancia por estudios podés trabajar hasta **30
+horas semanales**, siempre que sea compatible con tus clases. Te lo
+contamos en detalle en nuestra guía de
+[prácticas y trabajo para estudiantes extranjeros](/guias/practicas-profesionales-estudiantes-extranjeros-espana/).
+Esa experiencia y esos contactos son, muchas veces, lo que después se
+convierte en una oferta de empleo.
+
+## Al terminar: la autorización de búsqueda de empleo
+
+Quien termina en España estudios superiores puede pedir una
+**autorización de residencia para búsqueda de empleo o para emprender un
+proyecto empresarial**. La idea: darte **24 meses (improrrogables)** para
+buscar trabajo o montar tu empresa sin tener que
+salir del país.
+
+Los requisitos habituales son:
+
+- Haber estado en España con una **estancia por estudios** (por eso esta
+  vía es para programas presenciales: un programa 100% online no genera
+  estancia).
+- Haber obtenido un título de **educación superior de nivel grado o
+  superior** (nivel 6 del MECES en adelante): grado, máster universitario
+  o doctorado.
+- Pedirla dentro del plazo que marca la norma desde que terminás tus
+  estudios — no lo dejes para último momento.
+- Seguir cumpliendo requisitos como seguro médico y medios económicos.
+
+## El paso siguiente: residencia y trabajo
+
+Cuando conseguís una oferta, la autorización de búsqueda de empleo se
+puede **modificar a una autorización de residencia y trabajo** (por
+cuenta ajena, o por cuenta propia si emprendés). También hay vías
+específicas para perfiles altamente cualificados. Cada una tiene sus
+requisitos — salario, tipo de contrato, plan de negocio — y la
+tramitamos con abogados de extranjería cuando llega el momento.
+
+## Qué podés hacer desde ahora para que funcione
+
+1. **Elegí un título oficial.** Un máster universitario oficial o un
+   grado abre esta vía; un título propio puede no hacerlo. En nuestras
+   fichas lo indicamos siempre.
+2. **Estudiá de forma presencial** si tu objetivo es quedarte: es lo que
+   genera la estancia por estudios.
+3. **Aprovechá las prácticas.** Muchos programas incluyen prácticas en
+   empresa — es la vía más directa a un primer contrato.
+4. **Mantené tu situación en regla** durante todo el curso: TIE vigente,
+   seguro y renovaciones a tiempo.
+
+Si te preguntás qué carreras tienen más salida, mirá
+[cómo elegir universidad privada en Madrid](/guias/como-elegir-universidad-privada-madrid/)
+o nuestro [catálogo de programas](/programas/).
+
+## Preguntas frecuentes
+
+**¿Un máster online me permite quedarme en España?**
+No por esta vía: un programa 100% online no implica estancia por estudios
+en España, que es el punto de partida de la autorización de búsqueda de
+empleo.
+
+**¿Tengo que salir de España para cambiar de autorización?**
+En los supuestos de esta guía, el cambio se tramita estando en España,
+siempre que lo pidas a tiempo y con la autorización anterior vigente.
+
+**¿Puedo trabajar mientras busco empleo con esa autorización?**
+La finalidad es justamente buscar empleo o emprender; las condiciones
+concretas para trabajar durante ese periodo las revisamos en tu caso.
+
+**¿Necesito tener homologado mi título de origen?**
+Para esta vía cuenta el título que obtenés en España. La homologación de
+tu título previo es otra cuestión — te la explicamos en
+[homologación vs convalidación](/guias/homologacion-vs-convalidacion-titulo/).
+
+## Fuentes oficiales
+
+- [Hoja informativa 20: autorización de residencia para búsqueda de empleo o inicio de proyecto empresarial — Ministerio de Inclusión](https://www.inclusion.gob.es/web/migraciones/w/20.-autorizacion-de-residencia-para-busqueda-de-empleo-o-inicio-de-proyecto-empresarial)
+- [Reglamento de Extranjería (Real Decreto 1155/2024) — BOE](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-24099)
+
+## Llamada a la acción
+
+> ¿Tu plan es quedarte en España al terminar? Escribinos por WhatsApp al
+> **+34 677 055 769** y elegimos juntos un programa que te deje esa puerta
+> abierta.14:Tfe5,## Tres opciones, tres experiencias
+
+Cuando venís a estudiar a Madrid hay tres formas habituales de alojarte, y
+no se diferencian solo por el precio: cambian cuánta autonomía tenés,
+cuánta vida comunitaria y cuántos trámites te ahorrás. Muchos estudiantes
+combinan: el primer año en residencia o colegio mayor y después piso
+compartido.
+
+## Colegio mayor
+
+Es una institución propia del sistema universitario español: un centro
+**adscrito a una universidad** que, además de alojamiento, ofrece
+formación y vida comunitaria (actividades culturales, deportivas,
+tutorías).
+
+- **Suele incluir:** habitación, pensión completa o media pensión,
+  limpieza, lavandería y actividades.
+- **A cambio:** normas de convivencia, a veces proceso de admisión con
+  entrevista y compromiso de participar en la vida del colegio.
+- **Ideal para:** quien llega por primera vez a Europa, especialmente si
+  es joven y quiere red social desde el primer día.
+
+## Residencia universitaria
+
+Parecida en servicios, pero con un enfoque más de alojamiento que de
+comunidad. Las hay propias de las universidades, concertadas con ellas o
+totalmente privadas.
+
+- **Suele incluir:** habitación individual o compartida, a veces con baño
+  propio; comedor o cocina compartida; zonas de estudio; wifi y gastos.
+- **A cambio:** precio mensual mayor que una habitación en piso, y
+  contratos que suelen ir por curso académico completo.
+- **Ideal para:** quien quiere independencia sin preocuparse por facturas,
+  contratos ni compras de muebles.
+
+## Piso compartido
+
+La opción que elige la mayoría de estudiantes internacionales a partir del
+segundo año: alquilás una habitación en un piso con otras personas.
+
+- **Lo bueno:** la más económica y la que más libertad te da. Elegís
+  barrio — te ayudamos con eso en [los mejores barrios para estudiantes](/guias/mejores-barrios-estudiantes-madrid/).
+- **Lo que tenés que gestionar:** contrato, fianza (depósito), reparto de
+  gastos de luz, agua, gas e internet, convivencia y compras básicas.
+- **Ideal para:** quien ya conoce la ciudad o se adapta fácil.
+
+Las cifras de referencia de alquiler y gastos están en nuestra guía de
+[vivir en Madrid como estudiante](/guias/vivir-en-madrid-estudiante-latinoamericano/).
+
+## Lo que tenés que revisar en cualquier caso
+
+1. **Que te sirva para empadronarte.** Sin empadronamiento no avanzás con
+   la [TIE](/guias/tie-empadronamiento-estudiante-madrid/). Preguntá antes
+   de firmar si el propietario o la residencia te autoriza.
+2. **Que tengas un contrato o documento de reserva.** Para el visado, el
+   consulado puede pedirte acreditar alojamiento en España.
+3. **Qué incluye el precio:** gastos, comidas, limpieza, wifi.
+4. **Condiciones de salida:** cuánto preaviso tenés que dar y cuándo te
+   devuelven la fianza.
+
+## Cómo no caer en estafas
+
+- No pagues una reserva por un piso que no viste en persona o por
+  videollamada en directo.
+- Desconfiá de precios muy por debajo de la zona y de propietarios que
+  "están fuera del país" y te piden transferencia urgente.
+- En residencias y colegios mayores, reservá siempre por los canales
+  oficiales del centro.
+
+## Preguntas frecuentes
+
+**¿Las universidades tienen colegios mayores o residencias propias?**
+Varias universidades de Madrid tienen colegios mayores adscritos o
+residencias concertadas, algunas junto al campus. Te decimos cuáles
+corresponden a tu universidad.
+
+**¿Cuándo tengo que reservar?**
+Las plazas en residencias y colegios mayores para septiembre se mueven
+mucho en primavera. Si querés una, reservá apenas tengas tu admisión.
+
+**¿Me sirve la carta de la residencia para el visado?**
+Una reserva o contrato de alojamiento ayuda a acreditar dónde vas a vivir.
+Revisá qué pide tu consulado en nuestra guía de
+[visado de estudiante](/guias/visado-estudiante-espana-latinoamericanos/).
+
+## Llamada a la acción
+
+> ¿No sabés si te conviene residencia o piso? Escribinos por WhatsApp al
+> **+34 677 055 769** y lo pensamos juntos según tu edad, tu campus y tu
+> presupuesto.15:T10fe,## Por qué el transporte es tu primer ahorro
+
+Madrid tiene una de las redes de transporte público más completas de
+Europa: metro, Metro Ligero, Cercanías (trenes de corta distancia) y buses
+urbanos e interurbanos que llegan a todos los municipios de la región —
+incluidos los campus que están fuera de la ciudad, como Villanueva de la
+Cañada o Hoyo de Manzanares. Casi ningún estudiante necesita auto.
+
+Y si tenés menos de 26 años, la Comunidad de Madrid te ofrece el **Abono
+Joven**: un abono mensual con viajes ilimitados en toda la red, a un precio
+muy por debajo de lo que pagarías viaje por viaje.
+
+## Qué es el Abono Joven
+
+- **Para quién:** personas de **15 a 25 años**. Podés usarlo hasta el día
+  en que cumplís 26.
+- **Qué cubre:** viajes ilimitados durante 30 días en **todas las zonas
+  tarifarias** (de la A a la E2): metro, Metro Ligero, Cercanías, EMT y
+  buses interurbanos de la Comunidad de Madrid.
+- **Precio:** con la bonificación vigente para 2026, **10 € al mes**. Los
+  descuentos al transporte se renuevan año a año, así que conviene
+  revisar la tarifa en el Consorcio cada enero.
+
+Es decir: un estudiante de la UAX que vive en Madrid capital y viaja todos
+los días a Villanueva de la Cañada paga lo mismo que alguien que solo usa
+el metro del centro.
+
+## Cómo sacarlo paso a paso
+
+1. **Tarjeta Transporte Público (TTP) personal.** El abono se carga en una
+   tarjeta sin contacto, personal e intransferible. La primera vez hay que
+   solicitarla — por internet o con cita en una oficina de gestión del
+   Consorcio Regional de Transportes.
+2. **Documentación.** Documento de identidad (pasaporte o TIE) y una foto.
+   Desde junio de 2026 la expedición de nuevas tarjetas exige además
+   **acreditar residencia en Madrid** (o en un municipio con convenio),
+   por eso conviene tener ya tu
+   [empadronamiento](/guias/tie-empadronamiento-estudiante-madrid/).
+3. **Carga mensual.** Una vez que tenés la tarjeta, cargás el abono cada
+   mes en cualquier máquina de metro o estanco autorizado. El periodo de 30
+   días empieza el día de la primera validación.
+
+Mientras esperás la tarjeta personal podés moverte con la **tarjeta
+Multi** (anónima, se compra en cualquier estación) cargada con billetes
+sencillos o de 10 viajes.
+
+## Si ya tenés 26 o más
+
+No hay Abono Joven, pero sí el **abono mensual normal por zonas**, también
+bonificado. El precio depende de la zona en la que vivas y a la que
+viajes, así que la elección del barrio pesa más: revisá nuestra guía de
+[barrios para estudiantes](/guias/mejores-barrios-estudiantes-madrid/)
+antes de firmar un alquiler lejos de tu campus.
+
+## Lo básico de la red
+
+- **Metro:** 12 líneas más el Ramal, de 6:00 a 1:30 aproximadamente.
+- **Cercanías Renfe:** útil para municipios del área metropolitana y para
+  llegar al aeropuerto (línea C1).
+- **Buses interurbanos (verdes):** salen de los grandes intercambiadores
+  — Moncloa, Plaza de Castilla, Avenida de América, Príncipe Pío — y son
+  la forma de llegar a los campus fuera de la ciudad.
+- **Búhos:** buses nocturnos de la EMT cuando cierra el metro.
+
+Si querés ver cómo llegar a cada una de nuestras universidades, lo
+detallamos en [cómo llegar a los campus](/guias/como-llegar-campus-universidades-madrid/).
+
+## Preguntas frecuentes
+
+**¿Puedo sacar el Abono Joven si soy extranjero?**
+Sí. Lo que cuenta es la edad y acreditar residencia en Madrid, no la
+nacionalidad.
+
+**¿El Abono Joven sirve para ir al aeropuerto?**
+Sí, en metro y en Cercanías. El autobús exprés al aeropuerto tiene tarifa
+propia y no está incluido.
+
+**¿Cuánto tarda en llegar la tarjeta personal?**
+Depende del canal y la época del año; en septiembre hay mucha demanda.
+Pedila apenas tengas el empadronamiento y movete con la tarjeta Multi
+mientras tanto.
+
+**¿Puedo usar el abono de otra persona?**
+No. La tarjeta es personal, lleva tu foto y los revisores pueden pedirte
+identificación.
+
+## Fuentes oficiales
+
+- [Consorcio Regional de Transportes de Madrid — Abonos y títulos](https://www.crtm.es/billetes-y-tarifas/)
+- [Metro de Madrid](https://www.metromadrid.es/)
+
+## Llamada a la acción
+
+> ¿Ya sabés en qué campus vas a estudiar? Escribinos por WhatsApp al
+> **+34 677 055 769** y te ayudamos a calcular tu trayecto diario antes de
+> elegir dónde vivir.16:Te79,## Lo que tu visado ya te permite hacer
 
 Si tenés una autorización de residencia por estudios en España, no
 necesitás tramitar un permiso de trabajo aparte para trabajar de forma
@@ -97,7 +644,7 @@ corresponda — en Madrid te acompañamos con el procedimiento local.
 
 > ¿Tu programa incluye prácticas y no sabés si necesitás algún trámite
 > extra? Escribinos por WhatsApp al **+34 677 055 769** y te confirmamos
-> exactamente qué te corresponde según tu caso.11:Te7d,## La escala: 0 a 10, con un decimal
+> exactamente qué te corresponde según tu caso.17:Te7d,## La escala: 0 a 10, con un decimal
 
 El sistema de calificaciones universitario en España está fijado por el
 **Real Decreto 1125/2003** y usa una escala numérica de 0 a 10, con un
@@ -179,7 +726,7 @@ convocatorias disponibles antes de que haya que repetir el curso completo.
 
 > ¿Tenés dudas sobre cómo se va a leer tu expediente académico en España?
 > Escribinos por WhatsApp al **+34 677 055 769** y lo revisamos juntos
-> antes de que te matricules.12:T12ae,## Dos trámites, no uno
+> antes de que te matricules.18:T12ae,## Dos trámites, no uno
 
 Cuando llegás a España con tu visado de estudiante aprobado, todavía te
 faltan dos pasos para estar completamente en regla: la **TIE** (Tarjeta de
@@ -272,7 +819,7 @@ No, es un trámite municipal gratuito.
 
 > ¿Ya tenés fecha de llegada a Madrid? Escribinos por WhatsApp al
 > **+34 677 055 769** y armamos juntos el calendario de empadronamiento y
-> TIE para que no pierdas el plazo de los 30 días.13:T1142,## No es solo una cuestión de precio
+> TIE para que no pierdas el plazo de los 30 días.19:T1142,## No es solo una cuestión de precio
 
 La diferencia más visible entre universidad pública y privada en España
 es el precio de la matrícula, pero no es la que más te va a importar si
@@ -362,7 +909,7 @@ fijar su propio proceso, no necesitan ese filtro competitivo.
 
 > ¿No sabés todavía si te conviene pelear una nota de corte o ir directo
 > por admisión propia? Escribinos por WhatsApp al **+34 677 055 769** y te
-> decimos con honestidad qué camino te conviene según tu expediente.14:T117d,## La confusión más común: selectividad no es lo mismo que "requisito de acceso"
+> decimos con honestidad qué camino te conviene según tu expediente.1a:T117d,## La confusión más común: selectividad no es lo mismo que "requisito de acceso"
 
 Muchos estudiantes que recién terminan el colegio en su país nos escriben preocupados por tener que rendir la selectividad española (hoy llamada EvAU) para poder estudiar en Madrid. La buena noticia: **las universidades privadas españolas, como las que trabajan con nosotros, no exigen la selectividad española**. Tienen sus propios procesos de admisión.
 
@@ -416,7 +963,7 @@ Se evalúa caso por caso — escribinos con el detalle de tu título y te decimo
 > corresponde para estudiar en Madrid? Escribinos por WhatsApp al
 > **+34 677 055 769** con tu país y tu título de secundaria — te confirmamos el
 > camino exacto antes de que asumas que necesitás rendir un examen que quizás
-> no te corresponde.15:T130a,## Dos tipos de becas que no hay que confundir
+> no te corresponde.1b:T130a,## Dos tipos de becas que no hay que confundir
 
 Cuando alguien pregunta "¿hay becas para estudiar en España?", en realidad está preguntando por dos cosas distintas:
 
@@ -466,7 +1013,7 @@ Seguís teniendo la tarifa de convenio directo, que ya es distinta (y generalmen
 > ¿Querés saber qué becas podrían aplicarte según tu perfil y el programa que te
 > interesa? Escribinos por WhatsApp al **+34 677 055 769** — lo revisamos con la
 > universidad antes de que te matricules, sin prometerte nada que después no se
-> cumpla.16:Tead,## Por qué esto importa antes de elegir programa
+> cumpla.1c:Tead,## Por qué esto importa antes de elegir programa
 
 Casi todas las fichas de programa de nuestro catálogo mencionan los créditos ECTS de cada grado o máster. Si tu país tiene un sistema de créditos distinto (o no usa créditos en absoluto), esa cifra no te dice nada por sí sola — y sin embargo es la unidad que define cuánto dura un programa y cuánta carga de trabajo real tiene.
 
@@ -510,7 +1057,7 @@ Depende de tu país y de si tu título necesita homologación o reconocimiento e
 
 > ¿Tenés dudas sobre cuántos créditos te reconocerían de tus estudios previos?
 > Escribinos por WhatsApp al **+34 677 055 769** con tu plan de estudios de
-> origen y lo revisamos juntos antes de que te matricules.17:Tf48,## Por qué conviene resolver esto temprano
+> origen y lo revisamos juntos antes de que te matricules.1d:Tf48,## Por qué conviene resolver esto temprano
 
 Vas a necesitar una cuenta española para casi todo: pagar el alquiler, domiciliar servicios, recibir transferencias familiares sin comisiones altas, y en algunos casos hasta para la propia matrícula universitaria. Cuanto antes la resuelvas, menos trámites se te amontonan en las primeras semanas.
 
@@ -560,7 +1107,7 @@ Sí, tanto los bancos tradicionales como los neobancos permiten recibir transfer
 > ¿Ya tenés fecha de llegada a Madrid y querés organizar estos trámites con
 > anticipación? Escribinos por WhatsApp al **+34 677 055 769** — te contamos
 > qué orden de trámites le funcionó mejor a otros estudiantes que ya pasaron
-> por esto.18:T1097,## El error más caro: comprar un seguro de viaje en vez de un seguro de estudiante
+> por esto.1e:T1097,## El error más caro: comprar un seguro de viaje en vez de un seguro de estudiante
 
 Si buscás "seguro médico para viajar a España", te van a aparecer pólizas de viaje tipo Schengen, pensadas para turistas — cobertura de unos 30.000 €, válidas para estancias cortas. **Ese tipo de seguro no sirve para el visado de estudiante** si tu estancia va a superar los 90 días, que es el caso de prácticamente todos nuestros estudiantes. Comprarlo por error significa perder esa plata y tener que contratar el correcto de todas formas.
 
@@ -607,7 +1154,7 @@ Contratá o ajustá tu póliza antes de la cita — presentar un seguro que no c
 
 > ¿No estás seguro/a si tu seguro médico cumple lo que pide el consulado?
 > Escribinos por WhatsApp al **+34 677 055 769** y lo revisamos juntos antes
-> de tu cita, para que no pierdas tiempo con un seguro que no te van a aceptar.19:T13a5,## El error más común: elegir por "fama" antes que por programa
+> de tu cita, para que no pierdas tiempo con un seguro que no te van a aceptar.1f:T13a5,## El error más común: elegir por "fama" antes que por programa
 
 Muchos estudiantes nos escriben preguntando cuál universidad de Madrid es "mejor", como si hubiera un ranking único que aplicara a cualquier carrera. En la práctica, la pregunta correcta no es "¿cuál universidad es mejor?" sino "¿cuál universidad es mejor **para el programa específico que quiero estudiar**?" — porque ninguna de las universidades privadas de Madrid es igual de fuerte en todas las áreas.
 
@@ -649,7 +1196,7 @@ Es posible, pero implica evaluar de nuevo qué créditos te reconocerían en la 
 > ¿No sabés todavía qué universidad se ajusta mejor a tu carrera? Escribinos
 > por WhatsApp al **+34 677 055 769** con tu expediente y te decimos, programa
 > por programa, cuál te conviene más — sin venderte la que nos resulte más
-> cómoda a nosotros.1a:T14f6,## Por qué esto genera tanta confusión
+> cómoda a nosotros.20:T14f6,## Por qué esto genera tanta confusión
 
 En el uso cotidiano, "homologar" y "convalidar" se usan como sinónimos. En el sistema español no lo son: son trámites distintos, con objetivos distintos, gestionados por vías distintas. Confundirlos es la razón más común por la que un estudiante pierde meses haciendo el trámite equivocado.
 
@@ -703,7 +1250,7 @@ En promedio, unos 4,5 meses para una homologación universitaria, pero el tiempo
 > ¿No estás seguro/a si necesitás homologar o convalidar tu título? Escribinos
 > por WhatsApp al **+34 677 055 769** con tu plan de estudios de origen y tu
 > objetivo — lo revisamos juntos y te decimos con honestidad qué trámite te
-> corresponde antes de que pagues ninguna tasa.1b:T13dd,## Antes de empezar: esto varía por consulado
+> corresponde antes de que pagues ninguna tasa.21:T13dd,## Antes de empezar: esto varía por consulado
 
 Cada consulado español en Latinoamérica gestiona el visado de estudiante con su propio sistema de citas, su propia lista exacta de documentos y sus propios plazos. Lo que sigue es la estructura general que se repite en todos — pero antes de armar tu carpeta de documentos, siempre conviene confirmar el detalle exacto en la web del consulado de tu país o directamente con nosotros, para no perder una cita por un papel que falta.
 
@@ -760,7 +1307,7 @@ Depende del motivo del rechazo. Muchas veces es un tema de documentación incomp
 
 > ¿Estás por arrancar el trámite de tu visado de estudiante? Escribinos por
 > WhatsApp al **+34 677 055 769** — coordinamos tu admisión y tu visado en
-> paralelo para que no pierdas tiempo del calendario académico.1c:T11fb,## Cuánto presupuestar por mes
+> paralelo para que no pierdas tiempo del calendario académico.22:T124b,## Cuánto presupuestar por mes
 
 No hay una cifra única — depende del barrio, si compartís piso o no, y tu estilo de vida — pero estas son las cifras de referencia para el curso 2026-2027:
 
@@ -785,7 +1332,7 @@ Buscar piso a distancia, antes de viajar, es el momento de mayor riesgo de estaf
 2. **Empadronarte**: es el primer trámite administrativo, obligatorio, y requisito para pedir tu TIE después.
 3. **Abrir una cuenta bancaria española**: la vas a necesitar para el alquiler, la matrícula y el día a día — la mayoría de los bancos piden tu TIE o al menos tu NIE para abrirla, así que conviene resolver esto en las primeras semanas.
 4. **Sacar un número de teléfono español**: lo vas a necesitar para trámites, para el banco y para el día a día.
-5. **Conocer el transporte público**: el Abono Joven de la Comunidad de Madrid (para menores de cierta edad, a confirmar el límite vigente) suele ser mucho más económico que pagar viaje por viaje — vale la pena averiguarlo apenas llegás.
+5. **Conocer el transporte público**: si tenés menos de 26 años, el Abono Joven de la Comunidad de Madrid te da viajes ilimitados en toda la red por mucho menos que pagar viaje por viaje — te explicamos cómo sacarlo en nuestra [guía de transporte en Madrid](/guias/transporte-publico-madrid-abono-joven-estudiantes/).
 
 ## Lo que nadie te cuenta: el primer mes es el más caro
 
@@ -811,14 +1358,14 @@ No siempre — depende del transporte disponible. Muchos estudiantes priorizan v
 > ¿Ya tenés programa y universidad definidos y ahora te preocupa el
 > presupuesto para instalarte? Escribinos por WhatsApp al
 > **+34 677 055 769** — te damos una estimación realista según tu caso y te
-> conectamos con estudiantes que ya hicieron el mismo camino.5:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https://estudiaenmadrid.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guías\",\"item\":\"https://estudiaenmadrid.com/guias\"}]}"}}],["$","main",null,{"className":"px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16 pb-14 sm:pb-20 md:pb-[120px]","children":[["$","div",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"GUÍAS PRÁCTICAS"}],["$","h1",null,{"className":"font-display font-black uppercase mt-3.5 mb-0","style":{"fontSize":"clamp(44px,10vw,180px)","lineHeight":0.86,"letterSpacing":"-.045em"},"children":"Guías"}],["$","div",null,{"className":"grid gap-5 md:gap-16 mt-5 md:mt-9 md:grid-cols-2 items-start","children":[["$","p",null,{"className":"font-serif italic m-0","style":{"maxWidth":"22ch","fontSize":"clamp(24px,3vw,44px)","lineHeight":1.08},"children":"Todo lo que resolvemos a diario, escrito para que lo leas antes de escribirnos."}],["$","p",null,{"className":"m-0 text-[15px] sm:text-[16px] leading-[1.65] text-ink-soft","style":{"maxWidth":"58ch"},"children":"Visado de estudiante, la diferencia entre homologar y convalidar, cómo elegir universidad, cuánto cuesta vivir en Madrid y los primeros trámites al llegar. Escritas con fuentes oficiales cuando existen — no reemplazan una consulta sobre tu caso, pero te dan el panorama completo antes de hablar con nosotros."}]]}],["$","$Lf",null,{"guides":[{"slug":"practicas-profesionales-estudiantes-extranjeros-espana","title":"Prácticas profesionales con visado de estudiante","titleSeo":"Prácticas Profesionales para Estudiantes Extranjeros en España - Estudia en Madrid","metaDescription":"Qué podés hacer con tu visado de estudiante: trabajar hasta 30 horas semanales y hacer prácticas curriculares o en empresa. Requisitos y trámites 2026.","category":"Visados","summary":"Tu visado de estudiante no te deja solo estudiar: hasta 30 horas semanales de trabajo y las prácticas profesionales también entran en el paquete.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$10"},{"slug":"sistema-calificaciones-universidades-espana","title":"Cómo se califica en las universidades españolas","titleSeo":"Sistema de Calificaciones en Universidades de España - Estudia en Madrid","metaDescription":"Cómo funciona la escala de notas española (0 a 10), qué es la Matrícula de Honor y cómo se traduce tu calificación de origen al sistema universitario español.","category":"Universidades","summary":"La escala de 0 a 10, qué significa cada tramo, y qué es exactamente la Matrícula de Honor que tanto se menciona y poco se explica.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$11"},{"slug":"tie-empadronamiento-estudiante-madrid","title":"TIE y empadronamiento: los trámites al llegar a Madrid","titleSeo":"TIE y Empadronamiento para Estudiantes en Madrid - Estudia en Madrid","metaDescription":"Cómo tramitar la TIE y el empadronamiento al llegar a Madrid como estudiante extranjero: plazos, documentos, cita previa y errores comunes que alargan el trámite.","category":"Visados","summary":"Los dos trámites que tenés que resolver apenas pisás Madrid — y en qué orden conviene hacerlos para no perder tiempo.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$12"},{"slug":"universidad-publica-vs-privada-espana","title":"Universidad pública o privada en España: la diferencia real","titleSeo":"Universidad Pública vs. Privada en España: Qué Elegir - Estudia en Madrid","metaDescription":"Diferencias reales entre universidad pública y privada en España para estudiantes latinoamericanos: admisión, precio, nota de corte y qué camino evita la selectividad.","category":"Universidades","summary":"La diferencia no es solo el precio — es sobre todo cómo entrás. Y esa diferencia es justamente la que nos conviene a vos y a nosotros.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$13"},{"slug":"acceso-universidad-espana-sin-selectividad","title":"Acceso a la universidad en España sin selectividad","titleSeo":"Acceso a la Universidad en España sin Selectividad - Estudia en Madrid","metaDescription":"Cómo acceder a una universidad privada en España desde Latinoamérica sin rendir la selectividad española: homologación de bachillerato, credencial UNED y admisión propia.","category":"Convalidaciones","summary":"La selectividad española preocupa a muchos estudiantes que recién terminan el colegio — en universidades privadas, generalmente no hace falta rendirla.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$14"},{"slug":"becas-estudiantes-latinoamericanos-espana","title":"Becas para estudiantes latinoamericanos en España","titleSeo":"Becas para Estudiantes Latinoamericanos en España - Estudia en Madrid","metaDescription":"Becas y ayudas reales para estudiar en España siendo latinoamericano: Fundación Carolina, AUIP, Erasmus Mundus y becas internas de nuestras universidades convenidas.","category":"Becas","summary":"Qué becas existen de verdad, cuáles aplican a nuestras universidades convenidas y cuáles son externas — para que sepas a qué podés aspirar realmente.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$15"},{"slug":"creditos-ects-sistema-universitario-espanol","title":"Créditos ECTS: el sistema universitario español explicado","titleSeo":"Créditos ECTS: el Sistema Universitario Español Explicado - Estudia en Madrid","metaDescription":"Qué son los créditos ECTS, cuántas horas representan y cómo se distribuyen en grados y másteres españoles — explicado para estudiantes latinoamericanos.","category":"Universidades","summary":"Si tu país usa otro sistema de créditos, esto es lo primero que hay que entender antes de leer cualquier ficha de programa en España.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$16"},{"slug":"cuenta-bancaria-espana-estudiante-extranjero","title":"Cómo abrir una cuenta bancaria en España siendo estudiante extranjero","titleSeo":"Cómo Abrir una Cuenta Bancaria en España Siendo Extranjero - Estudia en Madrid","metaDescription":"Requisitos para abrir cuenta bancaria en España como estudiante extranjero: qué pedir con NIE, qué hacer antes de tenerlo y alternativas con neobancos.","category":"Vivir en Madrid","summary":"No hace falta esperar a tener el TIE en la mano para empezar a operar en España — pero sí conviene saber qué pedir en cada etapa.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$17"},{"slug":"seguro-medico-visado-estudiante-espana","title":"Seguro médico para el visado de estudiante en España","titleSeo":"Seguro Médico para el Visado de Estudiante en España - Estudia en Madrid","metaDescription":"Qué cobertura exige el consulado para el seguro médico del visado de estudiante en España: sin copagos, sin carencias, con repatriación. Errores comunes a evitar.","category":"Visados","summary":"No cualquier seguro de viaje sirve — el consulado pide condiciones específicas que conviene entender antes de comprar cualquier póliza.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$18"},{"slug":"como-elegir-universidad-privada-madrid","title":"Cómo elegir universidad privada en Madrid: qué mirar además del nombre","titleSeo":"Cómo Elegir Universidad Privada en Madrid - Estudia en Madrid","metaDescription":"Qué mirar antes de elegir universidad privada en Madrid además del nombre: acreditación, campus, modalidad y salidas profesionales. Guía con ejemplos reales.","category":"Universidades","summary":"El nombre de la universidad importa menos de lo que parece. Esto es lo que de verdad cambia tu experiencia y tus salidas profesionales.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$19"},{"slug":"homologacion-vs-convalidacion-titulo","title":"Homologación vs. convalidación de tu título: cuál necesitás","titleSeo":"Homologación vs. Convalidación de tu Título en España - Estudia en Madrid","metaDescription":"Diferencia entre homologar y convalidar un título latinoamericano en España: cuál necesitás según tu objetivo, costo, plazos y documentos que piden.","category":"Convalidaciones","summary":"No son lo mismo: una te permite ejercer una profesión en España, la otra te permite seguir estudiando. Cuál necesitás depende de tu objetivo.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$1a"},{"slug":"visado-estudiante-espana-latinoamericanos","title":"Visado de estudiante en España: guía para latinoamericanos","titleSeo":"Visado de Estudiante en España: Guía para Latinoamericanos - Estudia en Madrid","metaDescription":"Requisitos, documentos y pasos para tramitar el visado de estudiante en España desde Latinoamérica: solvencia económica, seguro médico, plazos y qué hacer al llegar.","category":"Visados","summary":"Qué documentos pedir, cuánta solvencia económica demostrar y cuánto tarda el consulado en resolver tu visado de estudiante.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$1b"},{"slug":"vivir-en-madrid-estudiante-latinoamericano","title":"Vivir en Madrid siendo estudiante latinoamericano","titleSeo":"Vivir en Madrid Siendo Estudiante Latinoamericano - Estudia en Madrid","metaDescription":"Costo de vida, alquiler y primeros pasos para estudiantes latinoamericanos en Madrid: cuánto presupuestar, cómo buscar alojamiento y qué hacer al llegar.","category":"Vivir en Madrid","summary":"Cuánto presupuestar por mes, cómo buscar alojamiento sin caer en estafas y qué hacer en tus primeras semanas en la ciudad.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$1c"}],"categories":["Visados","Universidades","Convalidaciones","Becas","Vivir en Madrid"]}]]}]],["$L1d"],"$L1e"]}]
-7:["$","$1","h",{"children":[null,["$","$L1f",null,{"children":"$L20"}],["$","div",null,{"hidden":true,"children":["$","$L21",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":"$L23"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+> conectamos con estudiantes que ya hicieron el mismo camino.5:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https://estudiaenmadrid.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guías\",\"item\":\"https://estudiaenmadrid.com/guias\"}]}"}}],["$","main",null,{"className":"px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16 pb-14 sm:pb-20 md:pb-[120px]","children":[["$","div",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"GUÍAS PRÁCTICAS"}],["$","h1",null,{"className":"font-display font-black uppercase mt-3.5 mb-0","style":{"fontSize":"clamp(44px,10vw,180px)","lineHeight":0.86,"letterSpacing":"-.045em"},"children":"Guías"}],["$","div",null,{"className":"grid gap-5 md:gap-16 mt-5 md:mt-9 md:grid-cols-2 items-start","children":[["$","p",null,{"className":"font-serif italic m-0","style":{"maxWidth":"22ch","fontSize":"clamp(24px,3vw,44px)","lineHeight":1.08},"children":"Todo lo que resolvemos a diario, escrito para que lo leas antes de escribirnos."}],["$","p",null,{"className":"m-0 text-[15px] sm:text-[16px] leading-[1.65] text-ink-soft","style":{"maxWidth":"58ch"},"children":"Visado de estudiante, la diferencia entre homologar y convalidar, cómo elegir universidad, cuánto cuesta vivir en Madrid y los primeros trámites al llegar. Escritas con fuentes oficiales cuando existen — no reemplazan una consulta sobre tu caso, pero te dan el panorama completo antes de hablar con nosotros."}]]}],["$","$Lf",null,{"guides":[{"slug":"clima-madrid-que-llevar-en-la-maleta","title":"Clima en Madrid y qué llevar en la maleta","titleSeo":"Clima en Madrid y Qué Llevar en la Maleta para Estudiar - Estudia en Madrid","metaDescription":"Cómo es el clima de Madrid durante el curso académico, qué ropa llevar, qué documentos no pueden faltar en tu equipaje de mano y qué conviene comprar al llegar.","category":"Vivir en Madrid","summary":"Madrid no es una ciudad tropical: veranos muy calurosos, inviernos fríos y secos. Qué meter en la maleta y qué dejar para comprar allá.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$10"},{"slug":"como-llegar-campus-universidades-madrid","title":"Cómo llegar a los campus de nuestras universidades en Madrid","titleSeo":"Cómo Llegar a los Campus: UAX, Nebrija, CEU y UDIT - Estudia en Madrid","metaDescription":"Dónde están los campus de la UAX, Nebrija, CEU San Pablo y UDIT en Madrid y cómo llegar en metro, bus interurbano o autobús universitario. Antes de alquilar, mirá esto.","category":"Universidades","summary":"No todas las universidades de Madrid están en Madrid. Dónde queda cada campus de nuestras universidades y cómo se llega desde el centro.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$11"},{"slug":"mejores-barrios-estudiantes-madrid","title":"Los mejores barrios para estudiantes en Madrid","titleSeo":"Mejores Barrios para Estudiantes en Madrid - Estudia en Madrid","metaDescription":"Moncloa-Argüelles, Chamberí, Malasaña, Lavapiés, Tetuán o Ciudad Lineal: qué barrio de Madrid te conviene como estudiante según tu campus, tu presupuesto y tu estilo de vida.","category":"Vivir en Madrid","summary":"Cada barrio de Madrid tiene su personalidad — y su distancia a tu campus. Una guía honesta para elegir antes de alquilar.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$12"},{"slug":"quedarse-a-trabajar-en-espana-despues-de-estudiar","title":"Quedarse a trabajar en España después de estudiar","titleSeo":"Quedarse a Trabajar en España Después de Estudiar - Estudia en Madrid","metaDescription":"Qué opciones tenés para quedarte en España al terminar tu grado o máster: autorización de búsqueda de empleo, paso a residencia y trabajo y requisitos que conviene planificar desde el principio.","category":"Visados","summary":"Terminar el máster no tiene por qué significar volver. Las vías para quedarte en España después de estudiar y qué hay que tener en cuenta desde el día uno.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$13"},{"slug":"residencia-colegio-mayor-o-piso-compartido-madrid","title":"Residencia, colegio mayor o piso compartido: cómo alojarte en Madrid","titleSeo":"Residencia, Colegio Mayor o Piso Compartido en Madrid - Estudia en Madrid","metaDescription":"Diferencias entre residencia universitaria, colegio mayor y piso compartido en Madrid para estudiantes extranjeros: qué incluye cada opción, para quién conviene y cómo evitar estafas.","category":"Vivir en Madrid","summary":"Las tres formas de alojarte en Madrid como estudiante, sin vueltas: qué incluye cada una, cuánto te cuida y cuánta libertad te da.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$14"},{"slug":"transporte-publico-madrid-abono-joven-estudiantes","title":"Transporte público en Madrid: Abono Joven y cómo moverte","titleSeo":"Transporte en Madrid para Estudiantes: Abono Joven y Tarjeta - Estudia en Madrid","metaDescription":"Cómo moverte por Madrid como estudiante extranjero: Abono Joven, Tarjeta Transporte Público, zonas, metro, Cercanías y buses interurbanos. Qué trámite hacer al llegar.","category":"Vivir en Madrid","summary":"El Abono Joven es probablemente el gasto mejor invertido de tu vida en Madrid. Cómo sacarlo, qué cubre y qué hacer si ya cumpliste 26.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$15"},{"slug":"practicas-profesionales-estudiantes-extranjeros-espana","title":"Prácticas profesionales con visado de estudiante","titleSeo":"Prácticas Profesionales para Estudiantes Extranjeros en España - Estudia en Madrid","metaDescription":"Qué podés hacer con tu visado de estudiante: trabajar hasta 30 horas semanales y hacer prácticas curriculares o en empresa. Requisitos y trámites 2026.","category":"Visados","summary":"Tu visado de estudiante no te deja solo estudiar: hasta 30 horas semanales de trabajo y las prácticas profesionales también entran en el paquete.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$16"},{"slug":"sistema-calificaciones-universidades-espana","title":"Cómo se califica en las universidades españolas","titleSeo":"Sistema de Calificaciones en Universidades de España - Estudia en Madrid","metaDescription":"Cómo funciona la escala de notas española (0 a 10), qué es la Matrícula de Honor y cómo se traduce tu calificación de origen al sistema universitario español.","category":"Universidades","summary":"La escala de 0 a 10, qué significa cada tramo, y qué es exactamente la Matrícula de Honor que tanto se menciona y poco se explica.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$17"},{"slug":"tie-empadronamiento-estudiante-madrid","title":"TIE y empadronamiento: los trámites al llegar a Madrid","titleSeo":"TIE y Empadronamiento para Estudiantes en Madrid - Estudia en Madrid","metaDescription":"Cómo tramitar la TIE y el empadronamiento al llegar a Madrid como estudiante extranjero: plazos, documentos, cita previa y errores comunes que alargan el trámite.","category":"Visados","summary":"Los dos trámites que tenés que resolver apenas pisás Madrid — y en qué orden conviene hacerlos para no perder tiempo.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$18"},{"slug":"universidad-publica-vs-privada-espana","title":"Universidad pública o privada en España: la diferencia real","titleSeo":"Universidad Pública vs. Privada en España: Qué Elegir - Estudia en Madrid","metaDescription":"Diferencias reales entre universidad pública y privada en España para estudiantes latinoamericanos: admisión, precio, nota de corte y qué camino evita la selectividad.","category":"Universidades","summary":"La diferencia no es solo el precio — es sobre todo cómo entrás. Y esa diferencia es justamente la que nos conviene a vos y a nosotros.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$19"},{"slug":"acceso-universidad-espana-sin-selectividad","title":"Acceso a la universidad en España sin selectividad","titleSeo":"Acceso a la Universidad en España sin Selectividad - Estudia en Madrid","metaDescription":"Cómo acceder a una universidad privada en España desde Latinoamérica sin rendir la selectividad española: homologación de bachillerato, credencial UNED y admisión propia.","category":"Convalidaciones","summary":"La selectividad española preocupa a muchos estudiantes que recién terminan el colegio — en universidades privadas, generalmente no hace falta rendirla.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$1a"},{"slug":"becas-estudiantes-latinoamericanos-espana","title":"Becas para estudiantes latinoamericanos en España","titleSeo":"Becas para Estudiantes Latinoamericanos en España - Estudia en Madrid","metaDescription":"Becas y ayudas reales para estudiar en España siendo latinoamericano: Fundación Carolina, AUIP, Erasmus Mundus y becas internas de nuestras universidades convenidas.","category":"Becas","summary":"Qué becas existen de verdad, cuáles aplican a nuestras universidades convenidas y cuáles son externas — para que sepas a qué podés aspirar realmente.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$1b"},{"slug":"creditos-ects-sistema-universitario-espanol","title":"Créditos ECTS: el sistema universitario español explicado","titleSeo":"Créditos ECTS: el Sistema Universitario Español Explicado - Estudia en Madrid","metaDescription":"Qué son los créditos ECTS, cuántas horas representan y cómo se distribuyen en grados y másteres españoles — explicado para estudiantes latinoamericanos.","category":"Universidades","summary":"Si tu país usa otro sistema de créditos, esto es lo primero que hay que entender antes de leer cualquier ficha de programa en España.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$1c"},{"slug":"cuenta-bancaria-espana-estudiante-extranjero","title":"Cómo abrir una cuenta bancaria en España siendo estudiante extranjero","titleSeo":"Cómo Abrir una Cuenta Bancaria en España Siendo Extranjero - Estudia en Madrid","metaDescription":"Requisitos para abrir cuenta bancaria en España como estudiante extranjero: qué pedir con NIE, qué hacer antes de tenerlo y alternativas con neobancos.","category":"Vivir en Madrid","summary":"No hace falta esperar a tener el TIE en la mano para empezar a operar en España — pero sí conviene saber qué pedir en cada etapa.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$1d"},{"slug":"seguro-medico-visado-estudiante-espana","title":"Seguro médico para el visado de estudiante en España","titleSeo":"Seguro Médico para el Visado de Estudiante en España - Estudia en Madrid","metaDescription":"Qué cobertura exige el consulado para el seguro médico del visado de estudiante en España: sin copagos, sin carencias, con repatriación. Errores comunes a evitar.","category":"Visados","summary":"No cualquier seguro de viaje sirve — el consulado pide condiciones específicas que conviene entender antes de comprar cualquier póliza.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$1e"},{"slug":"como-elegir-universidad-privada-madrid","title":"Cómo elegir universidad privada en Madrid: qué mirar además del nombre","titleSeo":"Cómo Elegir Universidad Privada en Madrid - Estudia en Madrid","metaDescription":"Qué mirar antes de elegir universidad privada en Madrid además del nombre: acreditación, campus, modalidad y salidas profesionales. Guía con ejemplos reales.","category":"Universidades","summary":"El nombre de la universidad importa menos de lo que parece. Esto es lo que de verdad cambia tu experiencia y tus salidas profesionales.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$1f"},{"slug":"homologacion-vs-convalidacion-titulo","title":"Homologación vs. convalidación de tu título: cuál necesitás","titleSeo":"Homologación vs. Convalidación de tu Título en España - Estudia en Madrid","metaDescription":"Diferencia entre homologar y convalidar un título latinoamericano en España: cuál necesitás según tu objetivo, costo, plazos y documentos que piden.","category":"Convalidaciones","summary":"No son lo mismo: una te permite ejercer una profesión en España, la otra te permite seguir estudiando. Cuál necesitás depende de tu objetivo.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$20"},{"slug":"visado-estudiante-espana-latinoamericanos","title":"Visado de estudiante en España: guía para latinoamericanos","titleSeo":"Visado de Estudiante en España: Guía para Latinoamericanos - Estudia en Madrid","metaDescription":"Requisitos, documentos y pasos para tramitar el visado de estudiante en España desde Latinoamérica: solvencia económica, seguro médico, plazos y qué hacer al llegar.","category":"Visados","summary":"Qué documentos pedir, cuánta solvencia económica demostrar y cuánto tarda el consulado en resolver tu visado de estudiante.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$21"},{"slug":"vivir-en-madrid-estudiante-latinoamericano","title":"Vivir en Madrid siendo estudiante latinoamericano","titleSeo":"Vivir en Madrid Siendo Estudiante Latinoamericano - Estudia en Madrid","metaDescription":"Costo de vida, alquiler y primeros pasos para estudiantes latinoamericanos en Madrid: cuánto presupuestar, cómo buscar alojamiento y qué hacer al llegar.","category":"Vivir en Madrid","summary":"Cuánto presupuestar por mes, cómo buscar alojamiento sin caer en estafas y qué hacer en tus primeras semanas en la ciudad.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$22"}],"categories":["Vivir en Madrid","Universidades","Visados","Convalidaciones","Becas"]}]]}]],["$L23"],"$L24"]}]
+2a:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+2c:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+7:["$","$1","h",{"children":[null,["$","$L25",null,{"children":"$L26"}],["$","div",null,{"hidden":true,"children":["$","$L27",null,{"children":["$","$28",null,{"name":"Next.Metadata","children":"$L29"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
 9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2duo-3cri4gbt.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-24:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
 6:C
-1d:["$","script","script-0",{"src":"/_next/static/chunks/3y54z3m4xnfl7.js","async":true,"nonce":"$undefined"}]
-1e:["$","$L24",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
-20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-26:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
-23:[["$","title","0",{"children":"Guías para estudiar en Madrid"}],["$","meta","1",{"name":"description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","2",{"rel":"canonical","href":"https://estudiaenmadrid.com/guias"}],["$","meta","3",{"property":"og:title","content":"Guías para estudiar en Madrid"}],["$","meta","4",{"property":"og:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","meta","5",{"property":"og:url","content":"https://estudiaenmadrid.com/guias"}],["$","meta","6",{"property":"og:site_name","content":"Estudia en Madrid"}],["$","meta","7",{"property":"og:locale","content":"es_ES"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Guías para estudiar en Madrid"}],["$","meta","11",{"name":"twitter:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","12",{"rel":"icon","href":"/icon.png?icon.2ptuj5tv8i2an.png","sizes":"192x192","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.3zahz7vkregr2.png","sizes":"180x180","type":"image/png"}],["$","$L26","14",{}]]
-25:null
+23:["$","script","script-0",{"src":"/_next/static/chunks/3y54z3m4xnfl7.js","async":true,"nonce":"$undefined"}]
+24:["$","$L2a",null,{"children":["$","$28",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+26:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+29:[["$","title","0",{"children":"Guías para estudiar en Madrid"}],["$","meta","1",{"name":"description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","2",{"rel":"canonical","href":"https://estudiaenmadrid.com/guias"}],["$","meta","3",{"property":"og:title","content":"Guías para estudiar en Madrid"}],["$","meta","4",{"property":"og:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","meta","5",{"property":"og:url","content":"https://estudiaenmadrid.com/guias"}],["$","meta","6",{"property":"og:site_name","content":"Estudia en Madrid"}],["$","meta","7",{"property":"og:locale","content":"es_ES"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Guías para estudiar en Madrid"}],["$","meta","11",{"name":"twitter:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","12",{"rel":"icon","href":"/icon.png?icon.2ptuj5tv8i2an.png","sizes":"192x192","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.3zahz7vkregr2.png","sizes":"180x180","type":"image/png"}],["$","$L2c","14",{}]]
+2b:null
