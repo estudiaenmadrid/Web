@@ -5,6 +5,7 @@ import PageTransition from "@/components/PageTransition";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import CookieConsent from "@/components/CookieConsent";
+import LeadTracking from "@/components/LeadTracking";
 import type { SearchEntry } from "@/lib/content";
 
 export default function SiteChrome({
@@ -23,6 +24,7 @@ export default function SiteChrome({
       <main className="flex-1">{children}</main>
       <Footer />
       <CookieConsent />
+      <LeadTracking />
     </div>
   );
 }
