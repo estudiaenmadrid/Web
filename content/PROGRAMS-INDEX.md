@@ -7,7 +7,20 @@
 > Estado: 🟢 redactado y confiable · 🟠 redactado pero universidad pendiente
 > de confirmar (no publicar) · ⚪ pendiente (esperando info del cliente)
 >
-> **Última actualización: 2026-09-03.**
+> **Última actualización: 2026-10-20.**
+>
+> 🆕 **Actualización 20/10/2026 (mensajes del cliente):**
+> - **UDIT es universidad con convenio** (confirmado por el cliente: el
+>   convenio sigue vigente dos años más). Se publicó como cuarta
+>   universidad, con ficha propia (`data/universities.ts`) y el Grado en
+>   Animación atribuido a UDIT. **Pendiente:** que el cliente mande el resto
+>   de programas de UDIT que se ofrecen (los de la antigua categoría
+>   Tecnología eran mayormente de UDIT — no se restauraron sin confirmación).
+> - **Instituto de técnicos superiores (contacto: Mayra)** — el cliente
+>   decidió **dejarlo fuera** del catálogo.
+> - **Se eliminó Máster en Psicopedagogía presencial** (ver #7).
+> - **Tecnología Educativa e Innovación Educativa (UAX) son dos másteres distintos**
+>   (confirmado por el cliente, ver #8).
 >
 > ⚠️ **Confirmado por el cliente — Estudia en Madrid SOLO ofrece los grados
 > y másteres de las universidades con las que tiene convenio real.** Esto
@@ -20,8 +33,9 @@
 >    U-tad) con las que la agencia no trabaja.
 > 2. **Se eliminaron los 3 programas de Técnico/Técnico Superior (FP)** de
 >    Salud — tampoco son parte del catálogo real de la agencia.
-> 3. **UDIT y U-tad NO son universidades socias** — cualquier ficha que las
->    mencione como universidad está mal atribuida.
+> 3. ~~**UDIT y U-tad NO son universidades socias**~~ — **CORREGIDO el
+>    20/10/2026: UDIT sí tiene convenio (por dos años más) y ya está
+>    publicada.** U-tad sigue sin convenio.
 > 4. **"Grado en ADE" y "Grado en Administración de Empresas" son el mismo
 >    programa** (UAX) — se fusionaron en una sola ficha.
 
@@ -50,31 +64,31 @@
    Producto" — un solo grado. Se eliminó `ingenieria/grado-diseno-producto.md`
    (que estaba mal atribuido a U-tad); queda una sola ficha en
    `ingenieria/grado-diseno-industrial.md`.
-6. **"Grado en Animación"** (Ingeniería) — quedó sin universidad
-   confirmada tras descartar UDIT y U-tad. **Falta que el cliente diga con
-   qué universidad de Madrid lo dictan realmente**, o si este programa no
-   forma parte del catálogo (como pasó con toda la categoría Tecnología) y
-   conviene eliminarlo también.
-7. **"Máster en Psicopedagogía" presencial vs. online** (Educación) — no
-   hay evidencia de que UAX ofrezca versión presencial (su único máster de
-   esta área es 100% online). Podría ser: (a) un duplicado/error de
-   catalogación, o (b) un programa real de otra universidad (Villanueva,
-   Universidad Europea o Comillas ofrecen versión presencial) mal asociado
-   en el catálogo. Sin resolver — no publicar la ficha presencial sin
-   confirmar.
-8. **"Postgrado en Tecnología Educativa" vs. "Máster Oficial en Tecnología
-   Educativa y Competencias Digitales para Docentes"** (Educación) —
-   evidencia fuerte de que es el **mismo programa UAX** con dos URLs
-   distintas en el sitio actual (una de ellas retirada de la categoría
-   Educación). Recomendado fusionar en una sola ficha antes de publicar.
-9. **Robótica (UCJC)** (Ingeniería) — universidad nueva, fuera del patrón
-   habitual del catálogo (UAX, CEU San Pablo, Nebrija). Confirmar que
-   Estudia en Madrid realmente tiene convenio con UCJC.
+6. ~~**"Grado en Animación"**~~ — **RESUELTO (20/10/2026):** el cliente
+   confirmó UDIT; la ficha se publica atribuida a UDIT.
+7. ~~**"Máster en Psicopedagogía" presencial vs. online**~~ — **RESUELTO
+   (20/10/2026): se eliminó la versión presencial** a pedido del cliente.
+   Para cursarla presencialmente hace falta tener el título homologado en
+   España, lo que la hace muy difícil de matricular para estudiantes
+   latinoamericanos. Queda solo la ficha online (UAX). La URL vieja hace
+   301 a la online (`public/.htaccess`).
+8. ~~**"Postgrado en Tecnología Educativa"**~~ — **RESUELTO (20/10/2026):**
+   el cliente envió los PDF oficiales de los dos programas reales de la
+   UAX: **Máster en Tecnología Educativa y Competencias Digitales Docentes**
+   (tecnológico: programación, apps, robótica) y **Máster Universitario
+   Online en Innovación Educativa** (pedagógico: proyectos de mejora,
+   liderazgo, inclusión). Se publicaron como fichas separadas; la ficha del
+   "postgrado" (sin datos propios) se eliminó con 301 a Innovación
+   Educativa.
+9. ~~**Robótica (UCJC)** (Ingeniería)~~ — **RESUELTO: el cliente confirmó
+   que no hay convenio con UCJC.** Se eliminó `ingenieria/grado-robotica.md`
+   y la ficha de universidad de UCJC por completo (no se reasignó a UAX
+   por no haber evidencia de que la UAX dicte ese grado).
 10. **Varios programas sin página indexada en el sitio actual**: Grado en
     Fisioterapia, Grado en CAFYD (ambos standalone), Máster en Dirección y
-    Gestión Sanitaria eHealth, Grado en Robótica, Grado en Diseño
-    Industrial. Confirmar si ya existen en el sitio (no indexadas) o si
-    son contenido enteramente nuevo a publicar.
+    Gestión Sanitaria eHealth, Grado en Diseño Industrial. Confirmar si ya
+    existen en el sitio (no indexadas) o si son contenido enteramente nuevo
+    a publicar.
 
 **Ningún precio de programa está confirmado** salvo Odontología Digital
 (dato directo del cliente). Fechas de inicio exactas y planes de estudio
@@ -109,7 +123,7 @@ detalle de qué falta específicamente.
 | Máster en Derecho Internacional Humanitario | Universidad Nebrija | `derecho/master-derecho-internacional-humanitario.md` |
 | Máster en Sostenibilidad y Compliance | CEU San Pablo — título propio, no oficial | `derecho/master-sostenibilidad-compliance.md` |
 
-## Ingeniería (19/20 🟢 · 1 🟠 — se fusionó Diseño de Producto/Industrial)
+## Ingeniería (19/20 🟢 · 1 🟠 — Máster en IA presencial sigue pendiente, ver #2)
 
 | Programa | Universidad | Archivo |
 |---|---|---|
@@ -121,9 +135,8 @@ detalle de qué falta específicamente.
 | Doble Grado en Ingeniería Matemática e Informática | UAX | `ingenieria/doble-grado-ingenieria-matematica-informatica.md` |
 | Grado en Física | UAX | `ingenieria/grado-fisica.md` |
 | Grado en Inteligencia Artificial | UAX | `ingenieria/grado-inteligencia-artificial.md` |
-| Grado en Robótica | UCJC (confirmar convenio, ver #9) | `ingenieria/grado-robotica.md` |
 | Grado en Diseño Industrial y Desarrollo de Producto | UAX (fusionado con "Diseño de Producto", ver #5) | `ingenieria/grado-diseno-industrial.md` |
-| **Grado en Animación** | 🟠 **Pendiente de confirmar (ni UDIT ni U-tad, ver #6)** | `ingenieria/grado-animacion.md` |
+| Grado en Animación | UDIT (confirmado, ver #6) | `ingenieria/grado-animacion.md` |
 | Máster en Ingeniería Industrial | UAX | `ingenieria/master-ingenieria-industrial.md` |
 | Máster Universitario en Inteligencia Artificial Online | UAX | `ingenieria/master-inteligencia-artificial-online.md` |
 | Máster en Inteligencia Artificial (presencial) | Pendiente de confirmar — probable duplicado (ver #2) | `ingenieria/master-inteligencia-artificial.md` |
@@ -149,7 +162,7 @@ detalle de qué falta específicamente.
 | Máster en Dirección y Gestión de Servicios de Enfermería | UAX | `salud/master-direccion-gestion-servicios-enfermeria.md` |
 | Máster en Odontología Digital | UAX | `salud/master-odontologia-digital.md` |
 
-## Educación (12/12 🟢, incluye el que vivía sin categoría)
+## Educación (11/11 🟢, incluye el que vivía sin categoría — se eliminó Psicopedagogía presencial)
 
 | Programa | Universidad | Archivo |
 |---|---|---|
@@ -157,14 +170,13 @@ detalle de qué falta específicamente.
 | Grado en Pedagogía Online | UAX (confianza media) | `educacion/grado-pedagogia-online.md` |
 | Grado en Musicología Online | UAX | `educacion/grado-musicologia-online.md` |
 | Máster en Educación Bilingüe | UAX (confirmado) | `educacion/master-educacion-bilingue.md` |
-| Máster en Psicopedagogía (presencial) | Pendiente — ver #7 | `educacion/master-psicopedagogia-presencial.md` |
 | Máster en Psicopedagogía (online) | UAX (confirmado) | `educacion/master-psicopedagogia-online.md` |
 | Máster en Pedagogía Instrumental | UAX (confirmado) | `educacion/master-pedagogia-instrumental.md` |
 | Máster Universitario en Neuropsicología Aplicada a la Educación | UAX | `educacion/master-neuropsicologia-aplicada-educacion.md` |
 | Máster Universitario en Educación Emocional | UAX | `educacion/master-educacion-emocional.md` |
 | Máster Universitario en Liderazgo y Dirección de Centros Educativos | UAX (confianza media, UNIR tiene uno igual de nombre) | `educacion/master-liderazgo-direccion-centros-educativos.md` |
-| Postgrado en Tecnología Educativa | UAX (posible fusión, ver #8) | `educacion/postgrado-tecnologia-educativa.md` |
-| Máster Oficial en Tecnología Educativa y Competencias Digitales para Docentes | UAX (posible fusión, ver #8) | `educacion/master-tecnologia-educativa-competencias-digitales-docentes.md` |
+| Máster Universitario Online en Innovación Educativa | UAX (PDF oficial del cliente, ver #8) | `educacion/master-innovacion-educativa-online.md` |
+| Máster Universitario en Tecnología Educativa y Competencias Digitales Docentes | UAX (PDF oficial del cliente, ver #8) | `educacion/master-tecnologia-educativa-competencias-digitales-docentes.md` |
 
 ## Excluidos del catálogo (no son parte de la oferta real de la agencia)
 
@@ -172,7 +184,8 @@ detalle de qué falta específicamente.
   principio de este documento.
 - **Programas de Técnico / Técnico Superior (FP)** de Salud — la agencia
   no trabaja con formación profesional, solo con grados y másteres
-  universitarios.
+  universitarios. El instituto de técnicos superiores (contacto: Mayra)
+  también queda fuera por decisión del cliente (20/10/2026).
 - **Especialista en Gestión de Proyectos, Liderazgo y Emprendimiento**,
   **Especialista en Gestión de Calidad y RSC**, **Especialista en
   Comunicación Empresarial e Institucional**, **Especialista en Logística

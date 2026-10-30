@@ -1,0 +1,136 @@
+# Apache equivalent of what next.config.ts's headers()/redirects() used to
+# do server-side — required because this is a static export (see
+# next.config.ts) served by Apache on Hostinger shared hosting, which has
+# no Node.js process to run that logic. Keep the two in sync by hand if
+# either changes.
+
+# --- Security headers (was next.config.ts headers()) ---
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains; preload"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# --- Legacy WordPress URL redirects (was next.config.ts redirects()) ---
+# Preserves search ranking / inbound links from the old site's flat URLs.
+# The first 14 are the ones the original SEO audit's content-swap-bug
+# finding enumerated — see next.config.ts's former comment for context.
+# The rest (below the blank line) were found still indexed in Google via
+# "site:estudiaenmadrid.com" searches in Sept 2026 — the old WordPress site
+# used inconsistent URL shapes (nested paths with a "-espana"/"-en-espana"
+# suffix, some missing the /programas/ or category segment entirely), so
+# each one is mapped explicitly here rather than guessed at with a pattern.
+# Google only drops a URL from its index once it re-crawls and sees the
+# redirect/404 — that can take days to a few weeks after this goes live;
+# it isn't instant just because the mapping exists.
+<IfModule mod_alias.c>
+  Redirect 301 /estudiar-mba-en-espana /programas/administracion/mba
+  Redirect 301 /estudiar-master-marketing-madrid /programas/ingenieria/master-marketing-digital-online
+  Redirect 301 /grado-marketing-espana /programas/ingenieria/master-marketing-digital-online
+  Redirect 301 /grado-administracion-empresas-espana /programas/administracion/grado-administracion-empresas-uax
+  Redirect 301 /grado-ingenieria-biomedica-espana /programas/ingenieria/grado-ingenieria-biomedica
+  Redirect 301 /la-universidad-alfonso-x-el-sabio /universidades
+  Redirect 301 /universidad-nebrija /universidades
+  Redirect 301 /experiencia-universitaria /nosotros
+  Redirect 301 /visa-de-estudiante-espana /programas
+  Redirect 301 /rechazo-visa-de-estudiante-espana /programas
+  Redirect 301 /puedo-trabajar-con-visa-de-estudiante-en-espana /programas
+  Redirect 301 /que-master-permite-quedarse-a-trabajar-en-espana /programas
+  Redirect 301 /estudiar-un-master-en-espana /programas
+  Redirect 301 /formacion-profesional-en-espana /programas
+
+  # More specific /educacion/... paths must come before the bare /educacion
+  # redirect below — mod_alias Redirect matches by path prefix in the order
+  # directives appear, so a shorter prefix declared first would otherwise
+  # swallow these and only replace the /educacion part, leaving the rest of
+  # the old slug dangling in the target URL.
+  Redirect 301 /educacion/master-en-educacion-bilingue-en-espana /programas/educacion/master-educacion-bilingue
+  Redirect 301 /educacion/master-psicopedagogia-espana /programas/educacion/master-psicopedagogia-online
+  Redirect 301 /educacion /programas/educacion
+  Redirect 301 /programas/master-oficial-en-tecnologia-educativa-y-competencias-digitales-para-docentes /programas/educacion/master-tecnologia-educativa-competencias-digitales-docentes
+  Redirect 301 /programas/ingenieria/master-oficial-bioinformatica-online /programas/ingenieria/master-bioinformatica-online
+  Redirect 301 /programas/ingenieria/grado-ingenieria-mecanica-espana /programas/ingenieria/grado-ingenieria-mecanica
+  Redirect 301 /programas/ingenieria/grado-fisica-espana /programas/ingenieria/grado-fisica
+  Redirect 301 /programas/salud/grado-en-psicologia /programas/salud/grado-psicologia
+  Redirect 301 /programas/derecho/master-ciberseguridad-espana-nebrija /programas/derecho/master-ciberseguridad
+  Redirect 301 /programas/salud/doble-grado-deporte-nutricion-espana /programas/salud/doble-grado-deporte-nutricion
+  Redirect 301 /programas/ingenieria/grado-ingenieria-biomedica-espana /programas/ingenieria/grado-ingenieria-biomedica
+  Redirect 301 /programas/salud/grado-en-biomedicina /programas/salud/grado-biomedicina
+  Redirect 301 /programas/ingenieria/master-prevencion-riesgos-laborales-online /programas/ingenieria/master-prevencion-riesgos-laborales
+  Redirect 301 /programas/administracion/grado-en-administracion-de-empresas-y-relaciones-internacionales /programas/administracion/grado-ade-relaciones-internacionales
+  Redirect 301 /programas/ingenieria/master-ingenieria-industrial-espana /programas/ingenieria/master-ingenieria-industrial
+  Redirect 301 /programas/ingenieria/grado-ingenieria-matematica-espana /programas/ingenieria/grado-ingenieria-matematica
+  Redirect 301 /programas/ingenieria/grado-ingenieria-aeroespacial-espana /programas/ingenieria/grado-ingenieria-aeroespacial
+  Redirect 301 /programas/ingenieria/master-en-energias-renovables /programas/ingenieria/master-energias-renovables-online
+  Redirect 301 /programas/ingenieria/master-online-big-data-negocios-uax /programas/ingenieria/master-big-data-online
+  Redirect 301 /programas/administracion/master-business-analytics-nebrija /programas/administracion/master-business-analytics
+  Redirect 301 /programas/ingenieria/master-online-inteligencia-artificial-uax /programas/ingenieria/master-inteligencia-artificial-online
+  Redirect 301 /programas/salud/master-oficial-en-direccion-y-gestion-de-servicios-de-enfermeria /programas/salud/master-direccion-gestion-servicios-enfermeria
+
+  # Discontinued — not part of the current catalog (see PROGRAMS-INDEX.md) —
+  # sent to the nearest still-live page instead of a specific ficha.
+  Redirect 301 /programas/salud/tecnico-en-farmacia-y-parafarmacia /programas/salud
+  Redirect 301 /master-educacion-inclusiva-online /programas/educacion
+  Redirect 301 /grados-y-maestrias/estados-unidos/maestrias-en-estados-unidos/master-en-innovacion-digital-con-mencion-en-gobierno-electronico /
+  Redirect 301 /programas/ingenieria/grado-robotica /programas/ingenieria
+  Redirect 301 /universidades/ucjc /universidades
+  # Presencial version dropped (Oct 2026): it requires a degree already
+  # homologated in Spain to enrol, so the agency only offers the online one.
+  Redirect 301 /programas/educacion/master-psicopedagogia-presencial /programas/educacion/master-psicopedagogia-online
+  # "Postgrado en Tecnología Educativa" had no data of its own; the client's
+  # two real programs are Tecnología Educativa and Innovación Educativa.
+  Redirect 301 /programas/educacion/postgrado-tecnologia-educativa /programas/educacion/master-innovacion-educativa-online
+
+  # Old WordPress utility pages with no equivalent on this site.
+  Redirect 301 /contacto /
+  Redirect 301 /author/cesar /
+  Redirect 301 /estudia-en-madrid /
+</IfModule>
+
+# --- Static export routing ---
+# Next.js's static export writes each route as a flat file — e.g.
+# /programas/derecho -> programas/derecho.html — while ALSO writing a
+# same-named directory next to it (programas/derecho/) that holds either
+# that area's nested ficha pages, or (for a leaf route with no children,
+# e.g. privacidad/) just Next's internal RSC-cache segment files, never
+# meant to be served directly. Without DirectorySlash Off, Apache's mod_dir
+# sees the directory match for a bare "/programas/derecho" request and
+# 301-redirects to add a trailing slash before our rewrite rules below
+# ever run — which then 403s or 404s, since that directory has no
+# index.html. Turning it off lets the RewriteRule below handle routing
+# instead, consistently, for both shapes.
+<IfModule mod_dir.c>
+  DirectorySlash Off
+</IfModule>
+<IfModule mod_negotiation.c>
+  Options -MultiViews -Indexes
+</IfModule>
+
+DirectoryIndex index.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Existing files (assets, _next/*, already-.html paths) are served as-is.
+  RewriteCond %{REQUEST_FILENAME} -f
+  RewriteRule ^ - [L]
+
+  # /foo/ (trailing slash) -> /foo.html, when foo.html exists
+  RewriteCond %{REQUEST_URI} ^(.+)/$
+  RewriteCond %{DOCUMENT_ROOT}%1.html -f
+  RewriteRule ^ %1.html [L]
+
+  # /foo -> /foo.html
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.*[^/])$ $1.html [L]
+</IfModule>
+
+# llms.txt / llms-full.txt / robots.txt are Spanish text: without an explicit
+# charset Apache serves them as Latin-1 and accents turn into mojibake.
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .txt .xml
+
+# Custom 404
+ErrorDocument 404 /404.html

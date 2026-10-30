@@ -56,13 +56,12 @@ con la UAX para este programa en particular.
 | **Modalidad** | Online |
 | **Duración** | 4 años |
 | **Créditos** | 240 ECTS |
-| **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior, y reconocimiento en los sistemas educativos de Latinoamérica (según fuente de la universidad) |
+| **Título** | Oficial, verificado por el Consejo de Universidades, con validez en España y en el Espacio Europeo de Educación Superior (para usarlo en tu país, te orientamos sobre su reconocimiento) |
 | **Precio** | Pendiente de confirmar |
 
 ## Menciones / especialización
 
-Según fuentes de la propia UAX, el grado permite especializarse en una de
-dos menciones:
+El grado permite especializarse en una de dos menciones:
 
 - **Orientación Pedagógica.**
 - **Pedagogía para los Nuevos Retos Educativos y Sociales.**
@@ -75,10 +74,8 @@ tecnologías o intervención social.
 
 ## Plan de estudios / contenidos principales
 
-Con la información disponible en esta sesión (snippets de búsqueda, sin
-acceso al programa completo por asignatura), el primer curso incluye 60
-ECTS distribuidos en dos cuatrimestres. En líneas generales, un Grado en
-Pedagogía cubre:
+El primer curso incluye 60 ECTS distribuidos en dos cuatrimestres. En
+líneas generales, un Grado en Pedagogía cubre:
 
 - Fundamentos de la educación, psicología del desarrollo y del aprendizaje.
 - Diseño y evaluación curricular.
@@ -90,8 +87,8 @@ Pedagogía cubre:
   intervención original y riguroso, en el que se debe demostrar la
   integración de todas las competencias adquiridas.
 
-*(Pendiente reconstruir el desglose completo por curso/asignatura con la
-universidad; los snippets no alcanzan para armar la tabla completa.)*
+El desglose completo, curso por curso y asignatura por asignatura, te lo
+enviamos con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 
@@ -121,6 +118,26 @@ universidad; los snippets no alcanzan para armar la tabla completa.)*
   Educación de la misma universidad (Psicopedagogía, Educación Bilingüe,
   Educación Emocional, Tecnología Educativa, Liderazgo y Dirección de
   Centros Educativos, Pedagogía Instrumental).
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Pedagogía Online?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Pedagogía Online es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Grado en Pedagogía Online?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

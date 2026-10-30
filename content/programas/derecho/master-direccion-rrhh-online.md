@@ -57,7 +57,7 @@ Es una opción interesante para estudiantes latinoamericanos que quieren un más
 - Responsable de relaciones y negociación laboral.
 - Responsable de gestión del conocimiento.
 
-La modalidad presencial del programa incluye prácticas remuneradas en empresas como Línea Directa, Ferrovial, Pascual, Amazon, Banco Santander, BBVA, Accenture, Johnson & Johnson, Telefónica o Loewe — no se confirmó si la modalidad online tiene el mismo esquema de prácticas garantizadas.
+La modalidad presencial del programa incluye prácticas remuneradas en empresas como Línea Directa, Ferrovial, Pascual, Amazon, Banco Santander, BBVA, Accenture, Johnson & Johnson, Telefónica o Loewe — si te interesa la modalidad online, te confirmamos si incluye el mismo esquema de prácticas.
 
 ## Requisitos de acceso
 
@@ -71,6 +71,26 @@ La modalidad presencial del programa incluye prácticas remuneradas en empresas 
 - **100% online**, compatible con trabajo o con el proceso de instalación en España.
 - **Enfoque estratégico, no solo operativo** — dirección de personas, no únicamente administración de RRHH.
 - **Ecosistema de empresas colaboradoras de primer nivel** (en la modalidad presencial del mismo máster) que da una idea del nivel de las prácticas y la bolsa de empleo del programa.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Máster en Dirección de RRHH Online?**
+Lo imparte Universidad Nebrija. Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Máster en Dirección de RRHH Online es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Máster en Dirección de RRHH Online?**
+Dura 1 año académico y son 60 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

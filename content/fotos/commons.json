@@ -1,0 +1,73 @@
+[
+  {
+    "id": "uax-campus-villanueva",
+    "archivo": "Villanueva de la Cañada - Universidad Alfonso X El Sabio (UAX) 6.jpg",
+    "universidad": "uax",
+    "tema": "campus",
+    "alt": "Campus de la Universidad Alfonso X el Sabio en Villanueva de la Cañada",
+    "autor": "Zarateman",
+    "licencia": "CC0 1.0",
+    "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.es",
+    "ancho": 2044,
+    "alto": 1280
+  },
+  {
+    "id": "nebrija-campus-princesa",
+    "archivo": "Campus de Princesa Universidad Nebrija.JPG",
+    "universidad": "nebrija",
+    "tema": "campus",
+    "alt": "Fachada del campus de Princesa de la Universidad Nebrija, en Madrid",
+    "autor": "MargaAGil",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+    "ancho": 4752,
+    "alto": 3168
+  },
+  {
+    "id": "nebrija-campus-la-berzosa",
+    "archivo": "Campus La berzosa.jpg",
+    "universidad": "nebrija",
+    "tema": "campus",
+    "alt": "Edificio histórico del campus de La Berzosa de la Universidad Nebrija",
+    "autor": "Nautilus18",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+    "ancho": 4032,
+    "alto": 2737
+  },
+  {
+    "id": "nebrija-campus-dehesa-de-la-villa",
+    "archivo": "Campus Dehesa de la Villa.jpg",
+    "universidad": "nebrija",
+    "tema": "campus",
+    "alt": "Campus Dehesa de la Villa de la Universidad Nebrija, junto al edificio Pirineos",
+    "autor": "Nautilus18",
+    "licencia": "CC BY-SA 4.0",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+    "ancho": 3409,
+    "alto": 2307
+  },
+  {
+    "id": "ceu-isaac-peral",
+    "archivo": "Colegio Mayor de San Pablo (Madrid) 01.jpg",
+    "universidad": "ceu-san-pablo",
+    "tema": "campus",
+    "alt": "Edificio de la Universidad CEU San Pablo en la calle Isaac Peral 58, en Moncloa",
+    "autor": "Luis García (Zaqarbal)",
+    "licencia": "CC BY-SA 3.0 ES",
+    "licenciaUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.es"
+  },
+  {
+    "id": "ceu-biblioteca",
+    "archivo": "Madrid - Biblioteca de la Universidad CEU San Pablo 1.jpg",
+    "universidad": "ceu-san-pablo",
+    "tema": "biblioteca",
+    "alt": "Biblioteca de la Universidad CEU San Pablo en Madrid",
+    "autor": "Zarateman",
+    "licencia": "CC0 1.0",
+    "licenciaUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.es",
+    "ancho": 1530,
+    "alto": 1722,
+    "foco": [50, 40]
+  }
+]

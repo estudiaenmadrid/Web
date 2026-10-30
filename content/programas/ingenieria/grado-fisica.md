@@ -26,8 +26,7 @@ cósmico y afrontar los retos tecnológicos de la industria actual.
 
 Es un título oficial de **4 años (240 ECTS)**, 100% presencial, con acceso
 a laboratorios equipados con tecnología de última generación y profesorado
-vinculado a proyectos de investigación y desarrollo científico, según
-describe la propia universidad.
+vinculado a proyectos de investigación y desarrollo científico.
 
 ## Datos generales
 
@@ -39,22 +38,25 @@ describe la propia universidad.
 | **Modalidad** | Presencial |
 | **Idioma** | Español |
 | **Inicio** | Septiembre |
-| **Empleabilidad** | 94% (dato publicado por la UAX) |
+| **Empleabilidad** | 94% |
 
 ## Plan de estudios / contenidos principales
 
 Formación rigurosa en física teórica y experimental, con un enfoque
 transversal que combina ciencia, tecnología, computación y datos. Entre las
-asignaturas más exigentes del plan de estudios, según fuentes consultadas,
-se encuentran:
+asignaturas más exigentes del plan de estudios se encuentran:
 
 - Mecánica Cuántica.
 - Termodinámica.
 - Electromagnetismo.
+- Técnicas Experimentales Básicas y Laboratorio Experimental.
+- Mecánica y Ondas.
+- Óptica.
+- Métodos Numéricos.
 
 El plan combina asignaturas obligatorias y optativas, con prácticas de
-laboratorio y proyectos de investigación. No se encontró en las búsquedas
-el desglose curso por curso completo.
+laboratorio y proyectos de investigación. El desglose completo, curso por
+curso, te lo enviamos con la ficha oficial de la universidad.
 
 ## Salidas profesionales
 
@@ -65,6 +67,8 @@ el desglose curso por curso completo.
   mecánica, electrónica, medicina y energía.
 - Especializaciones tecnológicas en robótica, mecatrónica, biotecnología,
   Big Data, ciberseguridad y desarrollo de aplicaciones móviles.
+- Perfiles demandados en sectores como energía, aeroespacial, salud y
+  finanzas, además de la industria tecnológica propiamente dicha.
 
 ## Requisitos de acceso
 
@@ -75,11 +79,34 @@ el desglose curso por curso completo.
 
 ## Por qué elegir este programa
 
-- 94% de empleabilidad, según datos publicados por la propia universidad.
+- 94% de empleabilidad.
 - Formación STEM con demanda creciente en toda Europa.
 - Laboratorios equipados con tecnología de última generación.
 - Salidas profesionales muy diversas: desde investigación pura hasta
   robótica, ciberseguridad o desarrollo de apps.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Física?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Física es online o tengo que mudarme a Madrid?**
+Es presencial, en Madrid, lo que significa que sí necesitás mudarte y tramitar visado de estudiante — te acompañamos en ese proceso.
+
+**¿Cuánto dura Grado en Física?**
+Dura 4 años y son 240 créditos ECTS.
+
+**¿Cuándo empieza Grado en Física?**
+La próxima convocatoria empieza en Septiembre. Te conviene escribirnos con anticipación si necesitás tramitar visado o convalidación de créditos.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 

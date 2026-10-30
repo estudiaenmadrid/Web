@@ -56,14 +56,9 @@ itinerario elegido.
 - *Segundo cuatrimestre:* Psicología Evolutiva, Fundamentos Biológicos de la
   Conducta, Comunicación.
 
-**Resto del plan** (según lo indexado, sin desglose curso a curso completo):
-asignaturas orientadas a los tres campos de mayor demanda — psicología
-sanitaria, educativa y laboral — con actualización periódica del temario.
-
-*Nota: la información disponible por búsqueda no permite reconstruir el
-desglose completo de 2º, 3º y 4º curso asignatura por asignatura; se
-recomienda pedir el plan de estudios oficial completo a la universidad antes
-de publicar una tabla exhaustiva.*
+**Resto del plan:** asignaturas orientadas a los tres campos de mayor
+demanda — psicología sanitaria, educativa y laboral — con actualización
+periódica del temario.
 
 ## Salidas profesionales
 
@@ -92,6 +87,26 @@ de publicar una tabla exhaustiva.*
 - Posibilidad de sumar mención en Trabajo y Organizaciones o en Educativa
   sin cursar un grado aparte.
 - Asesores académicos dedicados y Campus Virtual disponible 24/7.
+
+## Preguntas frecuentes
+
+**¿Qué universidad imparte Grado en Psicología en Madrid (Online) — UAX?**
+Lo imparte Universidad Alfonso X el Sabio (UAX). Estudia en Madrid gestiona tu admisión mediante convenio directo con la universidad, así que tramitás con nosotros y estudiás con ellos.
+
+**¿Grado en Psicología en Madrid (Online) — UAX es online o tengo que mudarme a Madrid?**
+Es 100% online, así que podés cursarlo desde tu país sin necesidad de mudarte ni tramitar visado de estudiante.
+
+**¿Cuánto dura Grado en Psicología en Madrid (Online) — UAX?**
+Dura 4 años (8 semestres) y son 240 créditos ECTS.
+
+**¿Estudia en Madrid me ayuda con la matrícula y el visado?**
+Sí — gestionamos la admisión con la universidad por convenio directo, y si tu modalidad requiere mudarte, te acompañamos en todo el trámite de visado de estudiante, desde la cita consular hasta el seguro médico.
+
+**¿Puedo convalidar créditos de estudios que ya cursé?**
+Depende del programa y de tu expediente. Te recomendamos escribirnos por WhatsApp con tu plan de estudios: lo revisamos y te decimos con honestidad qué créditos podrían reconocerte antes de que te matricules.
+
+**¿Qué pasa si este programa no es exactamente lo que busco?**
+Te lo decimos con honestidad — no te recomendamos algo solo por cerrar una matrícula. Si tu perfil o presupuesto encajan mejor en otro grado, máster o universidad del catálogo, te lo proponemos en la misma conversación.
 
 ## Llamada a la acción
 
