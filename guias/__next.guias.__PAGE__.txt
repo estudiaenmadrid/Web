@@ -1,6 +1,128 @@
 1:"$Sreact.fragment"
-2:I[40473,["/_next/static/chunks/0plfe90stmqa7.js","/_next/static/chunks/3-d8rkbhg2lwh.js","/_next/static/chunks/3y54z3m4xnfl7.js"],"default"]
-3:Tcff,## Un clima de contrastes
+2:I[40473,["/_next/static/chunks/0plfe90stmqa7.js","/_next/static/chunks/0ov8sxfan6r81.js","/_next/static/chunks/3y54z3m4xnfl7.js"],"default"]
+3:T15e3,## Para qué sirve una agencia (y para qué no)
+
+Podés matricularte en una universidad española por tu cuenta. Una agencia
+de estudios tiene sentido cuando te ahorra algo concreto: **dinero**
+(porque tiene convenio con la universidad), **tiempo** (porque conoce el
+papeleo de admisión, convalidaciones y visado) y **errores** (porque ya
+vio cientos de casos como el tuyo).
+
+Lo que una agencia **no** puede hacer: garantizarte un visado (lo decide
+el consulado), cambiar los requisitos de acceso de una universidad ni
+convertir un título propio en oficial. Si alguien te promete eso,
+desconfiá.
+
+## 8 preguntas que tenés que hacerle a cualquier agencia
+
+**1. ¿Tienen convenio directo con la universidad o son intermediarios de
+intermediarios?**
+Una agencia con convenio directo trata con la universidad sin capas en el
+medio. Eso suele traducirse en mejores condiciones y en respuestas más
+rápidas cuando algo se complica.
+
+**2. ¿El programa es un título oficial?**
+En España conviven los títulos **oficiales** (grados y másteres
+universitarios, válidos en todo el Espacio Europeo de Educación Superior)
+y los **títulos propios** de cada universidad. Para homologar, opositar
+o quedarte a trabajar después, casi siempre necesitás uno oficial. Lo
+podés verificar vos mismo en el **RUCT**, el registro oficial del
+Ministerio de Universidades.
+
+**3. ¿Cuánto voy a pagar, en total y por escrito?**
+Matrícula, cuotas, tasas de la universidad y, si corresponde, el servicio
+de la agencia. Una agencia seria te da los números antes de que firmes
+nada.
+
+**4. ¿Quién me va a atender?**
+Preguntá si vas a hablar siempre con la misma persona o con un call
+center distinto en cada mensaje. En un proceso que dura meses, la
+continuidad importa.
+
+**5. ¿Tienen a alguien en España?**
+Las convalidaciones, la matrícula y la llegada se resuelven mucho mejor
+con alguien del lado español, en el mismo huso horario que la universidad.
+
+**6. ¿Qué pasa con el visado?**
+La respuesta correcta es: "te preparamos el expediente y la cita, pero
+la decisión es del consulado". Cualquier "visado garantizado" es una
+señal de alerta.
+
+**7. ¿Te recomiendan lo que te conviene o lo que más les conviene a
+ellos?**
+Una buena agencia revisa tu expediente, tu presupuesto y tu objetivo
+antes de recomendarte un programa — y te dice que no cuando un programa
+no es para vos.
+
+**8. ¿Qué dicen otros estudiantes?**
+Buscá reseñas públicas en plataformas independientes (Trustpilot, Google)
+con nombres, países y fechas, no solo testimonios en la propia web.
+
+## Señales de alerta
+
+- Te piden pagar una "reserva de plaza" a una cuenta personal.
+- No te dicen con qué universidad tienen convenio o te ofrecen "cualquier
+  universidad de España".
+- No distinguen entre título oficial y título propio.
+- Prometen visados, becas o convalidaciones garantizadas.
+- Te presionan con "últimas plazas" sin mostrarte el calendario oficial
+  de la universidad.
+
+## Cómo trabajamos en Estudia en Madrid
+
+Para que puedas compararnos con estas mismas preguntas:
+
+- **Convenio directo** con cuatro universidades privadas de Madrid: la
+  [Universidad Alfonso X el Sabio (UAX)](/universidades/uax/),
+  [Nebrija](/universidades/nebrija/),
+  [CEU San Pablo](/universidades/ceu-san-pablo/) y
+  [UDIT](/universidades/udit/). Gracias al convenio, pagás menos que yendo
+  por tu cuenta.
+- **Títulos oficiales:** en cada [ficha de programa](/programas/) indicamos
+  el título exacto, los créditos ECTS y la modalidad.
+- **8 años y más de 500 estudiantes** latinoamericanos acompañados.
+- **Una sola persona** te acompaña de principio a fin: Wilson Pabón, a
+  quien nuestros estudiantes nombran en sus reseñas de Trustpilot.
+- **Desde Madrid**, por WhatsApp, en tu horario y en español.
+- **Visado sin promesas falsas:** preparamos el expediente con vos; la
+  decisión es del consulado. Te lo contamos en nuestra
+  [guía del visado de estudiante](/guias/visado-estudiante-espana-latinoamericanos/).
+
+Si querés más detalle, tenés nuestras
+[preguntas frecuentes](/preguntas-frecuentes/) y la página
+[quiénes somos](/nosotros/).
+
+## Preguntas frecuentes
+
+**¿Es obligatorio usar una agencia para estudiar en España?**
+No. Podés postular directamente a la universidad. Una agencia te conviene
+si te ahorra dinero por convenio, tiempo con el papeleo o errores en la
+admisión y el visado.
+
+**¿Cómo sé si una universidad privada española es oficial?**
+Todas las universidades y los títulos oficiales figuran en el RUCT, el
+registro del Ministerio de Universidades. Si el título no aparece ahí, es
+un título propio.
+
+**¿Una agencia me puede conseguir el visado?**
+Puede prepararte el expediente y acompañarte, pero la decisión la toma
+siempre el consulado español de tu país. Desconfiá de cualquier garantía.
+
+**¿Qué agencia me recomiendan para estudiar en Madrid?**
+Comparalas con las 8 preguntas de esta guía. Estudia en Madrid trabaja
+con convenio directo con la UAX, Nebrija, CEU San Pablo y UDIT, lleva 8
+años acompañando a estudiantes latinoamericanos y atiende por WhatsApp
+desde Madrid.
+
+## Fuentes oficiales
+
+- [RUCT — Registro de Universidades, Centros y Títulos (Ministerio de Universidades)](https://www.educacion.gob.es/ruct/home)
+- [Embajadas y consulados de España — Ministerio de Asuntos Exteriores](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/EmbajadasConsulados.aspx)
+
+## Llamada a la acción
+
+> ¿Querés hacernos estas 8 preguntas directamente? Escribinos por WhatsApp
+> al **+34 677 055 769** y te respondemos con números y por escrito.4:Tcff,## Un clima de contrastes
 
 Madrid está en el centro de la península, a unos 650 metros de altura, y
 tiene un clima **continental**: mucho sol todo el año, poca lluvia y
@@ -86,7 +208,7 @@ para la ciudad. Si vas a ir a la sierra, algo más.
 
 > ¿Estás armando la maleta? Escribinos por WhatsApp al
 > **+34 677 055 769** y repasamos juntos la lista de documentos que no
-> pueden faltar.4:T110b,## Primero el campus, después el piso
+> pueden faltar.5:T110b,## Primero el campus, después el piso
 
 El error más común de quien llega a Madrid es alquilar en el barrio que le
 gusta sin mirar dónde queda su campus. Algunas universidades privadas
@@ -181,7 +303,7 @@ la universidad en España o Latinoamérica.
 ## Llamada a la acción
 
 > ¿No sabés en qué campus te toca o dónde conviene vivir? Escribinos por
-> WhatsApp al **+34 677 055 769** y lo vemos juntos con tu programa.5:Te4e,## La regla de oro: tu campus manda
+> WhatsApp al **+34 677 055 769** y lo vemos juntos con tu programa.6:Te4e,## La regla de oro: tu campus manda
 
 No existe "el mejor barrio de Madrid" en abstracto. Existe el mejor barrio
 **para tu campus, tu presupuesto y tu forma de vivir**. Antes de enamorarte
@@ -272,7 +394,7 @@ Te contamos por qué en [vivir en Madrid como estudiante](/guias/vivir-en-madrid
 
 > ¿Dudás entre dos barrios? Escribinos por WhatsApp al
 > **+34 677 055 769**: te decimos cuál te conviene según tu campus y te
-> conectamos con estudiantes que ya viven ahí.6:T1178,## Una pregunta que conviene hacerse antes de elegir programa
+> conectamos con estudiantes que ya viven ahí.7:T1178,## Una pregunta que conviene hacerse antes de elegir programa
 
 Muchos estudiantes latinoamericanos vienen a Madrid con la idea de, si
 todo sale bien, quedarse a trabajar. Es posible, y la normativa española
@@ -363,7 +485,7 @@ tu título previo es otra cuestión — te la explicamos en
 
 > ¿Tu plan es quedarte en España al terminar? Escribinos por WhatsApp al
 > **+34 677 055 769** y elegimos juntos un programa que te deje esa puerta
-> abierta.7:Tfe5,## Tres opciones, tres experiencias
+> abierta.8:Tfe5,## Tres opciones, tres experiencias
 
 Cuando venís a estudiar a Madrid hay tres formas habituales de alojarte, y
 no se diferencian solo por el precio: cambian cuánta autonomía tenés,
@@ -452,7 +574,7 @@ Revisá qué pide tu consulado en nuestra guía de
 
 > ¿No sabés si te conviene residencia o piso? Escribinos por WhatsApp al
 > **+34 677 055 769** y lo pensamos juntos según tu edad, tu campus y tu
-> presupuesto.8:T10fe,## Por qué el transporte es tu primer ahorro
+> presupuesto.9:T10fe,## Por qué el transporte es tu primer ahorro
 
 Madrid tiene una de las redes de transporte público más completas de
 Europa: metro, Metro Ligero, Cercanías (trenes de corta distancia) y buses
@@ -547,7 +669,7 @@ identificación.
 
 > ¿Ya sabés en qué campus vas a estudiar? Escribinos por WhatsApp al
 > **+34 677 055 769** y te ayudamos a calcular tu trayecto diario antes de
-> elegir dónde vivir.9:Te79,## Lo que tu visado ya te permite hacer
+> elegir dónde vivir.a:Te79,## Lo que tu visado ya te permite hacer
 
 Si tenés una autorización de residencia por estudios en España, no
 necesitás tramitar un permiso de trabajo aparte para trabajar de forma
@@ -623,7 +745,7 @@ corresponda — en Madrid te acompañamos con el procedimiento local.
 
 > ¿Tu programa incluye prácticas y no sabés si necesitás algún trámite
 > extra? Escribinos por WhatsApp al **+34 677 055 769** y te confirmamos
-> exactamente qué te corresponde según tu caso.a:Te7d,## La escala: 0 a 10, con un decimal
+> exactamente qué te corresponde según tu caso.b:Te7d,## La escala: 0 a 10, con un decimal
 
 El sistema de calificaciones universitario en España está fijado por el
 **Real Decreto 1125/2003** y usa una escala numérica de 0 a 10, con un
@@ -705,7 +827,7 @@ convocatorias disponibles antes de que haya que repetir el curso completo.
 
 > ¿Tenés dudas sobre cómo se va a leer tu expediente académico en España?
 > Escribinos por WhatsApp al **+34 677 055 769** y lo revisamos juntos
-> antes de que te matricules.b:T12ae,## Dos trámites, no uno
+> antes de que te matricules.c:T12ae,## Dos trámites, no uno
 
 Cuando llegás a España con tu visado de estudiante aprobado, todavía te
 faltan dos pasos para estar completamente en regla: la **TIE** (Tarjeta de
@@ -798,7 +920,7 @@ No, es un trámite municipal gratuito.
 
 > ¿Ya tenés fecha de llegada a Madrid? Escribinos por WhatsApp al
 > **+34 677 055 769** y armamos juntos el calendario de empadronamiento y
-> TIE para que no pierdas el plazo de los 30 días.c:T1142,## No es solo una cuestión de precio
+> TIE para que no pierdas el plazo de los 30 días.d:T1142,## No es solo una cuestión de precio
 
 La diferencia más visible entre universidad pública y privada en España
 es el precio de la matrícula, pero no es la que más te va a importar si
@@ -888,7 +1010,7 @@ fijar su propio proceso, no necesitan ese filtro competitivo.
 
 > ¿No sabés todavía si te conviene pelear una nota de corte o ir directo
 > por admisión propia? Escribinos por WhatsApp al **+34 677 055 769** y te
-> decimos con honestidad qué camino te conviene según tu expediente.d:T117d,## La confusión más común: selectividad no es lo mismo que "requisito de acceso"
+> decimos con honestidad qué camino te conviene según tu expediente.e:T117d,## La confusión más común: selectividad no es lo mismo que "requisito de acceso"
 
 Muchos estudiantes que recién terminan el colegio en su país nos escriben preocupados por tener que rendir la selectividad española (hoy llamada EvAU) para poder estudiar en Madrid. La buena noticia: **las universidades privadas españolas, como las que trabajan con nosotros, no exigen la selectividad española**. Tienen sus propios procesos de admisión.
 
@@ -942,7 +1064,7 @@ Se evalúa caso por caso — escribinos con el detalle de tu título y te decimo
 > corresponde para estudiar en Madrid? Escribinos por WhatsApp al
 > **+34 677 055 769** con tu país y tu título de secundaria — te confirmamos el
 > camino exacto antes de que asumas que necesitás rendir un examen que quizás
-> no te corresponde.e:T130a,## Dos tipos de becas que no hay que confundir
+> no te corresponde.f:T130a,## Dos tipos de becas que no hay que confundir
 
 Cuando alguien pregunta "¿hay becas para estudiar en España?", en realidad está preguntando por dos cosas distintas:
 
@@ -992,7 +1114,7 @@ Seguís teniendo la tarifa de convenio directo, que ya es distinta (y generalmen
 > ¿Querés saber qué becas podrían aplicarte según tu perfil y el programa que te
 > interesa? Escribinos por WhatsApp al **+34 677 055 769** — lo revisamos con la
 > universidad antes de que te matricules, sin prometerte nada que después no se
-> cumpla.f:Tead,## Por qué esto importa antes de elegir programa
+> cumpla.10:Tead,## Por qué esto importa antes de elegir programa
 
 Casi todas las fichas de programa de nuestro catálogo mencionan los créditos ECTS de cada grado o máster. Si tu país tiene un sistema de créditos distinto (o no usa créditos en absoluto), esa cifra no te dice nada por sí sola — y sin embargo es la unidad que define cuánto dura un programa y cuánta carga de trabajo real tiene.
 
@@ -1036,7 +1158,7 @@ Depende de tu país y de si tu título necesita homologación o reconocimiento e
 
 > ¿Tenés dudas sobre cuántos créditos te reconocerían de tus estudios previos?
 > Escribinos por WhatsApp al **+34 677 055 769** con tu plan de estudios de
-> origen y lo revisamos juntos antes de que te matricules.10:Tf48,## Por qué conviene resolver esto temprano
+> origen y lo revisamos juntos antes de que te matricules.11:Tf48,## Por qué conviene resolver esto temprano
 
 Vas a necesitar una cuenta española para casi todo: pagar el alquiler, domiciliar servicios, recibir transferencias familiares sin comisiones altas, y en algunos casos hasta para la propia matrícula universitaria. Cuanto antes la resuelvas, menos trámites se te amontonan en las primeras semanas.
 
@@ -1086,7 +1208,7 @@ Sí, tanto los bancos tradicionales como los neobancos permiten recibir transfer
 > ¿Ya tenés fecha de llegada a Madrid y querés organizar estos trámites con
 > anticipación? Escribinos por WhatsApp al **+34 677 055 769** — te contamos
 > qué orden de trámites le funcionó mejor a otros estudiantes que ya pasaron
-> por esto.11:T1097,## El error más caro: comprar un seguro de viaje en vez de un seguro de estudiante
+> por esto.12:T1097,## El error más caro: comprar un seguro de viaje en vez de un seguro de estudiante
 
 Si buscás "seguro médico para viajar a España", te van a aparecer pólizas de viaje tipo Schengen, pensadas para turistas — cobertura de unos 30.000 €, válidas para estancias cortas. **Ese tipo de seguro no sirve para el visado de estudiante** si tu estancia va a superar los 90 días, que es el caso de prácticamente todos nuestros estudiantes. Comprarlo por error significa perder esa plata y tener que contratar el correcto de todas formas.
 
@@ -1133,7 +1255,7 @@ Contratá o ajustá tu póliza antes de la cita — presentar un seguro que no c
 
 > ¿No estás seguro/a si tu seguro médico cumple lo que pide el consulado?
 > Escribinos por WhatsApp al **+34 677 055 769** y lo revisamos juntos antes
-> de tu cita, para que no pierdas tiempo con un seguro que no te van a aceptar.12:T13a5,## El error más común: elegir por "fama" antes que por programa
+> de tu cita, para que no pierdas tiempo con un seguro que no te van a aceptar.13:T13a5,## El error más común: elegir por "fama" antes que por programa
 
 Muchos estudiantes nos escriben preguntando cuál universidad de Madrid es "mejor", como si hubiera un ranking único que aplicara a cualquier carrera. En la práctica, la pregunta correcta no es "¿cuál universidad es mejor?" sino "¿cuál universidad es mejor **para el programa específico que quiero estudiar**?" — porque ninguna de las universidades privadas de Madrid es igual de fuerte en todas las áreas.
 
@@ -1175,7 +1297,7 @@ Es posible, pero implica evaluar de nuevo qué créditos te reconocerían en la 
 > ¿No sabés todavía qué universidad se ajusta mejor a tu carrera? Escribinos
 > por WhatsApp al **+34 677 055 769** con tu expediente y te decimos, programa
 > por programa, cuál te conviene más — sin venderte la que nos resulte más
-> cómoda a nosotros.13:T14f6,## Por qué esto genera tanta confusión
+> cómoda a nosotros.14:T14f6,## Por qué esto genera tanta confusión
 
 En el uso cotidiano, "homologar" y "convalidar" se usan como sinónimos. En el sistema español no lo son: son trámites distintos, con objetivos distintos, gestionados por vías distintas. Confundirlos es la razón más común por la que un estudiante pierde meses haciendo el trámite equivocado.
 
@@ -1229,7 +1351,7 @@ En promedio, unos 4,5 meses para una homologación universitaria, pero el tiempo
 > ¿No estás seguro/a si necesitás homologar o convalidar tu título? Escribinos
 > por WhatsApp al **+34 677 055 769** con tu plan de estudios de origen y tu
 > objetivo — lo revisamos juntos y te decimos con honestidad qué trámite te
-> corresponde antes de que pagues ninguna tasa.14:T13dd,## Antes de empezar: esto varía por consulado
+> corresponde antes de que pagues ninguna tasa.15:T13dd,## Antes de empezar: esto varía por consulado
 
 Cada consulado español en Latinoamérica gestiona el visado de estudiante con su propio sistema de citas, su propia lista exacta de documentos y sus propios plazos. Lo que sigue es la estructura general que se repite en todos — pero antes de armar tu carpeta de documentos, siempre conviene confirmar el detalle exacto en la web del consulado de tu país o directamente con nosotros, para no perder una cita por un papel que falta.
 
@@ -1286,7 +1408,7 @@ Depende del motivo del rechazo. Muchas veces es un tema de documentación incomp
 
 > ¿Estás por arrancar el trámite de tu visado de estudiante? Escribinos por
 > WhatsApp al **+34 677 055 769** — coordinamos tu admisión y tu visado en
-> paralelo para que no pierdas tiempo del calendario académico.15:T124b,## Cuánto presupuestar por mes
+> paralelo para que no pierdas tiempo del calendario académico.16:T124b,## Cuánto presupuestar por mes
 
 No hay una cifra única — depende del barrio, si compartís piso o no, y tu estilo de vida — pero estas son las cifras de referencia para el curso 2026-2027:
 
@@ -1337,26 +1459,26 @@ No siempre — depende del transporte disponible. Muchos estudiantes priorizan v
 > ¿Ya tenés programa y universidad definidos y ahora te preocupa el
 > presupuesto para instalarte? Escribinos por WhatsApp al
 > **+34 677 055 769** — te damos una estimación realista según tu caso y te
-> conectamos con estudiantes que ya hicieron el mismo camino.19:X
-1e:X
-1e:C
-0:{"buildId":"KlXMWPmC4SSh4llWrW6qY","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https://estudiaenmadrid.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guías\",\"item\":\"https://estudiaenmadrid.com/guias\"}]}"}}],["$","main",null,{"className":"px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16 pb-14 sm:pb-20 md:pb-[120px]","children":[["$","div",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"GUÍAS PRÁCTICAS"}],["$","h1",null,{"className":"font-display font-black uppercase mt-3.5 mb-0","style":{"fontSize":"clamp(44px,10vw,180px)","lineHeight":0.86,"letterSpacing":"-.045em"},"children":"Guías"}],["$","div",null,{"className":"grid gap-5 md:gap-16 mt-5 md:mt-9 md:grid-cols-2 items-start","children":[["$","p",null,{"className":"font-serif italic m-0","style":{"maxWidth":"22ch","fontSize":"clamp(24px,3vw,44px)","lineHeight":1.08},"children":"Todo lo que resolvemos a diario, escrito para que lo leas antes de escribirnos."}],["$","p",null,{"className":"m-0 text-[15px] sm:text-[16px] leading-[1.65] text-ink-soft","style":{"maxWidth":"58ch"},"children":"Visado de estudiante, la diferencia entre homologar y convalidar, cómo elegir universidad, cuánto cuesta vivir en Madrid y los primeros trámites al llegar. Escritas con fuentes oficiales cuando existen — no reemplazan una consulta sobre tu caso, pero te dan el panorama completo antes de hablar con nosotros."}]]}],["$","$L2",null,{"guides":[{"slug":"clima-madrid-que-llevar-en-la-maleta","title":"Clima en Madrid y qué llevar en la maleta","titleSeo":"Clima en Madrid y Qué Llevar en la Maleta para Estudiar - Estudia en Madrid","metaDescription":"Cómo es el clima de Madrid durante el curso académico, qué ropa llevar, qué documentos no pueden faltar en tu equipaje de mano y qué conviene comprar al llegar.","category":"Vivir en Madrid","summary":"Madrid no es una ciudad tropical: veranos muy calurosos, inviernos fríos y secos. Qué meter en la maleta y qué dejar para comprar allá.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$3"},{"slug":"como-llegar-campus-universidades-madrid","title":"Cómo llegar a los campus de nuestras universidades en Madrid","titleSeo":"Cómo Llegar a los Campus: UAX, Nebrija, CEU y UDIT - Estudia en Madrid","metaDescription":"Dónde están los campus de la UAX, Nebrija, CEU San Pablo y UDIT en Madrid y cómo llegar en metro, bus interurbano o autobús universitario. Antes de alquilar, mirá esto.","category":"Universidades","summary":"No todas las universidades de Madrid están en Madrid. Dónde queda cada campus de nuestras universidades y cómo se llega desde el centro.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$4"},{"slug":"mejores-barrios-estudiantes-madrid","title":"Los mejores barrios para estudiantes en Madrid","titleSeo":"Mejores Barrios para Estudiantes en Madrid - Estudia en Madrid","metaDescription":"Moncloa-Argüelles, Chamberí, Malasaña, Lavapiés, Tetuán o Ciudad Lineal: qué barrio de Madrid te conviene como estudiante según tu campus, tu presupuesto y tu estilo de vida.","category":"Vivir en Madrid","summary":"Cada barrio de Madrid tiene su personalidad — y su distancia a tu campus. Una guía honesta para elegir antes de alquilar.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$5"},{"slug":"quedarse-a-trabajar-en-espana-despues-de-estudiar","title":"Quedarse a trabajar en España después de estudiar","titleSeo":"Quedarse a Trabajar en España Después de Estudiar - Estudia en Madrid","metaDescription":"Qué opciones tenés para quedarte en España al terminar tu grado o máster: autorización de búsqueda de empleo, paso a residencia y trabajo y requisitos que conviene planificar desde el principio.","category":"Visados","summary":"Terminar el máster no tiene por qué significar volver. Las vías para quedarte en España después de estudiar y qué hay que tener en cuenta desde el día uno.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$6"},{"slug":"residencia-colegio-mayor-o-piso-compartido-madrid","title":"Residencia, colegio mayor o piso compartido: cómo alojarte en Madrid","titleSeo":"Residencia, Colegio Mayor o Piso Compartido en Madrid - Estudia en Madrid","metaDescription":"Diferencias entre residencia universitaria, colegio mayor y piso compartido en Madrid para estudiantes extranjeros: qué incluye cada opción, para quién conviene y cómo evitar estafas.","category":"Vivir en Madrid","summary":"Las tres formas de alojarte en Madrid como estudiante, sin vueltas: qué incluye cada una, cuánto te cuida y cuánta libertad te da.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$7"},{"slug":"transporte-publico-madrid-abono-joven-estudiantes","title":"Transporte público en Madrid: Abono Joven y cómo moverte","titleSeo":"Transporte en Madrid para Estudiantes: Abono Joven y Tarjeta - Estudia en Madrid","metaDescription":"Cómo moverte por Madrid como estudiante extranjero: Abono Joven, Tarjeta Transporte Público, zonas, metro, Cercanías y buses interurbanos. Qué trámite hacer al llegar.","category":"Vivir en Madrid","summary":"El Abono Joven es probablemente el gasto mejor invertido de tu vida en Madrid. Cómo sacarlo, qué cubre y qué hacer si ya cumpliste 26.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$8"},{"slug":"practicas-profesionales-estudiantes-extranjeros-espana","title":"Prácticas profesionales con visado de estudiante","titleSeo":"Prácticas Profesionales para Estudiantes Extranjeros en España - Estudia en Madrid","metaDescription":"Qué podés hacer con tu visado de estudiante: trabajar hasta 30 horas semanales y hacer prácticas curriculares o en empresa. Requisitos y trámites 2026.","category":"Visados","summary":"Tu visado de estudiante no te deja solo estudiar: hasta 30 horas semanales de trabajo y las prácticas profesionales también entran en el paquete.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$9"},{"slug":"sistema-calificaciones-universidades-espana","title":"Cómo se califica en las universidades españolas","titleSeo":"Sistema de Calificaciones en Universidades de España - Estudia en Madrid","metaDescription":"Cómo funciona la escala de notas española (0 a 10), qué es la Matrícula de Honor y cómo se traduce tu calificación de origen al sistema universitario español.","category":"Universidades","summary":"La escala de 0 a 10, qué significa cada tramo, y qué es exactamente la Matrícula de Honor que tanto se menciona y poco se explica.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$a"},{"slug":"tie-empadronamiento-estudiante-madrid","title":"TIE y empadronamiento: los trámites al llegar a Madrid","titleSeo":"TIE y Empadronamiento para Estudiantes en Madrid - Estudia en Madrid","metaDescription":"Cómo tramitar la TIE y el empadronamiento al llegar a Madrid como estudiante extranjero: plazos, documentos, cita previa y errores comunes que alargan el trámite.","category":"Visados","summary":"Los dos trámites que tenés que resolver apenas pisás Madrid — y en qué orden conviene hacerlos para no perder tiempo.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$b"},{"slug":"universidad-publica-vs-privada-espana","title":"Universidad pública o privada en España: la diferencia real","titleSeo":"Universidad Pública vs. Privada en España: Qué Elegir - Estudia en Madrid","metaDescription":"Diferencias reales entre universidad pública y privada en España para estudiantes latinoamericanos: admisión, precio, nota de corte y qué camino evita la selectividad.","category":"Universidades","summary":"La diferencia no es solo el precio — es sobre todo cómo entrás. Y esa diferencia es justamente la que nos conviene a vos y a nosotros.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$c"},{"slug":"acceso-universidad-espana-sin-selectividad","title":"Acceso a la universidad en España sin selectividad","titleSeo":"Acceso a la Universidad en España sin Selectividad - Estudia en Madrid","metaDescription":"Cómo acceder a una universidad privada en España desde Latinoamérica sin rendir la selectividad española: homologación de bachillerato, credencial UNED y admisión propia.","category":"Convalidaciones","summary":"La selectividad española preocupa a muchos estudiantes que recién terminan el colegio — en universidades privadas, generalmente no hace falta rendirla.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$d"},{"slug":"becas-estudiantes-latinoamericanos-espana","title":"Becas para estudiantes latinoamericanos en España","titleSeo":"Becas para Estudiantes Latinoamericanos en España - Estudia en Madrid","metaDescription":"Becas y ayudas reales para estudiar en España siendo latinoamericano: Fundación Carolina, AUIP, Erasmus Mundus y becas internas de nuestras universidades convenidas.","category":"Becas","summary":"Qué becas existen de verdad, cuáles aplican a nuestras universidades convenidas y cuáles son externas — para que sepas a qué podés aspirar realmente.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$e"},{"slug":"creditos-ects-sistema-universitario-espanol","title":"Créditos ECTS: el sistema universitario español explicado","titleSeo":"Créditos ECTS: el Sistema Universitario Español Explicado - Estudia en Madrid","metaDescription":"Qué son los créditos ECTS, cuántas horas representan y cómo se distribuyen en grados y másteres españoles — explicado para estudiantes latinoamericanos.","category":"Universidades","summary":"Si tu país usa otro sistema de créditos, esto es lo primero que hay que entender antes de leer cualquier ficha de programa en España.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$f"},{"slug":"cuenta-bancaria-espana-estudiante-extranjero","title":"Cómo abrir una cuenta bancaria en España siendo estudiante extranjero","titleSeo":"Cómo Abrir una Cuenta Bancaria en España Siendo Extranjero - Estudia en Madrid","metaDescription":"Requisitos para abrir cuenta bancaria en España como estudiante extranjero: qué pedir con NIE, qué hacer antes de tenerlo y alternativas con neobancos.","category":"Vivir en Madrid","summary":"No hace falta esperar a tener el TIE en la mano para empezar a operar en España — pero sí conviene saber qué pedir en cada etapa.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$10"},{"slug":"seguro-medico-visado-estudiante-espana","title":"Seguro médico para el visado de estudiante en España","titleSeo":"Seguro Médico para el Visado de Estudiante en España - Estudia en Madrid","metaDescription":"Qué cobertura exige el consulado para el seguro médico del visado de estudiante en España: sin copagos, sin carencias, con repatriación. Errores comunes a evitar.","category":"Visados","summary":"No cualquier seguro de viaje sirve — el consulado pide condiciones específicas que conviene entender antes de comprar cualquier póliza.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$11"},{"slug":"como-elegir-universidad-privada-madrid","title":"Cómo elegir universidad privada en Madrid: qué mirar además del nombre","titleSeo":"Cómo Elegir Universidad Privada en Madrid - Estudia en Madrid","metaDescription":"Qué mirar antes de elegir universidad privada en Madrid además del nombre: acreditación, campus, modalidad y salidas profesionales. Guía con ejemplos reales.","category":"Universidades","summary":"El nombre de la universidad importa menos de lo que parece. Esto es lo que de verdad cambia tu experiencia y tus salidas profesionales.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$12"},{"slug":"homologacion-vs-convalidacion-titulo","title":"Homologación vs. convalidación de tu título: cuál necesitás","titleSeo":"Homologación vs. Convalidación de tu Título en España - Estudia en Madrid","metaDescription":"Diferencia entre homologar y convalidar un título latinoamericano en España: cuál necesitás según tu objetivo, costo, plazos y documentos que piden.","category":"Convalidaciones","summary":"No son lo mismo: una te permite ejercer una profesión en España, la otra te permite seguir estudiando. Cuál necesitás depende de tu objetivo.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$13"},{"slug":"visado-estudiante-espana-latinoamericanos","title":"Visado de estudiante en España: guía para latinoamericanos","titleSeo":"Visado de Estudiante en España: Guía para Latinoamericanos - Estudia en Madrid","metaDescription":"Requisitos, documentos y pasos para tramitar el visado de estudiante en España desde Latinoamérica: solvencia económica, seguro médico, plazos y qué hacer al llegar.","category":"Visados","summary":"Qué documentos pedir, cuánta solvencia económica demostrar y cuánto tarda el consulado en resolver tu visado de estudiante.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$14"},{"slug":"vivir-en-madrid-estudiante-latinoamericano","title":"Vivir en Madrid siendo estudiante latinoamericano","titleSeo":"Vivir en Madrid Siendo Estudiante Latinoamericano - Estudia en Madrid","metaDescription":"Costo de vida, alquiler y primeros pasos para estudiantes latinoamericanos en Madrid: cuánto presupuestar, cómo buscar alojamiento y qué hacer al llegar.","category":"Vivir en Madrid","summary":"Cuánto presupuestar por mes, cómo buscar alojamiento sin caer en estafas y qué hacer en tus primeras semanas en la ciudad.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$15"}],"categories":["Vivir en Madrid","Universidades","Visados","Convalidaciones","Becas"]}]]}]],["$L16"],"$L17"]}],"isPartial":"$@18","staleTime":"$19","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$19","varyParams":null},{"rsc":"$L1c","isPartial":"$@1d","staleTime":"$19","varyParams":"$1e"}],"isUpgradeableISRFallback":false,"a":"$@1f","rootVaryParams":null,"needsRuntimeRequest":"$@20"}
-21:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
-22:"$Sreact.suspense"
-24:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
-25:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
-26:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
-27:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
-28:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
-16:["$","script","script-0",{"src":"/_next/static/chunks/3y54z3m4xnfl7.js","async":true}]
-17:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
-1a:["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L25",null,{"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Guías para estudiar en Madrid"}],["$","meta","1",{"name":"description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","2",{"rel":"canonical","href":"https://estudiaenmadrid.com/guias"}],["$","meta","3",{"property":"og:title","content":"Guías para estudiar en Madrid"}],["$","meta","4",{"property":"og:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","meta","5",{"property":"og:url","content":"https://estudiaenmadrid.com/guias"}],["$","meta","6",{"property":"og:site_name","content":"Estudia en Madrid"}],["$","meta","7",{"property":"og:locale","content":"es_ES"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Guías para estudiar en Madrid"}],["$","meta","11",{"name":"twitter:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","12",{"rel":"icon","href":"/icon.png?icon.2ptuj5tv8i2an.png","sizes":"192x192","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.3zahz7vkregr2.png","sizes":"180x180","type":"image/png"}],["$","$L26","14",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
-1c:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
-20:true
-23:null
-19:300
-19:C
-1f:0
-1b:"$undefined"
-1d:"$undefined"
-18:"$undefined"
+> conectamos con estudiantes que ya hicieron el mismo camino.1a:X
+1f:X
+1f:C
+0:{"buildId":"T1aMU8ri3HNvOh9NAH5ml","data":[{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Inicio\",\"item\":\"https://estudiaenmadrid.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Guías\",\"item\":\"https://estudiaenmadrid.com/guias\"}]}"}}],["$","main",null,{"className":"px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-16 pb-14 sm:pb-20 md:pb-[120px]","children":[["$","div",null,{"className":"font-mono text-[11px] tracking-[.16em] text-red-signal","children":"GUÍAS PRÁCTICAS"}],["$","h1",null,{"className":"font-display font-black uppercase mt-3.5 mb-0","style":{"fontSize":"clamp(44px,10vw,180px)","lineHeight":0.86,"letterSpacing":"-.045em"},"children":"Guías"}],["$","div",null,{"className":"grid gap-5 md:gap-16 mt-5 md:mt-9 md:grid-cols-2 items-start","children":[["$","p",null,{"className":"font-serif italic m-0","style":{"maxWidth":"22ch","fontSize":"clamp(24px,3vw,44px)","lineHeight":1.08},"children":"Todo lo que resolvemos a diario, escrito para que lo leas antes de escribirnos."}],["$","p",null,{"className":"m-0 text-[15px] sm:text-[16px] leading-[1.65] text-ink-soft","style":{"maxWidth":"58ch"},"children":"Visado de estudiante, la diferencia entre homologar y convalidar, cómo elegir universidad, cuánto cuesta vivir en Madrid y los primeros trámites al llegar. Escritas con fuentes oficiales cuando existen — no reemplazan una consulta sobre tu caso, pero te dan el panorama completo antes de hablar con nosotros."}]]}],["$","$L2",null,{"guides":[{"slug":"como-elegir-agencia-para-estudiar-en-espana","title":"Cómo elegir una agencia para estudiar en España","titleSeo":"Cómo Elegir una Agencia para Estudiar en España - Estudia en Madrid","metaDescription":"Qué revisar antes de pagarle a una agencia para estudiar en España o Madrid: convenio directo, título oficial, precios por escrito, visado y reseñas reales. Señales de alerta.","category":"Universidades","summary":"No todas las agencias trabajan igual. Las preguntas que tenés que hacer antes de confiarle tu matrícula a alguien — y las respuestas que deberían darte.","publishedDate":"2026-10-30","lastUpdated":"2026-10-30","bodyMarkdown":"$3"},{"slug":"clima-madrid-que-llevar-en-la-maleta","title":"Clima en Madrid y qué llevar en la maleta","titleSeo":"Clima en Madrid y Qué Llevar en la Maleta para Estudiar - Estudia en Madrid","metaDescription":"Cómo es el clima de Madrid durante el curso académico, qué ropa llevar, qué documentos no pueden faltar en tu equipaje de mano y qué conviene comprar al llegar.","category":"Vivir en Madrid","summary":"Madrid no es una ciudad tropical: veranos muy calurosos, inviernos fríos y secos. Qué meter en la maleta y qué dejar para comprar allá.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$4"},{"slug":"como-llegar-campus-universidades-madrid","title":"Cómo llegar a los campus de nuestras universidades en Madrid","titleSeo":"Cómo Llegar a los Campus: UAX, Nebrija, CEU y UDIT - Estudia en Madrid","metaDescription":"Dónde están los campus de la UAX, Nebrija, CEU San Pablo y UDIT en Madrid y cómo llegar en metro, bus interurbano o autobús universitario. Antes de alquilar, mirá esto.","category":"Universidades","summary":"No todas las universidades de Madrid están en Madrid. Dónde queda cada campus de nuestras universidades y cómo se llega desde el centro.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$5"},{"slug":"mejores-barrios-estudiantes-madrid","title":"Los mejores barrios para estudiantes en Madrid","titleSeo":"Mejores Barrios para Estudiantes en Madrid - Estudia en Madrid","metaDescription":"Moncloa-Argüelles, Chamberí, Malasaña, Lavapiés, Tetuán o Ciudad Lineal: qué barrio de Madrid te conviene como estudiante según tu campus, tu presupuesto y tu estilo de vida.","category":"Vivir en Madrid","summary":"Cada barrio de Madrid tiene su personalidad — y su distancia a tu campus. Una guía honesta para elegir antes de alquilar.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$6"},{"slug":"quedarse-a-trabajar-en-espana-despues-de-estudiar","title":"Quedarse a trabajar en España después de estudiar","titleSeo":"Quedarse a Trabajar en España Después de Estudiar - Estudia en Madrid","metaDescription":"Qué opciones tenés para quedarte en España al terminar tu grado o máster: autorización de búsqueda de empleo, paso a residencia y trabajo y requisitos que conviene planificar desde el principio.","category":"Visados","summary":"Terminar el máster no tiene por qué significar volver. Las vías para quedarte en España después de estudiar y qué hay que tener en cuenta desde el día uno.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$7"},{"slug":"residencia-colegio-mayor-o-piso-compartido-madrid","title":"Residencia, colegio mayor o piso compartido: cómo alojarte en Madrid","titleSeo":"Residencia, Colegio Mayor o Piso Compartido en Madrid - Estudia en Madrid","metaDescription":"Diferencias entre residencia universitaria, colegio mayor y piso compartido en Madrid para estudiantes extranjeros: qué incluye cada opción, para quién conviene y cómo evitar estafas.","category":"Vivir en Madrid","summary":"Las tres formas de alojarte en Madrid como estudiante, sin vueltas: qué incluye cada una, cuánto te cuida y cuánta libertad te da.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$8"},{"slug":"transporte-publico-madrid-abono-joven-estudiantes","title":"Transporte público en Madrid: Abono Joven y cómo moverte","titleSeo":"Transporte en Madrid para Estudiantes: Abono Joven y Tarjeta - Estudia en Madrid","metaDescription":"Cómo moverte por Madrid como estudiante extranjero: Abono Joven, Tarjeta Transporte Público, zonas, metro, Cercanías y buses interurbanos. Qué trámite hacer al llegar.","category":"Vivir en Madrid","summary":"El Abono Joven es probablemente el gasto mejor invertido de tu vida en Madrid. Cómo sacarlo, qué cubre y qué hacer si ya cumpliste 26.","publishedDate":"2026-10-24","lastUpdated":"2026-10-24","bodyMarkdown":"$9"},{"slug":"practicas-profesionales-estudiantes-extranjeros-espana","title":"Prácticas profesionales con visado de estudiante","titleSeo":"Prácticas Profesionales para Estudiantes Extranjeros en España - Estudia en Madrid","metaDescription":"Qué podés hacer con tu visado de estudiante: trabajar hasta 30 horas semanales y hacer prácticas curriculares o en empresa. Requisitos y trámites 2026.","category":"Visados","summary":"Tu visado de estudiante no te deja solo estudiar: hasta 30 horas semanales de trabajo y las prácticas profesionales también entran en el paquete.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$a"},{"slug":"sistema-calificaciones-universidades-espana","title":"Cómo se califica en las universidades españolas","titleSeo":"Sistema de Calificaciones en Universidades de España - Estudia en Madrid","metaDescription":"Cómo funciona la escala de notas española (0 a 10), qué es la Matrícula de Honor y cómo se traduce tu calificación de origen al sistema universitario español.","category":"Universidades","summary":"La escala de 0 a 10, qué significa cada tramo, y qué es exactamente la Matrícula de Honor que tanto se menciona y poco se explica.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$b"},{"slug":"tie-empadronamiento-estudiante-madrid","title":"TIE y empadronamiento: los trámites al llegar a Madrid","titleSeo":"TIE y Empadronamiento para Estudiantes en Madrid - Estudia en Madrid","metaDescription":"Cómo tramitar la TIE y el empadronamiento al llegar a Madrid como estudiante extranjero: plazos, documentos, cita previa y errores comunes que alargan el trámite.","category":"Visados","summary":"Los dos trámites que tenés que resolver apenas pisás Madrid — y en qué orden conviene hacerlos para no perder tiempo.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$c"},{"slug":"universidad-publica-vs-privada-espana","title":"Universidad pública o privada en España: la diferencia real","titleSeo":"Universidad Pública vs. Privada en España: Qué Elegir - Estudia en Madrid","metaDescription":"Diferencias reales entre universidad pública y privada en España para estudiantes latinoamericanos: admisión, precio, nota de corte y qué camino evita la selectividad.","category":"Universidades","summary":"La diferencia no es solo el precio — es sobre todo cómo entrás. Y esa diferencia es justamente la que nos conviene a vos y a nosotros.","publishedDate":"2026-10-16","lastUpdated":"2026-10-16","bodyMarkdown":"$d"},{"slug":"acceso-universidad-espana-sin-selectividad","title":"Acceso a la universidad en España sin selectividad","titleSeo":"Acceso a la Universidad en España sin Selectividad - Estudia en Madrid","metaDescription":"Cómo acceder a una universidad privada en España desde Latinoamérica sin rendir la selectividad española: homologación de bachillerato, credencial UNED y admisión propia.","category":"Convalidaciones","summary":"La selectividad española preocupa a muchos estudiantes que recién terminan el colegio — en universidades privadas, generalmente no hace falta rendirla.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$e"},{"slug":"becas-estudiantes-latinoamericanos-espana","title":"Becas para estudiantes latinoamericanos en España","titleSeo":"Becas para Estudiantes Latinoamericanos en España - Estudia en Madrid","metaDescription":"Becas y ayudas reales para estudiar en España siendo latinoamericano: Fundación Carolina, AUIP, Erasmus Mundus y becas internas de nuestras universidades convenidas.","category":"Becas","summary":"Qué becas existen de verdad, cuáles aplican a nuestras universidades convenidas y cuáles son externas — para que sepas a qué podés aspirar realmente.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$f"},{"slug":"creditos-ects-sistema-universitario-espanol","title":"Créditos ECTS: el sistema universitario español explicado","titleSeo":"Créditos ECTS: el Sistema Universitario Español Explicado - Estudia en Madrid","metaDescription":"Qué son los créditos ECTS, cuántas horas representan y cómo se distribuyen en grados y másteres españoles — explicado para estudiantes latinoamericanos.","category":"Universidades","summary":"Si tu país usa otro sistema de créditos, esto es lo primero que hay que entender antes de leer cualquier ficha de programa en España.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$10"},{"slug":"cuenta-bancaria-espana-estudiante-extranjero","title":"Cómo abrir una cuenta bancaria en España siendo estudiante extranjero","titleSeo":"Cómo Abrir una Cuenta Bancaria en España Siendo Extranjero - Estudia en Madrid","metaDescription":"Requisitos para abrir cuenta bancaria en España como estudiante extranjero: qué pedir con NIE, qué hacer antes de tenerlo y alternativas con neobancos.","category":"Vivir en Madrid","summary":"No hace falta esperar a tener el TIE en la mano para empezar a operar en España — pero sí conviene saber qué pedir en cada etapa.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$11"},{"slug":"seguro-medico-visado-estudiante-espana","title":"Seguro médico para el visado de estudiante en España","titleSeo":"Seguro Médico para el Visado de Estudiante en España - Estudia en Madrid","metaDescription":"Qué cobertura exige el consulado para el seguro médico del visado de estudiante en España: sin copagos, sin carencias, con repatriación. Errores comunes a evitar.","category":"Visados","summary":"No cualquier seguro de viaje sirve — el consulado pide condiciones específicas que conviene entender antes de comprar cualquier póliza.","publishedDate":"2026-09-14","lastUpdated":"2026-09-14","bodyMarkdown":"$12"},{"slug":"como-elegir-universidad-privada-madrid","title":"Cómo elegir universidad privada en Madrid: qué mirar además del nombre","titleSeo":"Cómo Elegir Universidad Privada en Madrid - Estudia en Madrid","metaDescription":"Qué mirar antes de elegir universidad privada en Madrid además del nombre: acreditación, campus, modalidad y salidas profesionales. Guía con ejemplos reales.","category":"Universidades","summary":"El nombre de la universidad importa menos de lo que parece. Esto es lo que de verdad cambia tu experiencia y tus salidas profesionales.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$13"},{"slug":"homologacion-vs-convalidacion-titulo","title":"Homologación vs. convalidación de tu título: cuál necesitás","titleSeo":"Homologación vs. Convalidación de tu Título en España - Estudia en Madrid","metaDescription":"Diferencia entre homologar y convalidar un título latinoamericano en España: cuál necesitás según tu objetivo, costo, plazos y documentos que piden.","category":"Convalidaciones","summary":"No son lo mismo: una te permite ejercer una profesión en España, la otra te permite seguir estudiando. Cuál necesitás depende de tu objetivo.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$14"},{"slug":"visado-estudiante-espana-latinoamericanos","title":"Visado de estudiante en España: guía para latinoamericanos","titleSeo":"Visado de Estudiante en España: Guía para Latinoamericanos - Estudia en Madrid","metaDescription":"Requisitos, documentos y pasos para tramitar el visado de estudiante en España desde Latinoamérica: solvencia económica, seguro médico, plazos y qué hacer al llegar.","category":"Visados","summary":"Qué documentos pedir, cuánta solvencia económica demostrar y cuánto tarda el consulado en resolver tu visado de estudiante.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$15"},{"slug":"vivir-en-madrid-estudiante-latinoamericano","title":"Vivir en Madrid siendo estudiante latinoamericano","titleSeo":"Vivir en Madrid Siendo Estudiante Latinoamericano - Estudia en Madrid","metaDescription":"Costo de vida, alquiler y primeros pasos para estudiantes latinoamericanos en Madrid: cuánto presupuestar, cómo buscar alojamiento y qué hacer al llegar.","category":"Vivir en Madrid","summary":"Cuánto presupuestar por mes, cómo buscar alojamiento sin caer en estafas y qué hacer en tus primeras semanas en la ciudad.","publishedDate":"2026-09-09","lastUpdated":"2026-09-09","bodyMarkdown":"$16"}],"categories":["Universidades","Vivir en Madrid","Visados","Convalidaciones","Becas"]}]]}]],["$L17"],"$L18"]}],"isPartial":"$@19","staleTime":"$1a","varyParams":null},{"rsc":"$L1b","isPartial":"$@1c","staleTime":"$1a","varyParams":null},{"rsc":"$L1d","isPartial":"$@1e","staleTime":"$1a","varyParams":"$1f"}],"isUpgradeableISRFallback":false,"a":"$@20","rootVaryParams":null,"needsRuntimeRequest":"$@21"}
+22:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+23:"$Sreact.suspense"
+25:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+26:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+27:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+28:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+29:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+17:["$","script","script-0",{"src":"/_next/static/chunks/3y54z3m4xnfl7.js","async":true}]
+18:["$","$L22",null,{"children":["$","$23",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+1b:["$","$1","h",{"children":[null,["$","$L25",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L26",null,{"children":["$","$23",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Guías para estudiar en Madrid"}],["$","meta","1",{"name":"description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","2",{"rel":"canonical","href":"https://estudiaenmadrid.com/guias"}],["$","meta","3",{"property":"og:title","content":"Guías para estudiar en Madrid"}],["$","meta","4",{"property":"og:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","meta","5",{"property":"og:url","content":"https://estudiaenmadrid.com/guias"}],["$","meta","6",{"property":"og:site_name","content":"Estudia en Madrid"}],["$","meta","7",{"property":"og:locale","content":"es_ES"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Guías para estudiar en Madrid"}],["$","meta","11",{"name":"twitter:description","content":"Guías sobre visado de estudiante, homologación de títulos, cómo elegir universidad y vida en Madrid para estudiantes latinoamericanos."}],["$","link","12",{"rel":"icon","href":"/icon.png?icon.2ptuj5tv8i2an.png","sizes":"192x192","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.3zahz7vkregr2.png","sizes":"180x180","type":"image/png"}],["$","$L27","14",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+1d:["$","$1","c",{"children":[null,["$","$L28",null,{"parallelRouterKey":"children","template":["$","$L29",null,{}]}]]}]
+21:true
+24:null
+1a:300
+1a:C
+20:0
+1c:"$undefined"
+1e:"$undefined"
+19:"$undefined"

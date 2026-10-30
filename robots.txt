@@ -1,4 +1,20 @@
 User-Agent: *
 Allow: /
 
+User-Agent: GPTBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: Claude-SearchBot
+User-Agent: Claude-User
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Google-Extended
+User-Agent: Applebot-Extended
+User-Agent: Bingbot
+User-Agent: DuckAssistBot
+User-Agent: meta-externalagent
+User-Agent: CCBot
+Allow: /
+
 Sitemap: https://estudiaenmadrid.com/sitemap.xml

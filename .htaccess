@@ -127,5 +127,10 @@ DirectoryIndex index.html
   RewriteRule ^(.*[^/])$ $1.html [L]
 </IfModule>
 
+# llms.txt / llms-full.txt / robots.txt are Spanish text: without an explicit
+# charset Apache serves them as Latin-1 and accents turn into mojibake.
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .txt .xml
+
 # Custom 404
 ErrorDocument 404 /404.html
