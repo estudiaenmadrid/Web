@@ -25,9 +25,9 @@ import WaveLine from "@/components/home/WaveLine";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Estudia en Madrid — Tu carrera sigue en Madrid",
+  title: "Estudia en Madrid: agencia para estudiar en España",
   description:
-    "8 años y más de 500 estudiantes latinoamericanos acompañados para estudiar en universidades privadas de Madrid: elección de programa, convalidaciones, visado y becas.",
+    "Agencia con 8 años y más de 500 latinoamericanos en universidades privadas de Madrid (UAX, Nebrija, CEU, UDIT): programa, admisión, visado y becas.",
   path: "/",
 });
 
@@ -82,7 +82,7 @@ export default function Home() {
       {/* Hero */}
       <section className="px-5 sm:px-8 md:px-11 pt-7 sm:pt-12 md:pt-[72px]">
         <div className="flex justify-between items-baseline gap-5 font-mono text-[11px] tracking-[.18em] uppercase text-ink-soft">
-          <span>Agencia de acompañamiento académico</span>
+          <span>Agencia para estudiar en Madrid</span>
           <span className="hidden sm:inline">Latinoamérica → España</span>
         </div>
 
@@ -220,7 +220,8 @@ export default function Home() {
           <div className="flex flex-col gap-5" style={{ maxWidth: "56ch" }}>
             <Reveal>
               <p className="m-0" style={{ fontSize: "clamp(16px,1.3vw,20px)", lineHeight: 1.6 }}>
-                Somos una agencia con convenio directo con universidades privadas españolas. Eso significa dos cosas
+                Estudia en Madrid es una agencia con convenio directo con cuatro universidades privadas de Madrid:
+                la Universidad Alfonso X el Sabio (UAX), Nebrija, CEU San Pablo y UDIT. Eso significa dos cosas
                 concretas: pagas menos que yendo por tu cuenta y tienes a alguien del otro lado del Atlántico
                 resolviendo el papeleo contigo.
               </p>

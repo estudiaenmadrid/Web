@@ -8,6 +8,7 @@ const FOOTER_LINKS = [
   { href: "/universidades", label: "UNIVERSIDADES" },
   { href: "/guias", label: "GUÍAS" },
   { href: "/nosotros", label: "NOSOTROS" },
+  { href: "/preguntas-frecuentes", label: "PREGUNTAS FRECUENTES" },
 ];
 
 export default function Footer() {

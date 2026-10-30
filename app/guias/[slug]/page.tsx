@@ -5,10 +5,12 @@ import { getAllGuides, getGuide, getGuidesByCategory } from "@/lib/guides";
 import MarkdownSections from "@/components/shared/MarkdownSections";
 import Breadcrumb from "@/components/Breadcrumb";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import ArticleSchema from "@/components/schema/ArticleSchema";
+import FaqSchema, { faqHtmlToText } from "@/components/schema/FaqSchema";
 import Reveal from "@/components/Reveal";
 import ScrollProgress from "@/components/shared/ScrollProgress";
 import TableOfContents from "@/components/shared/TableOfContents";
-import { getTocItems } from "@/lib/programSections";
+import { getFaqItems, getTocItems } from "@/lib/programSections";
 import { UNIVERSITIES } from "@/data/universities";
 import { pageMetadata } from "@/lib/seo";
 
@@ -51,6 +53,17 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
   return (
     <>
       <ScrollProgress />
+      <ArticleSchema
+        title={guide.title}
+        description={guide.metaDescription ?? guide.summary}
+        path={`/guias/${guide.slug}`}
+        datePublished={guide.publishedDate}
+        dateModified={guide.lastUpdated}
+        section={guide.category}
+      />
+      <FaqSchema
+        items={getFaqItems(guide.bodyMarkdown).map((f) => ({ question: f.question, answer: faqHtmlToText(f.answerHtml) }))}
+      />
       <BreadcrumbSchema
         items={[
           { name: "Inicio", path: "/" },

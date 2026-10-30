@@ -76,3 +76,9 @@ export function sectionKind(heading: string): SectionKind {
   if (/^llamada a la acción/i.test(heading)) return "cta";
   return "card";
 }
+
+/** The "Preguntas frecuentes" Q&A pairs of a guide or ficha body, for FAQPage schema. */
+export function getFaqItems(bodyMarkdown: string): FaqItem[] {
+  const faq = splitProgramSections(bodyMarkdown).find((s) => sectionKind(s.heading) === "faq");
+  return faq ? parseFaqPairs(faq.markdown) : [];
+}

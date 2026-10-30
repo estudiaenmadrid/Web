@@ -32,7 +32,7 @@ export default function CourseSchema({ program }: { program: Program }) {
     provider: isUniversityConfirmed
       ? { "@type": "CollegeOrUniversity", name: university }
       : { "@type": "Organization", name: SITE_NAME },
-    sponsor: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+    sponsor: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: SITE_NAME, url: SITE_URL },
   };
 
   // A pending modality ("Pendiente de confirmar") gets no courseMode at all

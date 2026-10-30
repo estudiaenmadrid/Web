@@ -151,7 +151,11 @@ export default function NosotrosPage() {
           <Reveal delay={0.04}>
             <p className="m-0 text-[15px] leading-[1.6] text-ink-soft">
               Todo esto lo hacemos por WhatsApp, en tu horario, sin formularios eternos ni esperar semanas por una
-              respuesta.
+              respuesta. Si tenés dudas antes de escribirnos, revisá nuestras{" "}
+              <Link href="/preguntas-frecuentes" className="underline hover:text-red-signal">
+                preguntas frecuentes
+              </Link>
+              .
             </p>
           </Reveal>
           <Reveal delay={0.08}>

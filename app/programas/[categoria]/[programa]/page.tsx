@@ -17,11 +17,12 @@ import Reveal from "@/components/Reveal";
 import Breadcrumb from "@/components/Breadcrumb";
 import CourseSchema from "@/components/schema/CourseSchema";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import FaqSchema, { faqHtmlToText } from "@/components/schema/FaqSchema";
 import MarkdownSections from "@/components/shared/MarkdownSections";
 import RelatedGuides from "@/components/shared/RelatedGuides";
 import ScrollProgress from "@/components/shared/ScrollProgress";
 import TableOfContents from "@/components/shared/TableOfContents";
-import { getTocItems } from "@/lib/programSections";
+import { getFaqItems, getTocItems } from "@/lib/programSections";
 import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
@@ -96,6 +97,9 @@ export default async function FichaPage({
     <>
       <ScrollProgress />
       <CourseSchema program={program} />
+      <FaqSchema
+        items={getFaqItems(program.bodyMarkdown).map((f) => ({ question: f.question, answer: faqHtmlToText(f.answerHtml) }))}
+      />
       <BreadcrumbSchema
         items={[
           { name: "Inicio", path: "/" },

@@ -8,6 +8,7 @@ import { photoForUniversity, photosForUniversity } from "@/lib/photos";
 import Reveal from "@/components/Reveal";
 import Breadcrumb from "@/components/Breadcrumb";
 import BreadcrumbSchema from "@/components/schema/BreadcrumbSchema";
+import { SITE_URL } from "@/lib/seo";
 import Photo from "@/components/shared/Photo";
 import PhotoCredit from "@/components/shared/PhotoCredit";
 import TypePlate from "@/components/shared/TypePlate";
@@ -28,7 +29,8 @@ export async function generateMetadata({
   if (!profile) return {};
   const count = getAllPrograms().filter((p) => normalizeUniversityName(p.university) === profile.displayName).length;
   return pageMetadata({
-    title: `${profile.displayName} — convenio con Estudia en Madrid`,
+    // Long official names (UDIT) would get mangled by trimTitle; use the short name instead.
+    title: `${profile.displayName.length > 30 ? profile.shortName : profile.displayName} — convenio con Estudia en Madrid`,
     description: `${profile.displayName}, fundada en ${profile.founded}. ${count} programa${count === 1 ? "" : "s"} con convenio directo gestionado${count === 1 ? "" : "s"} por Estudia en Madrid: admisión, visado y becas.`,
     path: `/universidades/${profile.slug}`,
   });
@@ -60,8 +62,22 @@ export default async function UniversityPage({ params }: { params: Promise<{ uni
       : { value: "100%", label: "presencial, en Madrid" },
   ];
 
+  // The university as its own entity (official site as sameAs), so search
+  // engines and AI assistants tie this page to the right institution.
+  const universitySchema = {
+    "@context": "https://schema.org",
+    "@type": "CollegeOrUniversity",
+    name: profile.displayName,
+    url: profile.officialUrl,
+    foundingDate: profile.founded,
+    address: { "@type": "PostalAddress", addressLocality: "Madrid", addressCountry: "ES" },
+    subjectOf: { "@type": "WebPage", url: `${SITE_URL}/universidades/${profile.slug}` },
+    sameAs: [profile.officialUrl],
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(universitySchema) }} />
       <BreadcrumbSchema
         items={[
           { name: "Inicio", path: "/" },
