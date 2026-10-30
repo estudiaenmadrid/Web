@@ -4,6 +4,7 @@ import {
   ADVISOR_NAME,
   COMPANY_SUMMARY,
   CONTACT_EMAIL,
+  INSTAGRAM_URL,
   KNOWS_ABOUT,
   LATAM_COUNTRIES,
   SERVICES,
@@ -50,6 +51,9 @@ export default function OrganizationSchema() {
           name: "Servicios de acompañamiento para estudiar en Madrid",
           itemListElement: SERVICES.map((name) => ({
             "@type": "Offer",
+            price: "0",
+            priceCurrency: "EUR",
+            description: "Asesoría gratuita para el estudiante",
             itemOffered: { "@type": "Service", name, provider: { "@id": ORGANIZATION_ID } },
           })),
         },
@@ -61,7 +65,7 @@ export default function OrganizationSchema() {
           areaServed: ["ES", "AR", "BO", "BR", "CL", "CO", "CR", "CU", "DO", "EC", "GT", "HN", "MX", "NI", "PA", "PE", "PR", "PY", "SV", "UY", "VE"],
           availableLanguage: ["es"],
         },
-        sameAs: [TRUSTPILOT_URL, "https://wa.me/34677055769"],
+        sameAs: [INSTAGRAM_URL, TRUSTPILOT_URL, "https://wa.me/34677055769"],
       },
       {
         "@type": "WebSite",

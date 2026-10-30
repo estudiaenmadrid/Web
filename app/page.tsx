@@ -27,7 +27,7 @@ import { pageMetadata } from "@/lib/seo";
 export const metadata: Metadata = pageMetadata({
   title: "Estudia en Madrid: agencia para estudiar en España",
   description:
-    "Agencia con 8 años y más de 500 latinoamericanos en universidades privadas de Madrid (UAX, Nebrija, CEU, UDIT): programa, admisión, visado y becas.",
+    "Asesoría gratuita, 8 años y 500+ latinoamericanos en universidades privadas de Madrid (UAX, Nebrija, CEU, UDIT): programa, admisión, visado y becas.",
   path: "/",
 });
 
@@ -221,8 +221,8 @@ export default function Home() {
             <Reveal>
               <p className="m-0" style={{ fontSize: "clamp(16px,1.3vw,20px)", lineHeight: 1.6 }}>
                 Estudia en Madrid es una agencia con convenio directo con cuatro universidades privadas de Madrid:
-                la Universidad Alfonso X el Sabio (UAX), Nebrija, CEU San Pablo y UDIT. Eso significa dos cosas
-                concretas: pagas menos que yendo por tu cuenta y tienes a alguien del otro lado del Atlántico
+                la Universidad Alfonso X el Sabio (UAX), Nebrija, CEU San Pablo y UDIT. Eso significa tres cosas
+                concretas: nuestra asesoría es gratuita, pagas menos que yendo por tu cuenta y tienes a alguien del otro lado del Atlántico
                 resolviendo el papeleo contigo.
               </p>
             </Reveal>

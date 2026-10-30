@@ -55,7 +55,14 @@ export default function Footer() {
           >
             hola@estudiaenmadrid.com
           </a>
-          <span className="text-[13px] opacity-80">@estudiaenmadrid</span>
+          <a
+            href="https://www.instagram.com/estudia_en_madrid/"
+            target="_blank"
+            rel="noopener"
+            className="text-[13px] text-white opacity-80 hover:opacity-100 self-start"
+          >
+            Instagram @estudia_en_madrid
+          </a>
         </div>
 
         <a

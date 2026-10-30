@@ -95,8 +95,8 @@ export default function NosotrosPage() {
             <p className="m-0 text-[17px] leading-[1.6]">
               Llevamos 8 años acompañando a estudiantes latinoamericanos a estudiar en Madrid, y ya son más de 500 los
               que confiaron en nosotros para dar ese paso. Tenemos convenio directo con universidades privadas
-              españolas y trabajamos con estudiantes de todos los países de Latinoamérica. Eso se traduce en dos
-              cosas concretas: pagas menos que yendo por tu cuenta y tienes a alguien en Madrid resolviendo el
+              españolas y trabajamos con estudiantes de todos los países de Latinoamérica. Eso se traduce en tres
+              cosas concretas: nuestra asesoría es gratuita, pagas menos que yendo por tu cuenta y tienes a alguien en Madrid resolviendo el
               papeleo contigo, en tu horario y en tu idioma.
             </p>
           </Reveal>

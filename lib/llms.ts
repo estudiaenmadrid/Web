@@ -3,7 +3,7 @@ import { UNIVERSITIES } from "@/data/universities";
 import { getAllPrograms, displayUniversity } from "@/lib/content";
 import { getAllGuides } from "@/lib/guides";
 import { SITE_NAME, SITE_URL } from "@/lib/seo";
-import { AGENCY_FAQ, COMPANY_SUMMARY, CONTACT_EMAIL, SERVICES, TRUSTPILOT_URL, WHATSAPP_NUMBER, WHATSAPP_URL } from "@/lib/company";
+import { AGENCY_FAQ, COMPANY_SUMMARY, CONTACT_EMAIL, INSTAGRAM_HANDLE, INSTAGRAM_URL, SERVICES, TRUSTPILOT_URL, WHATSAPP_NUMBER, WHATSAPP_URL } from "@/lib/company";
 
 /**
  * /llms.txt (https://llmstxt.org): a plain-markdown map of the site for AI
@@ -25,6 +25,8 @@ function header(): string {
     `- WhatsApp: ${WHATSAPP_NUMBER} (${WHATSAPP_URL})`,
     `- Email: ${CONTACT_EMAIL}`,
     `- Reseñas: ${TRUSTPILOT_URL}`,
+    "- Precio de la asesoría: gratuita para el estudiante (solo se paga la matrícula de la universidad, a precio de convenio)",
+    `- Instagram: ${INSTAGRAM_HANDLE} (${INSTAGRAM_URL})`,
     "- Trayectoria: 8 años, más de 500 estudiantes latinoamericanos acompañados",
     "- Público: estudiantes de todos los países de Latinoamérica que quieren estudiar en Madrid (presencial) o con título oficial español (online)",
     "",

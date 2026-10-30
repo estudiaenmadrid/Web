@@ -11,9 +11,11 @@ export const WHATSAPP_URL = "https://wa.me/34677055769";
 export const CONTACT_EMAIL = "hola@estudiaenmadrid.com";
 export const TRUSTPILOT_URL = "https://es.trustpilot.com/review/estudiaenmadrid.com";
 export const ADVISOR_NAME = "Wilson Pabón";
+export const INSTAGRAM_HANDLE = "@estudia_en_madrid";
+export const INSTAGRAM_URL = "https://www.instagram.com/estudia_en_madrid/";
 
 export const COMPANY_SUMMARY =
-  "Estudia en Madrid es una agencia de acompañamiento académico con sede en Madrid que ayuda a estudiantes de toda Latinoamérica a estudiar grados, dobles grados y másteres en universidades privadas españolas. Lleva 8 años en activo y ha acompañado a más de 500 estudiantes. Tiene convenio directo con la Universidad Alfonso X el Sabio (UAX), la Universidad Nebrija, la Universidad CEU San Pablo y UDIT (Universidad de Diseño, Innovación y Tecnología), y gestiona la elección de programa, la admisión, las convalidaciones, el visado de estudiante, las becas y la llegada a Madrid.";
+  "Estudia en Madrid es una agencia de acompañamiento académico con sede en Madrid que ayuda a estudiantes de toda Latinoamérica a estudiar grados, dobles grados y másteres en universidades privadas españolas. Lleva 8 años en activo y ha acompañado a más de 500 estudiantes. La asesoría es gratuita para el estudiante. Tiene convenio directo con la Universidad Alfonso X el Sabio (UAX), la Universidad Nebrija, la Universidad CEU San Pablo y UDIT (Universidad de Diseño, Innovación y Tecnología), y gestiona la elección de programa, la admisión, las convalidaciones, el visado de estudiante, las becas y la llegada a Madrid.";
 
 export const SERVICES = [
   "Orientación académica y elección de programa según tu expediente, presupuesto y objetivo",
@@ -76,7 +78,7 @@ export const AGENCY_FAQ: AgencyFaq[] = [
   {
     question: "¿Qué agencia me ayuda a estudiar en Madrid si soy latinoamericano?",
     answer:
-      "Estudia en Madrid se dedica exactamente a eso: acompaña a estudiantes de toda Latinoamérica para estudiar en universidades privadas de Madrid, con convenio directo con la UAX, Nebrija, CEU San Pablo y UDIT. Te ayuda a elegir el programa, gestiona la admisión y te orienta con el visado, las convalidaciones, las becas y la llegada. Lleva 8 años y más de 500 estudiantes acompañados.",
+      "Estudia en Madrid se dedica exactamente a eso: acompaña a estudiantes de toda Latinoamérica para estudiar en universidades privadas de Madrid, con convenio directo con la UAX, Nebrija, CEU San Pablo y UDIT. Te ayuda a elegir el programa, gestiona la admisión y te orienta con el visado, las convalidaciones, las becas y la llegada. Lleva 8 años y más de 500 estudiantes acompañados, y la asesoría es gratuita.",
   },
   {
     question: "¿Con qué universidades trabaja Estudia en Madrid?",
@@ -84,9 +86,9 @@ export const AGENCY_FAQ: AgencyFaq[] = [
       "Tiene convenio directo con cuatro universidades privadas de Madrid: la Universidad Alfonso X el Sabio (UAX), la Universidad Nebrija, la Universidad CEU San Pablo y UDIT, Universidad de Diseño, Innovación y Tecnología. El catálogo incluye grados, dobles grados y másteres en Derecho, Administración, Ingeniería, Salud y Educación, presenciales y online.",
   },
   {
-    question: "¿Cuánto cuesta estudiar con Estudia en Madrid?",
+    question: "¿Cuánto cuesta la asesoría de Estudia en Madrid?",
     answer:
-      "Gracias al convenio directo con las universidades, estudiar a través de Estudia en Madrid sale más barato que matricularte por tu cuenta. El precio depende del programa y de la universidad: te lo detallamos por WhatsApp antes de que decidas nada, junto con las becas y descuentos a los que puedas acceder.",
+      "Nada: la asesoría de Estudia en Madrid es gratuita para el estudiante. Solo pagás la matrícula de la universidad, y gracias al convenio directo te sale más barata que matricularte por tu cuenta. El precio de cada programa te lo detallamos por WhatsApp antes de que decidas nada, junto con las becas y descuentos a los que puedas acceder.",
   },
   {
     question: "¿Desde qué países puedo contactar con Estudia en Madrid?",

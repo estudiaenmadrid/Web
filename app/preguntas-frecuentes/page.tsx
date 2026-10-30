@@ -10,7 +10,7 @@ import { AGENCY_FAQ, WHATSAPP_NUMBER, WHATSAPP_URL } from "@/lib/company";
 export const metadata: Metadata = pageMetadata({
   title: "Preguntas frecuentes sobre Estudia en Madrid",
   description:
-    "Qué es Estudia en Madrid, con qué universidades trabaja, cuánto cuesta, cómo ayuda con el visado y desde qué países. Respuestas claras antes de escribirnos.",
+    "Qué es Estudia en Madrid, con qué universidades trabaja, por qué la asesoría es gratuita, cómo ayuda con el visado y desde qué países. Respuestas claras.",
   path: "/preguntas-frecuentes",
 });
 
