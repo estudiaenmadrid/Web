@@ -107,7 +107,7 @@ según la propia UAX.
 ## Llamada a la acción
 
 > ¿Te interesa una formación de negocio con visión global desde el primer
-> año? Escribinos por WhatsApp al **+34 677 055 769** y te acompañamos con
+> año? Escribinos por WhatsApp al **+34 624 191 389** y te acompañamos con
 > la admisión, la homologación de estudios y el visado de estudiante.
 
 ---

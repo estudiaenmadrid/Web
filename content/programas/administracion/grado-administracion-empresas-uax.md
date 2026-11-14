@@ -103,7 +103,7 @@ modificado según BOE-A-2023-10040.
 
 > ¿Querés estudiar Administración de Empresas en Madrid con prácticas
 > garantizadas desde el primer año? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la elección de modalidad, la
+> **+34 624 191 389** y te ayudamos con la elección de modalidad, la
 > homologación de estudios y el visado de estudiante.
 
 ---

@@ -9,7 +9,7 @@ Estudia en Madrid es una agencia que conecta a estudiantes latinoamericanos
 con universidades privadas de Madrid (y algún programa fuera de Madrid,
 como Criminalística en Málaga). Gestiona elección de programa, visado de
 estudiante, becas/descuentos y trámites administrativos. Contacto:
-WhatsApp +34 677 055 769. No hay dirección física publicada.
+WhatsApp +34 624 191 389. No hay dirección física publicada.
 
 **Importante:** el sitio actual (`estudiaenmadrid.com`) tiene un bug de
 contenido conocido: 14 páginas indexadas muestran el contenido completo de
@@ -92,7 +92,7 @@ fuente: "{de dónde salió la info: WebSearch + sitio de la universidad / estudi
 (3-5 bullets con diferenciales, si hay info suficiente para no ser genérico)
 
 ## Llamada a la acción
-> Párrafo estándar invitando a escribir por WhatsApp al +34 677 055 769,
+> Párrafo estándar invitando a escribir por WhatsApp al +34 624 191 389,
 > adaptado al programa.
 
 ---

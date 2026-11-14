@@ -85,7 +85,7 @@ Según la propia UAX, los perfiles profesionales más demandados incluyen:
 ## Llamada a la acción
 
 > ¿Querés especializarte en Inteligencia Artificial desde el primer año?
-> Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos con la
+> Escribinos por WhatsApp al **+34 624 191 389** y te ayudamos con la
 > admisión, el visado de estudiante y toda la gestión para estudiar en
 > Madrid.
 

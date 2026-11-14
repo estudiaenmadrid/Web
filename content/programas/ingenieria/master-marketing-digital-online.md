@@ -91,7 +91,7 @@ completa de la universidad.
 
 > ¿Querés especializarte en Marketing Digital sin dejar de trabajar
 > mientras gestionás tu llegada a España? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y la financiación.
 
 ---

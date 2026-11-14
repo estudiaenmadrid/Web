@@ -227,7 +227,7 @@ o se sustituyen por actividad equivalente.
 
 > ¿Querés especializarte en odontología digital con tecnología de última
 > generación y prácticas reales desde el primer cuatrimestre? Escribinos por
-> WhatsApp al **+34 677 055 769** y te ayudamos con toda la gestión: admisión,
+> WhatsApp al **+34 624 191 389** y te ayudamos con toda la gestión: admisión,
 > visado de estudiante y financiación.
 
 ---

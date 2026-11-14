@@ -89,7 +89,7 @@ digitalización) y metodologías como Design Thinking y Scrum.
 ## Llamada a la acción
 
 > ¿Te interesa combinar ingeniería y salud? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y toda la gestión para estudiar Ingeniería Biomédica en Madrid.
 
 ---

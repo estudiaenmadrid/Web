@@ -93,7 +93,7 @@ universidad.)*
 
 > ¿Te interesa entender cómo aprende el cerebro para aplicarlo en el aula
 > o en tu práctica profesional? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y la gestión de la matrícula.
 
 ---

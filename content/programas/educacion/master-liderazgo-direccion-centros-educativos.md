@@ -95,7 +95,7 @@ universidad.)*
 ## Llamada a la acción
 
 > ¿Te interesa formarte para liderar y dirigir un centro educativo?
-> Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos con la
+> Escribinos por WhatsApp al **+34 624 191 389** y te ayudamos con la
 > admisión, el visado de estudiante y la gestión de la matrícula.
 
 ---

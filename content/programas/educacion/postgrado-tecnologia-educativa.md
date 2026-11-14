@@ -114,7 +114,7 @@ cuatrimestre y ECTS con las herramientas de esta sesión.)*
 ## Llamada a la acción
 
 > ¿Querés liderar la transformación digital en el aula con un título
-> oficial reconocido? Escribinos por WhatsApp al **+34 677 055 769** y te
+> oficial reconocido? Escribinos por WhatsApp al **+34 624 191 389** y te
 > ayudamos con la admisión, el visado de estudiante y la gestión de la
 > matrícula.
 

@@ -90,7 +90,7 @@ año) a partir de los resultados de búsqueda disponibles.*
 
 > ¿Te interesa la investigación biomédica y querés formarte en un programa
 > con mucha práctica de laboratorio desde el primer año? Escribinos por
-> WhatsApp al **+34 677 055 769** y te ayudamos con la admisión, el visado
+> WhatsApp al **+34 624 191 389** y te ayudamos con la admisión, el visado
 > de estudiante y toda la gestión desde tu país.
 
 ---

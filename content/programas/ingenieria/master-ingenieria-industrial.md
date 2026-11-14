@@ -109,7 +109,7 @@ como:
 
 > ¿Querés convertirte en Ingeniero Industrial habilitado para ejercer en
 > España y la Unión Europea? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y toda la gestión para venir a estudiar a Madrid.
 
 ---

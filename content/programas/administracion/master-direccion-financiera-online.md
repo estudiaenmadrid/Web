@@ -100,7 +100,7 @@ asignaturas con su carga de ECTS individual.
 ## Llamada a la acción
 
 > ¿Querés liderar la estrategia financiera de una empresa con un máster
-> 100% online? Escribinos por WhatsApp al **+34 677 055 769** y te
+> 100% online? Escribinos por WhatsApp al **+34 624 191 389** y te
 > ayudamos con la admisión, el visado de estudiante y la organización de
 > las prácticas.
 

@@ -94,7 +94,7 @@ completa de la universidad.
 
 > ¿Te interesa especializarte en Ciberseguridad en Málaga, con prácticas
 > en empresas de referencia del sector? Escribinos por WhatsApp al
-> **+34 677 055 769** — te contamos con detalle qué implica estudiar fuera
+> **+34 624 191 389** — te contamos con detalle qué implica estudiar fuera
 > de Madrid (alojamiento, traslado, visado) y te acompañamos en todo el
 > proceso.
 

@@ -73,7 +73,7 @@ El plan de estudios combina las materias troncales de cualquier grado en Derecho
 
 ## Llamada a la acción
 
-> ¿Querés estudiar Derecho en Madrid con una formación práctica desde el primer día? Escribinos por WhatsApp al **+34 677 055 769** y te acompañamos en todo el proceso: elección de modalidad, visado de estudiante y gestión de la matrícula.
+> ¿Querés estudiar Derecho en Madrid con una formación práctica desde el primer día? Escribinos por WhatsApp al **+34 624 191 389** y te acompañamos en todo el proceso: elección de modalidad, visado de estudiante y gestión de la matrícula.
 
 ---
 *Nota interna (no publicar): universidad identificada por WebSearch (nebrija.com/carreras-universitarias/grado-derecho/ y educaweb.com) — no se pudo hacer WebFetch directo por la restricción de esta sesión, así que los datos surgen de snippets indexados. Confirmado: 240 ECTS, 4 años, campus Madrid-Princesa (C/ Santa Cruz de Marcenado, 27), modalidades presencial/semipresencial/online, prácticas en Garrigués/Écija/Ramón y Cajal. Un snippet mencionó un precio de referencia (~9.990 €/año para modalidad presencial) que NO se incluyó en la ficha porque el precio real gestionado por convenio con Estudia en Madrid puede ser distinto — confirmar con el cliente antes de publicar cualquier cifra de precio. También falta confirmar: (1) si el catálogo de Estudia en Madrid ya tenía una página propia para este programa o si es una ficha nueva, (2) requisitos de admisión específicos para estudiantes latinoamericanos (convalidación de bachillerato), (3) si el Grado en Derecho es el mismo que da acceso directo al itinerario de dobles grados listado más abajo (Doble Grado en Derecho y ADE), lo cual parece coherente pero no se confirmó con fuente oficial cruzada.*

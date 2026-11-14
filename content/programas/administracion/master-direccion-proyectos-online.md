@@ -93,7 +93,7 @@ asignaturas con su carga de ECTS individual.
 
 > ¿Querés especializarte en dirección de proyectos con un máster 100%
 > online y proyección hacia la certificación PMP®? Escribinos por WhatsApp
-> al **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> al **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y la matrícula.
 
 ---

@@ -93,7 +93,7 @@ Según fuentes de la propia universidad, el programa incluye materias como:
 ## Llamada a la acción
 
 > ¿Buscás dar el salto a un rol de dirección con un MBA 100% online?
-> Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos con la
+> Escribinos por WhatsApp al **+34 624 191 389** y te ayudamos con la
 > admisión, la homologación de estudios y el visado de estudiante.
 
 ---

@@ -99,7 +99,7 @@ completa.
 
 > ¿Querés especializarte en Inteligencia Artificial sin dejar de trabajar
 > ni moverte de tu país mientras arrancás? Escribinos por WhatsApp al
-> **+34 677 055 769** y te asesoramos sobre admisión, visado de estudiante
+> **+34 624 191 389** y te asesoramos sobre admisión, visado de estudiante
 > (si aplicás también a un programa presencial) y financiación.
 
 ---

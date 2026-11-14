@@ -115,7 +115,7 @@ su campus virtual, que no fue accesible por el bloqueo de egress.)*
 
 > ¿Te apasiona la música y querés estudiarla desde una perspectiva
 > académica, sin dejar tu país mientras arrancás? Escribinos por WhatsApp
-> al **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> al **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y toda la gestión.
 
 ---

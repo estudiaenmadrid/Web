@@ -81,7 +81,7 @@ por bloque a partir de los resultados de búsqueda disponibles.*
 
 > ¿Querés dar el salto a la dirección y gestión sanitaria con una
 > especialización en transformación digital? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y toda la gestión desde tu país.
 
 ---

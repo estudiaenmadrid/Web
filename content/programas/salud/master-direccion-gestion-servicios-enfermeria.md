@@ -77,7 +77,7 @@ por bloque a partir de los resultados de búsqueda disponibles.*
 ## Llamada a la acción
 
 > ¿Sos enfermero/a y querés dar el salto a puestos de dirección o gestión
-> de equipos? Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos
+> de equipos? Escribinos por WhatsApp al **+34 624 191 389** y te ayudamos
 > con la admisión, el visado de estudiante y toda la gestión desde tu país.
 
 ---

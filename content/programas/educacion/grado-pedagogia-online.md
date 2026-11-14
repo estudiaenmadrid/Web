@@ -126,7 +126,7 @@ universidad; los snippets no alcanzan para armar la tabla completa.)*
 
 > ¿Te interesa formarte en Pedagogía para trabajar en el diseño y la
 > gestión de procesos educativos, sin mudarte a Madrid desde el día uno?
-> Escribinos por WhatsApp al **+34 677 055 769** y te acompañamos con la
+> Escribinos por WhatsApp al **+34 624 191 389** y te acompañamos con la
 > admisión, el visado de estudiante y la gestión de la matrícula.
 
 ---

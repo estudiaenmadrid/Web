@@ -91,7 +91,7 @@ universidad.)*
 
 > ¿Te interesa formarte en Educación Emocional y sumar herramientas para
 > trabajar el bienestar socioemocional en el aula? Escribinos por
-> WhatsApp al **+34 677 055 769** y te ayudamos con la admisión, el visado
+> WhatsApp al **+34 624 191 389** y te ayudamos con la admisión, el visado
 > de estudiante y la gestión de la matrícula.
 
 ---

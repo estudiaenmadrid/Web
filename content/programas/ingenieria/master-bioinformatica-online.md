@@ -92,7 +92,7 @@ Bioquímica, Medicina, Farmacia, Ingeniería Biomédica, Informática o afines
 
 > ¿Te interesa la bioinformática y querés dar el salto a investigación o
 > industria biomédica en España? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y la financiación.
 
 ---

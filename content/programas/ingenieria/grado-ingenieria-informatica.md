@@ -99,7 +99,7 @@ egresados incluyen:
 ## Llamada a la acción
 
 > ¿Querés estudiar Ingeniería Informática en Madrid? Escribinos por
-> WhatsApp al **+34 677 055 769** y te ayudamos con la admisión, el visado
+> WhatsApp al **+34 624 191 389** y te ayudamos con la admisión, el visado
 > de estudiante y toda la gestión para venir a estudiar desde Latinoamérica.
 
 ---

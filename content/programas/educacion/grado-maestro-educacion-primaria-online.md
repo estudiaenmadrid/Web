@@ -109,7 +109,7 @@ esta sesión; queda pendiente de verificar.)*
 
 > ¿Querés formarte como maestro/a de Educación Primaria con un título
 > oficial español, sin dejar tu país mientras empezás? Escribinos por
-> WhatsApp al **+34 677 055 769** y te ayudamos con la admisión, el visado
+> WhatsApp al **+34 624 191 389** y te ayudamos con la admisión, el visado
 > de estudiante y toda la gestión.
 
 ---

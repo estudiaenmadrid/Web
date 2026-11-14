@@ -90,7 +90,7 @@ metodología exactas — ver nota interna.
 
 > ¿Querés especializarte en Big Data sin dejar de trabajar mientras
 > gestionás tu mudanza a España? Escribinos por WhatsApp al
-> **+34 677 055 769** y te acompañamos en la admisión, el visado de
+> **+34 624 191 389** y te acompañamos en la admisión, el visado de
 > estudiante y la financiación.
 
 ---

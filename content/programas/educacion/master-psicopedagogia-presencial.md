@@ -87,7 +87,7 @@ liste sería especulativo.
 ## Llamada a la acción
 
 > ¿Te interesa un Máster en Psicopedagogía en modalidad presencial en
-> Madrid? Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos a
+> Madrid? Escribinos por WhatsApp al **+34 624 191 389** y te ayudamos a
 > confirmar la oferta vigente, la admisión y el visado de estudiante.
 
 ---

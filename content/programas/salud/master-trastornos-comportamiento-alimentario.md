@@ -88,7 +88,7 @@ Dirigido a graduados/licenciados en:
 
 > ¿Querés especializarte en el abordaje de los trastornos de la conducta
 > alimentaria con formación clínica real? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y toda la gestión desde tu país.
 
 ---

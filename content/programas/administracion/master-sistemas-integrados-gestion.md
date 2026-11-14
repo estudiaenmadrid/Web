@@ -99,7 +99,7 @@ asignaturas con su carga de ECTS individual.
 
 > ¿Querés especializarte en sistemas integrados de gestión con
 > certificaciones profesionales incluidas? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y la matrícula.
 
 ---

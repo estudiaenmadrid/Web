@@ -96,7 +96,7 @@ de publicar una tabla exhaustiva.*
 ## Llamada a la acción
 
 > ¿Querés estudiar Psicología en una universidad española sin dejar tu
-> trabajo ni tu vida actual? Escribinos por WhatsApp al **+34 677 055 769**
+> trabajo ni tu vida actual? Escribinos por WhatsApp al **+34 624 191 389**
 > y te ayudamos con la admisión, la convalidación de estudios previos y todo
 > el proceso de gestión desde tu país.
 

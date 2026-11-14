@@ -88,7 +88,7 @@ completa de la universidad.
 
 > ¿Querés especializarte en Prevención de Riesgos Laborales con
 > certificación adicional en ISO 45001? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y la financiación.
 
 ---

@@ -98,7 +98,7 @@ podrían no corresponder al programa real.
 ## Llamada a la acción
 
 > ¿Te interesa un Máster en Inteligencia Artificial en Madrid? Escribinos
-> por WhatsApp al **+34 677 055 769** y te ayudamos a encontrar el programa
+> por WhatsApp al **+34 624 191 389** y te ayudamos a encontrar el programa
 > que mejor se adapte a tu perfil — presencial u online — y te acompañamos
 > con la admisión y el visado de estudiante.
 

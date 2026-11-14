@@ -105,7 +105,7 @@ SQL, Python), modelos predictivos y machine learning.
 ## Llamada a la acción
 
 > ¿Querés liderar decisiones de negocio basadas en datos? Escribinos por
-> WhatsApp al **+34 677 055 769** y te ayudamos con la admisión, el visado
+> WhatsApp al **+34 624 191 389** y te ayudamos con la admisión, el visado
 > de estudiante y la elección de modalidad.
 
 ---

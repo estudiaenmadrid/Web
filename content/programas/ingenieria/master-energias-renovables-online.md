@@ -97,7 +97,7 @@ suele requerir una titulación previa en ingeniería o ciencias afines.
 
 > ¿Querés especializarte en energías renovables y sumarte al sector de la
 > transición energética en España? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y la financiación.
 
 ---

@@ -86,7 +86,7 @@ universidad.*
 ## Llamada a la acción
 
 > ¿Querés combinar deporte y fisioterapia en una sola carrera y salir con
-> dos títulos? Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos
+> dos títulos? Escribinos por WhatsApp al **+34 624 191 389** y te ayudamos
 > con la admisión, el visado de estudiante y toda la gestión desde tu país.
 
 ---

@@ -94,7 +94,7 @@ cuatrimestre con las herramientas de esta sesión.)*
 
 > ¿Querés especializarte en Psicopedagogía y trabajar en orientación
 > educativa con un título oficial? Escribinos por WhatsApp al
-> **+34 677 055 769** y te ayudamos con la admisión, el visado de
+> **+34 624 191 389** y te ayudamos con la admisión, el visado de
 > estudiante y la gestión de la matrícula.
 
 ---

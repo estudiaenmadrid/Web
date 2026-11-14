@@ -72,7 +72,7 @@ Es un perfil de especialización muy específico dentro del Derecho, orientado t
 
 ## Llamada a la acción
 
-> ¿Te interesa especializarte en Derecho Internacional Humanitario y Derechos Humanos en Madrid? Escribinos por WhatsApp al **+34 677 055 769** y te acompañamos con la admisión, el visado de estudiante y la gestión de la matrícula.
+> ¿Te interesa especializarte en Derecho Internacional Humanitario y Derechos Humanos en Madrid? Escribinos por WhatsApp al **+34 624 191 389** y te acompañamos con la admisión, el visado de estudiante y la gestión de la matrícula.
 
 ---
 *Nota interna (no publicar): universidad identificada por WebSearch (nebrija.com/programas-postgrado/master/derecho-internacional/ y dondeestudiar.eu). No se localizó snippet de estudiaenmadrid.com con contenido específico de este programa — no se pudo verificar si el catálogo actual del sitio tiene o no una página propia, ni si sufre el bug de "Energías Renovables". El listado de asignaturas del segundo semestre está incompleto porque los snippets de búsqueda no lo detallaron completo — falta confirmar el temario completo con el cliente o con fuente directa de la universidad. También falta confirmar: precio, requisito formal exacto de titulación de acceso (los snippets sugieren perfil abierto a Derecho, Relaciones Internacionales y Ciencias Políticas, pero no lo especifican como excluyente), y si existe salida laboral facilitada por convenios de la universidad con organismos internacionales o si es un dato genérico del sector.*

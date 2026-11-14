@@ -156,7 +156,7 @@ Al finalizar el máster podrás trabajar como:
 
 > ¿Querés especializarte como Perito Judicial en Criminalística e
 > Investigación Forense en Madrid? Escribinos por WhatsApp al
-> **+34 677 055 769** y te acompañamos en todo el proceso: admisión, visado
+> **+34 624 191 389** y te acompañamos en todo el proceso: admisión, visado
 > de estudiante y gestión de la matrícula.
 
 ---

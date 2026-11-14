@@ -70,7 +70,7 @@ Nebrija integra en el plan de estudios competencias transversales como tecnolog�
 
 ## Llamada a la acción
 
-> ¿Te interesa combinar Derecho y Administración de Empresas en un solo programa en Madrid? Escribinos por WhatsApp al **+34 677 055 769** y te ayudamos con la elección de programa, el visado de estudiante y la matrícula.
+> ¿Te interesa combinar Derecho y Administración de Empresas en un solo programa en Madrid? Escribinos por WhatsApp al **+34 624 191 389** y te ayudamos con la elección de programa, el visado de estudiante y la matrícula.
 
 ---
 *Nota interna (no publicar): universidad identificada por WebSearch (nebrija.com/carreras-universitarias/doble-grado/derecho-ade/ y educaweb.com/curso/doble-grado-derecho-c-ade-administracion-direccion-empresas-madrid-348525/). Confirmado: 5 años de duración, modalidad presencial, campus Madrid. **No se encontró la cifra exacta de ECTS totales del doble grado** en ningún snippet indexado — dejar pendiente de confirmar con la universidad o el cliente antes de publicar. Tampoco se localizó snippet de estudiaenmadrid.com específico para este programa (solo resultados genéricos de la categoría Derecho y de ADE + Relaciones Internacionales), por lo que no se pudo verificar si el contenido actual del sitio sufre el bug de "Energías Renovables" en esta página en particular — revisar manualmente la URL real del sitio cuando se pueda hacer WebFetch. Falta confirmar con el cliente: precio, fecha límite de inscripción y si existe convenio de becas específico para este doble grado.*
