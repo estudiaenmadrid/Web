@@ -234,6 +234,37 @@ cada una) que hay que confirmar con fuente oficial antes de publicar —
 sobre todo el límite de horas de trabajo (20h vs. 30h semanales) y la
 duración de la autorización de búsqueda de empleo (12 vs. 24 meses).
 
+### Nuevo pilar por país: Colombia (2026-11-17)
+
+| Página | Tipo | Archivo |
+|---|---|---|
+| Soy colombiano y quiero estudiar en España | Pilar | `guias/soy-colombiano-y-quiero-estudiar-en-espana.md` |
+
+**Por qué este país**: según estadísticas oficiales citadas por medios
+especializados (curso 2024-25), **Colombia es el país de origen con más
+estudiantes en universidades españolas de toda Latinoamérica (34.275)** —
+más que Venezuela. Hoy el sitio no tiene contenido propio para este
+público, así que es la oportunidad de mayor volumen potencial que se
+identificó en esta sesión. Reutiliza los spokes ya escritos (visado,
+homologación, trabajar con visado, etc. — son genéricos para
+latinoamericanos, no específicos de un país) y linkea a ellos.
+**Pendiente**: hacer el mismo pilar para Ecuador y Perú (también tienen
+SERP con bastante contenido de competidores, investigado pero no
+redactado todavía).
+
+### Nuevas comparativas (pilar "Comparativas/Decisión" del handoff original, §5.4)
+
+| Página | Archivo |
+|---|---|
+| Universidad pública vs. privada en España (para latinoamericanos) | `guias/universidad-publica-vs-privada-en-espana-latinoamericanos.md` |
+| Grado vs. Máster en España: cuál conviene | `guias/grado-vs-master-en-espana-cual-conviene.md` |
+
+Estas dos usan cifras de costo **genéricas y de fuentes dispersas** (ver
+nota interna de cada archivo) — reemplazarlas por precios reales de los
+programas del catálogo de Estudia en Madrid en cuanto estén confirmados
+mejoraría mucho la posición en buscadores frente a la competencia (que
+también usa cifras genéricas).
+
 ⚠️ **Hallazgo durante la investigación de estas guías:** la página en vivo
 `estudiaenmadrid.com/universidades/udit` dice "convenio con Estudia" — en
 este caso coincide con lo que el cliente confirmó (UDIT sí es socia), así
