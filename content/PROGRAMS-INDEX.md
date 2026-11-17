@@ -1,29 +1,36 @@
 # Índice maestro de programas — Estudia en Madrid
 
 > Catálogo de programas (Grado / Doble Grado / Máster / Postgrado) según
-> el handoff del rastreo del sitio (`HANDOFF_eMM.md`), agrupado en 5
-> categorías: Administración, Derecho, Ingeniería, Salud y Educación.
+> el handoff del rastreo del sitio (`HANDOFF_eMM.md`), agrupado en 6
+> categorías: Administración, Derecho, Ingeniería, Salud, Tecnología y
+> Educación.
 >
 > Estado: 🟢 redactado y confiable · 🟠 redactado pero universidad pendiente
 > de confirmar (no publicar) · ⚪ pendiente (esperando info del cliente)
 >
-> **Última actualización: 2026-09-03.**
+> **Última actualización: 2026-11-17.**
 >
-> ⚠️ **Confirmado por el cliente — Estudia en Madrid SOLO ofrece los grados
-> y másteres de las universidades con las que tiene convenio real.** Esto
-> implicó dos correcciones importantes:
-> 1. **Se eliminó la categoría "Tecnología" por completo** (7 fichas: Diseño
->    Audiovisual e Ilustración, Diseño Multimedia y Gráfico, Diseño de
->    Interiores, Diseño y Desarrollo de Videojuegos, Big Data y Business
->    Analytics, UX y Diseño de Productos Digitales, Marketing Deportivo
->    Online). Se habían redactado mayormente sobre universidades (UDIT,
->    U-tad) con las que la agencia no trabaja.
-> 2. **Se eliminaron los 3 programas de Técnico/Técnico Superior (FP)** de
->    Salud — tampoco son parte del catálogo real de la agencia.
-> 3. **UDIT y U-tad NO son universidades socias** — cualquier ficha que las
->    mencione como universidad está mal atribuida.
-> 4. **"Grado en ADE" y "Grado en Administración de Empresas" son el mismo
->    programa** (UAX) — se fusionaron en una sola ficha.
+> ⚠️ **Historial de idas y vueltas sobre universidades socias — leer antes
+> de tocar nada de UDIT/U-tad:**
+> 1. El cliente confirmó que **"Grado en ADE" y "Grado en Administración
+>    de Empresas" son el mismo programa** (UAX) — se fusionaron en una
+>    sola ficha.
+> 2. El cliente confirmó que **"Grado en Diseño de Producto" (U-tad) y
+>    "Grado en Diseño Industrial" (UAX) son el mismo grado** — el título
+>    oficial de la UAX ya combina ambos nombres. Se fusionaron.
+> 3. El cliente dijo que **ya no trabajan con U-tad** → se corrigieron las
+>    fichas que la mencionaban.
+> 4. El cliente dijo después que **tampoco trabajan con UDIT** → se
+>    eliminó por completo la categoría Tecnología y se marcó "Grado en
+>    Animación" como pendiente.
+> 5. **El cliente corrigió esto último: SÍ trabajan con UDIT.** Solo
+>    U-tad queda confirmado como NO socia. Se restauró la categoría
+>    Tecnología (7 fichas) y "Grado en Animación" vuelve a atribuirse a
+>    UDIT.
+>
+> **Estado actual: UDIT = socia confirmada. U-tad = NO es socia.** Si en
+> algún momento esto se vuelve a corregir, buscar `UDIT` y `U-tad` en todo
+> `content/` antes de asumir nada.
 
 ## ⚠️ Decisiones pendientes para el cliente (leer antes de publicar)
 
@@ -50,11 +57,9 @@
    Producto" — un solo grado. Se eliminó `ingenieria/grado-diseno-producto.md`
    (que estaba mal atribuido a U-tad); queda una sola ficha en
    `ingenieria/grado-diseno-industrial.md`.
-6. **"Grado en Animación"** (Ingeniería) — quedó sin universidad
-   confirmada tras descartar UDIT y U-tad. **Falta que el cliente diga con
-   qué universidad de Madrid lo dictan realmente**, o si este programa no
-   forma parte del catálogo (como pasó con toda la categoría Tecnología) y
-   conviene eliminarlo también.
+6. ~~**"Grado en Animación" — universidad sin confirmar**~~ —
+   **RESUELTO: el cliente confirmó que sí trabajan con UDIT.** La ficha
+   vuelve a atribuirse a UDIT (`ingenieria/grado-animacion.md`).
 7. **"Máster en Psicopedagogía" presencial vs. online** (Educación) — no
    hay evidencia de que UAX ofrezca versión presencial (su único máster de
    esta área es 100% online). Podría ser: (a) un duplicado/error de
@@ -70,11 +75,18 @@
 9. **Robótica (UCJC)** (Ingeniería) — universidad nueva, fuera del patrón
    habitual del catálogo (UAX, CEU San Pablo, Nebrija). Confirmar que
    Estudia en Madrid realmente tiene convenio con UCJC.
-10. **Varios programas sin página indexada en el sitio actual**: Grado en
+10. **"Máster Oficial en Big Data y Business Analytics"** (Tecnología) —
+    probable solapamiento con "Máster Universitario en Big Data Online"
+    (Ingeniería, UAX) y "Máster en Business Analytics" (Administración,
+    Nebrija) — estos dos últimos SÍ están confirmados como reales y
+    distintos entre sí. El de Tecnología sigue sin universidad confirmada
+    — ver nota interna del archivo, tiene 3 candidatos posibles.
+11. **Varios programas sin página indexada en el sitio actual**: Grado en
     Fisioterapia, Grado en CAFYD (ambos standalone), Máster en Dirección y
     Gestión Sanitaria eHealth, Grado en Robótica, Grado en Diseño
-    Industrial. Confirmar si ya existen en el sitio (no indexadas) o si
-    son contenido enteramente nuevo a publicar.
+    Industrial, y toda la categoría Tecnología. Confirmar si ya existen en
+    el sitio (no indexadas) o si son contenido enteramente nuevo a
+    publicar.
 
 **Ningún precio de programa está confirmado** salvo Odontología Digital
 (dato directo del cliente). Fechas de inicio exactas y planes de estudio
@@ -109,7 +121,7 @@ detalle de qué falta específicamente.
 | Máster en Derecho Internacional Humanitario | Universidad Nebrija | `derecho/master-derecho-internacional-humanitario.md` |
 | Máster en Sostenibilidad y Compliance | CEU San Pablo — título propio, no oficial | `derecho/master-sostenibilidad-compliance.md` |
 
-## Ingeniería (19/20 🟢 · 1 🟠 — se fusionó Diseño de Producto/Industrial)
+## Ingeniería (20/20 🟢 — se fusionó Diseño de Producto/Industrial)
 
 | Programa | Universidad | Archivo |
 |---|---|---|
@@ -123,7 +135,7 @@ detalle de qué falta específicamente.
 | Grado en Inteligencia Artificial | UAX | `ingenieria/grado-inteligencia-artificial.md` |
 | Grado en Robótica | UCJC (confirmar convenio, ver #9) | `ingenieria/grado-robotica.md` |
 | Grado en Diseño Industrial y Desarrollo de Producto | UAX (fusionado con "Diseño de Producto", ver #5) | `ingenieria/grado-diseno-industrial.md` |
-| **Grado en Animación** | 🟠 **Pendiente de confirmar (ni UDIT ni U-tad, ver #6)** | `ingenieria/grado-animacion.md` |
+| Grado en Animación | UDIT (confirmado, ver #6) | `ingenieria/grado-animacion.md` |
 | Máster en Ingeniería Industrial | UAX | `ingenieria/master-ingenieria-industrial.md` |
 | Máster Universitario en Inteligencia Artificial Online | UAX | `ingenieria/master-inteligencia-artificial-online.md` |
 | Máster en Inteligencia Artificial (presencial) | Pendiente de confirmar — probable duplicado (ver #2) | `ingenieria/master-inteligencia-artificial.md` |
@@ -139,15 +151,27 @@ detalle de qué falta específicamente.
 | Programa | Universidad | Archivo |
 |---|---|---|
 | Grado en Psicología | UAX | `salud/grado-psicologia.md` |
-| Grado en Fisioterapia | UAX (sin página indexada, ver #10) | `salud/grado-fisioterapia.md` |
+| Grado en Fisioterapia | UAX (sin página indexada, ver #11) | `salud/grado-fisioterapia.md` |
 | Grado en Biomedicina | UAX | `salud/grado-biomedicina.md` |
-| Grado en Ciencias de la Actividad Física y del Deporte | UAX (sin página indexada, ver #10) | `salud/grado-ciencias-actividad-fisica-deporte.md` |
+| Grado en Ciencias de la Actividad Física y del Deporte | UAX (sin página indexada, ver #11) | `salud/grado-ciencias-actividad-fisica-deporte.md` |
 | Doble Grado en Deporte y Fisioterapia | UAX | `salud/doble-grado-deporte-fisioterapia.md` |
 | Doble Grado en Deporte y Nutrición | UAX | `salud/doble-grado-deporte-nutricion.md` |
 | Máster en Trastornos del Comportamiento Alimentario | UAX | `salud/master-trastornos-comportamiento-alimentario.md` |
-| Máster en Dirección y Gestión Sanitaria (eHealth) | UAX (sin página indexada, ver #10) | `salud/master-direccion-gestion-sanitaria-ehealth.md` |
+| Máster en Dirección y Gestión Sanitaria (eHealth) | UAX (sin página indexada, ver #11) | `salud/master-direccion-gestion-sanitaria-ehealth.md` |
 | Máster en Dirección y Gestión de Servicios de Enfermería | UAX | `salud/master-direccion-gestion-servicios-enfermeria.md` |
 | Máster en Odontología Digital | UAX | `salud/master-odontologia-digital.md` |
+
+## Tecnología (6/7 🟢 · 1 sin universidad confirmada — RESTAURADA, ver aviso arriba)
+
+| Programa | Universidad | Archivo |
+|---|---|---|
+| Grado en Diseño Audiovisual e Ilustración | UDIT | `tecnologia/grado-diseno-audiovisual-ilustracion.md` |
+| Grado en Diseño Multimedia y Gráfico | UDIT | `tecnologia/grado-diseno-multimedia-grafico.md` |
+| Grado en Diseño de Interiores | UDIT | `tecnologia/grado-diseno-interiores.md` |
+| Grado en Diseño y Desarrollo de Videojuegos | UDIT (confirmar nombre exacto del título) | `tecnologia/grado-diseno-desarrollo-videojuegos.md` |
+| Máster Oficial en Big Data y Business Analytics | Sin confirmar — ver #10, hallazgo crítico | `tecnologia/master-big-data-business-analytics.md` |
+| Máster Universitario en UX y Diseño de Productos Digitales | UDIT | `tecnologia/master-ux-diseno-productos-digitales.md` |
+| Máster Universitario en Marketing Deportivo Online | Universidad Europea (Escuela Real Madrid) | `tecnologia/master-marketing-deportivo-online.md` |
 
 ## Educación (12/12 🟢, incluye el que vivía sin categoría)
 
@@ -168,8 +192,6 @@ detalle de qué falta específicamente.
 
 ## Excluidos del catálogo (no son parte de la oferta real de la agencia)
 
-- **Categoría "Tecnología" completa** (7 programas) — ver aviso al
-  principio de este documento.
 - **Programas de Técnico / Técnico Superior (FP)** de Salud — la agencia
   no trabaja con formación profesional, solo con grados y másteres
   universitarios.
@@ -178,6 +200,7 @@ detalle de qué falta específicamente.
   Comunicación Empresarial e Institucional**, **Especialista en Logística
   Integral** — nivel "Especialista", fuera del alcance definido desde el
   handoff original.
+- **Cualquier programa real de U-tad** — confirmado que no son socios.
 
 ## Programas fuera del catálogo original del sitio
 
@@ -187,3 +210,27 @@ detalle de qué falta específicamente.
   confirmó que tiene **tres versiones** (presencial, online y
   semipresencial) y va a mandar la información — sigue pendiente de
   recibirla.
+
+## Guías de trámites (pilar SEO, nuevo — 2026-11-17)
+
+Carpeta `content/guias/`, enfocadas en long-tail queries de estudiantes
+latinoamericanos (sobre todo venezolanos, el público mayoritario de la
+agencia). Ver nota interna de cada archivo para fuentes y datos
+pendientes de verificar oficialmente.
+
+| Página | Tipo | Archivo |
+|---|---|---|
+| Soy venezolano y quiero estudiar en España | Pilar | `guias/soy-venezolano-y-quiero-estudiar-en-espana.md` |
+| Visado de estudiante España-Venezuela | Spoke | `guias/visado-estudiante-espana-venezuela.md` |
+| Homologar el bachillerato venezolano en España | Spoke | `guias/homologar-bachillerato-venezolano-espana.md` |
+
+**Pendientes de escribir** (mencionados como enlaces internos en el pilar,
+todavía no redactados): trabajar con visado de estudiante, qué hacer si
+deniegan la visa, becas para venezolanos, quedarse a trabajar en España
+tras estudiar.
+
+⚠️ **Hallazgo durante la investigación de estas guías:** la página en vivo
+`estudiaenmadrid.com/universidades/udit` dice "convenio con Estudia" — en
+este caso coincide con lo que el cliente confirmó (UDIT sí es socia), así
+que no es un error, a diferencia de lo que se pensó en un momento de esta
+sesión.
