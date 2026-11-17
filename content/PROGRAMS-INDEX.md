@@ -223,11 +223,16 @@ pendientes de verificar oficialmente.
 | Soy venezolano y quiero estudiar en España | Pilar | `guias/soy-venezolano-y-quiero-estudiar-en-espana.md` |
 | Visado de estudiante España-Venezuela | Spoke | `guias/visado-estudiante-espana-venezuela.md` |
 | Homologar el bachillerato venezolano en España | Spoke | `guias/homologar-bachillerato-venezolano-espana.md` |
+| Trabajar con visado de estudiante en España | Spoke | `guias/trabajar-con-visado-de-estudiante-en-espana.md` |
+| Qué hacer si deniegan la visa de estudiante | Spoke | `guias/que-hacer-si-deniegan-visa-estudiante-espana.md` |
+| Becas y descuentos para venezolanos | Spoke | `guias/becas-venezolanos-estudiar-en-espana.md` |
+| Quedarte a trabajar en España después de estudiar | Spoke | `guias/quedarte-a-trabajar-en-espana-despues-de-estudiar.md` |
 
-**Pendientes de escribir** (mencionados como enlaces internos en el pilar,
-todavía no redactados): trabajar con visado de estudiante, qué hacer si
-deniegan la visa, becas para venezolanos, quedarse a trabajar en España
-tras estudiar.
+**Las 6 guías spoke que menciona el pilar ya están todas redactadas.**
+Varias tienen cifras con fuentes contradictorias (ver nota interna de
+cada una) que hay que confirmar con fuente oficial antes de publicar —
+sobre todo el límite de horas de trabajo (20h vs. 30h semanales) y la
+duración de la autorización de búsqueda de empleo (12 vs. 24 meses).
 
 ⚠️ **Hallazgo durante la investigación de estas guías:** la página en vivo
 `estudiaenmadrid.com/universidades/udit` dice "convenio con Estudia" — en
